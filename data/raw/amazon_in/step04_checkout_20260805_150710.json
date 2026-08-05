@@ -1,0 +1,468 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.amazon.in/checkout/p/p-404-5702936-3313921/pay?pipelineType=Chewbacca&referrer=pay",
+  "timestamp": "20260805_150710",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": ".in",
+      "tag": "A",
+      "x": 12,
+      "y": 5,
+      "width": 129.72500610351562,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Secure checkout",
+      "tag": "A",
+      "x": 548.0250244140625,
+      "y": 10,
+      "width": 227.6750030517578,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 1185,
+      "y": 5,
+      "width": 84,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Create a Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wish from Any Website",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Discover Your Style",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Explore Showroom",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Switch Accounts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign Out",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Keep shopping for",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Recommendations",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Membership",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Video",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Subscribe & Save Items",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Memberships & Subscriptions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Seller Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Content Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Music Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Register for a free Business Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 885.375,
+      "y": 94.9000015258789,
+      "width": 355.82501220703125,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Marketplace Fee:",
+      "tag": "A",
+      "x": 884.5750122070312,
+      "y": 206.6999969482422,
+      "width": 91.36250305175781,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Click here",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Delivering to Rohin Hegde\n\nE-401, Kanakia Paris Sales Office, F Block, Bkc, Band",
+      "tag": "A",
+      "x": 38.23749923706055,
+      "y": 94.0999984741211,
+      "width": 511.8625183105469,
+      "height": 68,
+      "visible": true
+    },
+    {
+      "text": "Add delivery instructions",
+      "tag": "A",
+      "x": 38.23749923706055,
+      "y": 174.90000915527344,
+      "width": 157.58750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Change",
+      "tag": "A",
+      "x": 770.5125122070312,
+      "y": 94.9000015258789,
+      "width": 47.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 373.76251220703125,
+      "y": 370.8999938964844,
+      "width": 58.6875,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Add a new credit or debit card",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add a new credit or debit card",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Why?",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Why?",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 38.79999923706055,
+      "y": 885.9500122070312,
+      "width": 185.52500915527344,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "help pages",
+      "tag": "A",
+      "x": 158.875,
+      "y": 1072.75,
+      "width": 59,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "contact us 24x7",
+      "tag": "A",
+      "x": 235.60000610351562,
+      "y": 1072.75,
+      "width": 85.7874984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Return Policy",
+      "tag": "A",
+      "x": 128.5749969482422,
+      "y": 1168.75,
+      "width": 71.4375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Back to cart",
+      "tag": "A",
+      "x": 38,
+      "y": 1192.75,
+      "width": 64.6624984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back to top",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 1276.8499755859375,
+      "width": 1280,
+      "height": 89,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 544.1000366210938,
+      "y": 1397.8499755859375,
+      "width": 76,
+      "height": 42.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Help",
+      "tag": "A",
+      "x": 696,
+      "y": 1404.6500244140625,
+      "width": 39.900001525878906,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Conditions of Use & Sale",
+      "tag": "A",
+      "x": 471.07501220703125,
+      "y": 1464.6500244140625,
+      "width": 148.46250915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Privacy Notice",
+      "tag": "A",
+      "x": 619.5375366210938,
+      "y": 1464.6500244140625,
+      "width": 91.375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Interest-Based Ads",
+      "tag": "A",
+      "x": 710.9125366210938,
+      "y": 1464.6500244140625,
+      "width": 116.01250457763672,
+      "height": 15.199999809265137,
+      "visible": true
+    }
+  ]
+}

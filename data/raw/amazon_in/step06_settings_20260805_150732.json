@@ -1,0 +1,1746 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://www.amazon.in/gp/css/homepage.html?ref_=nav_youraccount_btn",
+  "timestamp": "20260805_150732",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Main content",
+      "tag": "A",
+      "x": -9968,
+      "y": 54.79999923706055,
+      "width": 87.57500457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Search\nalt\n+\n/",
+      "tag": "A",
+      "x": -9966,
+      "y": 133,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Cart\nshift\n+\nalt\n+\nC",
+      "tag": "A",
+      "x": -9966,
+      "y": 178,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Home\nshift\n+\nalt\n+\nH",
+      "tag": "A",
+      "x": -9966,
+      "y": 223,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Orders\nshift\n+\nalt\n+\nO",
+      "tag": "A",
+      "x": -9966,
+      "y": 268,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Show/Hide shortcuts\nshift\n+\nalt\n+\nZ",
+      "tag": "BUTTON",
+      "x": -9966,
+      "y": 313,
+      "width": 350.8125,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": ".in",
+      "tag": "A",
+      "x": 12,
+      "y": 5,
+      "width": 129.72500610351562,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Deliver to Rohin\nMumbai 400051‌",
+      "tag": "A",
+      "x": 142.72500610351562,
+      "y": 5,
+      "width": 142.60000610351562,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 827.9500122070312,
+      "y": 10,
+      "width": 45,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "EN",
+      "tag": "A",
+      "x": 891.9500122070312,
+      "y": 6,
+      "width": 45.375,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 939.3250122070312,
+      "y": 36,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Hello, Rohin\nAccount & Lists",
+      "tag": "A",
+      "x": 957.3250122070312,
+      "y": 5,
+      "width": 113.5250015258789,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1071.8499755859375,
+      "y": 36.5,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Returns\n& Orders",
+      "tag": "A",
+      "x": 1090.8499755859375,
+      "y": 5,
+      "width": 76.95000457763672,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "1\nCart",
+      "tag": "A",
+      "x": 1169.800048828125,
+      "y": 5,
+      "width": 84,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Manage Profiles",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rohin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Create a Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wish from Any Website",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Discover Your Style",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Explore Showroom",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Switch Accounts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign Out",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Keep shopping for",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Recommendations",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Membership",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Video",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Subscribe & Save Items",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Memberships & Subscriptions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Seller Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Content Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Music Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Register for a free Business Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "English - EN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "हिन्दी - HI",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "தமிழ் - TA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "తెలుగు - TE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ಕನ್ನಡ - KN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "മലയാളം - ML",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "বাংলা - BN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "मराठी - MR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Change country/region",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "English - EN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "हिन्दी - HI",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "தமிழ் - TA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "తెలుగు - TE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ಕನ್ನಡ - KN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "മലയാളം - ML",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "বাংলা - BN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "मराठी - MR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Change country/region",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All",
+      "tag": "A",
+      "x": 11,
+      "y": 60,
+      "width": 58.41250228881836,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "Rufus",
+      "tag": "BUTTON",
+      "x": 76.4124984741211,
+      "y": 68,
+      "width": 71.38750457763672,
+      "height": 23,
+      "visible": true
+    },
+    {
+      "text": "Fresh",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 65,
+      "width": 43.900001525878906,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 203.6999969482422,
+      "y": 78,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Prime Video",
+      "tag": "A",
+      "x": 221.6999969482422,
+      "y": 65,
+      "width": 87.0875015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Sell",
+      "tag": "A",
+      "x": 318.7875061035156,
+      "y": 65,
+      "width": 33.375,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Gift Cards",
+      "tag": "A",
+      "x": 362.1625061035156,
+      "y": 65,
+      "width": 72.98750305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay",
+      "tag": "A",
+      "x": 445.1499938964844,
+      "y": 65,
+      "width": 87.9749984741211,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Buy Again",
+      "tag": "A",
+      "x": 543.125,
+      "y": 65,
+      "width": 73.57500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Coupons",
+      "tag": "A",
+      "x": 626.7000122070312,
+      "y": 65,
+      "width": 65.36250305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Today's Deals",
+      "tag": "A",
+      "x": 702.0625,
+      "y": 65,
+      "width": 94.8125,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Gift Ideas",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 104,
+      "width": 70.7125015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Amazon Business",
+      "tag": "A",
+      "x": 240.5124969482422,
+      "y": 104,
+      "width": 119.4000015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 359.9125061035156,
+      "y": 117,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Health, Household & Personal Care",
+      "tag": "A",
+      "x": 377.9125061035156,
+      "y": 104,
+      "width": 232.15000915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "AmazonBasics",
+      "tag": "A",
+      "x": 620.0625,
+      "y": 104,
+      "width": 99.82500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Books",
+      "tag": "A",
+      "x": 729.8875122070312,
+      "y": 104,
+      "width": 48.23749923706055,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Home Improvement",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 143,
+      "width": 137.40000915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Browsing History",
+      "tag": "A",
+      "x": 307.20001220703125,
+      "y": 143,
+      "width": 118.05000305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 425.25,
+      "y": 156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Customer Service",
+      "tag": "A",
+      "x": 443.25,
+      "y": 143,
+      "width": 120.3375015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 573.5875244140625,
+      "y": 143,
+      "width": 77.51250457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Fashion",
+      "tag": "A",
+      "x": 661.1000366210938,
+      "y": 143,
+      "width": 58.57500076293945,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Rohin's Amazon.in",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 182,
+      "width": 125.80000305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "New Releases",
+      "tag": "A",
+      "x": 295.6000061035156,
+      "y": 182,
+      "width": 95.9625015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Prime",
+      "tag": "A",
+      "x": 401.5625,
+      "y": 182,
+      "width": 47.10000228881836,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 448.6625061035156,
+      "y": 195,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 182,
+      "width": 113.5875015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Computers",
+      "tag": "A",
+      "x": 590.25,
+      "y": 182,
+      "width": 79.5,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Grocery & Gourmet Foods",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 221,
+      "width": 174.71250915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 344.51251220703125,
+      "y": 221,
+      "width": 78.7125015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Mobiles",
+      "tag": "A",
+      "x": 433.2250061035156,
+      "y": 221,
+      "width": 59.1875,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Toys & Games",
+      "tag": "A",
+      "x": 502.4125061035156,
+      "y": 221,
+      "width": 99.0625,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Sports, Fitness & Outdoors",
+      "tag": "A",
+      "x": 611.4750366210938,
+      "y": 221,
+      "width": 180.2624969482422,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Subscribe & Save",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 260,
+      "width": 118.4749984741211,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Baby",
+      "tag": "A",
+      "x": 288.2749938964844,
+      "y": 260,
+      "width": 41.23749923706055,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Beauty & Personal Care",
+      "tag": "A",
+      "x": 339.51251220703125,
+      "y": 260,
+      "width": 158.4250030517578,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Pet Supplies",
+      "tag": "A",
+      "x": 507.9375,
+      "y": 260,
+      "width": 88.32500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 864.7999877929688,
+      "y": 60,
+      "width": 400,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 260,
+      "y": 341.6000061035156,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 252,
+      "y": 372,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 292,
+      "y": 341.6000061035156,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Load more",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Resume response",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue to site",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue to site",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 7,
+      "y": 99,
+      "width": 17.600000381469727,
+      "height": 15.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Your Orders\nTrack, return, or buy things again",
+      "tag": "A",
+      "x": 132.40000915527344,
+      "y": 161,
+      "width": 320,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Login & security\nEdit login, name, and mobile number",
+      "tag": "A",
+      "x": 472.3999938964844,
+      "y": 161,
+      "width": 320,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Prime\nView benefits and payment settings",
+      "tag": "A",
+      "x": 812.4000244140625,
+      "y": 161,
+      "width": 320,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Your Addresses\nEdit addresses for orders and gifts",
+      "tag": "A",
+      "x": 132.40000915527344,
+      "y": 282.6000061035156,
+      "width": 320,
+      "height": 141.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Your business account\nSign up for free to save up to 18% with GST invoice and bu",
+      "tag": "A",
+      "x": 472.3999938964844,
+      "y": 282.6000061035156,
+      "width": 320,
+      "height": 141.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Payment options\nEdit or add payment methods",
+      "tag": "A",
+      "x": 812.4000244140625,
+      "y": 282.6000061035156,
+      "width": 320,
+      "height": 141.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay balance\nAdd money to your balance",
+      "tag": "A",
+      "x": 132.40000915527344,
+      "y": 444.20001220703125,
+      "width": 320,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Contact Us\nContact our customer service via phone or chat",
+      "tag": "A",
+      "x": 472.3999938964844,
+      "y": 444.20001220703125,
+      "width": 320,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Apps and more",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 666.4000244140625,
+      "width": 95.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Content Library",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 690.4000244140625,
+      "width": 99.51250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Devices",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 714.4000244140625,
+      "width": 47.47500228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Digital gifts you've received",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 738.4000244140625,
+      "width": 174.08750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Digital and device forum",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 762.4000244140625,
+      "width": 155.6750030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Advertising preferences",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 666.4000244140625,
+      "width": 149.5500030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Communication preferences",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 690.4000244140625,
+      "width": 178.08750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SMS alert preferences",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 714.4000244140625,
+      "width": 138.66250610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Message Centre",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 738.4000244140625,
+      "width": 99.82500457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Alexa shopping notifications",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 762.4000244140625,
+      "width": 179.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Default Purchase Settings",
+      "tag": "A",
+      "x": 831.2000122070312,
+      "y": 666.4000244140625,
+      "width": 163.6750030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay",
+      "tag": "A",
+      "x": 831.2000122070312,
+      "y": 690.4000244140625,
+      "width": 77.9749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Coupons",
+      "tag": "A",
+      "x": 831.2000122070312,
+      "y": 714.4000244140625,
+      "width": 55.36249923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Leave packaging feedback",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 908,
+      "width": 166.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lists",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 932,
+      "width": 28.375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Manage saved IDs",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 956,
+      "width": 113.0999984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Your Shopping preferences",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 980,
+      "width": 171.0749969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Your Content",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 1004,
+      "width": 83.9625015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Language settings",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 1028,
+      "width": 115.98750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 1052,
+      "width": 210.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Account Linking",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 876,
+      "width": 101.20000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Seller account",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 900,
+      "width": 89.30000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Web Services",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 924,
+      "width": 138.90000915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Manage Your Amazon Family",
+      "tag": "A",
+      "x": 831.2000122070312,
+      "y": 876,
+      "width": 183.66250610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Subscribe & Save",
+      "tag": "A",
+      "x": 831.2000122070312,
+      "y": 900,
+      "width": 108.4749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shop the Kids' Store by age",
+      "tag": "A",
+      "x": 831.2000122070312,
+      "y": 924,
+      "width": 173.4250030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Email",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 1165.5999755859375,
+      "width": 35.29999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Memberships & Subscriptions",
+      "tag": "A",
+      "x": 151.1999969482422,
+      "y": 1189.5999755859375,
+      "width": 187.625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Request your data",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 1165.5999755859375,
+      "width": 115.07500457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Data Access and Requests",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 1189.5999755859375,
+      "width": 162.5124969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Manage apps and services with data access",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 1213.5999755859375,
+      "width": 271.4125061035156,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Close Your Amazon Account",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 1237.5999755859375,
+      "width": 177,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Notice",
+      "tag": "A",
+      "x": 491.20001220703125,
+      "y": 1261.5999755859375,
+      "width": 89.80000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "View or edit your browsing history",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back to top",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 1367.5999755859375,
+      "width": 1264.800048828125,
+      "height": 89,
+      "visible": true
+    },
+    {
+      "text": "About Amazon",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 1509.4000244140625,
+      "width": 94.2249984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 1536.2000732421875,
+      "width": 47.04999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Press Releases",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 1563,
+      "width": 90.7874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Science",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 1589.800048828125,
+      "width": 102.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 374.6875,
+      "y": 1509.4000244140625,
+      "width": 59.91250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Twitter",
+      "tag": "A",
+      "x": 374.6875,
+      "y": 1536.2000732421875,
+      "width": 45.375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 374.6875,
+      "y": 1563,
+      "width": 64.13750457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sell on Amazon",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1492.5999755859375,
+      "width": 98.80000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sell under Amazon Accelerator",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1519.4000244140625,
+      "width": 119.625,
+      "height": 34.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Protect and Build Your Brand",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1563,
+      "width": 184.0749969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Global Selling",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1589.800048828125,
+      "width": 143.8249969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Supply to Amazon",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1616.5999755859375,
+      "width": 116.2874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Become an Affiliate",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1643.4000244140625,
+      "width": 123.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fulfilment by Amazon",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1670.2000732421875,
+      "width": 139.9250030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Advertise Your Products",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1697,
+      "width": 151.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay on Merchants",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 1723.800048828125,
+      "width": 167.6125030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Your Account",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 1492.5999755859375,
+      "width": 83.8499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Returns Centre",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 1519.4000244140625,
+      "width": 94.42500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 1546.2000732421875,
+      "width": 169.1374969482422,
+      "height": 34.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "100% Purchase Protection",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 1589.800048828125,
+      "width": 168.41250610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon App Download",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 1616.5999755859375,
+      "width": 149.03750610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Help",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 1643.4000244140625,
+      "width": 29.73750114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 433.9125061035156,
+      "y": 1824.2000732421875,
+      "width": 76,
+      "height": 42.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "English",
+      "tag": "A",
+      "x": 606.2625122070312,
+      "y": 1827,
+      "width": 88.9625015258789,
+      "height": 20.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 707.6375122070312,
+      "y": 1830.7000732421875,
+      "width": 12,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "A",
+      "x": 736.5875244140625,
+      "y": 1820.2000732421875,
+      "width": 90.30000305175781,
+      "height": 33.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "AbeBooks\nBooks, art\n& collectibles",
+      "tag": "A",
+      "x": 141.40000915527344,
+      "y": 1930.2000732421875,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Web Services\nScalable Cloud\nComputing Services",
+      "tag": "A",
+      "x": 331.3999938964844,
+      "y": 1930.2000732421875,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Audible\nDownload\nAudio Books",
+      "tag": "A",
+      "x": 521.4000244140625,
+      "y": 1930.2000732421875,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "IMDb\nMovies, TV\n& Celebrities",
+      "tag": "A",
+      "x": 711.4000244140625,
+      "y": 1930.2000732421875,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Shopbop\nDesigner\nFashion Brands",
+      "tag": "A",
+      "x": 141.40000915527344,
+      "y": 1985.5999755859375,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Business\nEverything For\nYour Business",
+      "tag": "A",
+      "x": 331.3999938964844,
+      "y": 1985.5999755859375,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Music\nStream millions of songs",
+      "tag": "A",
+      "x": 521.4000244140625,
+      "y": 1985.5999755859375,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Conditions of Use & Sale",
+      "tag": "A",
+      "x": 463.4750061035156,
+      "y": 2066.800048828125,
+      "width": 148.46250915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Privacy Notice",
+      "tag": "A",
+      "x": 611.9375,
+      "y": 2066.800048828125,
+      "width": 91.375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Interest-Based Ads",
+      "tag": "A",
+      "x": 703.3125,
+      "y": 2066.800048828125,
+      "width": 116.01250457763672,
+      "height": 15.199999809265137,
+      "visible": true
+    }
+  ]
+}

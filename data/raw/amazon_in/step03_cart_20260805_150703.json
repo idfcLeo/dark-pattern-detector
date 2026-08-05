@@ -1,0 +1,3222 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.amazon.in/cart?ref_=ox_ewc_ret_gtc_dsk_in",
+  "timestamp": "20260805_150703",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Main content",
+      "tag": "A",
+      "x": -9968,
+      "y": 54.79999923706055,
+      "width": 87.57500457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Your Amazon Cart",
+      "tag": "A",
+      "x": -9968,
+      "y": 78.80000305175781,
+      "width": 119.05000305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Saved for Later",
+      "tag": "A",
+      "x": -9968,
+      "y": 102.80000305175781,
+      "width": 100.42500305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Buy it Again",
+      "tag": "A",
+      "x": -9968,
+      "y": 126.80000305175781,
+      "width": 80.17500305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Search\nalt\n+\n/",
+      "tag": "A",
+      "x": -9966,
+      "y": 205,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Cart\nshift\n+\nalt\n+\nC",
+      "tag": "A",
+      "x": -9966,
+      "y": 250,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Home\nshift\n+\nalt\n+\nH",
+      "tag": "A",
+      "x": -9966,
+      "y": 295,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Orders\nshift\n+\nalt\n+\nO",
+      "tag": "A",
+      "x": -9966,
+      "y": 340,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Show/Hide shortcuts\nshift\n+\nalt\n+\nZ",
+      "tag": "BUTTON",
+      "x": -9966,
+      "y": 385,
+      "width": 350.8125,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": ".in",
+      "tag": "A",
+      "x": 12,
+      "y": 5,
+      "width": 129.72500610351562,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Deliver to Rohin\nMumbai 400051‌",
+      "tag": "A",
+      "x": 142.72500610351562,
+      "y": 5,
+      "width": 142.60000610351562,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 843.1500244140625,
+      "y": 10,
+      "width": 45,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "EN",
+      "tag": "A",
+      "x": 907.1500244140625,
+      "y": 6,
+      "width": 45.375,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 954.5250244140625,
+      "y": 36,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Hello, Rohin\nAccount & Lists",
+      "tag": "A",
+      "x": 972.5250244140625,
+      "y": 5,
+      "width": 113.5250015258789,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1087.050048828125,
+      "y": 36.5,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Returns\n& Orders",
+      "tag": "A",
+      "x": 1106.050048828125,
+      "y": 5,
+      "width": 76.95000457763672,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "1\nCart",
+      "tag": "A",
+      "x": 1185,
+      "y": 5,
+      "width": 84,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Create a Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wish from Any Website",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Discover Your Style",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Explore Showroom",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Switch Accounts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign Out",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Keep shopping for",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Recommendations",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Membership",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Video",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Subscribe & Save Items",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Memberships & Subscriptions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Seller Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Content Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Music Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Register for a free Business Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All",
+      "tag": "A",
+      "x": 11,
+      "y": 60,
+      "width": 58.41250228881836,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "Rufus",
+      "tag": "BUTTON",
+      "x": 76.4124984741211,
+      "y": 68,
+      "width": 71.38750457763672,
+      "height": 23,
+      "visible": true
+    },
+    {
+      "text": "Fresh",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 65,
+      "width": 43.900001525878906,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 203.6999969482422,
+      "y": 78,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Prime Video",
+      "tag": "A",
+      "x": 221.6999969482422,
+      "y": 65,
+      "width": 87.0875015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Sell",
+      "tag": "A",
+      "x": 318.7875061035156,
+      "y": 65,
+      "width": 33.375,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Gift Cards",
+      "tag": "A",
+      "x": 362.1625061035156,
+      "y": 65,
+      "width": 72.98750305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay",
+      "tag": "A",
+      "x": 445.1499938964844,
+      "y": 65,
+      "width": 87.9749984741211,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Buy Again",
+      "tag": "A",
+      "x": 543.125,
+      "y": 65,
+      "width": 73.57500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Coupons",
+      "tag": "A",
+      "x": 626.7000122070312,
+      "y": 65,
+      "width": 65.36250305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Today's Deals",
+      "tag": "A",
+      "x": 702.0625,
+      "y": 65,
+      "width": 94.8125,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Gift Ideas",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 104,
+      "width": 70.7125015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Amazon Business",
+      "tag": "A",
+      "x": 240.5124969482422,
+      "y": 104,
+      "width": 119.4000015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 359.9125061035156,
+      "y": 117,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Health, Household & Personal Care",
+      "tag": "A",
+      "x": 377.9125061035156,
+      "y": 104,
+      "width": 232.15000915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "AmazonBasics",
+      "tag": "A",
+      "x": 620.0625,
+      "y": 104,
+      "width": 99.82500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Books",
+      "tag": "A",
+      "x": 729.8875122070312,
+      "y": 104,
+      "width": 48.23749923706055,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Home Improvement",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 143,
+      "width": 137.40000915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Browsing History",
+      "tag": "A",
+      "x": 307.20001220703125,
+      "y": 143,
+      "width": 118.05000305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 425.25,
+      "y": 156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Customer Service",
+      "tag": "A",
+      "x": 443.25,
+      "y": 143,
+      "width": 120.3375015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 573.5875244140625,
+      "y": 143,
+      "width": 77.51250457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Fashion",
+      "tag": "A",
+      "x": 661.1000366210938,
+      "y": 143,
+      "width": 58.57500076293945,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Rohin's Amazon.in",
+      "tag": "A",
+      "x": 729.6749877929688,
+      "y": 143,
+      "width": 125.80000305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "New Releases",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 182,
+      "width": 95.9625015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Prime",
+      "tag": "A",
+      "x": 265.76251220703125,
+      "y": 182,
+      "width": 47.10000228881836,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 312.8625183105469,
+      "y": 195,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen",
+      "tag": "A",
+      "x": 330.8625183105469,
+      "y": 182,
+      "width": 113.5875015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Computers",
+      "tag": "A",
+      "x": 454.45001220703125,
+      "y": 182,
+      "width": 79.5,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Grocery & Gourmet Foods",
+      "tag": "A",
+      "x": 543.9500122070312,
+      "y": 182,
+      "width": 174.71250915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 728.6625366210938,
+      "y": 182,
+      "width": 78.7125015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Mobiles",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 221,
+      "width": 59.1875,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Toys & Games",
+      "tag": "A",
+      "x": 228.9875030517578,
+      "y": 221,
+      "width": 99.0625,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Sports, Fitness & Outdoors",
+      "tag": "A",
+      "x": 338.0500183105469,
+      "y": 221,
+      "width": 180.2624969482422,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Subscribe & Save",
+      "tag": "A",
+      "x": 528.3125,
+      "y": 221,
+      "width": 118.4749984741211,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Baby",
+      "tag": "A",
+      "x": 656.7875366210938,
+      "y": 221,
+      "width": 41.23749923706055,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Beauty & Personal Care",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": 260,
+      "width": 158.4250030517578,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Pet Supplies",
+      "tag": "A",
+      "x": 328.2250061035156,
+      "y": 260,
+      "width": 88.32500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 880,
+      "y": 60,
+      "width": 400,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 260,
+      "y": 341.6000061035156,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 252,
+      "y": 372,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 292,
+      "y": 341.6000061035156,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Load more",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Resume response",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue to site",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue to site",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 7,
+      "y": 99,
+      "width": 17.600000381469727,
+      "height": 15.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "FREE Delivery",
+      "tag": "A",
+      "x": 1052.9375,
+      "y": 187.1999969482422,
+      "width": 74.7125015258789,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 982.7999877929688,
+      "y": 293.8000183105469,
+      "width": 258.3999938964844,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "EMI Available",
+      "tag": "A",
+      "x": 984.7999877929688,
+      "y": 346.3999938964844,
+      "width": 254.40000915527344,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 580.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "Spigen EZ Fit Tempered Glass Screen Protector Guard For iPhone 17 Pro Max / 16 P",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 580.4000244140625,
+      "width": 154.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.3 out of 5 stars\n 126,518",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 599.7999877929688,
+      "width": 127.9749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-48%",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 622.3500366210938,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹1,499.00\n₹1,499\n.\n00",
+      "tag": "A",
+      "x": 1139.0374755859375,
+      "y": 622.3500366210938,
+      "width": 64.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "(₹749.50/count)",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 645.2000122070312,
+      "width": 88.4124984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹2,899.00",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 664.4000244140625,
+      "width": 154.40000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1089.5999755859375,
+      "y": 725.2000122070312,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 776.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "Spigen AlignMaster S Tempered Glass Screen Protector Guard for iPhone 17 Pro Max",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 776.4000244140625,
+      "width": 154.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.3 out of 5 stars\n 66,469",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 795.7999877929688,
+      "width": 120.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-50%",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 818.3500366210938,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹998.99\n₹998\n.\n99",
+      "tag": "A",
+      "x": 1139.0374755859375,
+      "y": 818.3500366210938,
+      "width": 49.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "(₹333.00/count)",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 841.2000122070312,
+      "width": 88.4124984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹1,999.00",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 860.4000244140625,
+      "width": 154.40000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1089.5999755859375,
+      "y": 921.2000122070312,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 972.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "TheGiftKart Ultra-Hybrid Crystal Clear Back Case Cover for iPhone 17 Pro Max | S",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 972.4000244140625,
+      "width": 154.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars\n 19,842",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 991.7999877929688,
+      "width": 120.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-70%",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1014.3500366210938,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹299.00\n₹299\n.\n00",
+      "tag": "A",
+      "x": 1139.0374755859375,
+      "y": 1014.3500366210938,
+      "width": 49.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹999.00",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1036.4000244140625,
+      "width": 154.40000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1089.5999755859375,
+      "y": 1117.2000732421875,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 1168.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "Apple 20W USB-C Power Adapter (for iPhone, iPad & AirPods)",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1168.4000244140625,
+      "width": 154.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.5 out of 5 stars\n 11,800",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1187.800048828125,
+      "width": 120.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-5%",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1210.3499755859375,
+      "width": 39.6875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹1,799.00\n₹1,799\n.\n00",
+      "tag": "A",
+      "x": 1128.487548828125,
+      "y": 1210.3499755859375,
+      "width": 64.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹1,900.00",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1232.4000244140625,
+      "width": 154.40000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1089.5999755859375,
+      "y": 1293.2000732421875,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 1344.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "JETech Magnetic Matte Case Cover for iPhone 17 Pro Max, Orange | Compatible with",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1344.4000244140625,
+      "width": 154.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.4 out of 5 stars\n 3,978",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1363.800048828125,
+      "width": 113.9124984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-26%",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1386.3499755859375,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹1,399.00\n₹1,399\n.\n00",
+      "tag": "A",
+      "x": 1139.0374755859375,
+      "y": 1386.3499755859375,
+      "width": 64.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹1,899.00",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1408.4000244140625,
+      "width": 154.40000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1089.5999755859375,
+      "y": 1469.2000732421875,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 1520.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "ESR for iPhone 17 Pro Max Case Flex Stand, for MagSafe, Frosted Blue | Camera Co",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1520.4000244140625,
+      "width": 154.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.4 out of 5 stars\n 216",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1539.800048828125,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-17%",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1562.3499755859375,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹2,399.00\n₹2,399\n.\n00",
+      "tag": "A",
+      "x": 1139.0374755859375,
+      "y": 1562.3499755859375,
+      "width": 64.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹2,899.00",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1584.4000244140625,
+      "width": 154.40000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1089.5999755859375,
+      "y": 1665.2000732421875,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 1716.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "DailyObjects Stride Clear 2.0 Magnetic Case Cover Compatible with iPhone 17 Pro ",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1716.4000244140625,
+      "width": 154.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "3.8 out of 5 stars\n 128",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1735.800048828125,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-52%",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1758.3499755859375,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹998.00\n₹998\n.\n00",
+      "tag": "A",
+      "x": 1139.0374755859375,
+      "y": 1758.3499755859375,
+      "width": 49.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹2,099.00",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1780.4000244140625,
+      "width": 154.40000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1089.5999755859375,
+      "y": 1841.2000732421875,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 980.7999877929688,
+      "y": 1892.4000244140625,
+      "width": 108,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "Apple 30W USB-C Power Adapter ​​​​​​​",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1892.4000244140625,
+      "width": 154.40000915527344,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "4.4 out of 5 stars\n 363",
+      "tag": "A",
+      "x": 1088.800048828125,
+      "y": 1931.800048828125,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "See all buying options",
+      "tag": "A",
+      "x": 1089.5999755859375,
+      "y": 1957.2000732421875,
+      "width": 142.25,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 38,
+      "y": 149,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Deselect all items",
+      "tag": "A",
+      "x": 38,
+      "y": 189.8000030517578,
+      "width": 111.4625015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Display with Pro...\n            ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Display with Pro...\n        \n   ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Display with Pro...\n        \n   ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Display with Pro...\n        \n   ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 85,
+      "y": 257.8000183105469,
+      "width": 180,
+      "height": 180,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Display with Promotion, A19 Pro ",
+      "tag": "A",
+      "x": 283,
+      "y": 257.8000183105469,
+      "width": 498,
+      "height": 46.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Shop items",
+      "tag": "A",
+      "x": 860.9874877929688,
+      "y": 326.6000061035156,
+      "width": 61.01250076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "This is a gift\n Learn more",
+      "tag": "A",
+      "x": 399.95001220703125,
+      "y": 368.5625,
+      "width": 65.1624984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 285.3999938964844,
+      "y": 463.6000061035156,
+      "width": 32,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 352.6000061035156,
+      "y": 463.6000061035156,
+      "width": 32,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Update",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 406.8500061035156,
+      "y": 469.07501220703125,
+      "width": 35.35000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 462.0500183105469,
+      "y": 469.07501220703125,
+      "width": 72.70000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 554.6000366210938,
+      "y": 469.07501220703125,
+      "width": 96.11250305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Share",
+      "tag": "A",
+      "x": 670.5625,
+      "y": 469.07501220703125,
+      "width": 30.92500114440918,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "No items saved for later",
+      "tag": "A",
+      "x": 38,
+      "y": 645.4000244140625,
+      "width": 186.4875030517578,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Buy it again",
+      "tag": "A",
+      "x": 224.4875030517578,
+      "y": 645.4000244140625,
+      "width": 113.0374984741211,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See full details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See more categories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 328.25,
+      "y": 2174.10009765625,
+      "width": 93.0250015258789,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 43,
+      "y": 2289.300048828125,
+      "width": 35.60000228881836,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "POPIO Military-Grade Gorilla Tempered Glass For iPhone 17 Pro Max | 9H Hardness,",
+      "tag": "A",
+      "x": 106,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 106.80000305175781,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "ESR for iPhone 17 Pro Max/17 Pro Camera Lens Protector, 1 Pack, Clear | for iPho",
+      "tag": "A",
+      "x": 272,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 272.8000183105469,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Supershieldz Tempered Glass For iPhone 17 Pro Max / 16 Pro Max | 2 Pack, 6.9 inc",
+      "tag": "A",
+      "x": 438,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 438.8000183105469,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "EGOTUDE for iPhone 17 Pro Max Case | Matte Frosted Hard Back Translucent Cover C",
+      "tag": "A",
+      "x": 604,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 604.7999877929688,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "POPIO Military-Grade Privacy Screen Protector for iPhone 17 Pro Max – 9H Tempere",
+      "tag": "A",
+      "x": 770,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 770.7999877929688,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Sounce Earphone Cleaning Pen for Airpods, 4-in-1 Soft Brush Cleaning kit, Compat",
+      "tag": "A",
+      "x": 936,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 936.7999877929688,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Like Star 360° Degree Mobile Phone Holder with Universal 1/4 Screw Adjustable Cl",
+      "tag": "A",
+      "x": 1102,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1102.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "10 Pcs Mobile Ring Holder Phone Gripper Holders, Phone Holder for Hand | 5 Color",
+      "tag": "A",
+      "x": 1268,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1268.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Hodaqe Magnetic Quick Release Adapter Compatible with DJI Action Cameras | Magne",
+      "tag": "A",
+      "x": 1434,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1434.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "TecoKart 8 Pcs Suction Phone Case with 24 Small Suction Cups | Multipurpose Sili",
+      "tag": "A",
+      "x": 1600,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1600.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Farmley Date Bites I Dates Barfi Made with Dates, Pista, Cashews, Almonds, Honey",
+      "tag": "A",
+      "x": 1766,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1766.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Carbamide Forte Vitamin D Tablets | Vitamin D3 K2 Supplement to support Bone & H",
+      "tag": "A",
+      "x": 1932,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1932.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "The Stationery Shop Of Tehran\n 19769\n₹269.00",
+      "tag": "A",
+      "x": 2098,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 2098.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Gooyo GY-8635 Army Style Machine Toy Gun with Laser Lights & Sound Effects | Toy",
+      "tag": "A",
+      "x": 2264,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 2264.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Just Herbs Herb Enriched Matte Liquid Lipstick | Set of 5 | Liquid Lipstick for ",
+      "tag": "A",
+      "x": 2430,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 2430.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "LOUIS DEVIN Silicone Strap Analog Wrist Watch Combo for Women (Black/Blue/Brown/",
+      "tag": "A",
+      "x": 2596,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 2596.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Stag 1 Star Table Tennis Play Set (2 Bats and 3 Balls) Height 25 Centimeters Bea",
+      "tag": "A",
+      "x": 2762,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 2762.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "IN-IMAGINE 12 Pcs Self-Adhesive Shoe Fix Patches – Versatile Shoe Glue-Free Solu",
+      "tag": "A",
+      "x": 2928,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 2928.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "All Out Mosquito Kill Racquet | 2X Faster Charging* | Mosquito Bat | Racket to K",
+      "tag": "A",
+      "x": 3094,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 3094.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Daawat Rozana Super Basmati Rice 5Kg| For Everyday Consumption| Cooked Grain Upt",
+      "tag": "A",
+      "x": 3260,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 3260.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "I Cannot Say Goodbye to You: An unforgettable romance novel by one of India’s mo",
+      "tag": "A",
+      "x": 3426,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 3426.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Drools All Life Stages Dog Treat Biscuits 800g Jar | Real Chicken Flavour | All ",
+      "tag": "A",
+      "x": 3592,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 3592.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Intex wet set collection 86cmx 25cm (1-3) years\n 36192\n₹329.00",
+      "tag": "A",
+      "x": 3758,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 3758.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Supervek Sling Bag For Man – Travel Water Resistant Crossbody Mobile Sling Bag F",
+      "tag": "A",
+      "x": 3924,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 3924.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Acnos® Premium Brand - Analogue Men's Watch (Black Dial Multi Colored Strap) (1.",
+      "tag": "A",
+      "x": 4090,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 4090.800048828125,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "SPIKY Digital Sports Watch for Kids | Multifunctional with Luminous LED Display ",
+      "tag": "A",
+      "x": 4256,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 4256.80029296875,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Tobfit Straps for Amazfit Bip/Bip 3/Bip 3 Pro/Bip/Bip U/Bip U Pro Watch Strap, 2",
+      "tag": "A",
+      "x": 4422,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 4422.80029296875,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Homestrap Set of 6 Non-Woven Printed Saree Cover/Cloth Storage/Wardrobe Organize",
+      "tag": "A",
+      "x": 4588,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 4588.80029296875,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "MAXOSHINE Microfiber Towels for Bath Large Size-Super Soft Coral Fleece Bathing ",
+      "tag": "A",
+      "x": 4754,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 4754.80029296875,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Ella Multi Fold Tissue Paper | 1300 Sheets | Pack of 10 | Soft Absorbent 1 Ply |",
+      "tag": "A",
+      "x": 4920,
+      "y": 2213.300048828125,
+      "width": 140,
+      "height": 198,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 4920.80029296875,
+      "y": 2420.10009765625,
+      "width": 138.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1201.4000244140625,
+      "y": 2289.300048828125,
+      "width": 35.60000228881836,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1157,
+      "y": 2550.199951171875,
+      "width": 63,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1230,
+      "y": 2563.300048828125,
+      "width": 18,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Not interested in specific items",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Manage Recommendations",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 34,
+      "y": 2741.800048828125,
+      "width": 35.60000228881836,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 87,
+      "y": 2619.199951171875,
+      "width": 165,
+      "height": 165,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy S26 Ultra 5G (Black, 12GB RAM, 256GB Storage) with Built-in Priva",
+      "tag": "A",
+      "x": 87,
+      "y": 2788.199951171875,
+      "width": 165,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.6 out of 5 stars\n 163",
+      "tag": "A",
+      "x": 87,
+      "y": 2807.60009765625,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹1,39,999.00\n₹1,39,999\n.\n00",
+      "tag": "A",
+      "x": 87,
+      "y": 2830.150146484375,
+      "width": 89.8125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 87.80000305175781,
+      "y": 2897,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 268,
+      "y": 2619.199951171875,
+      "width": 165,
+      "height": 165,
+      "visible": true
+    },
+    {
+      "text": "OnePlus N6 | 4GB+128GB | Midnight Green | Segment's Biggest 8000mAh Battery | Se",
+      "tag": "A",
+      "x": 268,
+      "y": 2788.199951171875,
+      "width": 165,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "3.4 out of 5 stars\n 230",
+      "tag": "A",
+      "x": 268,
+      "y": 2807.60009765625,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "#1 Best Seller",
+      "tag": "A",
+      "x": 350.70001220703125,
+      "y": 2828.199951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "-26%",
+      "tag": "A",
+      "x": 268,
+      "y": 2850.150146484375,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹22,999.00\n₹22,999\n.\n00",
+      "tag": "A",
+      "x": 318.2375183105469,
+      "y": 2850.150146484375,
+      "width": 74.80000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹30,999.00",
+      "tag": "A",
+      "x": 268,
+      "y": 2872.199951171875,
+      "width": 165,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 268.8000183105469,
+      "y": 2933,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 449,
+      "y": 2619.199951171875,
+      "width": 165,
+      "height": 165,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone Air 256 GB: Thinnest iPhone Ever, 16.63 cm (6.5″) Display with Prom",
+      "tag": "A",
+      "x": 449,
+      "y": 2788.199951171875,
+      "width": 165,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.6 out of 5 stars\n 321",
+      "tag": "A",
+      "x": 449,
+      "y": 2807.60009765625,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-15%",
+      "tag": "A",
+      "x": 449,
+      "y": 2830.150146484375,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹1,01,900.00\n₹1,01,900\n.\n00",
+      "tag": "A",
+      "x": 499.2375183105469,
+      "y": 2830.150146484375,
+      "width": 89.8125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹1,19,900.00",
+      "tag": "A",
+      "x": 449,
+      "y": 2852.199951171875,
+      "width": 165,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 449.8000183105469,
+      "y": 2913,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 630,
+      "y": 2619.199951171875,
+      "width": 165,
+      "height": 165,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy A56 5G (Awesome Midnight Blue, 8GB, 128GB) | Segment Most Complet",
+      "tag": "A",
+      "x": 630,
+      "y": 2788.199951171875,
+      "width": 165,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.2 out of 5 stars\n 241",
+      "tag": "A",
+      "x": 630,
+      "y": 2807.60009765625,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-30%",
+      "tag": "A",
+      "x": 630,
+      "y": 2830.150146484375,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹34,999.00\n₹34,999\n.\n00",
+      "tag": "A",
+      "x": 680.2374877929688,
+      "y": 2830.150146484375,
+      "width": 74.80000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹49,999.00",
+      "tag": "A",
+      "x": 630,
+      "y": 2852.199951171875,
+      "width": 165,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 630.7999877929688,
+      "y": 2913,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 811,
+      "y": 2619.199951171875,
+      "width": 165,
+      "height": 165,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone Air 256 GB: Thinnest iPhone Ever, 16.63 cm (6.5″) Display with Prom",
+      "tag": "A",
+      "x": 811,
+      "y": 2788.199951171875,
+      "width": 165,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.6 out of 5 stars\n 321",
+      "tag": "A",
+      "x": 811,
+      "y": 2807.60009765625,
+      "width": 103.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-15%",
+      "tag": "A",
+      "x": 811,
+      "y": 2830.150146484375,
+      "width": 50.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹1,01,900.00\n₹1,01,900\n.\n00",
+      "tag": "A",
+      "x": 861.2374877929688,
+      "y": 2830.150146484375,
+      "width": 89.8125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹1,19,900.00",
+      "tag": "A",
+      "x": 811,
+      "y": 2852.199951171875,
+      "width": 165,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 811.7999877929688,
+      "y": 2913,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 992,
+      "y": 2619.199951171875,
+      "width": 165,
+      "height": 165,
+      "visible": true
+    },
+    {
+      "text": "OnePlus 15R | 16GB+512GB | Mint Breeze | World's First Snapdragon® 8 Gen 5 | 740",
+      "tag": "A",
+      "x": 992,
+      "y": 2788.199951171875,
+      "width": 165,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "4.3 out of 5 stars\n 89",
+      "tag": "A",
+      "x": 992,
+      "y": 2807.60009765625,
+      "width": 96.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "-3%",
+      "tag": "A",
+      "x": 992,
+      "y": 2830.150146484375,
+      "width": 39.6875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹66,999.00\n₹66,999\n.\n00",
+      "tag": "A",
+      "x": 1031.6875,
+      "y": 2830.150146484375,
+      "width": 74.80000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "M.R.P: ₹68,999.00",
+      "tag": "A",
+      "x": 992,
+      "y": 2852.199951171875,
+      "width": 165,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 992.7999877929688,
+      "y": 2913,
+      "width": 82.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1210.4000244140625,
+      "y": 2741.800048828125,
+      "width": 35.60000228881836,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "View or edit your browsing history",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back to top",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 3027.199951171875,
+      "width": 1280,
+      "height": 89,
+      "visible": true
+    },
+    {
+      "text": "About Amazon",
+      "tag": "A",
+      "x": 150,
+      "y": 3169,
+      "width": 94.2249984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 150,
+      "y": 3195.800048828125,
+      "width": 47.04999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Press Releases",
+      "tag": "A",
+      "x": 150,
+      "y": 3222.60009765625,
+      "width": 90.7874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Science",
+      "tag": "A",
+      "x": 150,
+      "y": 3249.400146484375,
+      "width": 102.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 382.2875061035156,
+      "y": 3169,
+      "width": 59.91250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Twitter",
+      "tag": "A",
+      "x": 382.2875061035156,
+      "y": 3195.800048828125,
+      "width": 45.375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 382.2875061035156,
+      "y": 3222.60009765625,
+      "width": 64.13750457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sell on Amazon",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3152.199951171875,
+      "width": 98.80000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sell under Amazon Accelerator",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3179,
+      "width": 119.625,
+      "height": 34.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Protect and Build Your Brand",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3222.60009765625,
+      "width": 184.0749969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Global Selling",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3249.400146484375,
+      "width": 143.8249969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Supply to Amazon",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3276.199951171875,
+      "width": 116.2874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Become an Affiliate",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3303,
+      "width": 123.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fulfilment by Amazon",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3329.800048828125,
+      "width": 139.9250030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Advertise Your Products",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3356.60009765625,
+      "width": 151.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay on Merchants",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 3383.400146484375,
+      "width": 167.6125030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Your Account",
+      "tag": "A",
+      "x": 928.4500122070312,
+      "y": 3152.199951171875,
+      "width": 83.8499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Returns Centre",
+      "tag": "A",
+      "x": 928.4500122070312,
+      "y": 3179,
+      "width": 94.42500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 928.4500122070312,
+      "y": 3205.800048828125,
+      "width": 169.1374969482422,
+      "height": 34.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "100% Purchase Protection",
+      "tag": "A",
+      "x": 928.4500122070312,
+      "y": 3249.400146484375,
+      "width": 168.41250610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon App Download",
+      "tag": "A",
+      "x": 928.4500122070312,
+      "y": 3276.199951171875,
+      "width": 149.03750610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Help",
+      "tag": "A",
+      "x": 928.4500122070312,
+      "y": 3303,
+      "width": 29.73750114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 441.51251220703125,
+      "y": 3483.800048828125,
+      "width": 76,
+      "height": 42.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "English",
+      "tag": "A",
+      "x": 613.8624877929688,
+      "y": 3486.60009765625,
+      "width": 88.9625015258789,
+      "height": 20.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 715.2374877929688,
+      "y": 3490.300048828125,
+      "width": 12,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "A",
+      "x": 744.1875,
+      "y": 3479.800048828125,
+      "width": 90.30000305175781,
+      "height": 33.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "AbeBooks\nBooks, art\n& collectibles",
+      "tag": "A",
+      "x": 149,
+      "y": 3589.800048828125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Web Services\nScalable Cloud\nComputing Services",
+      "tag": "A",
+      "x": 339,
+      "y": 3589.800048828125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Audible\nDownload\nAudio Books",
+      "tag": "A",
+      "x": 529,
+      "y": 3589.800048828125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "IMDb\nMovies, TV\n& Celebrities",
+      "tag": "A",
+      "x": 719,
+      "y": 3589.800048828125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Shopbop\nDesigner\nFashion Brands",
+      "tag": "A",
+      "x": 149,
+      "y": 3645.199951171875,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Business\nEverything For\nYour Business",
+      "tag": "A",
+      "x": 339,
+      "y": 3645.199951171875,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Music\nStream millions of songs",
+      "tag": "A",
+      "x": 529,
+      "y": 3645.199951171875,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Conditions of Use & Sale",
+      "tag": "A",
+      "x": 471.07501220703125,
+      "y": 3726.400146484375,
+      "width": 148.46250915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Privacy Notice",
+      "tag": "A",
+      "x": 619.5375366210938,
+      "y": 3726.400146484375,
+      "width": 91.375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Interest-Based Ads",
+      "tag": "A",
+      "x": 710.9125366210938,
+      "y": 3726.400146484375,
+      "width": 116.01250457763672,
+      "height": 15.199999809265137,
+      "visible": true
+    }
+  ]
+}
