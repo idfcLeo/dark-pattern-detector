@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Dark Pattern Detector</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #171a21;
+    --border: #2a2e38;
+    --text: #e8e9ec;
+    --muted: #9599a3;
+    --accent: #6c8cff;
+    --danger: #e5484d;
+    --success: #3fb950;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    justify-content: center;
+    padding: 48px 20px;
+  }
+  .wrap { width: 100%; max-width: 640px; }
+  h1 { font-size: 22px; font-weight: 600; margin-bottom: 4px; }
+  .sub { color: var(--muted); font-size: 14px; margin-bottom: 24px; }
+  #status-badge {
+    display: inline-block;
+    font-size: 12px;
+    padding: 3px 10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+  }
+  textarea {
+    width: 100%;
+    min-height: 140px;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text);
+    padding: 14px;
+    font-size: 14px;
+    resize: vertical;
+    font-family: inherit;
+  }
+  textarea:focus { outline: none; border-color: var(--accent); }
+  button {
+    margin-top: 14px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  button:disabled { opacity: 0.5; cursor: not-allowed; }
+  #result {
+    margin-top: 22px;
+    padding: 16px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--card);
+    display: none;
+  }
+  #result.show { display: block; }
+  #result.flagged { border-color: var(--danger); }
+  #result.clean { border-color: var(--success); }
+  .label { font-weight: 600; font-size: 15px; }
+  .flagged .label { color: var(--danger); }
+  .clean .label { color: var(--success); }
+  .confidence { color: var(--muted); font-size: 13px; margin-top: 4px; }
+  #error {
+    margin-top: 14px;
+    color: var(--danger);
+    font-size: 13px;
+    display: none;
+  }
+  input[type="url"] {
+    width: 100%;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--text);
+    padding: 12px 14px;
+    font-size: 14px;
+  }
+  input[type="url"]:focus { outline: none; border-color: var(--accent); }
+  .summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+  }
+  .flagged-list { list-style: none; padding: 0; margin: 0; }
+  .flagged-item {
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--danger);
+    border-radius: 6px;
+    padding: 10px 12px;
+    margin-bottom: 8px;
+    font-size: 13px;
+  }
+  .flagged-item .conf { color: var(--muted); font-size: 11px; margin-top: 4px; }
+  .toggle-mode {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+  .toggle-mode button {
+    margin: 0;
+    background: var(--card);
+    color: var(--muted);
+    border: 1px solid var(--border);
+  }
+  .toggle-mode button.active {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+  .mode-panel { display: none; }
+  .mode-panel.active { display: block; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Dark Pattern Detector</h1>
+  <p class="sub">Check a product page for manipulative design patterns.</p>
+  <div id="status-badge">Checking backend...</div>
+
+  <div class="toggle-mode">
+    <button id="tab-url" class="active" onclick="switchMode('url')">Analyze a product link</button>
+    <button id="tab-text" onclick="switchMode('text')">Analyze pasted text</button>
+  </div>
+
+  <div id="panel-url" class="mode-panel active">
+    <input type="url" id="urlInput" placeholder="https://www.example.com/product/12345">
+    <button id="urlBtn" onclick="analyzeUrl()">Analyze link</button>
+  </div>
+
+  <div id="panel-text" class="mode-panel">
+    <textarea id="text" placeholder="e.g. Only 2 left in stock! 14 people are viewing this item right now."></textarea>
+    <br>
+    <button id="analyzeBtn" onclick="analyze()">Analyze</button>
+  </div>
+
+  <div id="error"></div>
+
+  <div id="result">
+    <div class="label" id="resultLabel"></div>
+    <div class="confidence" id="resultConfidence"></div>
+  </div>
+
+  <div id="urlResult" style="margin-top:22px; display:none;">
+    <div class="summary">
+      <div class="label" id="urlVerdict"></div>
+      <div class="confidence" id="urlStats"></div>
+    </div>
+    <ul class="flagged-list" id="flaggedList"></ul>
+  </div>
+</div>
+
+<script>
+  // Change this if your backend runs somewhere other than localhost:8000
+  const API_URL = "http://127.0.0.1:8000";
+
+  function switchMode(mode) {
+    document.getElementById("tab-url").classList.toggle("active", mode === "url");
+    document.getElementById("tab-text").classList.toggle("active", mode === "text");
+    document.getElementById("panel-url").classList.toggle("active", mode === "url");
+    document.getElementById("panel-text").classList.toggle("active", mode === "text");
+    document.getElementById("result").classList.remove("show");
+    document.getElementById("urlResult").style.display = "none";
+    document.getElementById("error").style.display = "none";
+  }
+
+  async function analyzeUrl() {
+    const url = document.getElementById("urlInput").value.trim();
+    const btn = document.getElementById("urlBtn");
+    const errorBox = document.getElementById("error");
+    const urlResult = document.getElementById("urlResult");
+
+    errorBox.style.display = "none";
+    urlResult.style.display = "none";
+
+    if (!url) {
+      errorBox.textContent = "Please enter a product URL.";
+      errorBox.style.display = "block";
+      return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = "Scanning page... (this can take 10-20s)";
+
+    try {
+      const res = await fetch(`${API_URL}/analyze-url`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ url })
+      });
+
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.detail || "Request failed");
+
+      document.getElementById("urlVerdict").textContent =
+        data.dark_patterns_found > 0 ? `⚠ ${data.verdict}` : `✓ ${data.verdict}`;
+      document.getElementById("urlVerdict").style.color =
+        data.dark_patterns_found > 0 ? "#e5484d" : "#3fb950";
+      document.getElementById("urlStats").textContent =
+        `${data.dark_patterns_found} of ${data.chunks_scanned} text elements flagged`;
+
+      const list = document.getElementById("flaggedList");
+      list.innerHTML = "";
+      data.flagged.forEach(item => {
+        const li = document.createElement("li");
+        li.className = "flagged-item";
+        li.innerHTML = `"${item.text}"<div class="conf">Confidence: ${(item.confidence * 100).toFixed(0)}%</div>`;
+        list.appendChild(li);
+      });
+
+      urlResult.style.display = "block";
+    } catch (e) {
+      errorBox.textContent = "Error: " + e.message;
+      errorBox.style.display = "block";
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Analyze link";
+    }
+  }
+
+  async function checkHealth() {
+    const badge = document.getElementById("status-badge");
+    try {
+      const res = await fetch(`${API_URL}/health`);
+      const data = await res.json();
+      if (data.model_loaded) {
+        badge.textContent = "Backend connected · model ready";
+        badge.style.color = "#3fb950";
+      } else {
+        badge.textContent = "Backend connected · model NOT loaded";
+        badge.style.color = "#e5484d";
+      }
+    } catch (e) {
+      badge.textContent = "Backend not reachable — is server.py running?";
+      badge.style.color = "#e5484d";
+    }
+  }
+
+  async function analyze() {
+    const text = document.getElementById("text").value.trim();
+    const btn = document.getElementById("analyzeBtn");
+    const resultBox = document.getElementById("result");
+    const errorBox = document.getElementById("error");
+
+    errorBox.style.display = "none";
+    resultBox.classList.remove("show", "flagged", "clean");
+
+    if (!text) {
+      errorBox.textContent = "Please paste some text first.";
+      errorBox.style.display = "block";
+      return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = "Analyzing...";
+
+    try {
+      const res = await fetch(`${API_URL}/predict`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text })
+      });
+
+      if (!res.ok) {
+        const err = await res.json();
+        throw new Error(err.detail || "Request failed");
+      }
+
+      const data = await res.json();
+
+      document.getElementById("resultLabel").textContent =
+        data.is_dark_pattern ? "⚠ Dark pattern detected" : "✓ No dark pattern detected";
+      document.getElementById("resultConfidence").textContent =
+        `Confidence: ${(data.confidence * 100).toFixed(1)}%`;
+
+      resultBox.classList.add("show", data.is_dark_pattern ? "flagged" : "clean");
+    } catch (e) {
+      errorBox.textContent = "Error: " + e.message;
+      errorBox.style.display = "block";
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Analyze";
+    }
+  }
+
+  checkHealth();
+</script>
+</body>
+</html>
