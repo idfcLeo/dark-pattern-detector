@@ -91,7 +91,16 @@ if __name__ == "__main__":
         #"amazon_in": "https://www.amazon.in/",
         #"flipkart": "https://www.flipkart.com/",
         #"byjus": "https://byjus.com/",
-        "myntra":"https://www.myntra.com/"
+        #"myntra":"https://www.croma.com/"
+        #"pepperfry": "https://www.pepperfry.com/",
+        #"snapdeal": "https://www.snapdeal.com/",
+        #"snapdeal": "https://www.snapdeal.com/",
+
+        #"ajio": "https://www.ajio.com/",
+        #"nykaa": "https://www.nykaa.com/",
+        "urbanladder": "https://www.urbanladder.com/",
+
+
     }
     for name, url in sites.items():
         run_session(name, url)

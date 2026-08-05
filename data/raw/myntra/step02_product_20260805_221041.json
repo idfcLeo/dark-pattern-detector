@@ -1,0 +1,1125 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.croma.com/searchB?q=laptops%3Arelevance&text=laptops",
+  "timestamp": "20260805_221041",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 70,
+      "y": 22.850000381469727,
+      "width": 130,
+      "height": 29.087499618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1114,
+      "y": 18.450000762939453,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 130,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 203.9499969482422,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 277.8999938964844,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 351.8500061035156,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 425.8000183105469,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 499.75,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 573.7000122070312,
+      "width": 319,
+      "height": 76.95000457763672,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 884.4000244140625,
+      "y": 663.6500244140625,
+      "width": 108.375,
+      "height": 57,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 946.4000244140625,
+      "y": 683.6500244140625,
+      "width": 46.375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "0",
+      "tag": "A",
+      "x": 1176,
+      "y": 27.399999618530273,
+      "width": 34,
+      "height": 23.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45,
+      "y": 173.60000610351562,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 248.90000915527344,
+      "y": 183.60000610351562,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP Victus 15-fa2197TX Intel Core i5 13th Gen Gaming Laptop (16GB, 512GB SSD, Win",
+      "tag": "A",
+      "x": 45,
+      "y": 485.3999938964844,
+      "width": 366.2875061035156,
+      "height": 118.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 173.60000610351562,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 659.4500122070312,
+      "y": 183.60000610351562,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP OMEN 16 Intel Core Ultra 7 Gaming Laptop (24GB, 1TB SSD, Windows 11 Home, 8GB",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 485.3999938964844,
+      "width": 364.5375061035156,
+      "height": 118.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 173.60000610351562,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1070,
+      "y": 183.60000610351562,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP 15-fd0623TU Intel Core i3 13th Gen Laptop (8GB, 512GB SSD, Windows 11 Home, 1",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 485.3999938964844,
+      "width": 361.7375183105469,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45,
+      "y": 768.6000366210938,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 248.90000915527344,
+      "y": 778.6000366210938,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Lenovo IdeaPad Slim 3 15IRH10 Intel Core i5 Thin & Light (16GB, 512GB SSD, Windo",
+      "tag": "A",
+      "x": 45,
+      "y": 1080.4000244140625,
+      "width": 365.9875183105469,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 768.6000366210938,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 659.4500122070312,
+      "y": 778.6000366210938,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Apple MacBook Air (13.6 inch, M5, 16GB, 512GB, macOS Tahoe, Silver)",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 1080.4000244140625,
+      "width": 337.57501220703125,
+      "height": 46.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 768.6000366210938,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1070,
+      "y": 778.6000366210938,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Apple MacBook Pro (14.2 inch, M5 Pro, 24GB, 1TB, macOS Tahoe, Space Black)",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 1080.4000244140625,
+      "width": 329.88751220703125,
+      "height": 46.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45,
+      "y": 1363.5999755859375,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 248.90000915527344,
+      "y": 1373.5999755859375,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP Victus 15-fa2316TX Intel Core i5 14th Gen Gaming Laptop (24GB, 512GB SSD, Win",
+      "tag": "A",
+      "x": 45,
+      "y": 1675.4000244140625,
+      "width": 364.3125,
+      "height": 118.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 1363.5999755859375,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 659.4500122070312,
+      "y": 1373.5999755859375,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Lenovo LOQ 15ARP10E AMD Ryzen 7 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home,",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 1675.4000244140625,
+      "width": 364.7749938964844,
+      "height": 142.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 1363.5999755859375,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1070,
+      "y": 1373.5999755859375,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Apple MacBook Air (13.6 inch, M5, 16GB, 1TB, macOS Tahoe, Silver)",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 1675.4000244140625,
+      "width": 337.57501220703125,
+      "height": 46.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45,
+      "y": 1958.5999755859375,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 248.90000915527344,
+      "y": 1968.5999755859375,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Lenovo LOQ 15ARP10E AMD Ryzen 5 Gaming Laptop (16GB, 512GB SSD, Windows 11 Home,",
+      "tag": "A",
+      "x": 45,
+      "y": 2270.400146484375,
+      "width": 364.7749938964844,
+      "height": 142.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 1958.5999755859375,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 659.4500122070312,
+      "y": 1968.5999755859375,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Lenovo IdeaPad Slim 3 15AMN8 AMD Ryzen 5 Thin & Light (16GB, 512GB SSD, Windows ",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 2270.400146484375,
+      "width": 364.70001220703125,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 1958.5999755859375,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1070,
+      "y": 1968.5999755859375,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Acer Aspire 5 Intel Core Ultra 5 Laptop (16GB, 512GB SSD, Windows 11 Home, 14 in",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 2270.400146484375,
+      "width": 363.4875183105469,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45,
+      "y": 2497.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 248.90000915527344,
+      "y": 2507.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP 15-fc0782AU AMD Ryzen 5 Laptop (16GB, 512GB SSD, Windows 11 Home, 15.6 inch F",
+      "tag": "A",
+      "x": 45,
+      "y": 2809.400146484375,
+      "width": 368.1000061035156,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 2497.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 659.4500122070312,
+      "y": 2507.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "SAMSUNG Galaxy Book5 Pro Intel Core Ultra 5 Touchscreen Thin & Light Laptop (16G",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 2809.400146484375,
+      "width": 363.1499938964844,
+      "height": 118.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 2497.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1070,
+      "y": 2507.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP HyperX OMEN 15-ga0005TX Intel Core i7 14th Gen Gaming Laptop (24GB, 1TB SSD, ",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 2809.400146484375,
+      "width": 368.32501220703125,
+      "height": 142.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45,
+      "y": 3036.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 248.90000915527344,
+      "y": 3046.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP 15-fc0837AU AMD Ryzen 7 Laptop (16GB, 512GB SSD, Windows 11 Home, 15.6 inch F",
+      "tag": "A",
+      "x": 45,
+      "y": 3348.400146484375,
+      "width": 368.1000061035156,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 3036.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 659.4500122070312,
+      "y": 3046.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ASUS Vivobook 15 Intel Core 3 Laptop (8GB, 512GB SSD, Windows 11 Home, 15.6 inch",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 3348.400146484375,
+      "width": 365.3500061035156,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 3036.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1070,
+      "y": 3046.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HP 15-HR0009TU Intel Core 5 120U 13th Gen Laptop (16GB, 512GB SSD, Windows 11 Ho",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 3348.400146484375,
+      "width": 366.7875061035156,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "5\n(1)",
+      "tag": "A",
+      "x": 870.1000366210938,
+      "y": 3411.60009765625,
+      "width": 50.70000076293945,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45,
+      "y": 3673.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 248.90000915527344,
+      "y": 3683.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Apple MacBook Air (15.3 inch, M5, 16GB, 1TB, macOS Tahoe, Midnight)",
+      "tag": "A",
+      "x": 45,
+      "y": 3985.400146484375,
+      "width": 337.57501220703125,
+      "height": 46.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 3673.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 659.4500122070312,
+      "y": 3683.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "DELL DC15255 AMD Ryzen 5 Notebook Laptop (16GB, 512GB SSD, Windows 11, 15.6 inch",
+      "tag": "A",
+      "x": 455.5500183105469,
+      "y": 3985.400146484375,
+      "width": 361.82501220703125,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 3673.60009765625,
+      "width": 368.8999938964844,
+      "height": 279,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1070,
+      "y": 3683.60009765625,
+      "width": 38,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "DELL DC 15250 Intel Core 3 Thin & Light Laptop (8GB, 512GB SSD, Windows 11, 15.6",
+      "tag": "A",
+      "x": 866.1000366210938,
+      "y": 3985.400146484375,
+      "width": 366.8500061035156,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "View More",
+      "tag": "BUTTON",
+      "x": 567.5,
+      "y": 4283.60009765625,
+      "width": 145,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Compare",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear All",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 291.9750061035156,
+      "y": 4423,
+      "width": 58,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 70,
+      "y": 4494.80029296875,
+      "width": 44,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 124,
+      "y": 4496.80029296875,
+      "width": 40,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 174,
+      "y": 4496.80029296875,
+      "width": 40,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 224,
+      "y": 4496.80029296875,
+      "width": 40,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 274,
+      "y": 4496.80029296875,
+      "width": 40,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 70,
+      "y": 4520,
+      "width": 40,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Croma",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4422.80029296875,
+      "width": 86.3125,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Help And Support",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4460.5751953125,
+      "width": 113.9375,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4498.35009765625,
+      "width": 34.82500076293945,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Buying Guide",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4536.125,
+      "width": 86.5999984741211,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Return Policy",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4573.89990234375,
+      "width": 86.8375015258789,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "B2B Orders",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4611.67529296875,
+      "width": 75.0374984741211,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4649.4501953125,
+      "width": 89.1624984741211,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "E-Waste",
+      "tag": "A",
+      "x": 470.7749938964844,
+      "y": 4687.22509765625,
+      "width": 55.70000076293945,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Franchise Opportunity",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4422.80029296875,
+      "width": 147.4875030517578,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Site Map",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4460.5751953125,
+      "width": 57.212501525878906,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Careers At Croma",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4498.35009765625,
+      "width": 116.9375,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4536.125,
+      "width": 87.5250015258789,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Disclaimer",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4573.89990234375,
+      "width": 70.67500305175781,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4611.67529296875,
+      "width": 92.1500015258789,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Unboxed",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4649.4501953125,
+      "width": 58.28750228881836,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Gift Card",
+      "tag": "A",
+      "x": 642.5875244140625,
+      "y": 4687.22509765625,
+      "width": 57.53750228881836,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Televisions & Accessories",
+      "tag": "A",
+      "x": 870.7875366210938,
+      "y": 4422.80029296875,
+      "width": 157.40000915527344,
+      "height": 55.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Home Appliances",
+      "tag": "A",
+      "x": 870.7875366210938,
+      "y": 4478.35009765625,
+      "width": 114.8499984741211,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Phones & Wearables",
+      "tag": "A",
+      "x": 870.7875366210938,
+      "y": 4516.125,
+      "width": 137.6999969482422,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Computers & Tablets",
+      "tag": "A",
+      "x": 870.7875366210938,
+      "y": 4553.89990234375,
+      "width": 137.52500915527344,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Kitchen Appliances",
+      "tag": "A",
+      "x": 870.7875366210938,
+      "y": 4591.67529296875,
+      "width": 126.7750015258789,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Audio & Video",
+      "tag": "A",
+      "x": 870.7875366210938,
+      "y": 4629.4501953125,
+      "width": 91.88750457763672,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Health & Fitness",
+      "tag": "A",
+      "x": 870.7875366210938,
+      "y": 4667.22509765625,
+      "width": 107.55000305175781,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Grooming & Personal Care",
+      "tag": "A",
+      "x": 1042.5999755859375,
+      "y": 4422.80029296875,
+      "width": 157.40000915527344,
+      "height": 55.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Cameras & Accessories",
+      "tag": "A",
+      "x": 1042.5999755859375,
+      "y": 4478.35009765625,
+      "width": 157.40000915527344,
+      "height": 55.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Smart Devices",
+      "tag": "A",
+      "x": 1042.5999755859375,
+      "y": 4533.89990234375,
+      "width": 95.88750457763672,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Gaming",
+      "tag": "A",
+      "x": 1042.5999755859375,
+      "y": 4571.67529296875,
+      "width": 50.85000228881836,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 1042.5999755859375,
+      "y": 4609.4501953125,
+      "width": 82.11250305175781,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "Top Brands",
+      "tag": "A",
+      "x": 1042.5999755859375,
+      "y": 4647.22509765625,
+      "width": 74.1624984741211,
+      "height": 37.775001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

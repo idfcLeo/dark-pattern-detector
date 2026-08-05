@@ -1,0 +1,1098 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.croma.com/",
+  "timestamp": "20260805_221024",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 62.5,
+      "y": 22.850000381469727,
+      "width": 130,
+      "height": 29.087499618530273,
+      "visible": true
+    },
+    {
+      "text": "Add Pincode",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add Pincode",
+      "tag": "BUTTON",
+      "x": 1029.5750732421875,
+      "y": 33,
+      "width": 56.92499923706055,
+      "height": 12,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1106.5,
+      "y": 18.450000762939453,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 130,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 203.9499969482422,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 277.8999938964844,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 351.8500061035156,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 425.8000183105469,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 499.75,
+      "width": 319,
+      "height": 60.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.4000244140625,
+      "y": 573.7000122070312,
+      "width": 319,
+      "height": 76.95000457763672,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 884.4000244140625,
+      "y": 663.6500244140625,
+      "width": 108.375,
+      "height": 57,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 946.4000244140625,
+      "y": 683.6500244140625,
+      "width": 46.375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "0",
+      "tag": "A",
+      "x": 1168.5,
+      "y": 27.399999618530273,
+      "width": 34,
+      "height": 23.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 187.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 302.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 417.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 123.5374984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 122.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 132.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 762.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 877.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 132.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 992.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 135.41250610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1107.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1222.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1337.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 120,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1452.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1567.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1682.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1797.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 114.7874984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1912.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 132.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2027.5,
+      "y": 717.0750122070312,
+      "width": 100,
+      "height": 132.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 872.4874877929688,
+      "width": 1117.2000732421875,
+      "height": 73.0875015258789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 213.5500030517578,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 353.20001220703125,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 492.8500061035156,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 632.5,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 772.1500244140625,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 911.7999877929688,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1051.4500732421875,
+      "y": 1186.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 213.5500030517578,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 353.20001220703125,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 492.8500061035156,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 632.5,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 772.1500244140625,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 911.7999877929688,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1051.4500732421875,
+      "y": 1203.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1383.9749755859375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.3000183105469,
+      "y": 1383.9749755859375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 828.7000122070312,
+      "y": 1383.9749755859375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1415.7750244140625,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.3000183105469,
+      "y": 1415.7750244140625,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 828.7000122070312,
+      "y": 1415.7750244140625,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1586.5750732421875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 356.95001220703125,
+      "y": 1586.5750732421875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 640,
+      "y": 1586.5750732421875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 923.0499877929688,
+      "y": 1586.5750732421875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1717.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 356.95001220703125,
+      "y": 1717.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 640,
+      "y": 1717.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 923.0499877929688,
+      "y": 1717.375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1848.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 640,
+      "y": 1848.175048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 1978.9749755859375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "Croma 80 cm (32 inch) 2 Star HD QLED Smart Google TV 5.0 with Quad Core Processo",
+      "tag": "A",
+      "x": 87.5,
+      "y": 2137.775146484375,
+      "width": 231.25,
+      "height": 135.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 275.75,
+      "y": 2127.775146484375,
+      "width": 58,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "Croma 109 cm (43 inch) 2 Star Full HD LED Smart Coolita Version 3.0 TV with Dolb",
+      "tag": "A",
+      "x": 373.75,
+      "y": 2137.775146484375,
+      "width": 231.25,
+      "height": 135.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 562,
+      "y": 2127.775146484375,
+      "width": 58,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "Croma 80 cm (32 inch) 1 Star HD Ready LED Smart Linux TV with A+ Grade Panel (20",
+      "tag": "A",
+      "x": 660,
+      "y": 2137.775146484375,
+      "width": 231.25,
+      "height": 135.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 848.25,
+      "y": 2127.775146484375,
+      "width": 58,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "Croma 80cm (32 inch) 1 Star HD LED Smart Google TV 5.0 with Dolby Audio (2026 Mo",
+      "tag": "A",
+      "x": 946.25,
+      "y": 2137.775146484375,
+      "width": 231.25,
+      "height": 135.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1134.5,
+      "y": 2127.775146484375,
+      "width": 58,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "Croma 127cm (50 inch) 2 Star 4K Ultra HD LED Smart Google TV 5.0 with Dolby Audi",
+      "tag": "A",
+      "x": 1232.5,
+      "y": 2137.775146484375,
+      "width": 231.25,
+      "height": 135.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1420.75,
+      "y": 2127.775146484375,
+      "width": 58,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "Croma 109 cm (43 inch) 2 Star QLED 4K Ultra HD Smart Google TV 5.0 with Dolby Au",
+      "tag": "A",
+      "x": 1518.75,
+      "y": 2137.775146484375,
+      "width": 231.25,
+      "height": 135.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1707,
+      "y": 2127.775146484375,
+      "width": 58,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "Croma 80 cm (32 inch) 2 Star LED HD Ready Smart Linux TV with A+ Grade LED Panel",
+      "tag": "A",
+      "x": 1805,
+      "y": 2137.775146484375,
+      "width": 231.25,
+      "height": 135.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1993.25,
+      "y": 2127.775146484375,
+      "width": 58,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 2402.212646484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 356.95001220703125,
+      "y": 2402.212646484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 640,
+      "y": 2402.212646484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 923.0499877929688,
+      "y": 2402.212646484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 2553.012451171875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 2683.8125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "Read Now",
+      "tag": "BUTTON",
+      "x": 490.3125,
+      "y": 3120.875,
+      "width": 130.4250030517578,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Read Now",
+      "tag": "BUTTON",
+      "x": 590.3125,
+      "y": 3134.074951171875,
+      "width": 130.4250030517578,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Read Now",
+      "tag": "BUTTON",
+      "x": 690.3125,
+      "y": 3150.574951171875,
+      "width": 130.4250030517578,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Read Now",
+      "tag": "BUTTON",
+      "x": 690.3125,
+      "y": 3091.175048828125,
+      "width": 130.4250030517578,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Read Now",
+      "tag": "BUTTON",
+      "x": 690.3125,
+      "y": 3120.875,
+      "width": 130.4250030517578,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Read Now",
+      "tag": "BUTTON",
+      "x": 690.3125,
+      "y": 3134.074951171875,
+      "width": 130.4250030517578,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 3443.6875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72.5,
+      "y": 3574.487548828125,
+      "width": 128.75,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 216.25,
+      "y": 3574.487548828125,
+      "width": 128.75,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 360,
+      "y": 3574.487548828125,
+      "width": 128.75,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 503.75,
+      "y": 3574.487548828125,
+      "width": 128.75,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5,
+      "y": 3574.487548828125,
+      "width": 128.75,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 73.9000015258789,
+      "y": 3594.487548828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 640,
+      "y": 3594.487548828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 302.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 762.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 992.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1222.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1452.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1682.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1912.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2142.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2372.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2602.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2832.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3062.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3292.5,
+      "y": 3762.087646484375,
+      "width": 215,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 855,
+      "y": 153.4875030517578,
+      "width": 15,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sign in to select address",
+      "tag": "BUTTON",
+      "x": 470,
+      "y": 443.3125,
+      "width": 340,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Continue",
+      "tag": "BUTTON",
+      "x": 470,
+      "y": 504.9125061035156,
+      "width": 340,
+      "height": 41.60000228881836,
+      "visible": true
+    }
+  ]
+}
