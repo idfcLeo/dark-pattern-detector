@@ -1,0 +1,1629 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.flipkart.com/search?q=bedsheets&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+  "timestamp": "20260805_223614",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 186,
+      "y": 10.737500190734863,
+      "width": 75,
+      "height": 20.11250114440918,
+      "visible": true
+    },
+    {
+      "text": "Explore Plus",
+      "tag": "A",
+      "x": 186,
+      "y": 29.850000381469727,
+      "width": 75,
+      "height": 15.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 623.4625244140625,
+      "y": 10,
+      "width": 41.625,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Become a Seller",
+      "tag": "A",
+      "x": 821.375,
+      "y": 0,
+      "width": 119.5374984741211,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 1071.987548828125,
+      "y": 0,
+      "width": 64.01250457763672,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Flights",
+      "tag": "A",
+      "x": 1049.8250732421875,
+      "y": 56,
+      "width": 94.17500305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Offer Zone",
+      "tag": "A",
+      "x": 1144,
+      "y": 56,
+      "width": 120,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Home Furnishing",
+      "tag": "A",
+      "x": 39,
+      "y": 200.8000030517578,
+      "width": 150,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bed Linen & Blankets",
+      "tag": "A",
+      "x": 39,
+      "y": 230.40000915527344,
+      "width": 150,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bedsheets",
+      "tag": "A",
+      "x": 39,
+      "y": 260,
+      "width": 150,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 304,
+      "y": 118.88750457763672,
+      "width": 31.950000762939453,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Home Furnishing",
+      "tag": "A",
+      "x": 355.95001220703125,
+      "y": 118.88750457763672,
+      "width": 80,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bed Linen & Blankets",
+      "tag": "A",
+      "x": 455.95001220703125,
+      "y": 118.88750457763672,
+      "width": 80,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bedsheets",
+      "tag": "A",
+      "x": 555.9500122070312,
+      "y": 118.88750457763672,
+      "width": 56.775001525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 216.08750915527344,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Jeevat Cotton Single Flat 220 TC Jaipuri Prints 1 Bedsh...",
+      "tag": "A",
+      "x": 304,
+      "y": 473.4875183105469,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹240₹1,79986% off",
+      "tag": "A",
+      "x": 304,
+      "y": 563.7625122070312,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 216.08750915527344,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "RAMOLI Cotton Double Flat 144 TC Jaipuri Prints 1 Bedsh...",
+      "tag": "A",
+      "x": 550,
+      "y": 473.4875183105469,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹341₹1,29973% off",
+      "tag": "A",
+      "x": 550,
+      "y": 563.7625122070312,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 216.08750915527344,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "BeddingZone Cotton Single Flat 144 TC Geometric 1 Bedsh...",
+      "tag": "A",
+      "x": 796,
+      "y": 451.0874938964844,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹159₹69977% off",
+      "tag": "A",
+      "x": 796,
+      "y": 540.0625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 216.08750915527344,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Decent Home Cotton Double Flat 240 TC Checkered 1 Bedsh...",
+      "tag": "A",
+      "x": 1042,
+      "y": 451.0874938964844,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹196₹99980% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 540.0625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 643.7374877929688,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Home@shop Cotton Double Flat 228 TC Printed 1 Bedsheet ...",
+      "tag": "A",
+      "x": 304,
+      "y": 878.7374877929688,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹378₹1,02563% off",
+      "tag": "A",
+      "x": 304,
+      "y": 969.0125122070312,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 643.7374877929688,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "RisingStar Microfiber King Fitted (Elastic) 250 TC Geom...",
+      "tag": "A",
+      "x": 550,
+      "y": 901.1375122070312,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹248₹2,29989% off",
+      "tag": "A",
+      "x": 550,
+      "y": 991.4125366210938,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 643.7374877929688,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Leo Creation Cotton Double Flat 144 TC Printed 1 Bedshe...",
+      "tag": "A",
+      "x": 796,
+      "y": 878.7374877929688,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹318₹1,29975% off",
+      "tag": "A",
+      "x": 796,
+      "y": 969.0125122070312,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 643.7374877929688,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Home@shop Cotton Double Flat 144 TC Jaipuri Prints 1 Be...",
+      "tag": "A",
+      "x": 1042,
+      "y": 878.7374877929688,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹378₹1,59976% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 969.0125122070312,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 1071.3875732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "LA VERNE Cotton Double Flat 144 TC Jaipuri Prints 1 Bed...",
+      "tag": "A",
+      "x": 304,
+      "y": 1306.3875732421875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹323₹1,19973% off",
+      "tag": "A",
+      "x": 304,
+      "y": 1395.362548828125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 1071.3875732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "E ELMA Cotton Double Flat 144 TC Abstract 3 Bedsheets w...",
+      "tag": "A",
+      "x": 550,
+      "y": 1306.3875732421875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹378₹1,05064% off",
+      "tag": "A",
+      "x": 550,
+      "y": 1396.6624755859375,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 1071.3875732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Leo Creation Cotton Double Flat 144 TC Printed 1 Bedshe...",
+      "tag": "A",
+      "x": 796,
+      "y": 1328.7874755859375,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹320₹2,49987% off",
+      "tag": "A",
+      "x": 796,
+      "y": 1435.862548828125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 1071.3875732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "RisingStar Microfiber King Fitted (Elastic) 250 TC Geom...",
+      "tag": "A",
+      "x": 1042,
+      "y": 1328.7874755859375,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹243₹2,49990% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 1419.0625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 1522.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "E ELMA Cotton Double Flat 104 TC Printed 1 Bedsheet wit...",
+      "tag": "A",
+      "x": 304,
+      "y": 1757.862548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹378₹99962% off",
+      "tag": "A",
+      "x": 304,
+      "y": 1848.1375732421875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 1522.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "GooglyGoogly Cotton Double Fitted (Elastic) 280 TC Flor...",
+      "tag": "A",
+      "x": 550,
+      "y": 1757.862548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹252₹99974% off",
+      "tag": "A",
+      "x": 550,
+      "y": 1848.1375732421875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 1522.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "EXFAB Cotton King Fitted (Elastic) 244 TC Printed 1 Bed...",
+      "tag": "A",
+      "x": 796,
+      "y": 1757.862548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹321₹1,99983% off",
+      "tag": "A",
+      "x": 796,
+      "y": 1848.1375732421875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 1522.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Hazal Polycotton Queen Flat 230 TC Geometric 1 Bedsheet...",
+      "tag": "A",
+      "x": 1042,
+      "y": 1757.862548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹330₹1,99983% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 1848.1375732421875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 1935.1375732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "RisingStar Cotton King Fitted (Elastic) 250 TC Printed ...",
+      "tag": "A",
+      "x": 304,
+      "y": 2192.53759765625,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹236₹2,29989% off",
+      "tag": "A",
+      "x": 304,
+      "y": 2282.8125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 1935.1375732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "HOMETIC Cotton Double Fitted (Elastic) 320 TC Self Desi...",
+      "tag": "A",
+      "x": 550,
+      "y": 2192.53759765625,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹279₹99972% off",
+      "tag": "A",
+      "x": 550,
+      "y": 2282.8125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Currently unavailable",
+      "tag": "A",
+      "x": 796,
+      "y": 1935.1375732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "FERIKART Microfiber Double Flat 600 TC Printed 1 Bedshe...",
+      "tag": "A",
+      "x": 796,
+      "y": 2170.137451171875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Price: Not Available",
+      "tag": "A",
+      "x": 796,
+      "y": 2239.137451171875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 1935.1375732421875,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Home Garage Cotton King Fitted (Elastic) 210 TC Floral ...",
+      "tag": "A",
+      "x": 1042,
+      "y": 2170.137451171875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹312₹99968% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 2259.112548828125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 2369.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "SHOPHOX Cotton Double, King Fitted (Elastic) 210 TC Pri...",
+      "tag": "A",
+      "x": 304,
+      "y": 2627.212646484375,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹337₹1,99983% off",
+      "tag": "A",
+      "x": 304,
+      "y": 2717.487548828125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 2369.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "HIDECOR Microfiber King Fitted (Elastic) 280 TC Solid 1...",
+      "tag": "A",
+      "x": 550,
+      "y": 2627.212646484375,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹372₹1,49975% off",
+      "tag": "A",
+      "x": 550,
+      "y": 2716.1875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 2369.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Leo Creation Cotton Double Flat 144 TC Jaipuri Prints 1...",
+      "tag": "A",
+      "x": 796,
+      "y": 2604.8125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹316₹1,19973% off",
+      "tag": "A",
+      "x": 796,
+      "y": 2693.78759765625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 2369.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "CH SARTU COLLECTION Cotton Double Fitted (Elastic) 210 ...",
+      "tag": "A",
+      "x": 1042,
+      "y": 2604.8125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹293₹1,99985% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 2695.087646484375,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 2804.487548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "driji Cotton Double Fitted (Elastic) 240 TC Animal 1 Be...",
+      "tag": "A",
+      "x": 304,
+      "y": 3039.487548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹309₹99969% off",
+      "tag": "A",
+      "x": 304,
+      "y": 3129.762451171875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 2804.487548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Moonlight Cotton Double Flat 280 TC Floral 2 Summer Bed...",
+      "tag": "A",
+      "x": 550,
+      "y": 3039.487548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹293₹1,09973% off",
+      "tag": "A",
+      "x": 550,
+      "y": 3108.487548828125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 2804.487548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "RisingStar Cotton King Fitted (Elastic) 250 TC Printed ...",
+      "tag": "A",
+      "x": 796,
+      "y": 3061.887451171875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹241₹2,29989% off",
+      "tag": "A",
+      "x": 796,
+      "y": 3150.862548828125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 2804.487548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "RAMOLI Cotton Double Flat 144 TC Jaipuri Prints 1 Bedsh...",
+      "tag": "A",
+      "x": 1042,
+      "y": 3061.887451171875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹341₹1,99982% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 3152.16259765625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 3237.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "VKART Cotton Queen Flat 144 TC Printed 1 Summer Bedshee...",
+      "tag": "A",
+      "x": 304,
+      "y": 3472.862548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹340₹2,99988% off",
+      "tag": "A",
+      "x": 304,
+      "y": 3563.137451171875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 3237.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "KUVAS Cotton King Flat 260 TC Jaipuri Prints 1 Bedsheet...",
+      "tag": "A",
+      "x": 550,
+      "y": 3472.862548828125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹447₹2,99985% off",
+      "tag": "A",
+      "x": 550,
+      "y": 3561.837646484375,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 3237.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "HIDECOR Microfiber King Fitted (Elastic) 280 TC Solid 1...",
+      "tag": "A",
+      "x": 796,
+      "y": 3495.262451171875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹385₹1,49974% off",
+      "tag": "A",
+      "x": 796,
+      "y": 3585.53759765625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 3237.862548828125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "HANSHI Cotton King Flat 260 TC Jaipuri Prints 1 Bedshee...",
+      "tag": "A",
+      "x": 1042,
+      "y": 3495.262451171875,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹448₹1,99977% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 3585.53759765625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 3672.53759765625,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "CHHILAKIYA Cotton Super King Flat 310 TC Printed 1 Beds...",
+      "tag": "A",
+      "x": 304,
+      "y": 3907.53759765625,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹412₹1,99979% off",
+      "tag": "A",
+      "x": 304,
+      "y": 3997.8125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 3672.53759765625,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "GAUR FABS Cotton King Fitted (Elastic) 295 TC 7D Digita...",
+      "tag": "A",
+      "x": 550,
+      "y": 3907.53759765625,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹412₹1,29968% off",
+      "tag": "A",
+      "x": 550,
+      "y": 3976.53759765625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 3672.53759765625,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Decent Home Cotton Double Fitted (Elastic) 240 TC 7D Di...",
+      "tag": "A",
+      "x": 796,
+      "y": 3907.53759765625,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹289₹2,24987% off",
+      "tag": "A",
+      "x": 796,
+      "y": 3997.8125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 3672.53759765625,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Mirasha Cotton Double Flat 144 TC Jaipuri Prints 1 Summ...",
+      "tag": "A",
+      "x": 1042,
+      "y": 3907.53759765625,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹358₹99964% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 3996.512451171875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 304,
+      "y": 4084.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Jeevat Cotton Double Flat 144 TC Jaipuri Prints 1 Bedsh...",
+      "tag": "A",
+      "x": 304,
+      "y": 4342.21240234375,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹328₹1,89982% off",
+      "tag": "A",
+      "x": 304,
+      "y": 4432.48779296875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550,
+      "y": 4084.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "HOMETIC Cotton Double Fitted (Elastic) 360 TC Checkered...",
+      "tag": "A",
+      "x": 550,
+      "y": 4342.21240234375,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹268₹1,29979% off",
+      "tag": "A",
+      "x": 550,
+      "y": 4431.1875,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 796,
+      "y": 4084.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "AnRp Fashion Polycotton Single Flat 240 TC Floral 1 Sum...",
+      "tag": "A",
+      "x": 796,
+      "y": 4319.8125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹180₹99981% off",
+      "tag": "A",
+      "x": 796,
+      "y": 4388.8125,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 4084.8125,
+      "width": 214,
+      "height": 230,
+      "visible": true
+    },
+    {
+      "text": "Fashion family Cotton King Flat 240 TC Embroidered 1 Be...",
+      "tag": "A",
+      "x": 1042,
+      "y": 4319.8125,
+      "width": 214,
+      "height": 44.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "₹579₹1,99971% off",
+      "tag": "A",
+      "x": 1042,
+      "y": 4408.78759765625,
+      "width": 214,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 619.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 651.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "A",
+      "x": 683.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "A",
+      "x": 715.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "5",
+      "tag": "A",
+      "x": 747.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "6",
+      "tag": "A",
+      "x": 779.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "7",
+      "tag": "A",
+      "x": 811.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "8",
+      "tag": "A",
+      "x": 843.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "9",
+      "tag": "A",
+      "x": 875.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "10",
+      "tag": "A",
+      "x": 907.7374877929688,
+      "y": 4516.98779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "NEXT",
+      "tag": "A",
+      "x": 939.7374877929688,
+      "y": 4516.98779296875,
+      "width": 85.9749984741211,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "1. Home Garage Cotton King Fit...\n3.97,224 Ratings&331 Reviews\n₹31268% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 4732.98779296875,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "2. RAMOLI Cotton Double Flat 1...\n3.848 Ratings&4 Reviews\n₹34182% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 4956.98779296875,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "3. Fashion family Cotton King ...\n4.2166 Ratings&8 Reviews\n₹57971% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 5161.3876953125,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "4. RAMOLI Cotton Double Flat 1...\n458 Ratings&4 Reviews\n₹34173% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 5385.3876953125,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "5. HANSHI Cotton King Flat 260...\n4.32,591 Ratings&165 Reviews\n₹44877% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 5609.3876953125,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 65,
+      "y": 5911.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 65,
+      "y": 5935.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 65,
+      "y": 5959.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Flipkart Stories",
+      "tag": "A",
+      "x": 65,
+      "y": 5983.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 65,
+      "y": 6007.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Corporate Information",
+      "tag": "A",
+      "x": 65,
+      "y": 6031.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Myntra",
+      "tag": "A",
+      "x": 215.66250610351562,
+      "y": 5911.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Cleartrip",
+      "tag": "A",
+      "x": 215.66250610351562,
+      "y": 5935.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Shopsy",
+      "tag": "A",
+      "x": 215.66250610351562,
+      "y": 5959.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Payments",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 5911.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Shipping",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 5935.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Returns",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 5959.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 5983.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Returns",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 5911.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 5935.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Security",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 5959.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 5983.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 6007.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 6031.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "EPR Compliance",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 6055.98779296875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "FSSAI Food Safety Connect App",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 6079.98779296875,
+      "width": 150.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 695.4500122070312,
+      "y": 6071.58740234375,
+      "width": 24,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 739.4500122070312,
+      "y": 6071.58740234375,
+      "width": 24,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 783.4500122070312,
+      "y": 6071.58740234375,
+      "width": 24,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 827.4500122070312,
+      "y": 6069.58740234375,
+      "width": 20,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "044-45614709",
+      "tag": "A",
+      "x": 1037.6875,
+      "y": 6039.58740234375,
+      "width": 83.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "044-45714709",
+      "tag": "A",
+      "x": 1131.9000244140625,
+      "y": 6039.58740234375,
+      "width": 82.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Become a Seller",
+      "tag": "A",
+      "x": 64.4625015258789,
+      "y": 6196.98779296875,
+      "width": 109.8499984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gift Cards",
+      "tag": "A",
+      "x": 372.13751220703125,
+      "y": 6197.98779296875,
+      "width": 70.82500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Help Center",
+      "tag": "A",
+      "x": 506.4250183105469,
+      "y": 6196.98779296875,
+      "width": 83.0374984741211,
+      "height": 16,
+      "visible": true
+    }
+  ]
+}

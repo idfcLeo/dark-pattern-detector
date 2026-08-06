@@ -1,0 +1,2682 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.pepperfry.com/site_product/search?q=Centre%20Tables",
+  "timestamp": "20260805_224306",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "PEPPERFRY FOR BUSINESS",
+      "tag": "A",
+      "x": 61.525001525878906,
+      "y": -242,
+      "width": 145.0749969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "SELL ON PEPPERFRY",
+      "tag": "A",
+      "x": 238.60000610351562,
+      "y": -242,
+      "width": 110.7249984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "BECOME A FRANCHISEE",
+      "tag": "A",
+      "x": 381.32501220703125,
+      "y": -242,
+      "width": 130.60000610351562,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "GIFT CARDS",
+      "tag": "A",
+      "x": 543.9249877929688,
+      "y": -242,
+      "width": 65.4749984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "TRACK YOUR ORDER",
+      "tag": "A",
+      "x": 641.4000244140625,
+      "y": -242,
+      "width": 111.9375,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "CONTACT US",
+      "tag": "A",
+      "x": 785.3375244140625,
+      "y": -242,
+      "width": 73.01250457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "HONOURING UNIFORMED FORCES",
+      "tag": "A",
+      "x": 890.3500366210938,
+      "y": -242,
+      "width": 190.6125030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "DOWNLOAD APP",
+      "tag": "A",
+      "x": 1112.9625244140625,
+      "y": -243.60000610351562,
+      "width": 90.3125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 209.40000915527344,
+      "y": -186.1999969482422,
+      "width": 18,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Centre Tables",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shoe Cabinets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TV Units",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bed",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "dressing table",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "mirror",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "office chair",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shoe rack",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sofa cum bed",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "study table",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 543.9000244140625,
+      "y": -196.1875,
+      "width": 177,
+      "height": 37.97500228881836,
+      "visible": true
+    },
+    {
+      "text": "My Profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Wallet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Find a\nStore",
+      "tag": "A",
+      "x": 1047.1875,
+      "y": -194.8000030517578,
+      "width": 33.212501525878906,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1088.4000244140625,
+      "y": -193.1999969482422,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1144.4000244140625,
+      "y": -189.6750030517578,
+      "width": 32,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1200.4000244140625,
+      "y": -189.6750030517578,
+      "width": 32,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Furniture",
+      "tag": "A",
+      "x": 140.8249969482422,
+      "y": 40.79999923706055,
+      "width": 62.76250076293945,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Sofas & Seating",
+      "tag": "A",
+      "x": 231.58750915527344,
+      "y": 40.79999923706055,
+      "width": 111.01250457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Mattresses",
+      "tag": "A",
+      "x": 370.6000061035156,
+      "y": 40.79999923706055,
+      "width": 77.3375015258789,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Home Decor",
+      "tag": "A",
+      "x": 475.9375,
+      "y": 40.79999923706055,
+      "width": 86.9000015258789,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Furnishings",
+      "tag": "A",
+      "x": 590.8375244140625,
+      "y": 40.79999923706055,
+      "width": 80.7750015258789,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Lamps & Lighting",
+      "tag": "A",
+      "x": 699.6124877929688,
+      "y": 40.79999923706055,
+      "width": 121.13750457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Kitchen & Dining",
+      "tag": "A",
+      "x": 848.75,
+      "y": 40.79999923706055,
+      "width": 115.9000015258789,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Luxury",
+      "tag": "A",
+      "x": 992.6500244140625,
+      "y": 40.79999923706055,
+      "width": 44.900001525878906,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Modular",
+      "tag": "A",
+      "x": 1065.550048828125,
+      "y": 40.79999923706055,
+      "width": 58.42499923706055,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Sofas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3 Seater Sofas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2 Seater Sofas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1 Seater Sofas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sofa Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sectional Sofas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LHS Sectionals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "RHS Sectionals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corner Sofas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sofa Cum Beds",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pull Out Type",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Convertible Type",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recliners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1 Seater Recliners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2 Seater Recliners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3 Seater Recliners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recliner Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chaise Loungers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sofa Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wing Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lounge Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Slipper Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Barrel Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bean Bags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accent Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Arm Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rocking Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Folding Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iconic Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cafe Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Office Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ergonomic Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Executive Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Training Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guest Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cantilever Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gaming Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dining Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bar Seating",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bar Stools & Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bar Table Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Settees & Benches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Settees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Benches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recamiers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ottomans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stools & Pouffes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Foot Stools",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Seating Stools",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pouffes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Outdoor Seating",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loungers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Swings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plastic Chairs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Table & Chair Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Furniture Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fabric Care Kits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Solid Wood Care Kits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Top Collections",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Alba",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Andres",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brescia",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clarkson",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fidel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hugo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indus",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Miranda",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mireya",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mystic",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nirvana",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Norton",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tochi",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wakizashi",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Top Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aasana from Pepperfry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Amberville from Pepperfry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bellano from Pepperfry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bohemiana from Pepperfry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Casacraft from Pepperfry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Durian",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Godrej Interio",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LA-Z-BOY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mudramark from Pepperfry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Royaloak",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "The Sleep Company",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Trevi Furniture",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Woodsworth from Pepperfry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 615.9000244140625,
+      "y": -132.8000030517578,
+      "width": 32.98749923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Furniture\n739 options",
+      "tag": "A",
+      "x": 444.88751220703125,
+      "y": -13.199999809265137,
+      "width": 125,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kitchen and Dining\n1 options",
+      "tag": "A",
+      "x": 573.8875122070312,
+      "y": -13.199999809265137,
+      "width": 125,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Luxury Brands\n1 options",
+      "tag": "A",
+      "x": 702.8875122070312,
+      "y": -13.199999809265137,
+      "width": 125,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Material",
+      "tag": "BUTTON",
+      "x": 94.75,
+      "y": 92,
+      "width": 89.25,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Color Swatch",
+      "tag": "BUTTON",
+      "x": 188,
+      "y": 92,
+      "width": 124.13750457763672,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Brand",
+      "tag": "BUTTON",
+      "x": 316.13751220703125,
+      "y": 92,
+      "width": 73.1875,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Relevance",
+      "tag": "BUTTON",
+      "x": 1034.3875732421875,
+      "y": 92,
+      "width": 180,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 100.4000015258789,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 100.4000015258789,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 100.4000015258789,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 100.4000015258789,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 809.7250366210938,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 809.7250366210938,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 809.7250366210938,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 809.7250366210938,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 1393.050048828125,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 1393.050048828125,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 1393.050048828125,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 1393.050048828125,
+      "width": 291,
+      "height": 320.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "Talk to an Expert 022-6116-7374",
+      "tag": "A",
+      "x": 409.57501220703125,
+      "y": 2014.7750244140625,
+      "width": 181.8625030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Visit Your Nearest Store ->",
+      "tag": "A",
+      "x": 621.0375366210938,
+      "y": 2014.7750244140625,
+      "width": 149.33750915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 2063.137451171875,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 2063.137451171875,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 2063.137451171875,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 2063.137451171875,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 2646.4375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 2646.4375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 2646.4375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 2646.4375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 3249.737548828125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 3249.737548828125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 3249.737548828125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 3249.737548828125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 3820.5625,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 3820.5625,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 3820.5625,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 3820.5625,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 4411.3876953125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 4411.3876953125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 4411.3876953125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 4411.3876953125,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 4982.21240234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 4982.21240234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 4982.21240234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 4982.21240234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 5535.83740234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 335.3999938964844,
+      "y": 5535.83740234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4000244140625,
+      "y": 5535.83740234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.4000244140625,
+      "y": 5535.83740234375,
+      "width": 291,
+      "height": 320.4250183105469,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 522.4000244140625,
+      "y": 6117.53759765625,
+      "width": 44,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 566.4000244140625,
+      "y": 6117.53759765625,
+      "width": 44,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "A",
+      "x": 610.4000244140625,
+      "y": 6117.53759765625,
+      "width": 44,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "A",
+      "x": 654.4000244140625,
+      "y": 6117.53759765625,
+      "width": 44,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "5",
+      "tag": "A",
+      "x": 698.4000244140625,
+      "y": 6117.53759765625,
+      "width": 44,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 26.399999618530273,
+      "y": 6473.3125,
+      "width": 59.35000228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Corporate Governance",
+      "tag": "A",
+      "x": 26.399999618530273,
+      "y": 6501.3125,
+      "width": 146.78750610351562,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Pepperfry in the News",
+      "tag": "A",
+      "x": 26.399999618530273,
+      "y": 6529.3125,
+      "width": 140.8874969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 26.399999618530273,
+      "y": 6557.3125,
+      "width": 51.1875,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Explore Gift Cards",
+      "tag": "A",
+      "x": 274.8625183105469,
+      "y": 6473.3125,
+      "width": 115.95000457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Buy in Bulk",
+      "tag": "A",
+      "x": 274.8625183105469,
+      "y": 6501.3125,
+      "width": 68.5875015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Discover Our Brands",
+      "tag": "A",
+      "x": 274.8625183105469,
+      "y": 6529.3125,
+      "width": 129.7624969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Check Out Bonhomie, Our Blog",
+      "tag": "A",
+      "x": 274.8625183105469,
+      "y": 6557.3125,
+      "width": 196.91250610351562,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Find a Store",
+      "tag": "A",
+      "x": 274.8625183105469,
+      "y": 6585.3125,
+      "width": 75.5999984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Track Your Order",
+      "tag": "A",
+      "x": 274.8625183105469,
+      "y": 6613.3125,
+      "width": 105.36250305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sell on Pepperfry",
+      "tag": "A",
+      "x": 523.3250122070312,
+      "y": 6473.3125,
+      "width": 109.05000305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Become a Franchisee",
+      "tag": "A",
+      "x": 523.3250122070312,
+      "y": 6501.3125,
+      "width": 136.8874969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Become Our Channel Partner",
+      "tag": "A",
+      "x": 523.3250122070312,
+      "y": 6529.3125,
+      "width": 186.6999969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Become Our Pep Homie",
+      "tag": "A",
+      "x": 523.3250122070312,
+      "y": 6557.3125,
+      "width": 150.35000610351562,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Our Marketplace Policies",
+      "tag": "A",
+      "x": 523.3250122070312,
+      "y": 6585.3125,
+      "width": 158.91250610351562,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Merchant Dashboard Login",
+      "tag": "A",
+      "x": 523.3250122070312,
+      "y": 6613.3125,
+      "width": 173.9250030517578,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 771.7875366210938,
+      "y": 6473.3125,
+      "width": 32.98749923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Policies",
+      "tag": "A",
+      "x": 771.7875366210938,
+      "y": 6501.3125,
+      "width": 49.57500076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 771.7875366210938,
+      "y": 6529.3125,
+      "width": 73.3375015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Kids & Pet Friendly",
+      "tag": "A",
+      "x": 1020.25,
+      "y": 6473.3125,
+      "width": 117.5,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Certified Non-Toxic",
+      "tag": "A",
+      "x": 1020.25,
+      "y": 6501.3125,
+      "width": 124.5625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Made with Vegetarian Glue",
+      "tag": "A",
+      "x": 1020.25,
+      "y": 6529.3125,
+      "width": 172.0625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Scratch Resistant Finish",
+      "tag": "A",
+      "x": 1020.25,
+      "y": 6557.3125,
+      "width": 155.77500915527344,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1014.25,
+      "y": 6621.3125,
+      "width": 115.07500457763672,
+      "height": 34.35000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1129.3250732421875,
+      "y": 6621.3125,
+      "width": 115.07500457763672,
+      "height": 34.35000228881836,
+      "visible": true
+    },
+    {
+      "text": "Sofas,",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 6791.66259765625,
+      "width": 40.51250076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sectional Sofas,",
+      "tag": "A",
+      "x": 74.9124984741211,
+      "y": 6791.66259765625,
+      "width": 104.4000015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sofa Sets,",
+      "tag": "A",
+      "x": 181.3125,
+      "y": 6791.66259765625,
+      "width": 65.73750305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Queen Size Beds,",
+      "tag": "A",
+      "x": 249.0500030517578,
+      "y": 6791.66259765625,
+      "width": 111.5875015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "King Size Beds,",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 6811.66259765625,
+      "width": 96.8499984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Coffee Tables,",
+      "tag": "A",
+      "x": 131.25,
+      "y": 6811.66259765625,
+      "width": 92.42500305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Dining Sets,",
+      "tag": "A",
+      "x": 225.6750030517578,
+      "y": 6811.66259765625,
+      "width": 77.1500015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Recliners,",
+      "tag": "A",
+      "x": 304.82501220703125,
+      "y": 6811.66259765625,
+      "width": 63.375,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sofa Cum Beds,",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 6831.66259765625,
+      "width": 101.375,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Queen Size Mattresses,",
+      "tag": "A",
+      "x": 135.77500915527344,
+      "y": 6831.66259765625,
+      "width": 152.4250030517578,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Cabinets & Sideboards,",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 6851.66259765625,
+      "width": 150.47500610351562,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Book Shelves,",
+      "tag": "A",
+      "x": 184.875,
+      "y": 6851.66259765625,
+      "width": 89.375,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "TV & Media Units,",
+      "tag": "A",
+      "x": 276.25,
+      "y": 6851.66259765625,
+      "width": 111.70000457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Wardrobes,",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 6871.66259765625,
+      "width": 74.17500305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Foldable Mattresses,",
+      "tag": "A",
+      "x": 108.57500457763672,
+      "y": 6871.66259765625,
+      "width": 133.97500610351562,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Pillows,",
+      "tag": "A",
+      "x": 244.5500030517578,
+      "y": 6871.66259765625,
+      "width": 47.79999923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Wall Shelves,",
+      "tag": "A",
+      "x": 294.3500061035156,
+      "y": 6871.66259765625,
+      "width": 84.07500457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Photo Frames,",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 6891.66259765625,
+      "width": 92.13750457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bed Sheets,",
+      "tag": "A",
+      "x": 126.5374984741211,
+      "y": 6891.66259765625,
+      "width": 77.8499984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Table Linen,",
+      "tag": "A",
+      "x": 206.3874969482422,
+      "y": 6891.66259765625,
+      "width": 76.38750457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Study Tables,",
+      "tag": "A",
+      "x": 284.7749938964844,
+      "y": 6891.66259765625,
+      "width": 87,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Office Furniture,",
+      "tag": "A",
+      "x": 32.400001525878906,
+      "y": 6911.66259765625,
+      "width": 103.86250305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Dining Tables,",
+      "tag": "A",
+      "x": 138.2624969482422,
+      "y": 6911.66259765625,
+      "width": 89.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Carpets,",
+      "tag": "A",
+      "x": 229.8874969482422,
+      "y": 6911.66259765625,
+      "width": 55.98749923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Wall Decor",
+      "tag": "A",
+      "x": 287.875,
+      "y": 6911.66259765625,
+      "width": 68.0374984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Mintwud,",
+      "tag": "A",
+      "x": 444.4875183105469,
+      "y": 6791.66259765625,
+      "width": 60.03750228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Woodsworth,",
+      "tag": "A",
+      "x": 506.5249938964844,
+      "y": 6791.66259765625,
+      "width": 85.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "CasaCraft,",
+      "tag": "A",
+      "x": 594.1500244140625,
+      "y": 6791.66259765625,
+      "width": 69.7750015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Amberville,",
+      "tag": "A",
+      "x": 665.9249877929688,
+      "y": 6791.66259765625,
+      "width": 70.80000305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Mudramark,",
+      "tag": "A",
+      "x": 738.7250366210938,
+      "y": 6791.66259765625,
+      "width": 76.2874984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bohemiana,",
+      "tag": "A",
+      "x": 444.4875183105469,
+      "y": 6811.66259765625,
+      "width": 75.88750457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Aasana,",
+      "tag": "A",
+      "x": 522.375,
+      "y": 6811.66259765625,
+      "width": 51.587501525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bellano,",
+      "tag": "A",
+      "x": 575.9625244140625,
+      "y": 6811.66259765625,
+      "width": 51.07500076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Springtek,",
+      "tag": "A",
+      "x": 629.0375366210938,
+      "y": 6811.66259765625,
+      "width": 66.01250457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Spacewood,",
+      "tag": "A",
+      "x": 697.0499877929688,
+      "y": 6811.66259765625,
+      "width": 79.1875,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "A Globia Creations,",
+      "tag": "A",
+      "x": 444.4875183105469,
+      "y": 6831.66259765625,
+      "width": 122.51250457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Febonic,",
+      "tag": "A",
+      "x": 569,
+      "y": 6831.66259765625,
+      "width": 54.36249923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Durian,",
+      "tag": "A",
+      "x": 625.3624877929688,
+      "y": 6831.66259765625,
+      "width": 45.85000228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Nilkamal,",
+      "tag": "A",
+      "x": 673.2125244140625,
+      "y": 6831.66259765625,
+      "width": 57.48749923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sleepycat,",
+      "tag": "A",
+      "x": 732.7000122070312,
+      "y": 6831.66259765625,
+      "width": 67.9749984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bluewud,",
+      "tag": "A",
+      "x": 444.4875183105469,
+      "y": 6851.66259765625,
+      "width": 59.150001525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Duroflex,",
+      "tag": "A",
+      "x": 505.63751220703125,
+      "y": 6851.66259765625,
+      "width": 58.650001525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sleepyhead,",
+      "tag": "A",
+      "x": 566.2875366210938,
+      "y": 6851.66259765625,
+      "width": 79.5999984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Green Soul,",
+      "tag": "A",
+      "x": 647.8875122070312,
+      "y": 6851.66259765625,
+      "width": 74.2750015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Orange Tree,",
+      "tag": "A",
+      "x": 724.1625366210938,
+      "y": 6851.66259765625,
+      "width": 82.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Clouddio",
+      "tag": "A",
+      "x": 444.4875183105469,
+      "y": 6871.66259765625,
+      "width": 58.025001525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bengaluru,",
+      "tag": "A",
+      "x": 856.5625,
+      "y": 6791.66259765625,
+      "width": 69.61250305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Mumbai,",
+      "tag": "A",
+      "x": 928.1749877929688,
+      "y": 6791.66259765625,
+      "width": 55.01250076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Navi Mumbai,",
+      "tag": "A",
+      "x": 985.1875,
+      "y": 6791.66259765625,
+      "width": 85.2750015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Delhi,",
+      "tag": "A",
+      "x": 1072.4625244140625,
+      "y": 6791.66259765625,
+      "width": 36.16250228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad,",
+      "tag": "A",
+      "x": 1110.625,
+      "y": 6791.66259765625,
+      "width": 73.7874984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Pune,",
+      "tag": "A",
+      "x": 1186.4124755859375,
+      "y": 6791.66259765625,
+      "width": 36.66250228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Chennai,",
+      "tag": "A",
+      "x": 856.5625,
+      "y": 6811.66259765625,
+      "width": 57.712501525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Gurgaon,",
+      "tag": "A",
+      "x": 916.2750244140625,
+      "y": 6811.66259765625,
+      "width": 59.337501525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Kolkata,",
+      "tag": "A",
+      "x": 977.6124877929688,
+      "y": 6811.66259765625,
+      "width": 51.125,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Noida,",
+      "tag": "A",
+      "x": 1030.737548828125,
+      "y": 6811.66259765625,
+      "width": 40.92499923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Goa,",
+      "tag": "A",
+      "x": 1073.6624755859375,
+      "y": 6811.66259765625,
+      "width": 29.649999618530273,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Faridabad,",
+      "tag": "A",
+      "x": 1105.3125,
+      "y": 6811.66259765625,
+      "width": 67.01250457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Jaipur,",
+      "tag": "A",
+      "x": 1174.3250732421875,
+      "y": 6811.66259765625,
+      "width": 41.78750228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Kochi,",
+      "tag": "A",
+      "x": 856.5625,
+      "y": 6831.66259765625,
+      "width": 39.087501525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Chandigarh,",
+      "tag": "A",
+      "x": 897.6500244140625,
+      "y": 6831.66259765625,
+      "width": 79.0999984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Vadodara,",
+      "tag": "A",
+      "x": 978.75,
+      "y": 6831.66259765625,
+      "width": 64.51250457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Nagpur,",
+      "tag": "A",
+      "x": 1045.2625732421875,
+      "y": 6831.66259765625,
+      "width": 49.900001525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Thiruvananthapuram,",
+      "tag": "A",
+      "x": 856.5625,
+      "y": 6851.66259765625,
+      "width": 138.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Indore,",
+      "tag": "A",
+      "x": 997.1875,
+      "y": 6851.66259765625,
+      "width": 44.650001525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bhopal,",
+      "tag": "A",
+      "x": 1043.8375244140625,
+      "y": 6851.66259765625,
+      "width": 48.23749923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Surat,",
+      "tag": "A",
+      "x": 1094.0750732421875,
+      "y": 6851.66259765625,
+      "width": 38.82500076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Patna,",
+      "tag": "A",
+      "x": 1134.9000244140625,
+      "y": 6851.66259765625,
+      "width": 41.32500076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Ludhiana,",
+      "tag": "A",
+      "x": 856.5625,
+      "y": 6871.66259765625,
+      "width": 62.9375,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad,",
+      "tag": "A",
+      "x": 921.5,
+      "y": 6871.66259765625,
+      "width": 81.3499984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Aurangabad,",
+      "tag": "A",
+      "x": 1004.8500366210938,
+      "y": 6871.66259765625,
+      "width": 82.1875,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Thane,",
+      "tag": "A",
+      "x": 1089.0374755859375,
+      "y": 6871.66259765625,
+      "width": 44.337501525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bhubaneshwar,",
+      "tag": "A",
+      "x": 856.5625,
+      "y": 6891.66259765625,
+      "width": 99.1500015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Guwahati,",
+      "tag": "A",
+      "x": 957.7125244140625,
+      "y": 6891.66259765625,
+      "width": 64.9749984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Dehradun,",
+      "tag": "A",
+      "x": 1024.6875,
+      "y": 6891.66259765625,
+      "width": 67.0999984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Mohali,",
+      "tag": "A",
+      "x": 1093.7874755859375,
+      "y": 6891.66259765625,
+      "width": 46.400001525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Imphal,",
+      "tag": "A",
+      "x": 1142.1875,
+      "y": 6891.66259765625,
+      "width": 46.51250076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Belagavi,",
+      "tag": "A",
+      "x": 856.5625,
+      "y": 6911.66259765625,
+      "width": 57.70000076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Coimbatore,",
+      "tag": "A",
+      "x": 916.2625122070312,
+      "y": 6911.66259765625,
+      "width": 79.6500015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Ludhiana,",
+      "tag": "A",
+      "x": 997.9125366210938,
+      "y": 6911.66259765625,
+      "width": 62.9375,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Shillong,",
+      "tag": "A",
+      "x": 1062.8499755859375,
+      "y": 6911.66259765625,
+      "width": 55.36249923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Siliguri,",
+      "tag": "A",
+      "x": 1120.2125244140625,
+      "y": 6911.66259765625,
+      "width": 47.07500076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Jabalpur",
+      "tag": "A",
+      "x": 1169.2874755859375,
+      "y": 6911.66259765625,
+      "width": 55.26250076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Whitehat",
+      "tag": "A",
+      "x": 290.9624938964844,
+      "y": 7184.96240234375,
+      "width": 59.900001525878906,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 370.8625183105469,
+      "y": 7184.96240234375,
+      "width": 53.13750076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 444,
+      "y": 7184.96240234375,
+      "width": 85.73750305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 549.7374877929688,
+      "y": 7184.96240234375,
+      "width": 86.98750305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Your Data and Security",
+      "tag": "A",
+      "x": 656.7250366210938,
+      "y": 7184.96240234375,
+      "width": 145.60000610351562,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal",
+      "tag": "A",
+      "x": 822.3250122070312,
+      "y": 7184.96240234375,
+      "width": 131.5,
+      "height": 19.200000762939453,
+      "visible": true
+    }
+  ]
+}

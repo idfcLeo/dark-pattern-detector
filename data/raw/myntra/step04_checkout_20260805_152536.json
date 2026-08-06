@@ -1,0 +1,90 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.myntra.com/checkout/address",
+  "timestamp": "20260805_152536",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 51.20000076293945,
+      "y": 66.80000305175781,
+      "width": 54,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "REMOVE",
+      "tag": "BUTTON",
+      "x": 188.8000030517578,
+      "y": 352.4250183105469,
+      "width": 80,
+      "height": 31.73750114440918,
+      "visible": true
+    },
+    {
+      "text": "EDIT",
+      "tag": "BUTTON",
+      "x": 284.8000183105469,
+      "y": 352.4250183105469,
+      "width": 58,
+      "height": 31.73750114440918,
+      "visible": true
+    },
+    {
+      "text": "Ok",
+      "tag": "BUTTON",
+      "x": 843.4500122070312,
+      "y": 60,
+      "width": 18.55000114440918,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Need Help ? Contact Us",
+      "tag": "A",
+      "x": 788.9125366210938,
+      "y": 888.2250366210938,
+      "width": 0,
+      "height": 15.199999809265137,
+      "visible": false
+    },
+    {
+      "text": "iZooto",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Subscribe to notifications",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CLOSE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

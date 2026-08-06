@@ -1,0 +1,1476 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.snapdeal.com/",
+  "timestamp": "20260805_224653",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Our Blog",
+      "tag": "A",
+      "x": 833.7625122070312,
+      "y": 18,
+      "width": 85.9749984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Help Center",
+      "tag": "A",
+      "x": 951.7374877929688,
+      "y": 18,
+      "width": 104.95000457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Sell on Snapdeal",
+      "tag": "A",
+      "x": 1088.6875,
+      "y": 18,
+      "width": 135.3125,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "LOGIN",
+      "tag": "BUTTON",
+      "x": 861.9249877929688,
+      "y": 263.70001220703125,
+      "width": 198,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Download App",
+      "tag": "BUTTON",
+      "x": 1044.925048828125,
+      "y": 64.80000305175781,
+      "width": 179.0749969482422,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1256,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 8,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1272,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2536,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3800,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5064,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6328,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 7592,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 8856,
+      "y": 181.60000610351562,
+      "width": 1264,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 56,
+      "y": 361.6000061035156,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1184,
+      "y": 361.6000061035156,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "View More",
+      "tag": "BUTTON",
+      "x": 456.5,
+      "y": 4824.53759765625,
+      "width": 367,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 74,
+      "y": 5080.2626953125,
+      "width": 74.6875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms of Sale",
+      "tag": "A",
+      "x": 74,
+      "y": 5100.2626953125,
+      "width": 73.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 74,
+      "y": 5120.2626953125,
+      "width": 70.6875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Report Abuse & Takedown Policy",
+      "tag": "A",
+      "x": 74,
+      "y": 5140.2626953125,
+      "width": 176.5500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Know Your BIS Standard",
+      "tag": "A",
+      "x": 74,
+      "y": 5160.2626953125,
+      "width": 132.10000610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Products Under Cumpulsory BIS Certification",
+      "tag": "A",
+      "x": 74,
+      "y": 5180.2626953125,
+      "width": 240.10000610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 74,
+      "y": 5200.2626953125,
+      "width": 24.012500762939453,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 482.3625183105469,
+      "y": 5080.2626953125,
+      "width": 49.36249923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 482.3625183105469,
+      "y": 5100.2626953125,
+      "width": 42.6875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 482.3625183105469,
+      "y": 5120.2626953125,
+      "width": 24.024999618530273,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 482.3625183105469,
+      "y": 5140.2626953125,
+      "width": 44.025001525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 482.3625183105469,
+      "y": 5160.2626953125,
+      "width": 59.36249923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Shopping App",
+      "tag": "A",
+      "x": 721.1625366210938,
+      "y": 5080.2626953125,
+      "width": 74.73750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sell on Snapdeal",
+      "tag": "A",
+      "x": 721.1625366210938,
+      "y": 5100.2626953125,
+      "width": 90.75,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Media Enquiries",
+      "tag": "A",
+      "x": 721.1625366210938,
+      "y": 5120.2626953125,
+      "width": 86.05000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Lehenga",
+      "tag": "A",
+      "x": 1041.6500244140625,
+      "y": 5080.2626953125,
+      "width": 46.72500228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kid's Clothing",
+      "tag": "A",
+      "x": 1041.6500244140625,
+      "y": 5100.2626953125,
+      "width": 73,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sarees",
+      "tag": "A",
+      "x": 1041.6500244140625,
+      "y": 5120.2626953125,
+      "width": 38.025001525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Winter Wear",
+      "tag": "A",
+      "x": 1041.6500244140625,
+      "y": 5140.2626953125,
+      "width": 66.4625015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sweatshirts",
+      "tag": "A",
+      "x": 1041.6500244140625,
+      "y": 5160.2626953125,
+      "width": 62.025001525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 622,
+      "y": 5339.5625,
+      "width": 28,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 662,
+      "y": 5339.5625,
+      "width": 28,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 702,
+      "y": 5339.5625,
+      "width": 28,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 742,
+      "y": 5339.5625,
+      "width": 28,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 782,
+      "y": 5339.5625,
+      "width": 28,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 822,
+      "y": 5339.5625,
+      "width": 28,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 862,
+      "y": 5339.5625,
+      "width": 28,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Men:",
+      "tag": "A",
+      "x": 66,
+      "y": 5426.0625,
+      "width": 28,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shirts for Men",
+      "tag": "A",
+      "x": 94,
+      "y": 5426.0625,
+      "width": 74.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Casual Shirts for Men",
+      "tag": "A",
+      "x": 183.15000915527344,
+      "y": 5426.0625,
+      "width": 115.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Formal Shirts for Men",
+      "tag": "A",
+      "x": 312.9875183105469,
+      "y": 5426.0625,
+      "width": 115.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hoodies for Men",
+      "tag": "A",
+      "x": 442.8000183105469,
+      "y": 5426.0625,
+      "width": 88.05000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cotton Shirts for Men",
+      "tag": "A",
+      "x": 545.2999877929688,
+      "y": 5426.0625,
+      "width": 113.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "T Shirts for Men",
+      "tag": "A",
+      "x": 673.1375122070312,
+      "y": 5426.0625,
+      "width": 85.13750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Polo T shirts",
+      "tag": "A",
+      "x": 772.7250366210938,
+      "y": 5426.0625,
+      "width": 66.26250457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kurta Pajama for Men",
+      "tag": "A",
+      "x": 853.4375,
+      "y": 5426.0625,
+      "width": 116.7249984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "White Shirt",
+      "tag": "A",
+      "x": 984.6124877929688,
+      "y": 5426.0625,
+      "width": 58.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Black Shirt",
+      "tag": "A",
+      "x": 1057.75,
+      "y": 5426.0625,
+      "width": 57.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lower for Men",
+      "tag": "A",
+      "x": 66,
+      "y": 5446.0625,
+      "width": 76.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Trousers for Men",
+      "tag": "A",
+      "x": 157.15000915527344,
+      "y": 5446.0625,
+      "width": 90.92500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Jacket for Men",
+      "tag": "A",
+      "x": 262.5249938964844,
+      "y": 5446.0625,
+      "width": 78.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Formal Pants for Men",
+      "tag": "A",
+      "x": 355.6750183105469,
+      "y": 5446.0625,
+      "width": 115.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tracksuit for Men",
+      "tag": "A",
+      "x": 485.5,
+      "y": 5446.0625,
+      "width": 92.25,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Jeans for Men",
+      "tag": "A",
+      "x": 592.2000122070312,
+      "y": 5446.0625,
+      "width": 76.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kurta Payjama Sets",
+      "tag": "A",
+      "x": 682.6875,
+      "y": 5446.0625,
+      "width": 106.05000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kurta for Men",
+      "tag": "A",
+      "x": 803.1875,
+      "y": 5446.0625,
+      "width": 72.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sweater for Men",
+      "tag": "A",
+      "x": 890.3375244140625,
+      "y": 5446.0625,
+      "width": 88.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Women:",
+      "tag": "A",
+      "x": 66,
+      "y": 5466.0625,
+      "width": 47.125,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tops for Women",
+      "tag": "A",
+      "x": 113.125,
+      "y": 5466.0625,
+      "width": 87.1500015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kurti",
+      "tag": "A",
+      "x": 214.72500610351562,
+      "y": 5466.0625,
+      "width": 24.67500114440918,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cotton Sarees",
+      "tag": "A",
+      "x": 253.85000610351562,
+      "y": 5466.0625,
+      "width": 76.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Georgette Sarees",
+      "tag": "A",
+      "x": 345.01251220703125,
+      "y": 5466.0625,
+      "width": 94.7249984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Chiffon Sarees",
+      "tag": "A",
+      "x": 454.1875,
+      "y": 5466.0625,
+      "width": 79.1624984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Net Sarees",
+      "tag": "A",
+      "x": 547.7999877929688,
+      "y": 5466.0625,
+      "width": 60.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dresses for Women",
+      "tag": "A",
+      "x": 622.2875366210938,
+      "y": 5466.0625,
+      "width": 105.8125,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Jumpsuit for Women",
+      "tag": "A",
+      "x": 742.5499877929688,
+      "y": 5466.0625,
+      "width": 109.82500457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Jeans for Women",
+      "tag": "A",
+      "x": 866.8250122070312,
+      "y": 5466.0625,
+      "width": 93.82500457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Salwar Suit",
+      "tag": "A",
+      "x": 975.1000366210938,
+      "y": 5466.0625,
+      "width": 60.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bra",
+      "tag": "A",
+      "x": 1050.25,
+      "y": 5466.0625,
+      "width": 18.67500114440918,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Jacket for Women",
+      "tag": "A",
+      "x": 1083.375,
+      "y": 5466.0625,
+      "width": 96.48750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Night Dress for Women",
+      "tag": "A",
+      "x": 66,
+      "y": 5486.0625,
+      "width": 124.48750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sweatshirt for Women",
+      "tag": "A",
+      "x": 204.9375,
+      "y": 5486.0625,
+      "width": 117.82500457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shorts for Women",
+      "tag": "A",
+      "x": 337.2124938964844,
+      "y": 5486.0625,
+      "width": 96.48750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Blouse",
+      "tag": "A",
+      "x": 448.1499938964844,
+      "y": 5486.0625,
+      "width": 36.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dupatta",
+      "tag": "A",
+      "x": 499.3000183105469,
+      "y": 5486.0625,
+      "width": 42.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "T Shirt for Women",
+      "tag": "A",
+      "x": 555.7875366210938,
+      "y": 5486.0625,
+      "width": 96.92500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shirts for Women",
+      "tag": "A",
+      "x": 667.1625366210938,
+      "y": 5486.0625,
+      "width": 92.4749984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Skirts for Women",
+      "tag": "A",
+      "x": 774.0875244140625,
+      "y": 5486.0625,
+      "width": 91.80000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ethnic wear for Women",
+      "tag": "A",
+      "x": 880.3375244140625,
+      "y": 5486.0625,
+      "width": 124.5,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ethnic Bottomwear",
+      "tag": "A",
+      "x": 1019.2875366210938,
+      "y": 5486.0625,
+      "width": 100.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Footwear:",
+      "tag": "A",
+      "x": 66,
+      "y": 5506.0625,
+      "width": 57.35000228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Men's Footwear",
+      "tag": "A",
+      "x": 123.3499984741211,
+      "y": 5506.0625,
+      "width": 85,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Casual Shoes for Men",
+      "tag": "A",
+      "x": 222.8000030517578,
+      "y": 5506.0625,
+      "width": 118.73750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Formal Shoes for Men",
+      "tag": "A",
+      "x": 355.9875183105469,
+      "y": 5506.0625,
+      "width": 118.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Loafers for Men",
+      "tag": "A",
+      "x": 489.1499938964844,
+      "y": 5506.0625,
+      "width": 84.05000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Slippers for Men",
+      "tag": "A",
+      "x": 587.6500244140625,
+      "y": 5506.0625,
+      "width": 87.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Boots for Men",
+      "tag": "A",
+      "x": 689.4750366210938,
+      "y": 5506.0625,
+      "width": 74.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sandals for Men",
+      "tag": "A",
+      "x": 778.6375122070312,
+      "y": 5506.0625,
+      "width": 87.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Footwear for Women",
+      "tag": "A",
+      "x": 880.4750366210938,
+      "y": 5506.0625,
+      "width": 111.82500457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Heels for Women",
+      "tag": "A",
+      "x": 1006.75,
+      "y": 5506.0625,
+      "width": 92.48750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sandals for Women",
+      "tag": "A",
+      "x": 66,
+      "y": 5526.0625,
+      "width": 105.17500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shoes for Women",
+      "tag": "A",
+      "x": 185.625,
+      "y": 5526.0625,
+      "width": 95.82500457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sandals for Women",
+      "tag": "A",
+      "x": 295.8999938964844,
+      "y": 5526.0625,
+      "width": 105.17500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Slippers for Women",
+      "tag": "A",
+      "x": 415.5249938964844,
+      "y": 5526.0625,
+      "width": 105.1624984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Boots for Women",
+      "tag": "A",
+      "x": 535.1375122070312,
+      "y": 5526.0625,
+      "width": 92.48750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Jutti for Women",
+      "tag": "A",
+      "x": 642.0750122070312,
+      "y": 5526.0625,
+      "width": 83.8125,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sports Shoes for Women",
+      "tag": "A",
+      "x": 740.3375244140625,
+      "y": 5526.0625,
+      "width": 133.85000610351562,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen:",
+      "tag": "A",
+      "x": 66,
+      "y": 5546.0625,
+      "width": 96.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wall Painting",
+      "tag": "A",
+      "x": 162.6875,
+      "y": 5546.0625,
+      "width": 69.5875015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wall Stickers",
+      "tag": "A",
+      "x": 246.72500610351562,
+      "y": 5546.0625,
+      "width": 68.9000015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dream Catcher",
+      "tag": "A",
+      "x": 330.07501220703125,
+      "y": 5546.0625,
+      "width": 81.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Rangoli Designs",
+      "tag": "A",
+      "x": 425.88751220703125,
+      "y": 5546.0625,
+      "width": 87.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Clock",
+      "tag": "A",
+      "x": 527.7250366210938,
+      "y": 5546.0625,
+      "width": 30.012500762939453,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wall Clock",
+      "tag": "A",
+      "x": 572.1875,
+      "y": 5546.0625,
+      "width": 56.23749923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Alarm Clock",
+      "tag": "A",
+      "x": 642.875,
+      "y": 5546.0625,
+      "width": 64.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Diya",
+      "tag": "A",
+      "x": 722.0125122070312,
+      "y": 5546.0625,
+      "width": 24.012500762939453,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wall Hanging",
+      "tag": "A",
+      "x": 760.4750366210938,
+      "y": 5546.0625,
+      "width": 70.92500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hanging & Ceiling Light",
+      "tag": "A",
+      "x": 845.8500366210938,
+      "y": 5546.0625,
+      "width": 125.42500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Table Lamp",
+      "tag": "A",
+      "x": 985.7250366210938,
+      "y": 5546.0625,
+      "width": 62.04999923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hanging Lights",
+      "tag": "A",
+      "x": 1062.2249755859375,
+      "y": 5546.0625,
+      "width": 80.0625,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LED Bulbs",
+      "tag": "A",
+      "x": 66,
+      "y": 5566.0625,
+      "width": 56.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Torch Light",
+      "tag": "A",
+      "x": 137.15000915527344,
+      "y": 5566.0625,
+      "width": 58.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Flower Vase",
+      "tag": "A",
+      "x": 210.3000030517578,
+      "y": 5566.0625,
+      "width": 65.8125,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Keychain",
+      "tag": "A",
+      "x": 290.5625,
+      "y": 5566.0625,
+      "width": 49.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Rudraksha",
+      "tag": "A",
+      "x": 354.38751220703125,
+      "y": 5566.0625,
+      "width": 58.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Screwdriver",
+      "tag": "A",
+      "x": 426.875,
+      "y": 5566.0625,
+      "width": 63.35000228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Watch:",
+      "tag": "A",
+      "x": 66,
+      "y": 5586.0625,
+      "width": 39.5625,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Watch For Men",
+      "tag": "A",
+      "x": 105.5625,
+      "y": 5586.0625,
+      "width": 81.57500457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Womens Watches",
+      "tag": "A",
+      "x": 201.58750915527344,
+      "y": 5586.0625,
+      "width": 96.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Smart Watch",
+      "tag": "A",
+      "x": 312.7375183105469,
+      "y": 5586.0625,
+      "width": 68.9124984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Boys Watch",
+      "tag": "A",
+      "x": 396.1000061035156,
+      "y": 5586.0625,
+      "width": 63.57500076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Girls Watch",
+      "tag": "A",
+      "x": 474.125,
+      "y": 5586.0625,
+      "width": 61.5625,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Home Furnishing:",
+      "tag": "A",
+      "x": 66,
+      "y": 5606.0625,
+      "width": 102.67500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bed Sheet",
+      "tag": "A",
+      "x": 168.6750030517578,
+      "y": 5606.0625,
+      "width": 56.04999923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mosquito Net",
+      "tag": "A",
+      "x": 239.1750030517578,
+      "y": 5606.0625,
+      "width": 70.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mattress",
+      "tag": "A",
+      "x": 324.32501220703125,
+      "y": 5606.0625,
+      "width": 46.01250076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Curtains",
+      "tag": "A",
+      "x": 384.7875061035156,
+      "y": 5606.0625,
+      "width": 44.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sofa Cover",
+      "tag": "A",
+      "x": 443.9250183105469,
+      "y": 5606.0625,
+      "width": 60.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Blanket",
+      "tag": "A",
+      "x": 518.4125366210938,
+      "y": 5606.0625,
+      "width": 40.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pillow",
+      "tag": "A",
+      "x": 572.9000244140625,
+      "y": 5606.0625,
+      "width": 31.350000381469727,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Carpet",
+      "tag": "A",
+      "x": 618.7000122070312,
+      "y": 5606.0625,
+      "width": 36.025001525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Apron",
+      "tag": "A",
+      "x": 669.1749877929688,
+      "y": 5606.0625,
+      "width": 32.025001525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Quilt",
+      "tag": "A",
+      "x": 715.6500244140625,
+      "y": 5606.0625,
+      "width": 24.67500114440918,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Floor Mat",
+      "tag": "A",
+      "x": 754.7750244140625,
+      "y": 5606.0625,
+      "width": 50.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Towel",
+      "tag": "A",
+      "x": 819.9125366210938,
+      "y": 5606.0625,
+      "width": 30.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pillow Cover",
+      "tag": "A",
+      "x": 865.0499877929688,
+      "y": 5606.0625,
+      "width": 66.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Electronics:",
+      "tag": "A",
+      "x": 66,
+      "y": 5626.0625,
+      "width": 68.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bluetooth Speakers",
+      "tag": "A",
+      "x": 134.6999969482422,
+      "y": 5626.0625,
+      "width": 104.73750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 253.8874969482422,
+      "y": 5626.0625,
+      "width": 68.0625,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Earphone",
+      "tag": "A",
+      "x": 336.3999938964844,
+      "y": 5626.0625,
+      "width": 52.04999923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Trimmer",
+      "tag": "A",
+      "x": 402.8999938964844,
+      "y": 5626.0625,
+      "width": 44.212501525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hair Straightner",
+      "tag": "A",
+      "x": 461.5625,
+      "y": 5626.0625,
+      "width": 84.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hair Dryer",
+      "tag": "A",
+      "x": 560.0499877929688,
+      "y": 5626.0625,
+      "width": 54.67499923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Water Purifier",
+      "tag": "A",
+      "x": 629.1749877929688,
+      "y": 5626.0625,
+      "width": 72.9124984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mixer Grinder",
+      "tag": "A",
+      "x": 716.5375366210938,
+      "y": 5626.0625,
+      "width": 72.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Gas Stove",
+      "tag": "A",
+      "x": 803.6749877929688,
+      "y": 5626.0625,
+      "width": 56.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Electric Kettle",
+      "tag": "A",
+      "x": 874.1625366210938,
+      "y": 5626.0625,
+      "width": 73.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Computer Mouse",
+      "tag": "A",
+      "x": 961.9750366210938,
+      "y": 5626.0625,
+      "width": 92.05000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Computer Keyboard",
+      "tag": "A",
+      "x": 1068.4749755859375,
+      "y": 5626.0625,
+      "width": 107.4000015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "USB & HDMI Cables",
+      "tag": "A",
+      "x": 66,
+      "y": 5646.0625,
+      "width": 110.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Computer Antivirus",
+      "tag": "A",
+      "x": 191.15000915527344,
+      "y": 5646.0625,
+      "width": 101.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mobiles Accessories:",
+      "tag": "A",
+      "x": 66,
+      "y": 5666.0625,
+      "width": 122.2874984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mobile Covers",
+      "tag": "A",
+      "x": 188.28750610351562,
+      "y": 5666.0625,
+      "width": 76.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Leather Mobile Covers",
+      "tag": "A",
+      "x": 279.4375,
+      "y": 5666.0625,
+      "width": 120.73750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Printed Back Covers",
+      "tag": "A",
+      "x": 414.625,
+      "y": 5666.0625,
+      "width": 109.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tempered Glass",
+      "tag": "A",
+      "x": 538.4625244140625,
+      "y": 5666.0625,
+      "width": 87.375,
+      "height": 13.600000381469727,
+      "visible": true
+    }
+  ]
+}

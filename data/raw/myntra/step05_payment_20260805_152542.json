@@ -1,0 +1,108 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.myntra.com/checkout/payment",
+  "timestamp": "20260805_152542",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 51.20000076293945,
+      "y": -208.40000915527344,
+      "width": 54,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "View Eligible Styles",
+      "tag": "A",
+      "x": 2358,
+      "y": -57.400001525878906,
+      "width": 123.4124984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 395.95001220703125,
+      "y": 189.60000610351562,
+      "width": 350.45001220703125,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 850,
+      "y": -6,
+      "width": 280.875,
+      "height": 31.537500381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 896.4874877929688,
+      "y": 11.137499809265137,
+      "width": 77.2249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Need Help ? Contact Us",
+      "tag": "A",
+      "x": 788.9125366210938,
+      "y": 682.5,
+      "width": 0,
+      "height": 15.199999809265137,
+      "visible": false
+    },
+    {
+      "text": "iZooto",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Subscribe to notifications",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CLOSE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

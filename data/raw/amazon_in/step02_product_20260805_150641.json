@@ -1,0 +1,6462 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.amazon.in/s?k=mobile&crid=1R8FRNKMAZ8W2&sprefix=mobil%2Caps%2C758&ref=nb_sb_noss_2",
+  "timestamp": "20260805_150641",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": -533.6000366210938,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Main content",
+      "tag": "A",
+      "x": -9968,
+      "y": 54.79999923706055,
+      "width": 87.57500457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Results",
+      "tag": "A",
+      "x": -9968,
+      "y": 78.80000305175781,
+      "width": 49.35000228881836,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Filters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Filters",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Search\nalt\n+\n/",
+      "tag": "A",
+      "x": -9966,
+      "y": 157,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Cart\nshift\n+\nalt\n+\nC",
+      "tag": "A",
+      "x": -9966,
+      "y": 202,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Home\nshift\n+\nalt\n+\nH",
+      "tag": "A",
+      "x": -9966,
+      "y": 247,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Orders\nshift\n+\nalt\n+\nO",
+      "tag": "A",
+      "x": -9966,
+      "y": 292,
+      "width": 353.5874938964844,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Show/Hide shortcuts\nshift\n+\nalt\n+\nZ",
+      "tag": "BUTTON",
+      "x": -9966,
+      "y": 337,
+      "width": 350.8125,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": ".in",
+      "tag": "A",
+      "x": 12,
+      "y": -528.6000366210938,
+      "width": 129.72500610351562,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Deliver to Rohin\nMumbai 400051‌",
+      "tag": "A",
+      "x": 142.72500610351562,
+      "y": -528.6000366210938,
+      "width": 142.60000610351562,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 827.9500122070312,
+      "y": -523.6000366210938,
+      "width": 45,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "EN",
+      "tag": "A",
+      "x": 891.9500122070312,
+      "y": -527.6000366210938,
+      "width": 45.375,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 939.3250122070312,
+      "y": -497.6000061035156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Hello, Rohin\nAccount & Lists",
+      "tag": "A",
+      "x": 957.3250122070312,
+      "y": -528.6000366210938,
+      "width": 113.5250015258789,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1071.8499755859375,
+      "y": -497.1000061035156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Returns\n& Orders",
+      "tag": "A",
+      "x": 1090.8499755859375,
+      "y": -528.6000366210938,
+      "width": 76.95000457763672,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "0\nCart",
+      "tag": "A",
+      "x": 1169.800048828125,
+      "y": -528.6000366210938,
+      "width": 84,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Create a Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wish from Any Website",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Discover Your Style",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Explore Showroom",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Switch Accounts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign Out",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Wish List",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Keep shopping for",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Recommendations",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Membership",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Prime Video",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Subscribe & Save Items",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Memberships & Subscriptions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Seller Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Content Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Music Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Register for a free Business Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All",
+      "tag": "A",
+      "x": 11,
+      "y": -473.6000061035156,
+      "width": 58.41250228881836,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "Rufus",
+      "tag": "BUTTON",
+      "x": 76.4124984741211,
+      "y": -465.6000061035156,
+      "width": 71.38750457763672,
+      "height": 23,
+      "visible": true
+    },
+    {
+      "text": "Fresh",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": -468.6000061035156,
+      "width": 43.900001525878906,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 203.6999969482422,
+      "y": -455.6000061035156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Prime Video",
+      "tag": "A",
+      "x": 221.6999969482422,
+      "y": -468.6000061035156,
+      "width": 87.0875015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Sell",
+      "tag": "A",
+      "x": 318.7875061035156,
+      "y": -468.6000061035156,
+      "width": 33.375,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Gift Cards",
+      "tag": "A",
+      "x": 362.1625061035156,
+      "y": -468.6000061035156,
+      "width": 72.98750305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay",
+      "tag": "A",
+      "x": 445.1499938964844,
+      "y": -468.6000061035156,
+      "width": 87.9749984741211,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Buy Again",
+      "tag": "A",
+      "x": 543.125,
+      "y": -468.6000061035156,
+      "width": 73.57500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Coupons",
+      "tag": "A",
+      "x": 626.7000122070312,
+      "y": -468.6000061035156,
+      "width": 65.36250305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Today's Deals",
+      "tag": "A",
+      "x": 702.0625,
+      "y": -468.6000061035156,
+      "width": 94.8125,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Gift Ideas",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": -429.6000061035156,
+      "width": 70.7125015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Amazon Business",
+      "tag": "A",
+      "x": 240.5124969482422,
+      "y": -429.6000061035156,
+      "width": 119.4000015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 359.9125061035156,
+      "y": -416.6000061035156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Health, Household & Personal Care",
+      "tag": "A",
+      "x": 377.9125061035156,
+      "y": -429.6000061035156,
+      "width": 232.15000915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "AmazonBasics",
+      "tag": "A",
+      "x": 620.0625,
+      "y": -429.6000061035156,
+      "width": 99.82500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Books",
+      "tag": "A",
+      "x": 729.8875122070312,
+      "y": -429.6000061035156,
+      "width": 48.23749923706055,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Home Improvement",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": -390.6000061035156,
+      "width": 137.40000915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Browsing History",
+      "tag": "A",
+      "x": 307.20001220703125,
+      "y": -390.6000061035156,
+      "width": 118.05000305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 425.25,
+      "y": -377.6000061035156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Customer Service",
+      "tag": "A",
+      "x": 443.25,
+      "y": -390.6000061035156,
+      "width": 120.3375015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 573.5875244140625,
+      "y": -390.6000061035156,
+      "width": 77.51250457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Fashion",
+      "tag": "A",
+      "x": 661.1000366210938,
+      "y": -390.6000061035156,
+      "width": 58.57500076293945,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Rohin's Amazon.in",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": -351.6000061035156,
+      "width": 125.80000305175781,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "New Releases",
+      "tag": "A",
+      "x": 295.6000061035156,
+      "y": -351.6000061035156,
+      "width": 95.9625015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Prime",
+      "tag": "A",
+      "x": 401.5625,
+      "y": -351.6000061035156,
+      "width": 47.10000228881836,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 448.6625061035156,
+      "y": -338.6000061035156,
+      "width": 8,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": -351.6000061035156,
+      "width": 113.5875015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Computers",
+      "tag": "A",
+      "x": 590.25,
+      "y": -351.6000061035156,
+      "width": 79.5,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Grocery & Gourmet Foods",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": -312.6000061035156,
+      "width": 174.71250915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 344.51251220703125,
+      "y": -312.6000061035156,
+      "width": 78.7125015258789,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Mobiles",
+      "tag": "A",
+      "x": 433.2250061035156,
+      "y": -312.6000061035156,
+      "width": 59.1875,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Toys & Games",
+      "tag": "A",
+      "x": 502.4125061035156,
+      "y": -312.6000061035156,
+      "width": 99.0625,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Sports, Fitness & Outdoors",
+      "tag": "A",
+      "x": 611.4750366210938,
+      "y": -312.6000061035156,
+      "width": 180.2624969482422,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Subscribe & Save",
+      "tag": "A",
+      "x": 159.8000030517578,
+      "y": -273.6000061035156,
+      "width": 118.4749984741211,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Baby",
+      "tag": "A",
+      "x": 288.2749938964844,
+      "y": -273.6000061035156,
+      "width": 41.23749923706055,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Beauty & Personal Care",
+      "tag": "A",
+      "x": 339.51251220703125,
+      "y": -273.6000061035156,
+      "width": 158.4250030517578,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Pet Supplies",
+      "tag": "A",
+      "x": 507.9375,
+      "y": -273.6000061035156,
+      "width": 88.32500457763672,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 864.7999877929688,
+      "y": -473.6000061035156,
+      "width": 400,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 260,
+      "y": 341.6000061035156,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 252,
+      "y": 372,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 292,
+      "y": 341.6000061035156,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Load more",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 46.79999923706055,
+      "y": 461.20001220703125,
+      "width": 227.5124969482422,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 28,
+      "y": 556.7999877929688,
+      "width": 288,
+      "height": 52.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 28,
+      "y": 621.6000366210938,
+      "width": 288,
+      "height": 52.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 28,
+      "y": 686.4000244140625,
+      "width": 288,
+      "height": 52.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 28,
+      "y": 751.2000122070312,
+      "width": 288,
+      "height": 52.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 28,
+      "y": 816,
+      "width": 288,
+      "height": 52.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 28,
+      "y": 885.6000366210938,
+      "width": 20,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 885.6000366210938,
+      "width": 20,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Submit",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Resume response",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue to site",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue to site",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 7,
+      "y": -434.6000061035156,
+      "width": 17.600000381469727,
+      "height": 15.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 262.8000183105469,
+      "y": -371,
+      "width": 993.6000366210938,
+      "height": 332,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 266.8000183105469,
+      "y": -367,
+      "width": 41.60000228881836,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Your Voice, Your Vision, Your Security\nYour Voice, Your Vision, Your Security",
+      "tag": "A",
+      "x": 333.20001220703125,
+      "y": -365.70001220703125,
+      "width": 318.3374938964844,
+      "height": 23.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Shop Beetel",
+      "tag": "A",
+      "x": 672.0625,
+      "y": -336.8999938964844,
+      "width": 73.67500305175781,
+      "height": 15.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Previous page",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": -302.20001220703125,
+      "width": 489.20001220703125,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": -302.20001220703125,
+      "width": 244.60000610351562,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": -302.20001220703125,
+      "width": 489.20001220703125,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "Beetel B29 Designer Slim and Stylish Corded Landline Phone,Ringer Volume Control",
+      "tag": "A",
+      "x": 516.2000122070312,
+      "y": -243.1999969482422,
+      "width": 228.60000610351562,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "4.7\n \n4.7 out of 5 stars.\n \n(61)",
+      "tag": "A",
+      "x": 516.2000122070312,
+      "y": -197.60000610351562,
+      "width": 228.60000610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "₹699.00\n₹699\n.\n00\n (\n₹69,900.00\n₹69,900.00 / 100 g)",
+      "tag": "A",
+      "x": 516.2000122070312,
+      "y": -177.60000610351562,
+      "width": 174.0500030517578,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 762.4000244140625,
+      "y": -302.20001220703125,
+      "width": 489.20001220703125,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 762.4000244140625,
+      "y": -302.20001220703125,
+      "width": 244.60000610351562,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 762.4000244140625,
+      "y": -302.20001220703125,
+      "width": 489.20001220703125,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "Beetel M59N Caller ID Corded Landline Phone with 16 Digit LCD Display & Adjustab",
+      "tag": "A",
+      "x": 1015,
+      "y": -243.1999969482422,
+      "width": 228.60000610351562,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "4\n \n4 out of 5 stars.\n \n(10.6k)",
+      "tag": "A",
+      "x": 1015,
+      "y": -197.60000610351562,
+      "width": 228.60000610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "₹1,299.00\n₹1,299\n.\n00",
+      "tag": "A",
+      "x": 1015,
+      "y": -177.60000610351562,
+      "width": 75.55000305175781,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1261.2000732421875,
+      "y": -302.20001220703125,
+      "width": 489.20001220703125,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1261.2000732421875,
+      "y": -302.20001220703125,
+      "width": 244.60000610351562,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1261.2000732421875,
+      "y": -302.20001220703125,
+      "width": 489.20001220703125,
+      "height": 254.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "Beetel X92 2.4Ghz Cordless Landline Phone,Dual Mode DTMF/FSK,1 Line 7 Segment LC",
+      "tag": "A",
+      "x": 1513.800048828125,
+      "y": -243.1999969482422,
+      "width": 228.60000610351562,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "3.8\n \n3.8 out of 5 stars.\n \n(364)",
+      "tag": "A",
+      "x": 1513.800048828125,
+      "y": -197.60000610351562,
+      "width": 228.60000610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "₹2,690.00\n₹2,690\n.\n00",
+      "tag": "A",
+      "x": 1513.800048828125,
+      "y": -177.60000610351562,
+      "width": 75.55000305175781,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Next page",
+      "tag": "A",
+      "x": 1208.4000244140625,
+      "y": -200.6125030517578,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 58.29999923706055,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 518,
+      "y": 25.80000114440918,
+      "width": 66.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Let us know",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OnePlus N6x | 4GB+64GB | Ice Blue | 7000mAh Battery | Power for Days | 36-Months",
+      "tag": "A",
+      "x": 518,
+      "y": 46.60000228881836,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Limited time deal",
+      "tag": "A",
+      "x": 518,
+      "y": 111,
+      "width": 111.4749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹18,999\n₹18,999 \nM.R.P: ₹26,999\nM.R.P: \n₹26,999\n₹26,999",
+      "tag": "A",
+      "x": 518,
+      "y": 143.8000030517578,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 282,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 391.6000061035156,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 518,
+      "y": 342.3999938964844,
+      "width": 66.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Display with Promotion, A19 Pro ",
+      "tag": "A",
+      "x": 518,
+      "y": 363.20001220703125,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.6 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 415.20001220703125,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(528)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 419.20001220703125,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹1,65,900\n₹1,65,900 \nM.R.P: ₹1,69,900\nM.R.P: \n₹1,69,900\n₹1,69,900",
+      "tag": "A",
+      "x": 518,
+      "y": 456.8000183105469,
+      "width": 226.52500915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 595,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "+2 other colors/patterns",
+      "tag": "A",
+      "x": 520,
+      "y": 643.7999877929688,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 710.7000122070312,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy M07 Mobile (Black, 4GB RAM, 64GB Storage) | MediaTek Helio G99 | ",
+      "tag": "A",
+      "x": 518,
+      "y": 688.4000244140625,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.2 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 740.4000244140625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(2K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 744.4000244140625,
+      "width": 21.92500114440918,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹11,999\n₹11,999",
+      "tag": "A",
+      "x": 518,
+      "y": 802,
+      "width": 96.61250305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 920.2000122070312,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 997.4000244140625,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy M06 5G Mobile (Sage Green, 4GB RAM, 128GB Storage) | MediaTek Dim",
+      "tag": "A",
+      "x": 518,
+      "y": 976.6000366210938,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.0 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 1028.5999755859375,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(3.1K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 1032.5999755859375,
+      "width": 31.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹13,999\n₹13,999",
+      "tag": "A",
+      "x": 518,
+      "y": 1090.2000732421875,
+      "width": 96.61250305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 1168.4000244140625,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 1214,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 1214,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 1315,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 518,
+      "y": 1265.800048828125,
+      "width": 66.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Let us know",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apple iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, ",
+      "tag": "A",
+      "x": 518,
+      "y": 1286.5999755859375,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.5 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 1338.5999755859375,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(587)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 1342.5999755859375,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹1,50,900\n₹1,50,900 \nM.R.P: ₹1,54,900\nM.R.P: \n₹1,54,900\n₹1,54,900",
+      "tag": "A",
+      "x": 518,
+      "y": 1380.2000732421875,
+      "width": 226.52500915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 1518.4000244140625,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "+2 other colors/patterns",
+      "tag": "A",
+      "x": 520,
+      "y": 1567.2000732421875,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 1665,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 518,
+      "y": 1615.800048828125,
+      "width": 66.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Let us know",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lava Bold N2 (Siachen White, 4 GB RAM, 64 GB Storage) | 13MP AI Dual Rear Camera",
+      "tag": "A",
+      "x": 518,
+      "y": 1636.5999755859375,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "3.8 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 1688.5999755859375,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(424)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 1692.5999755859375,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹9,699\n₹9,699 \nM.R.P: ₹9,999\nM.R.P: \n₹9,999\n₹9,999",
+      "tag": "A",
+      "x": 518,
+      "y": 1750.2000732421875,
+      "width": 168.3249969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 1868.4000244140625,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "+1 other color/pattern",
+      "tag": "A",
+      "x": 520,
+      "y": 1917.2000732421875,
+      "width": 122.4000015258789,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 262.8000183105469,
+      "y": 1981,
+      "width": 70.86250305175781,
+      "height": 23,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 2012.800048828125,
+      "width": 224.8000030517578,
+      "height": 224.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "+2 other colors/patterns",
+      "tag": "A",
+      "x": 273.6000061035156,
+      "y": 2251.60009765625,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone 17 Pro Max 2 TB: 17.42 cm (6.9″) Display with Promotion, A19 Pro Ch",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 2278.60009765625,
+      "width": 224.8000030517578,
+      "height": 96,
+      "visible": true
+    },
+    {
+      "text": "4.6 out of 5 stars",
+      "tag": "A",
+      "x": 288.6499938964844,
+      "y": 2378.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(528)",
+      "tag": "A",
+      "x": 366.8000183105469,
+      "y": 2382.60009765625,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹2,25,900\n₹2,25,900 \nM.R.P: ₹2,29,900\nM.R.P: \n₹2,29,900\n₹2,29,900",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 2424.199951171875,
+      "width": 119.9625015258789,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 272.3999938964844,
+      "y": 2562.400146484375,
+      "width": 223.1999969482422,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 522,
+      "y": 2012.800048828125,
+      "width": 224.8000030517578,
+      "height": 224.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "+2 other colors/patterns",
+      "tag": "A",
+      "x": 524,
+      "y": 2251.60009765625,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone 17 Pro 512 GB: 15.93 cm (6.3″) Display with Promotion up to 120Hz, ",
+      "tag": "A",
+      "x": 522,
+      "y": 2278.60009765625,
+      "width": 224.8000030517578,
+      "height": 96,
+      "visible": true
+    },
+    {
+      "text": "4.5 out of 5 stars",
+      "tag": "A",
+      "x": 539.0499877929688,
+      "y": 2378.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(587)",
+      "tag": "A",
+      "x": 617.2000122070312,
+      "y": 2382.60009765625,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹1,50,900\n₹1,50,900 \nM.R.P: ₹1,54,900\nM.R.P: \n₹1,54,900\n₹1,54,900",
+      "tag": "A",
+      "x": 522,
+      "y": 2424.199951171875,
+      "width": 119.9625015258789,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 522.7999877929688,
+      "y": 2562.400146484375,
+      "width": 223.1999969482422,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 772.4000244140625,
+      "y": 2012.800048828125,
+      "width": 224.8000030517578,
+      "height": 224.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "+3 other colors/patterns",
+      "tag": "A",
+      "x": 774.4000244140625,
+      "y": 2251.60009765625,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Apple iPhone Air 1 TB: Thinnest iPhone Ever, 16.63 cm (6.5″) Display with Promot",
+      "tag": "A",
+      "x": 772.4000244140625,
+      "y": 2278.60009765625,
+      "width": 224.8000030517578,
+      "height": 96,
+      "visible": true
+    },
+    {
+      "text": "4.6 out of 5 stars",
+      "tag": "A",
+      "x": 789.4500122070312,
+      "y": 2378.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(321)",
+      "tag": "A",
+      "x": 867.6000366210938,
+      "y": 2382.60009765625,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹1,41,900\n₹1,41,900 \nM.R.P: ₹1,59,900\nM.R.P: \n₹1,59,900\n₹1,59,900",
+      "tag": "A",
+      "x": 772.4000244140625,
+      "y": 2424.199951171875,
+      "width": 119.9625015258789,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 773.2000122070312,
+      "y": 2562.400146484375,
+      "width": 223.1999969482422,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1022.7999877929688,
+      "y": 2012.800048828125,
+      "width": 224.8000030517578,
+      "height": 224.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "+2 other colors/patterns",
+      "tag": "A",
+      "x": 1024.800048828125,
+      "y": 2251.60009765625,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Oppo Reno16c 5G (Starry White, 8GB, 128GB) | 3D Design | 50MP 3.5X Telephoto Cam",
+      "tag": "A",
+      "x": 1022.7999877929688,
+      "y": 2278.60009765625,
+      "width": 224.8000030517578,
+      "height": 96,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars",
+      "tag": "A",
+      "x": 1039.8499755859375,
+      "y": 2378.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(15)",
+      "tag": "A",
+      "x": 1118,
+      "y": 2382.60009765625,
+      "width": 21.5625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹46,999\n₹46,999 \nM.R.P: ₹74,999\nM.R.P: \n₹74,999\n₹74,999",
+      "tag": "A",
+      "x": 1022.7999877929688,
+      "y": 2444.199951171875,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1023.6000366210938,
+      "y": 2582.400146484375,
+      "width": 223.1999969482422,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1273.2000732421875,
+      "y": 2012.800048828125,
+      "width": 224.8000030517578,
+      "height": 224.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "+2 other colors/patterns",
+      "tag": "A",
+      "x": 1275.2000732421875,
+      "y": 2251.60009765625,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "REDMI Turbo 5 (8GB + 256GB) Turbo White | MediaTek Dimensity 8500 Ultra | Mega 7",
+      "tag": "A",
+      "x": 1273.2000732421875,
+      "y": 2278.60009765625,
+      "width": 224.8000030517578,
+      "height": 96,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars",
+      "tag": "A",
+      "x": 1290.25,
+      "y": 2378.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(335)",
+      "tag": "A",
+      "x": 1368.4000244140625,
+      "y": 2382.60009765625,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹37,999\n₹37,999 \nM.R.P: ₹54,999\nM.R.P: \n₹54,999\n₹54,999",
+      "tag": "A",
+      "x": 1273.2000732421875,
+      "y": 2444.199951171875,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 1274,
+      "y": 2582.400146484375,
+      "width": 223.1999969482422,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 262.8000183105469,
+      "y": 2645,
+      "width": 993.6000366210938,
+      "height": 589.2000122070312,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 266.8000183105469,
+      "y": 2649,
+      "width": 80.5999984741211,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Zeno Bestselling Smartphones\nZeno Bestselling Smartphones",
+      "tag": "A",
+      "x": 372.20001220703125,
+      "y": 2650.300048828125,
+      "width": 257.8500061035156,
+      "height": 23.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Shop Zeno",
+      "tag": "A",
+      "x": 700.2374877929688,
+      "y": 2679.10009765625,
+      "width": 66.45000457763672,
+      "height": 15.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.8000183105469,
+      "y": 2902.275146484375,
+      "width": 35.60000228881836,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 511.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 270,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 511.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Zeno 100 Pro | 3GB RAM + 5GB Virtual RAM, 64GB Storage | 5000mAh Battery | UNISO",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 2991.800048828125,
+      "width": 303.6875,
+      "height": 83.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "5\n \n5 out of 5 stars.\n \n3",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 3079,
+      "width": 303.6875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "₹8,599.00\n₹8,599\n.\n00",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 3099,
+      "width": 75.55000305175781,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 592.8875122070312,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 511.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 592.8875122070312,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 270,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 592.8875122070312,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 511.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Zeno 100 Pro | 3GB RAM + 5GB Virtual RAM, 64GB Storage | 5000mAh Battery | UNISO",
+      "tag": "A",
+      "x": 600.8875122070312,
+      "y": 2991.800048828125,
+      "width": 303.6875,
+      "height": 83.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "5\n \n5 out of 5 stars.\n \n3",
+      "tag": "A",
+      "x": 600.8875122070312,
+      "y": 3079,
+      "width": 303.6875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "₹8,599.00\n₹8,599\n.\n00",
+      "tag": "A",
+      "x": 600.8875122070312,
+      "y": 3099,
+      "width": 75.55000305175781,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 922.1749877929688,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 511.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 922.1749877929688,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 270,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 922.1749877929688,
+      "y": 2713.800048828125,
+      "width": 319.6875,
+      "height": 511.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Zeno 100 Pro | 3GB RAM + 5GB Virtual RAM, 64GB Storage | 5000mAh Battery | UNISO",
+      "tag": "A",
+      "x": 930.1749877929688,
+      "y": 2991.800048828125,
+      "width": 303.6875,
+      "height": 83.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "5\n \n5 out of 5 stars.\n \n3",
+      "tag": "A",
+      "x": 930.1749877929688,
+      "y": 3079,
+      "width": 303.6875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "₹8,599.00\n₹8,599\n.\n00",
+      "tag": "A",
+      "x": 930.1749877929688,
+      "y": 3099,
+      "width": 75.55000305175781,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1219.800048828125,
+      "y": 2902.275146484375,
+      "width": 35.60000228881836,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 3267.175048828125,
+      "width": 496.8000183105469,
+      "height": 279.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 766.4000244140625,
+      "y": 3251,
+      "width": 242.40000915527344,
+      "height": 311.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "pTron Bassbuds NEO TWS Earbuds w/ 13mm Drivers, 45Hrs Playtime, Dual HD Mic & AI",
+      "tag": "A",
+      "x": 1020.7999877929688,
+      "y": 3287.800048828125,
+      "width": 230.40000915527344,
+      "height": 72,
+      "visible": true
+    },
+    {
+      "text": "3.6 out of 5 stars",
+      "tag": "A",
+      "x": 1037.8499755859375,
+      "y": 3363.800048828125,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(730)",
+      "tag": "A",
+      "x": 1116,
+      "y": 3367.800048828125,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹599\n₹599 \nM.R.P: ₹2,099\nM.R.P: \n₹2,099\n₹2,099",
+      "tag": "A",
+      "x": 1020.7999877929688,
+      "y": 3429.400146484375,
+      "width": 144.96250915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 3671.199951171875,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "realme NARZO 80 Lite 4G (Obsidian Black 2026, 4GB+64GB) | 6300mAh Segment's Bigg",
+      "tag": "A",
+      "x": 518,
+      "y": 3620.400146484375,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 3672.400146484375,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(1.8K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 3676.400146484375,
+      "width": 31.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹12,999\n₹12,999 \nM.R.P: ₹16,999\nM.R.P: \n₹16,999\n₹16,999",
+      "tag": "A",
+      "x": 518,
+      "y": 3734,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 3872.199951171875,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 3917.800048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 3917.800048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 593.7999877929688,
+      "y": 3917.800048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 4016.400146484375,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy M17 5G Mobile (Moonlight Silver, 6GB RAM, 128GB Storage) | 50MP O",
+      "tag": "A",
+      "x": 518,
+      "y": 3965.60009765625,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 4017.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(2.1K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 4021.60009765625,
+      "width": 31.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹19,999\n₹19,999 \nM.R.P: ₹23,999\nM.R.P: \n₹23,999\n₹23,999",
+      "tag": "A",
+      "x": 518,
+      "y": 4079.199951171875,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 4217.39990234375,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 4263,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 4263,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 4364,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 518,
+      "y": 4314.80029296875,
+      "width": 66.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Let us know",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apple iPhone Air 512 GB: Thinnest iPhone Ever, 16.63 cm (6.5″) Display with Prom",
+      "tag": "A",
+      "x": 518,
+      "y": 4335.60009765625,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.6 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 4387.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(321)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 4391.60009765625,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹1,21,900\n₹1,21,900 \nM.R.P: ₹1,39,900\nM.R.P: \n₹1,39,900\n₹1,39,900",
+      "tag": "A",
+      "x": 518,
+      "y": 4429.2001953125,
+      "width": 226.52500915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 4567.39990234375,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "+3 other colors/patterns",
+      "tag": "A",
+      "x": 520,
+      "y": 4616.2001953125,
+      "width": 133.25,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 4714,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 518,
+      "y": 4664.80029296875,
+      "width": 66.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Let us know",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lava Bold N2 Lite (Nilgiri Blue, 3 GB RAM, 64 GB Storage) | 6.75\" HD+ Display | ",
+      "tag": "A",
+      "x": 518,
+      "y": 4685.60009765625,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "3.4 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 4737.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(67)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 4741.60009765625,
+      "width": 21.5625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹8,999\n₹8,999",
+      "tag": "A",
+      "x": 518,
+      "y": 4799.2001953125,
+      "width": 80.2125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 4917.39990234375,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "+1 other color/pattern",
+      "tag": "A",
+      "x": 520,
+      "y": 4966.2001953125,
+      "width": 122.4000015258789,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 5034.2001953125,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "realme C71 4G Smartphone 6GB+128GB Black | 6300mAh Battery, 6.745 inch Screen, 9",
+      "tag": "A",
+      "x": 518,
+      "y": 5010.80029296875,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.2 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 5062.80029296875,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(12.4K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 5066.80029296875,
+      "width": 38.97500228881836,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹14,999\n₹14,999 \nM.R.P: ₹21,999\nM.R.P: \n₹21,999\n₹21,999",
+      "tag": "A",
+      "x": 518,
+      "y": 5124.39990234375,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 5218.80029296875,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 5326,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy M17 5G Mobile (Moonlight Silver, 8GB RAM, 128GB Storage) | 50MP O",
+      "tag": "A",
+      "x": 518,
+      "y": 5275.2001953125,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 5327.2001953125,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(879)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 5331.2001953125,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹21,999\n₹21,999 \nM.R.P: ₹26,999\nM.R.P: \n₹26,999\n₹26,999",
+      "tag": "A",
+      "x": 518,
+      "y": 5388.80029296875,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 5527,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 5572.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 5572.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 5651.2001953125,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy M36 5G Mobile (Velvet Black, 6GB RAM, 128GB Storage) | Google Gem",
+      "tag": "A",
+      "x": 518,
+      "y": 5620.39990234375,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 5672.39990234375,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(3.1K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 5676.39990234375,
+      "width": 31.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹19,999\n₹19,999 \nM.R.P: ₹25,499\nM.R.P: \n₹25,499\n₹25,499",
+      "tag": "A",
+      "x": 518,
+      "y": 5734,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 5832.2001953125,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 5877.80029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 5877.80029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 593.7999877929688,
+      "y": 5877.80029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 5976.39990234375,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "realme narzo 100 Lite 5G (Thunder Black,4GB+64GB) | 7000mAh Titan Battery | 4 Ye",
+      "tag": "A",
+      "x": 518,
+      "y": 5925.60009765625,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.0 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 5977.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(181)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 5981.60009765625,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹15,499\n₹15,499 \nM.R.P: ₹24,999\nM.R.P: \n₹24,999\n₹24,999",
+      "tag": "A",
+      "x": 518,
+      "y": 6039.2001953125,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 6177.39990234375,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 6223,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 6223,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 6321.60009765625,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "iQOO Z10 Lite 5G (Titanium Blue 2026, 4GB RAM, 64GB Storage) | Dimensity 6300 5G",
+      "tag": "A",
+      "x": 518,
+      "y": 6270.80029296875,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.2 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 6322.80029296875,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(209)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 6326.80029296875,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹16,999\n₹16,999 \nM.R.P: ₹27,999\nM.R.P: \n₹27,999\n₹27,999",
+      "tag": "A",
+      "x": 518,
+      "y": 6384.39990234375,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 6522.60009765625,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 6568.2001953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 6568.2001953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 6656.80029296875,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Lava Bold N2 Lite (Nilgiri Blue, 3 GB RAM, 64 GB Storage) | 6.75\" HD+ Display | ",
+      "tag": "A",
+      "x": 518,
+      "y": 6616,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "3.4 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 6668,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(67)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 6672,
+      "width": 21.5625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹8,999\n₹8,999",
+      "tag": "A",
+      "x": 518,
+      "y": 6729.60009765625,
+      "width": 80.2125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 6847.80029296875,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 6893.39990234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 6893.39990234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 6992,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "OnePlus Nord CE6 Lite | 8GB+128GB | Vivid Mint | Segment's Fastest Dimensity 740",
+      "tag": "A",
+      "x": 518,
+      "y": 6941.2001953125,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.4 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 6993.2001953125,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(422)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 6997.2001953125,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹27,999\n₹27,999 \nM.R.P: ₹33,999\nM.R.P: \n₹33,999\n₹33,999",
+      "tag": "A",
+      "x": 518,
+      "y": 7054.80029296875,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 7193,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 7238.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 7238.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 7337.2001953125,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy A56 5G (Awesome Olive, 8GB, 256GB) | Segment Most Complete Triple",
+      "tag": "A",
+      "x": 518,
+      "y": 7286.39990234375,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.3 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 7338.39990234375,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(354)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 7342.39990234375,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹38,999\n₹38,999 \nM.R.P: ₹52,999\nM.R.P: \n₹52,999\n₹52,999",
+      "tag": "A",
+      "x": 518,
+      "y": 7400,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 7538.2001953125,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 7583.80029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 7583.80029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 593.7999877929688,
+      "y": 7583.80029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 620.7999877929688,
+      "y": 7583.80029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 7695.39990234375,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "OnePlus N6 | 6GB+128GB | Midnight Green | Segment's Biggest 8000mAh Battery | Se",
+      "tag": "A",
+      "x": 518,
+      "y": 7631.60009765625,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "3.7 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 7683.60009765625,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(436)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 7687.60009765625,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹24,999\n₹24,999 \nM.R.P: ₹33,999\nM.R.P: \n₹33,999\n₹33,999",
+      "tag": "A",
+      "x": 518,
+      "y": 7745.2001953125,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 7883.39990234375,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 7929,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 7929,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 8027.60009765625,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "REDMI 15 5G Frosted White 8GB + 256GB | Segment's Largest 7000mAhA Battery | Seg",
+      "tag": "A",
+      "x": 518,
+      "y": 7976.80029296875,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.0 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 8028.80029296875,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(1.5K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 8032.80029296875,
+      "width": 31.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹25,499\n₹25,499 \nM.R.P: ₹36,999\nM.R.P: \n₹36,999\n₹36,999",
+      "tag": "A",
+      "x": 518,
+      "y": 8090.39990234375,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 8228.6005859375,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 8274.2001953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 8274.2001953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 593.7999877929688,
+      "y": 8274.2001953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 8322.2998046875,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Samsung Galaxy F07 (Green, 64 GB) (4 GB RAM)",
+      "tag": "A",
+      "x": 518,
+      "y": 8322,
+      "width": 731.2000122070312,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "3.7 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 8350,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(326)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 8354,
+      "width": 28.587499618530273,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹10,835\n₹10,835 \nM.R.P: ₹11,999\nM.R.P: \n₹11,999\n₹11,999",
+      "tag": "A",
+      "x": 518,
+      "y": 8411.6005859375,
+      "width": 192.33750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 8509.7998046875,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 271.6000061035156,
+      "y": 8607,
+      "width": 226.40000915527344,
+      "height": 218,
+      "visible": true
+    },
+    {
+      "text": "Nokia 130 Music | Built-in Powerful Loud Speaker with Music Player & Wireless FM",
+      "tag": "A",
+      "x": 518,
+      "y": 8566.2001953125,
+      "width": 731.2000122070312,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "4.0 out of 5 stars",
+      "tag": "A",
+      "x": 535.0499877929688,
+      "y": 8618.2001953125,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(9.4K)",
+      "tag": "A",
+      "x": 613.2000122070312,
+      "y": 8622.2001953125,
+      "width": 31.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "₹1,949\n₹1,949 \nM.R.P: ₹2,199\nM.R.P: \n₹2,199\n₹2,199",
+      "tag": "A",
+      "x": 518,
+      "y": 8679.7998046875,
+      "width": 168.3249969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 518,
+      "y": 8730,
+      "width": 90.6624984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 518.7999877929688,
+      "y": 8798,
+      "width": 240.8000030517578,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 539.7999877929688,
+      "y": 8843.6005859375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 566.7999877929688,
+      "y": 8843.6005859375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 8913.4755859375,
+      "width": 496.8000183105469,
+      "height": 279.45001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 766.4000244140625,
+      "y": 8883.400390625,
+      "width": 242.40000915527344,
+      "height": 339.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Wayona Type C to Type C Fast Charging Cable 65W Braided USB C to C for iPhone 17",
+      "tag": "A",
+      "x": 1020.7999877929688,
+      "y": 8920.2001953125,
+      "width": 230.40000915527344,
+      "height": 72,
+      "visible": true
+    },
+    {
+      "text": "4.1 out of 5 stars",
+      "tag": "A",
+      "x": 1037.8499755859375,
+      "y": 8996.2001953125,
+      "width": 75,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "(10.4K)",
+      "tag": "A",
+      "x": 1116,
+      "y": 9000.2001953125,
+      "width": 38.97500228881836,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Limited time deal",
+      "tag": "A",
+      "x": 1020.7999877929688,
+      "y": 9060.6005859375,
+      "width": 111.4749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹318.99\n₹318\n.\n99 \nM.R.P: ₹1,099\nM.R.P: \n₹1,099\n₹1,099",
+      "tag": "A",
+      "x": 1020.7999877929688,
+      "y": 9093.400390625,
+      "width": 160.1999969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "mobile vivo",
+      "tag": "A",
+      "x": 269.6000061035156,
+      "y": 9280.6005859375,
+      "width": 291.3999938964844,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "samsung mobiles",
+      "tag": "A",
+      "x": 269.6000061035156,
+      "y": 9341.2001953125,
+      "width": 291.3999938964844,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "mobile 5g",
+      "tag": "A",
+      "x": 582.6000366210938,
+      "y": 9280.6005859375,
+      "width": 291.3999938964844,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "mobile oppo",
+      "tag": "A",
+      "x": 582.6000366210938,
+      "y": 9341.2001953125,
+      "width": 291.3999938964844,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "mobiles under 10000",
+      "tag": "A",
+      "x": 895.6000366210938,
+      "y": 9280.6005859375,
+      "width": 291.3999938964844,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "iphone",
+      "tag": "A",
+      "x": 895.6000366210938,
+      "y": 9341.2001953125,
+      "width": 291.3999938964844,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 694.4000244140625,
+      "y": 9438,
+      "width": 48,
+      "height": 47.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "A",
+      "x": 742.4000244140625,
+      "y": 9438,
+      "width": 48,
+      "height": 47.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Next",
+      "tag": "A",
+      "x": 872.4000244140625,
+      "y": 9438,
+      "width": 94.80000305175781,
+      "height": 47.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 9607.400390625,
+      "width": 328.6000061035156,
+      "height": 243.46250915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 9607.400390625,
+      "width": 0.9750000238418579,
+      "height": 171.46250915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 9778.8623046875,
+      "width": 328.6000061035156,
+      "height": 106.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 427.3999938964844,
+      "y": 9790.8623046875,
+      "width": 1,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 263.6000061035156,
+      "y": 9778.8623046875,
+      "width": 328.6000061035156,
+      "height": 106.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Your Voice, Your Vision, Your Security\nYour Voice, Your Vision, Your Security",
+      "tag": "A",
+      "x": 309.7875061035156,
+      "y": 9850.8623046875,
+      "width": 236.21250915527344,
+      "height": 18.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 617.7999877929688,
+      "y": 9607.400390625,
+      "width": 328.6000061035156,
+      "height": 243.46250915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 617.7999877929688,
+      "y": 9607.400390625,
+      "width": 0.9750000238418579,
+      "height": 171.46250915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 617.7999877929688,
+      "y": 9778.8623046875,
+      "width": 328.6000061035156,
+      "height": 106.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 781.6000366210938,
+      "y": 9790.8623046875,
+      "width": 1,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 617.7999877929688,
+      "y": 9778.8623046875,
+      "width": 328.6000061035156,
+      "height": 106.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Zeno Bestselling Smartphones\nZeno Bestselling Smartphones",
+      "tag": "A",
+      "x": 685.5875244140625,
+      "y": 9850.8623046875,
+      "width": 193.0124969482422,
+      "height": 18.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Visit the help section",
+      "tag": "A",
+      "x": 262.8000183105469,
+      "y": 9924.462890625,
+      "width": 132.7624969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "contact us",
+      "tag": "A",
+      "x": 416.25,
+      "y": 9924.462890625,
+      "width": 65.0625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 1049.6500244140625,
+      "y": 10062.0625,
+      "width": 73.95000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Go back to filtering menu",
+      "tag": "A",
+      "x": 0,
+      "y": 167.40000915527344,
+      "width": 162.2375030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Skip to main search results",
+      "tag": "A",
+      "x": 0,
+      "y": 167.40000915527344,
+      "width": 169.625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Samsung",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": -342.1750183105469,
+      "width": 58.3125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Budget",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": -318.1499938964844,
+      "width": 45.78750228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "6gb + 128gb",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": -294.125,
+      "width": 81.17500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Under ₹21,000",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": -270.1000061035156,
+      "width": 95.375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "512gb",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Realme",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Premium",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Xiaomi",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": -246.875,
+      "width": 74.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Get It Today",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": -163.0500030517578,
+      "width": 76.98750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Get It by Tomorrow",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": -139.02500915527344,
+      "width": 123.05000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Get It in 2 Days",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": -115,
+      "width": 96.4000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Free Shipping\nGet FREE Shipping on eligible orders shipped by Amazon",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": -50.95000076293945,
+      "width": 230.40000915527344,
+      "height": 63.275001525878906,
+      "visible": true
+    },
+    {
+      "text": "Samsung",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 57.150001525878906,
+      "width": 58.3125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "realme",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 81.17500305175781,
+      "width": 43.775001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "OnePlus",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 105.20000457763672,
+      "width": 53.01250076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Motorola",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 129.22500610351562,
+      "width": 57.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Redmi",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 153.25,
+      "width": 40.1875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "iQOO",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 177.27500915527344,
+      "width": 36.212501525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "OPPO",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 201.3000030517578,
+      "width": 38.5625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Apple",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lava",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "vivo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "POCO",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nothing",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Itel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nokia",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Google",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XIAOMI",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SIAVANTAGE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Snexian",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AI+",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "IKALL",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SHIVANSH",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "JIO",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Acer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HMD",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "KECHAODA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Micromax",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PHILIPS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Foneme",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "senior world",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 224.52500915527344,
+      "width": 74.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Up to 1.9 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 293.3500061035156,
+      "width": 80.8125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "2 to 3.9 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 317.375,
+      "width": 70.8499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "4 to 5.9 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 341.3999938964844,
+      "width": 70.8499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "6 to 7.9 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 365.4250183105469,
+      "width": 70.8499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "8 to 9.9 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 389.45001220703125,
+      "width": 70.8499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "10 GB & Above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 413.4750061035156,
+      "width": 95.625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to 3.9 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 477.5249938964844,
+      "width": 80.8125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "4 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 501.5500183105469,
+      "width": 30.149999618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "8 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 525.5750122070312,
+      "width": 30.149999618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "16 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 549.6000366210938,
+      "width": 38.35000228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "32 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 573.625,
+      "width": 38.35000228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "64 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 597.6500244140625,
+      "width": 38.35000228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "128 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 621.6749877929688,
+      "width": 46.54999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "256 GB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 645.7000122070312,
+      "width": 46.54999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "512 GB & above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 669.7250366210938,
+      "width": 102.2249984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to ₹1,200",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 821.7999877929688,
+      "width": 83.48750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹1,200 - ₹11,000",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 845.8250122070312,
+      "width": 109.98750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹11,000 - ₹28,000",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 869.8500366210938,
+      "width": 118.20000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "₹28,000 - ₹38,000",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 893.875,
+      "width": 118.20000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Over ₹38,000",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 917.9000244140625,
+      "width": 86.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "All Discounts",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 981.9500122070312,
+      "width": 81.9749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Buy More, Save More",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 1005.9750366210938,
+      "width": 132.52500915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Coupons",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 1030,
+      "width": 55.36249923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Today's Deals",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 1054.0250244140625,
+      "width": 84.8125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "4 Stars\n & Up",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 1118.0750732421875,
+      "width": 127.2125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "2G",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1184.9000244140625,
+      "width": 17.899999618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "3G",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1208.925048828125,
+      "width": 17.899999618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "4G",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1232.9500732421875,
+      "width": 17.899999618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "5G",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1256.9749755859375,
+      "width": 17.899999618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to 2,999 mAh",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1321.0250244140625,
+      "width": 108.67500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "3,000 to 3,999 mAh",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1345.050048828125,
+      "width": 126.7874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "4,000 to 4,999 mAh",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1369.0750732421875,
+      "width": 126.7874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "5,000 to 5,999 mAh",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1393.0999755859375,
+      "width": 126.7874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "6,000 mAh & Above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1417.125,
+      "width": 126.9625015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "AMOLED",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1481.175048828125,
+      "width": 56.48749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LCD",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1505.2000732421875,
+      "width": 25.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "OLED",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1529.2249755859375,
+      "width": 35.73749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "New",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1593.2750244140625,
+      "width": 28.17500114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Less Than 0.99 GHz",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1657.3250732421875,
+      "width": 124.2125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1 - 1.49 GHz",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1681.3499755859375,
+      "width": 79.1624984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1.5 - 1.99 GHz",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1705.375,
+      "width": 90.8375015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "2 - 2.4 GHz",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1729.4000244140625,
+      "width": 70.9625015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "2.5 GHz & Above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1753.425048828125,
+      "width": 107.23750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to 2.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1817.4749755859375,
+      "width": 82.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "20 MP & above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1841.5,
+      "width": 95.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to 12.9 cm",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1905.550048828125,
+      "width": 89.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "15 to 17.9 cm",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1929.5750732421875,
+      "width": 87.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "18 cm & above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 1953.5999755859375,
+      "width": 94.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Top Brands",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2017.6500244140625,
+      "width": 71.07500457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "10% Off or more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2081.699951171875,
+      "width": 107.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "25% Off or more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2105.72509765625,
+      "width": 107.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "35% Off or more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2129.75,
+      "width": 107.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "50% Off or more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2153.775146484375,
+      "width": 107.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "60% Off or more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2177.800048828125,
+      "width": 107.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "70% Off or more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2201.824951171875,
+      "width": 107.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to 3.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2285.900146484375,
+      "width": 82.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "12 - 15.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2309.925048828125,
+      "width": 81.125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "16 - 19.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2333.949951171875,
+      "width": 81.125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "20 - 23.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2357.97509765625,
+      "width": 81.125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "32 MP & Above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2382,
+      "width": 97.51250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Symbian 9.1",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2446.050048828125,
+      "width": 78.48750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Android 14",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2470.074951171875,
+      "width": 70.5999984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Symbian 9.3",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2494.10009765625,
+      "width": 78.48750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Android 10.0",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2518.125,
+      "width": 82.2750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Android 11.0",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2542.150146484375,
+      "width": 82.2750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Android 12.0",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2566.175048828125,
+      "width": 82.2750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Android 13.0",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2590.199951171875,
+      "width": 82.2750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Android 9.0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Android 4.0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "KaiOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nucleus OS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2613.425048828125,
+      "width": 74.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Up to 6.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2682.25,
+      "width": 82.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "7.0 to 9.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2706.275146484375,
+      "width": 84.4124984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "10.0 to 12.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2730.300048828125,
+      "width": 100.82500457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "13.0 MP & above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2754.324951171875,
+      "width": 107.5875015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 62.400001525878906,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 88.4000015258789,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 114.4000015258789,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 140.40000915527344,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 166.40000915527344,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 192.40000915527344,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 218.40000915527344,
+      "y": 2817.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 62.400001525878906,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 88.4000015258789,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 114.4000015258789,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 140.40000915527344,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 166.40000915527344,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 192.40000915527344,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 218.40000915527344,
+      "y": 2840.574951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Last 30 days",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2908.400146484375,
+      "width": 78.4749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Last 90 days",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 2932.425048828125,
+      "width": 78.4749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Single SIM",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 2996.47509765625,
+      "width": 66.5999984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dual SIM",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3020.5,
+      "width": 56.38750076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Triple SIM",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3044.525146484375,
+      "width": 63.04999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bluetooth",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3108.574951171875,
+      "width": 63.22500228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Infrared",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3132.60009765625,
+      "width": 50.70000076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "NFC",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3156.625,
+      "width": 25.625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "USB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3180.650146484375,
+      "width": 26.450000762939453,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wi-Fi",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3204.675048828125,
+      "width": 32.95000076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1080p",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3268.72509765625,
+      "width": 41.11249923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "4k",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3292.75,
+      "width": 15.574999809265137,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "720p",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3316.775146484375,
+      "width": 32.900001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "8k",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3340.800048828125,
+      "width": 15.574999809265137,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "3.5mm Jack",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3404.85009765625,
+      "width": 75.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lightning",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3428.875,
+      "width": 60.775001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Micro USB",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3452.900146484375,
+      "width": 65.0999984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "USB Type C",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3476.925048828125,
+      "width": 72.6500015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fingerprint Recognition",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3540.97509765625,
+      "width": 149.65000915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Face Recognition",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3565,
+      "width": 107.0999984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Eligible for Pay On Delivery",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3629.050048828125,
+      "width": 173.5625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to 6.9 h",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3693.10009765625,
+      "width": 70.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "7 to 12.9 h",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3717.125,
+      "width": 69.01250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "13 to 18.9 h",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3741.150146484375,
+      "width": 77.2125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "19 h & above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3765.175048828125,
+      "width": 83.9749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Up to 9.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3849.25,
+      "width": 82.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "10 to 12.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3873.275146484375,
+      "width": 89.1500015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "13 to 15.9 MP",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3897.300048828125,
+      "width": 89.1500015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "16 MP & Above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3921.324951171875,
+      "width": 97.51250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Touchscreen",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 3985.375,
+      "width": 78.75,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Keypad",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4009.400146484375,
+      "width": 46.82500076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Buttons",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4033.425048828125,
+      "width": 49.900001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "OCR",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4057.449951171875,
+      "width": 27.962499618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Keyboard",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4081.47509765625,
+      "width": 60.025001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Microphone",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4105.5,
+      "width": 75.2750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Touchscreen with Stylus Support",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4129.52490234375,
+      "width": 152.78750610351562,
+      "height": 37.625,
+      "visible": true
+    },
+    {
+      "text": "Up to 141.9 g",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4213.60009765625,
+      "width": 87.07500457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "142 to 197.9 g",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4237.625,
+      "width": 93.51250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "198 to 254.9 g",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4261.64990234375,
+      "width": 93.51250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "255 g & Above",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4285.67529296875,
+      "width": 93.67500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1080 x 2400",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4349.72509765625,
+      "width": 79.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1280 x 720",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4373.75,
+      "width": 71.5,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1600 x 720",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4397.77490234375,
+      "width": 71.5,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1920 x 1080",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4421.80029296875,
+      "width": 79.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "2220 x 1080",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4445.8251953125,
+      "width": 79.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "2340 x 1080",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4469.85009765625,
+      "width": 79.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "240 x 320",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4493.875,
+      "width": 63.29999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "2400 x 1080",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2560 x 1440",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "320 x 240",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "720 x 1280",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "720 x 1560",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "720 x 1600",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 4517.10009765625,
+      "width": 74.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "16:9",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4585.92529296875,
+      "width": 28.087499618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "GPS",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4670,
+      "width": 26.075000762939453,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "GLONASS",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4694.02490234375,
+      "width": 62.462501525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Galileo",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4718.05029296875,
+      "width": 44.150001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "BeiDou",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4742.0751953125,
+      "width": 45.400001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "NavIC",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4766.10009765625,
+      "width": 36.70000076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "QZSS",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4790.125,
+      "width": 34.525001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Streaming",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4854.17529296875,
+      "width": 65.63750457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Gaming",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4878.2001953125,
+      "width": 49.5,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Photography",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4902.22509765625,
+      "width": 82.4000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Video Conferencing",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4926.25,
+      "width": 124.5625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "USB Cable",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 4990.30029296875,
+      "width": 65.67500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Screen Protector",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5014.3251953125,
+      "width": 105.9000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SIM Tray Ejector",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5038.35009765625,
+      "width": 101.88750457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Phone Case",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5062.375,
+      "width": 73.4000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Power Adapter",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5086.39990234375,
+      "width": 93.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Headset",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5110.42529296875,
+      "width": 51.91250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Quick Start Guide",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5134.4501953125,
+      "width": 112.3499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "False",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5198.5,
+      "width": 31.8125,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "True",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5222.52490234375,
+      "width": 27.950000762939453,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "60",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5286.5751953125,
+      "width": 16.412500381469727,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "90",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5310.60009765625,
+      "width": 16.412500381469727,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "120",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5334.625,
+      "width": 24.61250114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "144",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5358.64990234375,
+      "width": 24.61250114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "165",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5382.67529296875,
+      "width": 24.61250114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "3.5 mm",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5446.72509765625,
+      "width": 48.5625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "GSM",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5510.77490234375,
+      "width": 29.4375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LTE",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5534.80029296875,
+      "width": 22.462499618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wi-Fi",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5558.8251953125,
+      "width": 32.95000076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "CDMA",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5582.85009765625,
+      "width": 38.91250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "UMTS",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5606.875,
+      "width": 37.66250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bluetooth",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5630.89990234375,
+      "width": 63.22500228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dual LED",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5694.9501953125,
+      "width": 57.60000228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LED",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5718.97509765625,
+      "width": 24.850000381469727,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lithium-Ion",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5783.02490234375,
+      "width": 74.3375015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lithium-Polymer",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5807.05029296875,
+      "width": 106.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Include Out of Stock",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5871.10009765625,
+      "width": 130.1999969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "eSIM",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5935.14990234375,
+      "width": 31.05000114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Micro",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5959.17529296875,
+      "width": 34.98749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Nano",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 5983.2001953125,
+      "width": 33.73749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Standard",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6007.22509765625,
+      "width": 57.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "High Dynamic Range",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6071.27490234375,
+      "width": 131.9499969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Automatic",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6095.30029296875,
+      "width": 65.7874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Aperture Priority",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6119.3251953125,
+      "width": 106.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Scene",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6143.35009765625,
+      "width": 37.275001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sports",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6167.375,
+      "width": 41.45000076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Macro",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6191.39990234375,
+      "width": 38.79999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Night Mode",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6215.42529296875,
+      "width": 74.5,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Portrait",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 6238.64990234375,
+      "width": 74.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "AI Enhanced HDR",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6307.47509765625,
+      "width": 110.3499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Face Detection",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6331.5,
+      "width": 93.4000015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Optical Zoom",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6355.52490234375,
+      "width": 86.30000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Portrait Enhancement",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6379.55029296875,
+      "width": 139.6750030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6443.60009765625,
+      "width": 31.337499618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "China",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6467.625,
+      "width": 35.91250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "United States",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6491.64990234375,
+      "width": 85.92500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Vatican City",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6515.67529296875,
+      "width": 75.2874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Clicktech Retail Private Ltd",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6579.72509765625,
+      "width": 170.0625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "AIMS International",
+      "tag": "A",
+      "x": 36.400001525878906,
+      "y": 6603.75,
+      "width": 118.67500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Clicktech Business",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SOLOMAN GADGETS MART",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Risenet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW TECH WORLD ...",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Darshita Etel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "See more",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 6626.97509765625,
+      "width": 74.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 139.65000915527344,
+      "y": 7299.375,
+      "width": 73.95000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sponsored",
+      "tag": "A",
+      "x": 139.65000915527344,
+      "y": 8619.375,
+      "width": 73.95000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "View or edit your browsing history",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back to top",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 10111.6630859375,
+      "width": 1264.800048828125,
+      "height": 89,
+      "visible": true
+    },
+    {
+      "text": "About Amazon",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 10253.462890625,
+      "width": 94.2249984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 10280.2626953125,
+      "width": 47.04999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Press Releases",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 10307.0625,
+      "width": 90.7874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Science",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 10333.8623046875,
+      "width": 102.7125015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 374.6875,
+      "y": 10253.462890625,
+      "width": 59.91250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Twitter",
+      "tag": "A",
+      "x": 374.6875,
+      "y": 10280.2626953125,
+      "width": 45.375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 374.6875,
+      "y": 10307.0625,
+      "width": 64.13750457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sell on Amazon",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10236.6630859375,
+      "width": 98.80000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sell under Amazon Accelerator",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10263.462890625,
+      "width": 119.625,
+      "height": 34.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Protect and Build Your Brand",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10307.0625,
+      "width": 184.0749969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Global Selling",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10333.8623046875,
+      "width": 143.8249969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Supply to Amazon",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10360.6630859375,
+      "width": 116.2874984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Become an Affiliate",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10387.462890625,
+      "width": 123.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fulfilment by Amazon",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10414.2626953125,
+      "width": 139.9250030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Advertise Your Products",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10441.0625,
+      "width": 151.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon Pay on Merchants",
+      "tag": "A",
+      "x": 613.5875244140625,
+      "y": 10467.8623046875,
+      "width": 167.6125030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Your Account",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 10236.6630859375,
+      "width": 83.8499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Returns Centre",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 10263.462890625,
+      "width": 94.42500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Recalls and Product Safety Alerts",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 10290.2626953125,
+      "width": 169.1374969482422,
+      "height": 34.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "100% Purchase Protection",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 10333.8623046875,
+      "width": 168.41250610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon App Download",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 10360.6630859375,
+      "width": 149.03750610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Help",
+      "tag": "A",
+      "x": 920.8500366210938,
+      "y": 10387.462890625,
+      "width": 29.73750114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 433.9125061035156,
+      "y": 10568.2626953125,
+      "width": 76,
+      "height": 42.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "English",
+      "tag": "A",
+      "x": 606.2625122070312,
+      "y": 10571.0625,
+      "width": 88.9625015258789,
+      "height": 20.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 707.6375122070312,
+      "y": 10574.7626953125,
+      "width": 12,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "A",
+      "x": 736.5875244140625,
+      "y": 10564.2626953125,
+      "width": 90.30000305175781,
+      "height": 33.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "AbeBooks\nBooks, art\n& collectibles",
+      "tag": "A",
+      "x": 141.40000915527344,
+      "y": 10674.2626953125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Web Services\nScalable Cloud\nComputing Services",
+      "tag": "A",
+      "x": 331.3999938964844,
+      "y": 10674.2626953125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Audible\nDownload\nAudio Books",
+      "tag": "A",
+      "x": 521.4000244140625,
+      "y": 10674.2626953125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "IMDb\nMovies, TV\n& Celebrities",
+      "tag": "A",
+      "x": 711.4000244140625,
+      "y": 10674.2626953125,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Shopbop\nDesigner\nFashion Brands",
+      "tag": "A",
+      "x": 141.40000915527344,
+      "y": 10729.6630859375,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Business\nEverything For\nYour Business",
+      "tag": "A",
+      "x": 331.3999938964844,
+      "y": 10729.6630859375,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Amazon Music\nStream millions of songs",
+      "tag": "A",
+      "x": 521.4000244140625,
+      "y": 10729.6630859375,
+      "width": 132,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Conditions of Use & Sale",
+      "tag": "A",
+      "x": 463.4750061035156,
+      "y": 10810.8623046875,
+      "width": 148.46250915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Privacy Notice",
+      "tag": "A",
+      "x": 611.9375,
+      "y": 10810.8623046875,
+      "width": 91.375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Interest-Based Ads",
+      "tag": "A",
+      "x": 703.3125,
+      "y": 10810.8623046875,
+      "width": 116.01250457763672,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Let us know",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

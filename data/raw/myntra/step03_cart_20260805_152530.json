@@ -1,0 +1,981 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.myntra.com/checkout/cart",
+  "timestamp": "20260805_152530",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 51.20000076293945,
+      "y": 66.80000305175781,
+      "width": 54,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "View Eligible Styles",
+      "tag": "A",
+      "x": -684.4000244140625,
+      "y": 300.3999938964844,
+      "width": 123.4124984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "REMOVE",
+      "tag": "BUTTON",
+      "x": 515.5250244140625,
+      "y": 392.8999938964844,
+      "width": 50.03750228881836,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "MOVE TO WISHLIST",
+      "tag": "BUTTON",
+      "x": 608.1000366210938,
+      "y": 392.8999938964844,
+      "width": 133.5,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Men Printed Polo Collar T-shirt",
+      "tag": "A",
+      "x": 295.8000183105469,
+      "y": 483.70001220703125,
+      "width": 351.20001220703125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add More From Wishlist",
+      "tag": "A",
+      "x": 160,
+      "y": 659.7750244140625,
+      "width": 593.6000366210938,
+      "height": 53.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "APPLY",
+      "tag": "BUTTON",
+      "x": 1040.125,
+      "y": 131.9375,
+      "width": 70.2750015258789,
+      "height": 26.73750114440918,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 1023.2625122070312,
+      "y": 581.1124877929688,
+      "width": 71.5625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 813.2125244140625,
+      "y": 598.25,
+      "width": 77.2249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "PLACE ORDER",
+      "tag": "BUTTON",
+      "x": 790.4000244140625,
+      "y": 616.5875244140625,
+      "width": 320,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 945.0250244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 945.0250244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 945.0250244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 945.0250244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 945.0250244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 1312.8875732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 1312.8875732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 1312.8875732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 1312.8875732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 1312.8875732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 1680.75,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 1680.75,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 1680.75,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 1680.75,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 1680.75,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 2048.612548828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 2048.612548828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 2048.612548828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 2048.612548828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 2048.612548828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 2416.47509765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 2416.47509765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 2416.47509765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 2416.47509765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 2416.47509765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 2784.337646484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 2784.337646484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 2784.337646484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 2784.337646484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 2784.337646484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 3152.199951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 3152.199951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 3152.199951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 3152.199951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 3152.199951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 3520.0625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 3520.0625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 3520.0625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 3520.0625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 3520.0625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 3887.925048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 3887.925048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 3887.925048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 3887.925048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 3887.925048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 4255.78759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 4255.78759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 4255.78759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 4255.78759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 4255.78759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 4623.64990234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 4623.64990234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 4623.64990234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 4623.64990234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 4623.64990234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 4991.5126953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 4991.5126953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 4991.5126953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 4991.5126953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 4991.5126953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 5359.375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 5359.375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 5359.375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 5359.375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 5359.375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 5727.23779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 5727.23779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 5727.23779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 5727.23779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 5727.23779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 6095.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 6095.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 6095.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 6095.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 6095.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 6462.96240234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 6462.96240234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 6462.96240234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 6462.96240234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 6462.96240234375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 6830.8251953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 6830.8251953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 6830.8251953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 6830.8251953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 6830.8251953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 7198.6875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 7198.6875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 7198.6875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 714.7999877929688,
+      "y": 7198.6875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 896.7999877929688,
+      "y": 7198.6875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 168.8000030517578,
+      "y": 7566.55029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 7566.55029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.7999877929688,
+      "y": 7566.55029296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Need Help ? Contact Us",
+      "tag": "A",
+      "x": 788.9125366210938,
+      "y": 8030.16259765625,
+      "width": 0,
+      "height": 15.199999809265137,
+      "visible": false
+    },
+    {
+      "text": "iZooto",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Subscribe to notifications",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CLOSE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

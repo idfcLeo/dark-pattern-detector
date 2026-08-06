@@ -1,0 +1,756 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://www.flipkart.com/search?q=mobiles&as=on&as-show=on&otracker=AS_Query_TrendingAutoSuggest_1_0_na_na_na&otracker1=AS_Query_TrendingAutoSuggest_1_0_na_na_na&as-pos=1&as-type=TRENDING&suggestionId=mobiles&requestId=8c3543da-87d5-485a-afdc-83dcbabb61e1",
+  "timestamp": "20260805_151050",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 186,
+      "y": 10.737500190734863,
+      "width": 75,
+      "height": 20.11250114440918,
+      "visible": true
+    },
+    {
+      "text": "Explore Plus",
+      "tag": "A",
+      "x": 186,
+      "y": 29.850000381469727,
+      "width": 75,
+      "height": 15.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 617.3875122070312,
+      "y": 10,
+      "width": 41.60000228881836,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Become a Seller",
+      "tag": "A",
+      "x": 821.375,
+      "y": 0,
+      "width": 119.5374984741211,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "1\nCart",
+      "tag": "A",
+      "x": 1071.987548828125,
+      "y": 0,
+      "width": 64.01250457763672,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Flights",
+      "tag": "A",
+      "x": 1049.8250732421875,
+      "y": -210.40000915527344,
+      "width": 94.17500305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Offer Zone",
+      "tag": "A",
+      "x": 1144,
+      "y": -210.40000915527344,
+      "width": 120,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Mobiles & Accessories",
+      "tag": "A",
+      "x": 39,
+      "y": -65.5999984741211,
+      "width": 150,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mobiles",
+      "tag": "A",
+      "x": 39,
+      "y": -36,
+      "width": 150,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Need help?\nHelp me decide",
+      "tag": "A",
+      "x": 8,
+      "y": 2118.875,
+      "width": 270,
+      "height": 151.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 304,
+      "y": -147.5124969482422,
+      "width": 31.950000762939453,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mobiles & Accessories",
+      "tag": "A",
+      "x": 355.95001220703125,
+      "y": -147.5124969482422,
+      "width": 80,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mobiles",
+      "tag": "A",
+      "x": 455.95001220703125,
+      "y": -147.5124969482422,
+      "width": 42.29999923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nvivo T5 Lite 44W 5G (Wave Blue, 128 GB)\n4.2165 Ratings & 36 Revie",
+      "tag": "A",
+      "x": 312,
+      "y": -42.3125,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nvivo T5 Lite 44W 5G (Twilight Shadow, 128 GB)\n4.2430 Ratings & 45",
+      "tag": "A",
+      "x": 312,
+      "y": 243.0625,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nvivo T5 Lite 44W 5G (Wave Blue, 128 GB)\n4.2430 Ratings & 45 Revie",
+      "tag": "A",
+      "x": 312,
+      "y": 528.4375,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nvivo T5 Lite 44W 5G (Twilight Shadow, 128 GB)\n4.2165 Ratings & 36",
+      "tag": "A",
+      "x": 312,
+      "y": 813.8125,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nvivo T5 Lite 44W 5G (Twilight Shadow, 256 GB)\n4.2430 Ratings & 45",
+      "tag": "A",
+      "x": 312,
+      "y": 1099.1875,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nvivo T5 Lite 44W 5G (Wave Blue, 256 GB)\n4.2430 Ratings & 45 Revie",
+      "tag": "A",
+      "x": 312,
+      "y": 1384.5625,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nMOTOROLA g37 power (PANTONE Impenetrable, 128 GB)\n4.23,173 Rating",
+      "tag": "A",
+      "x": 312,
+      "y": 1669.9375,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nMOTOROLA g37 (PANTONE Nautical Blue, 64 GB)\n4.31,958 Ratings & 10",
+      "tag": "A",
+      "x": 312,
+      "y": 1955.3125,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nAi+ Pulse 2 (Blue, 128 GB)\n4.27,308 Ratings & 441 Reviews\n4 GB RA",
+      "tag": "A",
+      "x": 312,
+      "y": 2240.6875,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nNothing Phone (4b) (Black, 256 GB)\n4.4609 Ratings & 57 Reviews\n8 ",
+      "tag": "A",
+      "x": 312,
+      "y": 2526.0625,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nrealme P4 Lite 5G (Mosaic Green, 128 GB)\n4.31,850 Ratings & 149 R",
+      "tag": "A",
+      "x": 312,
+      "y": 2811.4375,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nSamsung Galaxy M17 5G (Sapphire Black, 128 GB)\n4.13,195 Ratings &",
+      "tag": "A",
+      "x": 312,
+      "y": 3096.8125,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nNokia 105 Classic Single Sim Keypad Phone, Without Charger\n423,25",
+      "tag": "A",
+      "x": 312,
+      "y": 3382.1875,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nOPPO K14 5G (Prism Violet, 256 GB)\n4.55,268 Ratings & 275 Reviews",
+      "tag": "A",
+      "x": 312,
+      "y": 3667.5625,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nOnePlus N6 5G (Midnight Green, 128 GB)\n4.288 Ratings & 8 Reviews\n",
+      "tag": "A",
+      "x": 312,
+      "y": 3952.9375,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nHMD Vibe2 5G (Cosmic Lavender, 128 GB)\n4.53,920 Ratings & 384 Rev",
+      "tag": "A",
+      "x": 312,
+      "y": 4238.3125,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nMOTOROLA g37 (PANTONE Capri, 64 GB)\n4.31,958 Ratings & 102 Review",
+      "tag": "A",
+      "x": 312,
+      "y": 4523.6875,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nApple iPhone 16 (Pink, 128 GB)\n4.61,95,354 Ratings & 8,367 Review",
+      "tag": "A",
+      "x": 312,
+      "y": 4809.0625,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nREDMI Note 14 SE 5G (Mystique White, 128 GB)\n4.230,758 Ratings & ",
+      "tag": "A",
+      "x": 312,
+      "y": 5094.4375,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nLAVA Bold N2 Lite (Nilgiri Blue, 64 GB)\n4156 Ratings & 8 Reviews\n",
+      "tag": "A",
+      "x": 312,
+      "y": 5379.8125,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nInfinix Hot 60 5G+ (Tundra Green, 128 GB)\n4.33,319 Ratings & 274 ",
+      "tag": "A",
+      "x": 312,
+      "y": 5665.1875,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nPOCO C85x (Emerald Green, 128 GB)\n4.24,754 Ratings & 594 Reviews\n",
+      "tag": "A",
+      "x": 312,
+      "y": 5950.5625,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nIQOO Z10R 5G (Aquamarine, 256 GB)\n4.46,080 Ratings & 460 Reviews\n",
+      "tag": "A",
+      "x": 312,
+      "y": 6235.9375,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "Add to Compare\nvivo T5x 5G (Cyber Green, 128 GB)\n4.416,143 Ratings & 1,066 Revie",
+      "tag": "A",
+      "x": 312,
+      "y": 6521.3125,
+      "width": 960,
+      "height": 230.5749969482422,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 619.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 651.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "A",
+      "x": 683.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "A",
+      "x": 715.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "5",
+      "tag": "A",
+      "x": 747.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "6",
+      "tag": "A",
+      "x": 779.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "7",
+      "tag": "A",
+      "x": 811.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "8",
+      "tag": "A",
+      "x": 843.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "9",
+      "tag": "A",
+      "x": 875.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "10",
+      "tag": "A",
+      "x": 907.1375122070312,
+      "y": 6797.48779296875,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "NEXT",
+      "tag": "A",
+      "x": 939.1375122070312,
+      "y": 6797.48779296875,
+      "width": 85.9749984741211,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "1. vivo T5x 5G (Cyber Green, 1...\n4.416,143 Ratings&1,066 Reviews\n₹24,99913% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 7013.48779296875,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "2. Apple iPhone 16 (Pink, 128 ...\n4.61,95,354 Ratings&8,367 Reviews\n₹67,9002% of",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 7217.8876953125,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "3. MOTOROLA g37 power (PANTONE...\n4.23,173 Ratings&370 Reviews\n₹17,99940% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 7422.28759765625,
+      "width": 293.51251220703125,
+      "height": 101,
+      "visible": true
+    },
+    {
+      "text": "4. realme P4 Lite 5G (Mosaic G...\n4.31,850 Ratings&149 Reviews\n₹20,99943% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 7683.28759765625,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "5. vivo T5 Lite 44W 5G (Wave B...\n4.2430 Ratings&45 Reviews\n₹24,99941% off",
+      "tag": "A",
+      "x": 220.08750915527344,
+      "y": 7887.6875,
+      "width": 293.51251220703125,
+      "height": 75.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 65,
+      "y": 8170.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 65,
+      "y": 8194.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 65,
+      "y": 8218.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Flipkart Stories",
+      "tag": "A",
+      "x": 65,
+      "y": 8242.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 65,
+      "y": 8266.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Corporate Information",
+      "tag": "A",
+      "x": 65,
+      "y": 8290.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Myntra",
+      "tag": "A",
+      "x": 215.66250610351562,
+      "y": 8170.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Cleartrip",
+      "tag": "A",
+      "x": 215.66250610351562,
+      "y": 8194.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Shopsy",
+      "tag": "A",
+      "x": 215.66250610351562,
+      "y": 8218.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Payments",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 8170.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Shipping",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 8194.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Returns",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 8218.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 366.32501220703125,
+      "y": 8242.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Returns",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8170.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8194.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Security",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8218.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8242.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8266.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8290.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "EPR Compliance",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8314.6875,
+      "width": 150.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "FSSAI Food Safety Connect App",
+      "tag": "A",
+      "x": 516.9874877929688,
+      "y": 8338.6875,
+      "width": 150.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 695.4500122070312,
+      "y": 8330.2880859375,
+      "width": 24,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 739.4500122070312,
+      "y": 8330.2880859375,
+      "width": 24,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 783.4500122070312,
+      "y": 8330.2880859375,
+      "width": 24,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 827.4500122070312,
+      "y": 8328.2880859375,
+      "width": 20,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "044-45614709",
+      "tag": "A",
+      "x": 1037.6875,
+      "y": 8298.2880859375,
+      "width": 83.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "044-45714709",
+      "tag": "A",
+      "x": 1131.9000244140625,
+      "y": 8298.2880859375,
+      "width": 82.9625015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Become a Seller",
+      "tag": "A",
+      "x": 64.4625015258789,
+      "y": 8455.6875,
+      "width": 109.8499984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gift Cards",
+      "tag": "A",
+      "x": 372.13751220703125,
+      "y": 8456.6875,
+      "width": 70.82500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Help Center",
+      "tag": "A",
+      "x": 506.4250183105469,
+      "y": 8455.6875,
+      "width": 83.0374984741211,
+      "height": 16,
+      "visible": true
+    }
+  ]
+}
