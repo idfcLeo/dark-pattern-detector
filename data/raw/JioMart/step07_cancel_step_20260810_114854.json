@@ -1,0 +1,396 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://www.jiomart.com/faq",
+  "timestamp": "20260810_114854",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1088,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1136,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 1184,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1240,
+      "y": 10,
+      "width": 40,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": -4970.80029296875,
+      "width": 44.462501525878906,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "FAQ's",
+      "tag": "A",
+      "x": 68.4625015258789,
+      "y": -4970.80029296875,
+      "width": 45.60000228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Grocery",
+      "tag": "A",
+      "x": 0,
+      "y": 730.2374877929688,
+      "width": 58.29999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 0,
+      "y": 770.2374877929688,
+      "width": 82.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fashion",
+      "tag": "A",
+      "x": 0,
+      "y": 810.2374877929688,
+      "width": 57.78750228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 0,
+      "y": 850.2374877929688,
+      "width": 51.1875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen",
+      "tag": "A",
+      "x": 0,
+      "y": 890.2374877929688,
+      "width": 119.17500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Premium Fruits",
+      "tag": "A",
+      "x": 0,
+      "y": 930.2374877929688,
+      "width": 112.0250015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Books",
+      "tag": "A",
+      "x": 0,
+      "y": 970.2374877929688,
+      "width": 46.775001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Furniture",
+      "tag": "A",
+      "x": 0,
+      "y": 1010.2374877929688,
+      "width": 66.5374984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fresh",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 730.2374877929688,
+      "width": 41.07500076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Biscuits Drinks & Packaged Foods",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 770.2374877929688,
+      "width": 202.9875030517578,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Cooking Essentials",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 834.2374877929688,
+      "width": 140.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 874.2374877929688,
+      "width": 103.5250015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 914.2374877929688,
+      "width": 51.1875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 954.2374877929688,
+      "width": 43.73749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kitchenware",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 994.2374877929688,
+      "width": 91.57500457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tableware",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 1034.237548828125,
+      "width": 74.5999984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "School, Office & Stationery",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 1074.237548828125,
+      "width": 198.60000610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Disposables",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 1114.237548828125,
+      "width": 90.11250305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 730.2374877929688,
+      "width": 87.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 770.2374877929688,
+      "width": 76.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 810.2374877929688,
+      "width": 57.51250076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Delivery Addresses",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 850.2374877929688,
+      "width": 141.22500610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "JioMart Wallet",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 890.2374877929688,
+      "width": 105.2750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 730.2374877929688,
+      "width": 68.38750457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 770.2374877929688,
+      "width": 31.287500381469727,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 810.2374877929688,
+      "width": 144.02500915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 850.2374877929688,
+      "width": 102.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "E-waste Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 890.2374877929688,
+      "width": 108.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Return Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 930.2374877929688,
+      "width": 209.5,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shipping & Delivery Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 970.2374877929688,
+      "width": 191.5749969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "AC Installation by resQ",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 1010.2374877929688,
+      "width": 168.90000915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "70003 70003",
+      "tag": "A",
+      "x": 1127.625,
+      "y": 722.2374877929688,
+      "width": 94.36250305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1800 890 1222",
+      "tag": "A",
+      "x": 1079.7249755859375,
+      "y": 746.2374877929688,
+      "width": 107.92500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1021.1875,
+      "y": 983.0375366210938,
+      "width": 129.75,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1162.9375,
+      "y": 983.0375366210938,
+      "width": 117.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powered by Kaily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

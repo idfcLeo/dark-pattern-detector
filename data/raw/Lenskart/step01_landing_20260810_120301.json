@@ -1,0 +1,1629 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.lenskart.com/",
+  "timestamp": "20260810_120301",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "No thanks",
+      "tag": "BUTTON",
+      "x": 949,
+      "y": 153.90000915527344,
+      "width": 130,
+      "height": 32.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Sign me up!",
+      "tag": "BUTTON",
+      "x": 1094,
+      "y": 153.90000915527344,
+      "width": 130,
+      "height": 32.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 8,
+      "y": 8,
+      "width": 151.10000610351562,
+      "height": 38.85000228881836,
+      "visible": true
+    },
+    {
+      "text": "Corporate",
+      "tag": "A",
+      "x": 36,
+      "y": 16,
+      "width": 56.462501525878906,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "StoreLocator",
+      "tag": "A",
+      "x": 92.4625015258789,
+      "y": 16,
+      "width": 77.4000015258789,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Singapore",
+      "tag": "A",
+      "x": 169.8625030517578,
+      "y": 16,
+      "width": 63.45000076293945,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "UAE",
+      "tag": "A",
+      "x": 233.3125,
+      "y": 16,
+      "width": 33.25,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "John Jacobs",
+      "tag": "A",
+      "x": 266.5625,
+      "y": 16,
+      "width": 71.3125,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Aqualens",
+      "tag": "A",
+      "x": 337.875,
+      "y": 16,
+      "width": 57.78750228881836,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Cobrowsing",
+      "tag": "A",
+      "x": 395.6625061035156,
+      "y": 16,
+      "width": 72.5999984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Engineering Blog",
+      "tag": "A",
+      "x": 468.26251220703125,
+      "y": 16,
+      "width": 94.9124984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Partner With Us",
+      "tag": "A",
+      "x": 563.1749877929688,
+      "y": 16,
+      "width": 86.0999984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 43,
+      "width": 49,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "EYEGLASSES",
+      "tag": "A",
+      "x": 114,
+      "y": 38,
+      "width": 78.4749984741211,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SUNGLASSES",
+      "tag": "A",
+      "x": 216.47500610351562,
+      "y": 38,
+      "width": 81.55000305175781,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONTACTS",
+      "tag": "A",
+      "x": 322.0249938964844,
+      "y": 38,
+      "width": 67.32500457763672,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SPECIAL POWER",
+      "tag": "A",
+      "x": 413.3500061035156,
+      "y": 38,
+      "width": 99.4625015258789,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "STORES",
+      "tag": "A",
+      "x": 536.8125,
+      "y": 38,
+      "width": 48,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Locate a Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TRY @ HOME",
+      "tag": "A",
+      "x": 608.8125,
+      "y": 38,
+      "width": 76.0250015258789,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Book appointment",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1120,
+      "y": 56,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1168,
+      "y": 56,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1216,
+      "y": 57,
+      "width": 24,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1265,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2530,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3795,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5060,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6325,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 7590,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 8855,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 10120,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 11385,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 12650,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 13915,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15180,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16445,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 17710,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 18975,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20240,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 21505,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 22770,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 24035,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 25300,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 26565,
+      "y": 40,
+      "width": 1265,
+      "height": 421.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 40,
+      "y": 405.6625061035156,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1200,
+      "y": 405.6625061035156,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 848.5375366210938,
+      "width": 1280,
+      "height": 426.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 112,
+      "y": 1381.800048828125,
+      "width": 147.8000030517578,
+      "height": 177.4250030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 291.8000183105469,
+      "y": 1381.800048828125,
+      "width": 147.8000030517578,
+      "height": 177.4250030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 471.6000061035156,
+      "y": 1381.800048828125,
+      "width": 147.8000030517578,
+      "height": 177.4250030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 651.4000244140625,
+      "y": 1381.800048828125,
+      "width": 147.8000030517578,
+      "height": 177.4250030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 831.2000122070312,
+      "y": 1381.800048828125,
+      "width": 147.8000030517578,
+      "height": 177.4250030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1011,
+      "y": 1381.800048828125,
+      "width": 147.8000030517578,
+      "height": 177.4250030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1190.800048828125,
+      "y": 1381.800048828125,
+      "width": 147.8000030517578,
+      "height": 177.4250030517578,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 116,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 431.25,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 746.5,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 1061.75,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 1377,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 1692.25,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 2007.5,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 2322.75,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 2638,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 2953.25,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 3268.5,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 3583.75,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 3899,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 4214.25,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop now",
+      "tag": "A",
+      "x": 4529.5,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 4844.75,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop now",
+      "tag": "A",
+      "x": 5160,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "Shop now",
+      "tag": "A",
+      "x": 5475.25,
+      "y": 1685.0250244140625,
+      "width": 283.25,
+      "height": 377.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 112,
+      "y": 2188.487548828125,
+      "width": 159.1750030517578,
+      "height": 191.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 303.1750183105469,
+      "y": 2188.487548828125,
+      "width": 159.1750030517578,
+      "height": 191.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 494.3500061035156,
+      "y": 2188.487548828125,
+      "width": 159.1750030517578,
+      "height": 191.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 685.5250244140625,
+      "y": 2188.487548828125,
+      "width": 159.1750030517578,
+      "height": 191.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.7000122070312,
+      "y": 2188.487548828125,
+      "width": 159.1750030517578,
+      "height": 191.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1067.875,
+      "y": 2188.487548828125,
+      "width": 159.1750030517578,
+      "height": 191.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1259.050048828125,
+      "y": 2188.487548828125,
+      "width": 159.1750030517578,
+      "height": 191.0749969482422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 3506.625,
+      "width": 1280,
+      "height": 426.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 5790.22509765625,
+      "width": 1280,
+      "height": 320,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 6146.02490234375,
+      "width": 1280,
+      "height": 213.3249969482422,
+      "visible": true
+    },
+    {
+      "text": "eyeglasses",
+      "tag": "A",
+      "x": 468.0625,
+      "y": 6569.30029296875,
+      "width": 72.6500015258789,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "sunglasses",
+      "tag": "A",
+      "x": 546.7625122070312,
+      "y": 6569.30029296875,
+      "width": 71.25,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "contact lenses",
+      "tag": "A",
+      "x": 799.4125366210938,
+      "y": 6569.30029296875,
+      "width": 94.63750457763672,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1216,
+      "y": 552,
+      "width": 64,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 55,
+      "y": 6724.27490234375,
+      "width": 81.75,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Buying Guide",
+      "tag": "A",
+      "x": 55,
+      "y": 6761.27490234375,
+      "width": 79.57500457763672,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Frame Size",
+      "tag": "A",
+      "x": 55,
+      "y": 6798.27490234375,
+      "width": 64.0250015258789,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "We Are Hiring",
+      "tag": "A",
+      "x": 237.16250610351562,
+      "y": 6724.27490234375,
+      "width": 79.3499984741211,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Refer And Earn",
+      "tag": "A",
+      "x": 237.16250610351562,
+      "y": 6761.27490234375,
+      "width": 86.7125015258789,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Lenskart Coupons",
+      "tag": "A",
+      "x": 237.16250610351562,
+      "y": 6798.27490234375,
+      "width": 108.4124984741211,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "FAQ's",
+      "tag": "A",
+      "x": 445.57501220703125,
+      "y": 6724.27490234375,
+      "width": 35.17499923706055,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal",
+      "tag": "A",
+      "x": 445.57501220703125,
+      "y": 6761.27490234375,
+      "width": 121.75,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Cardemi",
+      "tag": "A",
+      "x": 445.57501220703125,
+      "y": 6798.27490234375,
+      "width": 51.212501525878906,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1044.2874755859375,
+      "y": 6703,
+      "width": 0,
+      "height": 18.5625,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1052.3875732421875,
+      "y": 6703,
+      "width": 0,
+      "height": 18.5625,
+      "visible": false
+    },
+    {
+      "text": "T & C",
+      "tag": "A",
+      "x": 55,
+      "y": 6894.28759765625,
+      "width": 33.625,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 137.22500610351562,
+      "y": 6894.28759765625,
+      "width": 48.67499923706055,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Disclaimer",
+      "tag": "A",
+      "x": 234.5,
+      "y": 6894.28759765625,
+      "width": 70.26250457763672,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Cookie Settings",
+      "tag": "A",
+      "x": 353.3625183105469,
+      "y": 6894.28759765625,
+      "width": 107.7750015258789,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091,
+      "y": 6891.0751953125,
+      "width": 38,
+      "height": 31.42500114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1129,
+      "y": 6891.0751953125,
+      "width": 38,
+      "height": 31.42500114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1167,
+      "y": 6891.0751953125,
+      "width": 38,
+      "height": 31.42500114440918,
+      "visible": true
+    }
+  ]
+}

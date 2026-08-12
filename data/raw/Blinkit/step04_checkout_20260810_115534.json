@@ -1,0 +1,18 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://blinkit.com/checkout",
+  "timestamp": "20260810_115534",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": -47.20000076293945,
+      "width": 178,
+      "height": 68,
+      "visible": true
+    }
+  ]
+}

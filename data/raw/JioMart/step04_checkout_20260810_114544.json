@@ -1,0 +1,108 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.jiomart.com/cart/bag",
+  "timestamp": "20260810_114544",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1088,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1136,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 1184,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1240,
+      "y": 10,
+      "width": 40,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Order limit",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 615.2000122070312,
+      "y": 267.6000061035156,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 685.2000122070312,
+      "y": 267.6000061035156,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Pay now\n₹169.00",
+      "tag": "BUTTON",
+      "x": 880,
+      "y": 788.4000244140625,
+      "width": 416,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Cancellation policy",
+      "tag": "A",
+      "x": 896,
+      "y": 928.4000244140625,
+      "width": 104.7125015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powered by Kaily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

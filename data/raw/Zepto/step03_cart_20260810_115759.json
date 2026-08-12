@@ -1,0 +1,3042 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.zepto.com/pn/the-health-factory-zero-maida-whole-wheat-bread-clean-label-not-brown/pvid/58bd25ce-8f73-4031-96ed-7a1278834d2b?cart=open",
+  "timestamp": "20260810_115759",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20.80000114440918,
+      "y": 29.80000114440918,
+      "width": 90,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Select Location",
+      "tag": "BUTTON",
+      "x": 122.80000305175781,
+      "y": 44.79999923706055,
+      "width": 256,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Search for\n“chocolate box”",
+      "tag": "A",
+      "x": 390.8000183105469,
+      "y": 22,
+      "width": 750.3125,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 1153.112548828125,
+      "y": 22.80000114440918,
+      "width": 38.25,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Cart\n1",
+      "tag": "BUTTON",
+      "x": 1203.362548828125,
+      "y": 22.80000114440918,
+      "width": 25.637500762939453,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 936.7999877929688,
+      "y": 18,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1127.2000732421875,
+      "y": 18,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 126.4000015258789,
+      "width": 35.79999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Dairy, Bread & Eggs",
+      "tag": "A",
+      "x": 171.6999969482422,
+      "y": 126.4000015258789,
+      "width": 114.42500305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Breads & Buns",
+      "tag": "A",
+      "x": 317.125,
+      "y": 126.4000015258789,
+      "width": 84.20000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 177.60000610351562,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 248.8000030517578,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 320,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 391.20001220703125,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 462.3999938964844,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 533.6000366210938,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 604.7999877929688,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 676,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 747.2000122070312,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 818.4000244140625,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 889.6000366210938,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 104.9000015258789,
+      "y": 960.7999877929688,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 114.9000015258789,
+      "y": 586.4000244140625,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 536.1000366210938,
+      "y": 606.7999877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 574.1000366210938,
+      "y": 606.7999877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 189.6999969482422,
+      "y": 683.6000366210938,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 582.1000366210938,
+      "y": 683.6000366210938,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "The Health Factory",
+      "tag": "A",
+      "x": 655.7000122070312,
+      "y": 194.40000915527344,
+      "width": 132.96250915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1088.0999755859375,
+      "y": 224.40000915527344,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "No Return or Exchange",
+      "tag": "BUTTON",
+      "x": 655.7000122070312,
+      "y": 409,
+      "width": 96,
+      "height": 96,
+      "visible": true
+    },
+    {
+      "text": "Fast Delivery",
+      "tag": "BUTTON",
+      "x": 763.7000122070312,
+      "y": 409,
+      "width": 96,
+      "height": 96,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹55\nThe Health Factory Zero Maida Whole Wheat Bread | Clean Label, Not Brown",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 184.10000610351562,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹50\nEnglish Oven Milk Bread\n1 pack (400 g)\n4.5\n(43.4k)",
+      "tag": "A",
+      "x": 254.90000915527344,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 334.1000061035156,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹60\nModern Multigrain Bread - 13 Grains & Seeds (Zero Maida)\n1 pack (400 g)\n",
+      "tag": "A",
+      "x": 404.8999938964844,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 484.1000061035156,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹59\n₹60\n₹1\nOFF\nModern - Zero Maida Whole Wheat Bread\n1 pack (400 g or 430 g)",
+      "tag": "A",
+      "x": 554.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 634.1000366210938,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹60\nEnglish Oven Zero Maida Whole Wheat Bread | High Fibre\n1 pack (400 g)\n4.",
+      "tag": "A",
+      "x": 704.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 784.1000366210938,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹60\nEnglish Oven Zero Maida Atta Bread | High Fibre\n1 pack (400 g)\n4.6\n(68.8",
+      "tag": "A",
+      "x": 854.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 934.1000366210938,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹70\nEnglish Oven Zero Maida Multigrain Bread | High Fibre | 11 Grains\n1 pack",
+      "tag": "A",
+      "x": 1004.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1084.0999755859375,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹56\n₹60\n₹4\nOFF\nNaturbaked Zero Maida Whole Wheat Bread | No Added Preservati",
+      "tag": "A",
+      "x": 1154.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1234.0999755859375,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹105\n₹120\n₹15\nOFF\nThe Health Factory Zero Maida Classic Sourdough | Clean La",
+      "tag": "A",
+      "x": 1304.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1384.0999755859375,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹78\n₹80\n₹2\nOFF\nThe Health Factory Zero Maida Multigrain Bread | Clean Label,",
+      "tag": "A",
+      "x": 1454.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1534.0999755859375,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹76\n₹90\n₹14\nOFF\nModern Butter Crust Milk Bread\n1 pack (350 g)\n4.4\n(40)",
+      "tag": "A",
+      "x": 1604.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1684.0999755859375,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹70\nThe Baker's Dozen Zero Maida Whole Wheat Bread | Sandwich Atta Bread (No",
+      "tag": "A",
+      "x": 1754.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1834.0999755859375,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹76\n₹85\n₹9\nOFF\nBaker's Loaf Zero Preservatives Whole Wheat Bread\n1 pack (350",
+      "tag": "A",
+      "x": 1904.9000244140625,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1984.0999755859375,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹89\nThe Baker's Dozen Zero Maida Pizza Base | Gut Friendly Sourdough | Whole",
+      "tag": "A",
+      "x": 2054.900146484375,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2134.10009765625,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹66\n₹70\n₹4\nOFF\nTheobroma Zero Maida Multigrain Bread | No Preservatives | No",
+      "tag": "A",
+      "x": 2204.900146484375,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2284.10009765625,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹69\nProtein Chef 32g Protein Sharbati Wheat Bread (No Maida)\n1 pack (250 g)\n",
+      "tag": "A",
+      "x": 2354.900146484375,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2434.10009765625,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹59\n₹70\n₹11\nOFF\nTheobroma Zero Maida Whole Wheat Bread | No Preservatives | ",
+      "tag": "A",
+      "x": 2504.900146484375,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2584.10009765625,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹81\n₹90\n₹9\nOFF\nBaker's Loaf Zero Preservatives Multigrain Bread\n1 pack (350 ",
+      "tag": "A",
+      "x": 2654.900146484375,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2734.10009765625,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹57\n₹60\n₹3\nOFF\nTheobroma Zero Maida Whole wheat bread | No Preservatives | N",
+      "tag": "A",
+      "x": 2804.900146484375,
+      "y": 2509,
+      "width": 140,
+      "height": 309.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2884.10009765625,
+      "y": 2612.199951171875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹30\nAmul Taaza Toned Fresh Milk | Pouch\n1 pack (500 ml)\n4.7\n(1.2M)",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 184.10000610351562,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹270\n₹300\n₹30\nOFF\nAmul Peanut Butter Spread Crunchy\n1 pc (900 g)",
+      "tag": "A",
+      "x": 254.90000915527344,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 334.1000061035156,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹62\n₹63\n₹1\nOFF\nAmul Salted Butter\n1 pack (100 g)\n4.8\n(817.8k)",
+      "tag": "A",
+      "x": 404.8999938964844,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 484.1000061035156,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹250\nAmul Chocolate Hazelnut Spread\n1 pc (300 g)",
+      "tag": "A",
+      "x": 554.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 634.1000366210938,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹36\nAmul Gold Full Cream Fresh Milk | Pouch\n1 pack (500 ml)\n4.7\n(1.5M)",
+      "tag": "A",
+      "x": 704.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 784.1000366210938,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹45\n₹70\n₹25\nOFF\nWingreens Farms Veg Mayo\n180 g",
+      "tag": "A",
+      "x": 854.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 934.1000366210938,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹95\nAmul Fresh Malai Paneer\n1 pack (200 g)\n4.7\n(382.0k)",
+      "tag": "A",
+      "x": 1004.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1084.0999755859375,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹56\n₹70\n₹14\nOFF\nWingreens Farms Tandoori Flavoured Mayonnaise | Veg\n1 pack (",
+      "tag": "A",
+      "x": 1154.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1234.0999755859375,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹137\n₹145\n₹8\nOFF\nAmul Cheese Slices\n1 pack (200 g)\n4.8\n(56.3k)",
+      "tag": "A",
+      "x": 1304.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1384.0999755859375,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹42\n₹50\n₹8\nOFF\nHellmann's Cheezy Jalapeno Burst Mayo\n1 pack (85 g)",
+      "tag": "A",
+      "x": 1454.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1534.0999755859375,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹102\n₹140\n₹38\nOFF\nMilky Mist Paneer\n1 pack (200 g)\n4.6\n(121.0k)\nBestseller",
+      "tag": "A",
+      "x": 1604.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1684.0999755859375,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹66\n₹70\n₹4\nOFF\nWingreens Farms Chipotle Mayo Sauce And Spread\n1 pc (180 g)",
+      "tag": "A",
+      "x": 1754.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1834.0999755859375,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹93\n₹95\n₹2\nOFF\nMother Dairy Fresh Paneer\n1 pack (200 g)\n4.6\n(129.9k)",
+      "tag": "A",
+      "x": 1904.9000244140625,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1984.0999755859375,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹42\n₹50\n₹8\nOFF\nHellmann's Smoky Tandoori Mayo\n1 pack (85 g)",
+      "tag": "A",
+      "x": 2054.900146484375,
+      "y": 2902.60009765625,
+      "width": 140,
+      "height": 289.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2134.10009765625,
+      "y": 3005.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Ice Creams",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3611.400146484375,
+      "width": 70.7750015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Sunscreen",
+      "tag": "A",
+      "x": 275.875,
+      "y": 3611.400146484375,
+      "width": 66.0875015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ice Cream Cake",
+      "tag": "A",
+      "x": 354.4750061035156,
+      "y": 3611.400146484375,
+      "width": 100.05000305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Cold Beverages",
+      "tag": "A",
+      "x": 467.0375061035156,
+      "y": 3611.400146484375,
+      "width": 99.45000457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Oats",
+      "tag": "A",
+      "x": 579,
+      "y": 3611.400146484375,
+      "width": 30.274999618530273,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Card and Board Games",
+      "tag": "A",
+      "x": 621.7875366210938,
+      "y": 3611.400146484375,
+      "width": 146.46250915527344,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Baby Shampoo",
+      "tag": "A",
+      "x": 780.7625122070312,
+      "y": 3611.400146484375,
+      "width": 95.3499984741211,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Yoga Mats",
+      "tag": "A",
+      "x": 888.625,
+      "y": 3611.400146484375,
+      "width": 66.3125,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "OnePlus 13R",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3649.400146484375,
+      "width": 79.5374984741211,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Wellcore Creatine Tango",
+      "tag": "A",
+      "x": 284.63751220703125,
+      "y": 3649.400146484375,
+      "width": 154.9499969482422,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Nothing Phone 3a Lite",
+      "tag": "A",
+      "x": 452.1000061035156,
+      "y": 3649.400146484375,
+      "width": 141.6125030517578,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Litchi",
+      "tag": "A",
+      "x": 606.2250366210938,
+      "y": 3649.400146484375,
+      "width": 35.07500076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "iPhone cover",
+      "tag": "A",
+      "x": 653.8125,
+      "y": 3649.400146484375,
+      "width": 82.5250015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Coconut Water",
+      "tag": "A",
+      "x": 748.8500366210938,
+      "y": 3649.400146484375,
+      "width": 95.8375015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Diet Coke",
+      "tag": "A",
+      "x": 857.2000122070312,
+      "y": 3649.400146484375,
+      "width": 62.86249923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Hocco Aamchi Ice Cream",
+      "tag": "A",
+      "x": 932.5750122070312,
+      "y": 3649.400146484375,
+      "width": 159.625,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ob & Gob",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3687.400146484375,
+      "width": 62.962501525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Frido Pillow",
+      "tag": "A",
+      "x": 268.0625,
+      "y": 3687.400146484375,
+      "width": 73.8375015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Dermi Cool",
+      "tag": "A",
+      "x": 354.4125061035156,
+      "y": 3687.400146484375,
+      "width": 71.7874984741211,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Decathlon",
+      "tag": "A",
+      "x": 438.7124938964844,
+      "y": 3687.400146484375,
+      "width": 65.38750457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Avocado",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3781.400146484375,
+      "width": 55.72500228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Strawberry",
+      "tag": "A",
+      "x": 260.82501220703125,
+      "y": 3781.400146484375,
+      "width": 68.92500305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Pomegranate",
+      "tag": "A",
+      "x": 342.26251220703125,
+      "y": 3781.400146484375,
+      "width": 84.5250015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Beetroot",
+      "tag": "A",
+      "x": 439.3000183105469,
+      "y": 3781.400146484375,
+      "width": 56.20000076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ash gourd",
+      "tag": "A",
+      "x": 508.01251220703125,
+      "y": 3781.400146484375,
+      "width": 64.8375015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Bottle gourd",
+      "tag": "A",
+      "x": 585.3624877929688,
+      "y": 3781.400146484375,
+      "width": 79.6500015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Lady finger",
+      "tag": "A",
+      "x": 677.5250244140625,
+      "y": 3781.400146484375,
+      "width": 70.2750015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Potato",
+      "tag": "A",
+      "x": 760.3125,
+      "y": 3781.400146484375,
+      "width": 41.92499923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Lemon",
+      "tag": "A",
+      "x": 814.75,
+      "y": 3781.400146484375,
+      "width": 43.72500228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Dalchini",
+      "tag": "A",
+      "x": 870.9874877929688,
+      "y": 3781.400146484375,
+      "width": 51.3125,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Fennel seeds",
+      "tag": "A",
+      "x": 934.8125,
+      "y": 3781.400146484375,
+      "width": 82.51250457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Blueberry",
+      "tag": "A",
+      "x": 1029.8375244140625,
+      "y": 3781.400146484375,
+      "width": 61.95000076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Papaya",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3811.400146484375,
+      "width": 45.45000076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Jeera",
+      "tag": "A",
+      "x": 250.5500030517578,
+      "y": 3811.400146484375,
+      "width": 34.29999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Mushroom",
+      "tag": "A",
+      "x": 297.3625183105469,
+      "y": 3811.400146484375,
+      "width": 68.73750305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Lettuce",
+      "tag": "A",
+      "x": 378.6125183105469,
+      "y": 3811.400146484375,
+      "width": 48.54999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Yakult",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3849.400146484375,
+      "width": 38.70000076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "My Muse",
+      "tag": "A",
+      "x": 243.8000030517578,
+      "y": 3849.400146484375,
+      "width": 58.51250076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Aashirvaad Atta",
+      "tag": "A",
+      "x": 314.82501220703125,
+      "y": 3849.400146484375,
+      "width": 99.4375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Too Yumm",
+      "tag": "A",
+      "x": 426.7749938964844,
+      "y": 3849.400146484375,
+      "width": 66.48750305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Lays",
+      "tag": "A",
+      "x": 505.7749938964844,
+      "y": 3849.400146484375,
+      "width": 28.3125,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Figaro Olive Oil",
+      "tag": "A",
+      "x": 546.6000366210938,
+      "y": 3849.400146484375,
+      "width": 98.61250305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Nandini Milk",
+      "tag": "A",
+      "x": 657.7250366210938,
+      "y": 3849.400146484375,
+      "width": 80.0875015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Amul",
+      "tag": "A",
+      "x": 750.3250122070312,
+      "y": 3849.400146484375,
+      "width": 33.29999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Mother Dairy Near Me",
+      "tag": "A",
+      "x": 796.1375122070312,
+      "y": 3849.400146484375,
+      "width": 141.4499969482422,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Fortune Oil",
+      "tag": "A",
+      "x": 950.1000366210938,
+      "y": 3849.400146484375,
+      "width": 71.6875,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Superyou",
+      "tag": "A",
+      "x": 1034.300048828125,
+      "y": 3849.400146484375,
+      "width": 60.775001525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Durex Condoms",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3879.400146484375,
+      "width": 102.11250305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ferns and Petals",
+      "tag": "A",
+      "x": 307.2124938964844,
+      "y": 3879.400146484375,
+      "width": 103.2750015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Grocery",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3917.400146484375,
+      "width": 51.16250228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Cigarettes",
+      "tag": "A",
+      "x": 256.26251220703125,
+      "y": 3917.400146484375,
+      "width": 65.80000305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Chips",
+      "tag": "A",
+      "x": 334.57501220703125,
+      "y": 3917.400146484375,
+      "width": 36.5,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Curd",
+      "tag": "A",
+      "x": 383.5874938964844,
+      "y": 3917.400146484375,
+      "width": 31.55000114440918,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Hukka flavour",
+      "tag": "A",
+      "x": 427.6499938964844,
+      "y": 3917.400146484375,
+      "width": 86.625,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Paan shop near me",
+      "tag": "A",
+      "x": 526.7875366210938,
+      "y": 3917.400146484375,
+      "width": 119,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Eggs price",
+      "tag": "A",
+      "x": 658.2999877929688,
+      "y": 3917.400146484375,
+      "width": 66.25,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Cheese slice",
+      "tag": "A",
+      "x": 737.0625,
+      "y": 3917.400146484375,
+      "width": 79.05000305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Fresh fruits",
+      "tag": "A",
+      "x": 828.625,
+      "y": 3917.400146484375,
+      "width": 70.32500457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Fresh vegetables",
+      "tag": "A",
+      "x": 911.4625244140625,
+      "y": 3917.400146484375,
+      "width": 106.4375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Refined oil",
+      "tag": "A",
+      "x": 1030.4124755859375,
+      "y": 3917.400146484375,
+      "width": 67.6500015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Butter price",
+      "tag": "A",
+      "x": 192.58750915527344,
+      "y": 3947.400146484375,
+      "width": 74.76250457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Paneer price",
+      "tag": "A",
+      "x": 279.8625183105469,
+      "y": 3947.400146484375,
+      "width": 78.75,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Fruits & Vegetables",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4043.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Grocery",
+      "tag": "A",
+      "x": 312.8999938964844,
+      "y": 4043.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Masala & Dry Fruits",
+      "tag": "A",
+      "x": 520.9000244140625,
+      "y": 4043.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Sweet Cravings",
+      "tag": "A",
+      "x": 728.9000244140625,
+      "y": 4043.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Frozen Food & Ice Creams",
+      "tag": "A",
+      "x": 936.9000244140625,
+      "y": 4043.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Baby Food",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4081.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Dairy, Bread & Eggs",
+      "tag": "A",
+      "x": 312.8999938964844,
+      "y": 4081.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cold Drinks & Juices",
+      "tag": "A",
+      "x": 520.9000244140625,
+      "y": 4081.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Snacks",
+      "tag": "A",
+      "x": 728.9000244140625,
+      "y": 4081.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Meats, Fish & Eggs",
+      "tag": "A",
+      "x": 936.9000244140625,
+      "y": 4081.400146484375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Breakfast & Sauces",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4119.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Tea, Coffee & More",
+      "tag": "A",
+      "x": 312.8999938964844,
+      "y": 4119.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Biscuits",
+      "tag": "A",
+      "x": 520.9000244140625,
+      "y": 4119.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Makeup & Beauty",
+      "tag": "A",
+      "x": 728.9000244140625,
+      "y": 4119.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Bath & Body",
+      "tag": "A",
+      "x": 936.9000244140625,
+      "y": 4119.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cleaning Essentials",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4157.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Home Needs",
+      "tag": "A",
+      "x": 312.8999938964844,
+      "y": 4157.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Electricals & Accessories",
+      "tag": "A",
+      "x": 520.9000244140625,
+      "y": 4157.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Hygiene & Grooming",
+      "tag": "A",
+      "x": 728.9000244140625,
+      "y": 4157.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Health & Baby Care",
+      "tag": "A",
+      "x": 936.9000244140625,
+      "y": 4157.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Homegrown Brands",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4195.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Paan Corner",
+      "tag": "A",
+      "x": 312.8999938964844,
+      "y": 4195.39990234375,
+      "width": 208,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Agra",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4291.39990234375,
+      "width": 29.962499618530273,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 147.375,
+      "y": 4291.39990234375,
+      "width": 77.4625015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ambala",
+      "tag": "A",
+      "x": 237.35000610351562,
+      "y": 4291.39990234375,
+      "width": 48.17499923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Amritsar",
+      "tag": "A",
+      "x": 298.0375061035156,
+      "y": 4291.39990234375,
+      "width": 53.76250076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Bareilly",
+      "tag": "A",
+      "x": 364.3125,
+      "y": 4291.39990234375,
+      "width": 46.42499923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Belgavi",
+      "tag": "A",
+      "x": 423.25,
+      "y": 4291.39990234375,
+      "width": 46.150001525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Bengaluru",
+      "tag": "A",
+      "x": 481.9125061035156,
+      "y": 4291.39990234375,
+      "width": 64.9124984741211,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Bhiwadi",
+      "tag": "A",
+      "x": 559.3375244140625,
+      "y": 4291.39990234375,
+      "width": 50.22500228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Chandigarh",
+      "tag": "A",
+      "x": 622.0750122070312,
+      "y": 4291.39990234375,
+      "width": 74,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Chatrapati Sambhaji Nagar",
+      "tag": "A",
+      "x": 708.5875244140625,
+      "y": 4291.39990234375,
+      "width": 169.9499969482422,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Chennai",
+      "tag": "A",
+      "x": 891.0499877929688,
+      "y": 4291.39990234375,
+      "width": 52.92499923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Coimbatore",
+      "tag": "A",
+      "x": 956.4874877929688,
+      "y": 4291.39990234375,
+      "width": 75.0625,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Davanagere",
+      "tag": "A",
+      "x": 1044.0625,
+      "y": 4291.39990234375,
+      "width": 75.3375015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Dehradun",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4321.39990234375,
+      "width": 62.837501525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Delhi",
+      "tag": "A",
+      "x": 180.25,
+      "y": 4321.39990234375,
+      "width": 33.10000228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Faridabad",
+      "tag": "A",
+      "x": 225.8625030517578,
+      "y": 4321.39990234375,
+      "width": 63.38750076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ghaziabad",
+      "tag": "A",
+      "x": 301.76251220703125,
+      "y": 4321.39990234375,
+      "width": 67.73750305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Gorakhpur",
+      "tag": "A",
+      "x": 382.01251220703125,
+      "y": 4321.39990234375,
+      "width": 67.95000457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Guntur",
+      "tag": "A",
+      "x": 462.4750061035156,
+      "y": 4321.39990234375,
+      "width": 44.9375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Gurugram",
+      "tag": "A",
+      "x": 519.9249877929688,
+      "y": 4321.39990234375,
+      "width": 64.30000305175781,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Hapur",
+      "tag": "A",
+      "x": 596.7374877929688,
+      "y": 4321.39990234375,
+      "width": 39.17499923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Haridwar",
+      "tag": "A",
+      "x": 648.4249877929688,
+      "y": 4321.39990234375,
+      "width": 57.04999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Hisar",
+      "tag": "A",
+      "x": 717.9874877929688,
+      "y": 4321.39990234375,
+      "width": 32.41250228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Hosur",
+      "tag": "A",
+      "x": 762.9125366210938,
+      "y": 4321.39990234375,
+      "width": 37.9375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Hubballi",
+      "tag": "A",
+      "x": 813.3624877929688,
+      "y": 4321.39990234375,
+      "width": 52.900001525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad",
+      "tag": "A",
+      "x": 878.7750244140625,
+      "y": 4321.39990234375,
+      "width": 69.9749984741211,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Indore",
+      "tag": "A",
+      "x": 961.2625122070312,
+      "y": 4321.39990234375,
+      "width": 41.26250076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Jaipur",
+      "tag": "A",
+      "x": 1015.0375366210938,
+      "y": 4321.39990234375,
+      "width": 38.76250076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Jalandhar",
+      "tag": "A",
+      "x": 1066.3125,
+      "y": 4321.39990234375,
+      "width": 61.400001525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Kanpur",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4351.39990234375,
+      "width": 45.9375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Karimnagar",
+      "tag": "A",
+      "x": 163.35000610351562,
+      "y": 4351.39990234375,
+      "width": 72.5625,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Karnal",
+      "tag": "A",
+      "x": 248.4250030517578,
+      "y": 4351.39990234375,
+      "width": 40.1875,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Kochi",
+      "tag": "A",
+      "x": 301.125,
+      "y": 4351.39990234375,
+      "width": 36.11249923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Kolkata",
+      "tag": "A",
+      "x": 349.75,
+      "y": 4351.39990234375,
+      "width": 47.22500228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Kota",
+      "tag": "A",
+      "x": 409.4875183105469,
+      "y": 4351.39990234375,
+      "width": 29.575000762939453,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Kurukshetra",
+      "tag": "A",
+      "x": 451.57501220703125,
+      "y": 4351.39990234375,
+      "width": 76.4625015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Lucknow",
+      "tag": "A",
+      "x": 540.5499877929688,
+      "y": 4351.39990234375,
+      "width": 56.95000076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ludhiana",
+      "tag": "A",
+      "x": 610.0125122070312,
+      "y": 4351.39990234375,
+      "width": 58.20000076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Madurai",
+      "tag": "A",
+      "x": 680.7250366210938,
+      "y": 4351.39990234375,
+      "width": 52.375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Meerut",
+      "tag": "A",
+      "x": 745.6124877929688,
+      "y": 4351.39990234375,
+      "width": 46.82500076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Mehsana",
+      "tag": "A",
+      "x": 804.9500122070312,
+      "y": 4351.39990234375,
+      "width": 57.8125,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 875.2750244140625,
+      "y": 4351.39990234375,
+      "width": 52.42499923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Mysuru",
+      "tag": "A",
+      "x": 940.2125244140625,
+      "y": 4351.39990234375,
+      "width": 47.54999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Nagpur",
+      "tag": "A",
+      "x": 1000.2750244140625,
+      "y": 4351.39990234375,
+      "width": 47.712501525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Nashik",
+      "tag": "A",
+      "x": 1060.5,
+      "y": 4351.39990234375,
+      "width": 43.29999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Noida",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4381.39990234375,
+      "width": 38.212501525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Palakkad",
+      "tag": "A",
+      "x": 155.625,
+      "y": 4381.39990234375,
+      "width": 56.60000228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Panchkula",
+      "tag": "A",
+      "x": 224.7375030517578,
+      "y": 4381.39990234375,
+      "width": 64.9124984741211,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Panipat",
+      "tag": "A",
+      "x": 302.1625061035156,
+      "y": 4381.39990234375,
+      "width": 47.82500076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Patiala",
+      "tag": "A",
+      "x": 362.5,
+      "y": 4381.39990234375,
+      "width": 42.07500076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Prayagraj",
+      "tag": "A",
+      "x": 417.0874938964844,
+      "y": 4381.39990234375,
+      "width": 58.70000076293945,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Puducherry",
+      "tag": "A",
+      "x": 488.3000183105469,
+      "y": 4381.39990234375,
+      "width": 73.82500457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 574.6375122070312,
+      "y": 4381.39990234375,
+      "width": 32.775001525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Rajkot",
+      "tag": "A",
+      "x": 619.9249877929688,
+      "y": 4381.39990234375,
+      "width": 40.462501525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Rewari",
+      "tag": "A",
+      "x": 672.9000244140625,
+      "y": 4381.39990234375,
+      "width": 43.03750228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Saharanpur",
+      "tag": "A",
+      "x": 728.4500122070312,
+      "y": 4381.39990234375,
+      "width": 72.1875,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "SAS Nagar",
+      "tag": "A",
+      "x": 813.1500244140625,
+      "y": 4381.39990234375,
+      "width": 68.0625,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Sonipat",
+      "tag": "A",
+      "x": 893.7250366210938,
+      "y": 4381.39990234375,
+      "width": 48.36249923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Surat",
+      "tag": "A",
+      "x": 954.6000366210938,
+      "y": 4381.39990234375,
+      "width": 33.29999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Tumkuru",
+      "tag": "A",
+      "x": 1000.4125366210938,
+      "y": 4381.39990234375,
+      "width": 55.22500228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Udaipur",
+      "tag": "A",
+      "x": 1068.1500244140625,
+      "y": 4381.39990234375,
+      "width": 51.0625,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Vadodara",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4411.39990234375,
+      "width": 60.275001525878906,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Valsad",
+      "tag": "A",
+      "x": 177.6875,
+      "y": 4411.39990234375,
+      "width": 41.29999923706055,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Varanasi",
+      "tag": "A",
+      "x": 231.5,
+      "y": 4411.39990234375,
+      "width": 52.9375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Vellore",
+      "tag": "A",
+      "x": 296.95001220703125,
+      "y": 4411.39990234375,
+      "width": 43.9375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Vijayawada",
+      "tag": "A",
+      "x": 353.3999938964844,
+      "y": 4411.39990234375,
+      "width": 70.76250457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Warangal",
+      "tag": "A",
+      "x": 436.6750183105469,
+      "y": 4411.39990234375,
+      "width": 59.72500228881836,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 104.9000015258789,
+      "y": 4586,
+      "width": 47.91250228881836,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 152.8125,
+      "y": 4586,
+      "width": 47.91250228881836,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 200.72500610351562,
+      "y": 4586,
+      "width": 47.91250228881836,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 248.6374969482422,
+      "y": 4586,
+      "width": 47.91250228881836,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4527,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Delivery Areas",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4561,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4595,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4629,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4663,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Mojo - a Zepto Blog",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4697,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Zepto Recipes",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4731,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 442.5500183105469,
+      "y": 4765,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 683.7250366210938,
+      "y": 4527,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 683.7250366210938,
+      "y": 4561,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Responsible Disclosure Policy",
+      "tag": "A",
+      "x": 683.7250366210938,
+      "y": 4595,
+      "width": 144.6999969482422,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Sell on Zepto",
+      "tag": "A",
+      "x": 683.7250366210938,
+      "y": 4647,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Deliver with Zepto",
+      "tag": "A",
+      "x": 683.7250366210938,
+      "y": 4681,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Franchise with Zepto",
+      "tag": "A",
+      "x": 683.7250366210938,
+      "y": 4715,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Investor Relations",
+      "tag": "A",
+      "x": 683.7250366210938,
+      "y": 4749,
+      "width": 144.6999969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Get it on play store",
+      "tag": "BUTTON",
+      "x": 924.9000244140625,
+      "y": 4557,
+      "width": 220,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Get it on app store",
+      "tag": "BUTTON",
+      "x": 924.9000244140625,
+      "y": 4614.60009765625,
+      "width": 220,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 796.7999877929688,
+      "y": 8,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 853.6000366210938,
+      "y": 169.8000030517578,
+      "width": 360.3999938964844,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1224,
+      "y": 151.8000030517578,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 853.6000366210938,
+      "y": 228.8000030517578,
+      "width": 360.3999938964844,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1224,
+      "y": 210.8000030517578,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Schedule",
+      "tag": "BUTTON",
+      "x": 1136.125,
+      "y": 273.3999938964844,
+      "width": 103.875,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1182.800048828125,
+      "y": 344.20001220703125,
+      "width": 12.800000190734863,
+      "height": 12.800000190734863,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1224.4000244140625,
+      "y": 344.20001220703125,
+      "width": 12.800000190734863,
+      "height": 12.800000190734863,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 797.6000366210938,
+      "y": 323.8000183105469,
+      "width": 454.3999938964844,
+      "height": 73.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Add More Items",
+      "tag": "A",
+      "x": 1034.362548828125,
+      "y": 412.20001220703125,
+      "width": 89.2874984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Item Total",
+      "tag": "BUTTON",
+      "x": 813.6000366210938,
+      "y": 538.6000366210938,
+      "width": 61.67499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Delivery Fee",
+      "tag": "BUTTON",
+      "x": 813.6000366210938,
+      "y": 566.6000366210938,
+      "width": 75.26250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Handling Fee",
+      "tag": "BUTTON",
+      "x": 813.6000366210938,
+      "y": 618.6000366210938,
+      "width": 79.9625015258789,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "To Pay",
+      "tag": "BUTTON",
+      "x": 813.6000366210938,
+      "y": 664.4000244140625,
+      "width": 50.650001525878906,
+      "height": 20.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Give a Tip",
+      "tag": "BUTTON",
+      "x": 811.6000366210938,
+      "y": 861.2000122070312,
+      "width": 213.1999969482422,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Delivery Instructions",
+      "tag": "BUTTON",
+      "x": 1024.800048828125,
+      "y": 861.2000122070312,
+      "width": 213.1999969482422,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Delivery Partner Safety",
+      "tag": "BUTTON",
+      "x": 813.6000366210938,
+      "y": 985.7999877929688,
+      "width": 119.1624984741211,
+      "height": 32.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "₹10",
+      "tag": "BUTTON",
+      "x": 813.6000366210938,
+      "y": 1037.2000732421875,
+      "width": 75.45000457763672,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "₹35",
+      "tag": "BUTTON",
+      "x": 905.0499877929688,
+      "y": 1037.2000732421875,
+      "width": 76.57500457763672,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "₹50",
+      "tag": "BUTTON",
+      "x": 997.625,
+      "y": 1037.2000732421875,
+      "width": 77.9375,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Custom",
+      "tag": "BUTTON",
+      "x": 1091.5625,
+      "y": 1037.2000732421875,
+      "width": 98.86250305175781,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹24\nNandini Toned Fresh Milk | Pouch\n1 pack (500 ml)",
+      "tag": "A",
+      "x": 808.7999877929688,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 888,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹134\n₹165\n₹31\nOFF\nEggoz Protein Rich Farm Fresh White Eggs\n1 pack (10 pcs)",
+      "tag": "A",
+      "x": 956.7999877929688,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1036,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹27\nNandini Standardized Fresh Milk | Pouch\n1 pack (500 ml)",
+      "tag": "A",
+      "x": 1104.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1184,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹270\n₹300\n₹30\nOFF\nAmul Peanut Butter Spread Crunchy\n1 pc (900 g)",
+      "tag": "A",
+      "x": 1252.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1332,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹63\nAmul Salted Butter\n1 pack (100 g)",
+      "tag": "A",
+      "x": 1400.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1480,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹55\n₹75\n₹20\nOFF\nFresh White Eggs\n1 pack (6 pcs)",
+      "tag": "A",
+      "x": 1548.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1628,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹26\nArokya Toned Fresh Milk | Pouch\n1 pack (500 ml)",
+      "tag": "A",
+      "x": 1696.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1776,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹144\n₹165\n₹21\nOFF\nMilky Mist High Protein Paneer\n1 pack (200 g)",
+      "tag": "A",
+      "x": 1844.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1924,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹29\n₹72\n₹43\nOFF\nBanana Robusta\n4 pcs",
+      "tag": "A",
+      "x": 1992.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2072,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹270\nAmul Chocolate Hazelnut Spread\n1 pc (300 g)",
+      "tag": "A",
+      "x": 2140.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2220,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹82\nAmul Cheese Slices\n1 pack (100 g)",
+      "tag": "A",
+      "x": 2288.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2368,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹27\n₹28\n₹1\nOFF\nNandini Thick Curd Pouch\n1 pack (500 g)",
+      "tag": "A",
+      "x": 2436.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2516,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹45\n₹70\n₹25\nOFF\nWingreens Farms Veg Mayo\n180 g",
+      "tag": "A",
+      "x": 2584.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2664,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹34\nAmul Gold Full Cream Fresh Milk | Pouch\n1 pack (500 ml)",
+      "tag": "A",
+      "x": 2732.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2812,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹47\nAkshayakalpa Amrutha A2 Pasteurized Organic Fresh Milk | Pouch\n1 pack (5",
+      "tag": "A",
+      "x": 2880.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2960,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹32\nArokya Standardized Fresh Milk | Pouch\n1 pack (500 ml)",
+      "tag": "A",
+      "x": 3028.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 3108,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹102\n₹140\n₹38\nOFF\nMilky Mist Paneer\n1 pack (200 g)\nBestseller",
+      "tag": "A",
+      "x": 3176.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 3256,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹69\n₹149\n₹80\nOFF\nBanana Elaichi (Yelakki)\n500 g",
+      "tag": "A",
+      "x": 3324.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 3404,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹27\nHeritage Toned Fresh Milk | Pouch\n1 pack (500 ml)",
+      "tag": "A",
+      "x": 3472.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 3552,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹45\nAkshayakalpa Organic Pasteurized Cow Fresh Milk | Pouch\n1 pack (500 ml)",
+      "tag": "A",
+      "x": 3620.800048828125,
+      "y": 1172.75,
+      "width": 140,
+      "height": 285.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 3700,
+      "y": 1275.9500732421875,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Add Address to proceed",
+      "tag": "BUTTON",
+      "x": 796.7999877929688,
+      "y": 658,
+      "width": 456,
+      "height": 52,
+      "visible": true
+    }
+  ]
+}

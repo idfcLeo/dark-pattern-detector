@@ -1,0 +1,666 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.zepto.com/search?query=bread",
+  "timestamp": "20260810_115745",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20.80000114440918,
+      "y": 30.600000381469727,
+      "width": 90,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Select Location",
+      "tag": "BUTTON",
+      "x": 122.80000305175781,
+      "y": 45.60000228881836,
+      "width": 256,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 1168.112548828125,
+      "y": 23.600000381469727,
+      "width": 38.25,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "BUTTON",
+      "x": 1218.362548828125,
+      "y": 23.600000381469727,
+      "width": 25.637500762939453,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Whole Wheat Bread",
+      "tag": "BUTTON",
+      "x": 16,
+      "y": 116,
+      "width": 151.10000610351562,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Milk Bread",
+      "tag": "BUTTON",
+      "x": 16,
+      "y": 158,
+      "width": 99.25,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Multigrain Bread",
+      "tag": "BUTTON",
+      "x": 123.25,
+      "y": 158,
+      "width": 132.3249969482422,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Speciality Breads",
+      "tag": "BUTTON",
+      "x": 16,
+      "y": 200,
+      "width": 134.28750610351562,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Sandwich Bread",
+      "tag": "BUTTON",
+      "x": 16,
+      "y": 242,
+      "width": 128.65000915527344,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Fruit Bread",
+      "tag": "BUTTON",
+      "x": 152.65000915527344,
+      "y": 242,
+      "width": 101.0999984741211,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "+3 more",
+      "tag": "BUTTON",
+      "x": 20,
+      "y": 582.6000366210938,
+      "width": 68.42500305175781,
+      "height": 27.5,
+      "visible": true
+    },
+    {
+      "text": "+7 more",
+      "tag": "BUTTON",
+      "x": 20,
+      "y": 911.7000122070312,
+      "width": 67.45000457763672,
+      "height": 27.5,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹65\nThe Health Factory Zero Maida Whole Wheat Bread | Clean Label, Not Brown",
+      "tag": "A",
+      "x": 312,
+      "y": 165.1999969482422,
+      "width": 146.8000030517578,
+      "height": 298.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 398,
+      "y": 275.20001220703125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹65\nThe Health Factory Zero Maida Whole Wheat Bread | Clean Label, Not Brown",
+      "tag": "A",
+      "x": 466.8000183105469,
+      "y": 165.1999969482422,
+      "width": 146.8000030517578,
+      "height": 298.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 552.7999877929688,
+      "y": 275.20001220703125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹64\n₹65\n₹1\nOFF\nModern - Zero Maida Whole Wheat Bread\n1 pack (400 g or 430 g)",
+      "tag": "A",
+      "x": 621.6000366210938,
+      "y": 165.1999969482422,
+      "width": 146.8000030517578,
+      "height": 296.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 707.6000366210938,
+      "y": 275.20001220703125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹54\n₹60\n₹6\nOFF\nEnglish Oven Zero Maida Atta Bread | High Fibre\n1 pack (400 g",
+      "tag": "A",
+      "x": 776.4000244140625,
+      "y": 165.1999969482422,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 862.4000244140625,
+      "y": 275.20001220703125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹60\nModern Sandwich Supreme White Bread\n1 pack (400 g)\n4.6\n(130.4k)",
+      "tag": "A",
+      "x": 931.2000122070312,
+      "y": 165.1999969482422,
+      "width": 146.8000030517578,
+      "height": 278.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1017.2000122070312,
+      "y": 275.20001220703125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹54\n₹60\n₹6\nOFF\nEnglish Oven Milk Bread\n1 pack (400 g)\n4.5\n(43.4k)",
+      "tag": "A",
+      "x": 1086,
+      "y": 165.1999969482422,
+      "width": 146.8000030517578,
+      "height": 296.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1172,
+      "y": 275.20001220703125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹70\nModern Multigrain Bread - 13 Grains & Seeds (Zero Maida)\n1 pack (400 g)\n",
+      "tag": "A",
+      "x": 312,
+      "y": 505.6000061035156,
+      "width": 146.8000030517578,
+      "height": 298.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 398,
+      "y": 615.6000366210938,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹60\nBritannia Milk Slice White Bread\n1 pack (400 g)\n4.4\n(29.2k)",
+      "tag": "A",
+      "x": 466.8000183105469,
+      "y": 505.6000061035156,
+      "width": 146.8000030517578,
+      "height": 278.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 552.7999877929688,
+      "y": 615.6000366210938,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹65\nEnglish Oven Zero Maida Whole Wheat Bread | High Fibre\n1 pack (400 g)\n4.",
+      "tag": "A",
+      "x": 621.6000366210938,
+      "y": 505.6000061035156,
+      "width": 146.8000030517578,
+      "height": 298.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 707.6000366210938,
+      "y": 615.6000366210938,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹54\n₹60\n₹6\nOFF\nEnglish Oven Milk Bread\n1 pack (400 g)\n4.5\n(43.4k)",
+      "tag": "A",
+      "x": 776.4000244140625,
+      "y": 505.6000061035156,
+      "width": 146.8000030517578,
+      "height": 296.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 862.4000244140625,
+      "y": 615.6000366210938,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹70\nEnglish Oven Zero Maida Multigrain Bread | High Fibre | 11 Grains\n1 pack",
+      "tag": "A",
+      "x": 931.2000122070312,
+      "y": 505.6000061035156,
+      "width": 146.8000030517578,
+      "height": 298.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1017.2000122070312,
+      "y": 615.6000366210938,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹53\n₹55\n₹2\nOFF\nThe Health Factory Zero Maida Whole Wheat Bread | Clean Label",
+      "tag": "A",
+      "x": 1086,
+      "y": 505.6000061035156,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1172,
+      "y": 615.6000366210938,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹75\n₹80\n₹5\nOFF\nThe Health Factory Zero Maida Multigrain Bread | Clean Label,",
+      "tag": "A",
+      "x": 312,
+      "y": 846,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 398,
+      "y": 956,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹55\nModern Milk Plus Bread\n1 pack (350 g)\n4.5\n(33.6k)",
+      "tag": "A",
+      "x": 466.8000183105469,
+      "y": 846,
+      "width": 146.8000030517578,
+      "height": 278.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 552.7999877929688,
+      "y": 956,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹59\n₹70\n₹11\nOFF\nTheobroma Zero Maida Whole Wheat Bread | No Preservatives | ",
+      "tag": "A",
+      "x": 621.6000366210938,
+      "y": 846,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 707.6000366210938,
+      "y": 956,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹54\n₹60\n₹6\nOFF\nEnglish Oven Zero Maida Atta Bread | High Fibre\n1 pack (400 g",
+      "tag": "A",
+      "x": 776.4000244140625,
+      "y": 846,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 862.4000244140625,
+      "y": 956,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹56\n₹60\n₹4\nOFF\nNaturbaked Zero Maida Whole Wheat Bread | No Added Preservati",
+      "tag": "A",
+      "x": 931.2000122070312,
+      "y": 846,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1017.2000122070312,
+      "y": 956,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹65\nBritannia Pure Whole Wheat Bread (No Maida)\n1 pack (400 g)\n4.5\n(66.5k)",
+      "tag": "A",
+      "x": 1086,
+      "y": 846,
+      "width": 146.8000030517578,
+      "height": 298.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1172,
+      "y": 956,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹51\n₹60\n₹9\nOFF\nTheobroma Zero Maida Whole wheat bread | No Preservatives | N",
+      "tag": "A",
+      "x": 312,
+      "y": 1186.4000244140625,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 398,
+      "y": 1296.4000244140625,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹49\n₹50\n₹1\nOFF\nEnglish Oven Premium White bread| No Palm Oil\n1 pack (350 g)\n",
+      "tag": "A",
+      "x": 466.8000183105469,
+      "y": 1186.4000244140625,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 552.7999877929688,
+      "y": 1296.4000244140625,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹59\n₹70\n₹11\nOFF\nTheobroma Zero Maida Multigrain Bread | No Preservatives | N",
+      "tag": "A",
+      "x": 621.6000366210938,
+      "y": 1186.4000244140625,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 707.6000366210938,
+      "y": 1296.4000244140625,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹76\n₹85\n₹9\nOFF\nBaker's Loaf Zero Preservatives Whole Wheat Bread\n1 pack (350",
+      "tag": "A",
+      "x": 776.4000244140625,
+      "y": 1186.4000244140625,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 862.4000244140625,
+      "y": 1296.4000244140625,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹81\n₹90\n₹9\nOFF\nBaker's Loaf Zero Preservatives Multigrain Bread\n1 pack (350 ",
+      "tag": "A",
+      "x": 931.2000122070312,
+      "y": 1186.4000244140625,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1017.2000122070312,
+      "y": 1296.4000244140625,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹65\nEnglish Oven Zero Maida Whole Wheat Bread | High Fibre\n1 pack (400 g)\n4.",
+      "tag": "A",
+      "x": 1086,
+      "y": 1186.4000244140625,
+      "width": 146.8000030517578,
+      "height": 298.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1172,
+      "y": 1296.4000244140625,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹76\n₹90\n₹14\nOFF\nTheobroma Protein Bread Zero Maida\n1 pack (250 g)\n4.5\n(174)",
+      "tag": "A",
+      "x": 312,
+      "y": 1526.800048828125,
+      "width": 146.8000030517578,
+      "height": 296.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 398,
+      "y": 1636.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹56\n₹60\n₹4\nOFF\nThe Baker's Dozen Zero Maida Milk Bread | Atta Bread | Sandwi",
+      "tag": "A",
+      "x": 466.8000183105469,
+      "y": 1526.800048828125,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 552.7999877929688,
+      "y": 1636.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹75\n₹80\n₹5\nOFF\nThe Baker's Dozen Zero Maida Multigrain Bread | Gut Friendly ",
+      "tag": "A",
+      "x": 621.6000366210938,
+      "y": 1526.800048828125,
+      "width": 146.8000030517578,
+      "height": 316.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 707.6000366210938,
+      "y": 1636.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹30\nBritannia Fruit Bread\n1 pack (200 g)\n4.3\n(39.0k)",
+      "tag": "A",
+      "x": 776.4000244140625,
+      "y": 1526.800048828125,
+      "width": 146.8000030517578,
+      "height": 258.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 862.4000244140625,
+      "y": 1636.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹65\n₹90\n₹25\nOFF\nModern Butter Crust Milk Bread\n1 pack (350 g)\n4.4\n(40)",
+      "tag": "A",
+      "x": 931.2000122070312,
+      "y": 1526.800048828125,
+      "width": 146.8000030517578,
+      "height": 296.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1017.2000122070312,
+      "y": 1636.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "ADD\n₹60\nEnglish Oven Sandwich White Bread\n1 pack (400 g)\n4.5\n(54.2k)",
+      "tag": "A",
+      "x": 1086,
+      "y": 1526.800048828125,
+      "width": 146.8000030517578,
+      "height": 278.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1172,
+      "y": 1636.800048828125,
+      "width": 56,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "(\n)\nUnlock free delivery\nShop for ₹99",
+      "tag": "BUTTON",
+      "x": 932.7999877929688,
+      "y": 637,
+      "width": 320,
+      "height": 67,
+      "visible": true
+    }
+  ]
+}

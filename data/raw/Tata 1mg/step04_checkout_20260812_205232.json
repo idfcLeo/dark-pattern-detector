@@ -1,0 +1,90 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.1mg.com/cart/select-shipment",
+  "timestamp": "20260812_205232",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 0,
+      "width": 124,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Need Help?",
+      "tag": "A",
+      "x": 1188.7000732421875,
+      "y": 8,
+      "width": 75.30000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Change",
+      "tag": "A",
+      "x": 1145.1375732421875,
+      "y": 69,
+      "width": 56.85000228881836,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "Continue",
+      "tag": "BUTTON",
+      "x": 740.6625366210938,
+      "y": 167,
+      "width": 461.32501220703125,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 846.6625366210938,
+      "y": 327.5,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 894,
+      "y": 311,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 362,
+      "y": 372,
+      "width": 556,
+      "height": 40,
+      "visible": true
+    }
+  ]
+}

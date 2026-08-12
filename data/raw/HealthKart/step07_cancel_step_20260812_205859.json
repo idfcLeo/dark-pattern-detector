@@ -1,0 +1,1431 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://www.healthkart.com/subscription?checkSubscription=&tabId=9",
+  "timestamp": "20260812_205859",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 24.25,
+      "width": 210,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "UHi, User",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HK Cash0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 1191,
+      "y": 8.012499809265137,
+      "width": 28,
+      "height": 71.0374984741211,
+      "visible": true
+    },
+    {
+      "text": "Proceed to Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop By Category",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 103.5,
+      "width": 189.6750030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Shop By Category",
+      "tag": "BUTTON",
+      "x": 49.79999923706055,
+      "y": 103.5,
+      "width": 189.6750030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Best Sellers",
+      "tag": "A",
+      "x": 254.47500610351562,
+      "y": 96.80000305175781,
+      "width": 136.8625030517578,
+      "height": 53,
+      "visible": true
+    },
+    {
+      "text": "Sport Nutrition",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Whey Protein",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Whey Protein Isolate",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Creatine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Yeast Protein",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pre Workout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BCAA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mass Gainer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Raw Whey Proteins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plant Proteins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Nutrition",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Collagen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glutathione",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Multivitamins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fish Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Biotin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DHT Blocker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Calcium",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin D",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Food & Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Peanut Butter",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Muesli",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Meal Replacement",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apple Cider Vinegar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Protein Bars",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Protein Shakes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nutrition for Children",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brands",
+      "tag": "A",
+      "x": 391.3374938964844,
+      "y": 97.80000305175781,
+      "width": 96.67500305175781,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "Offer Zone",
+      "tag": "A",
+      "x": 488.01251220703125,
+      "y": 97.80000305175781,
+      "width": 124.3375015258789,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "Upto 60% Off",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Upto 55% Off",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Starts @949",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 612.3500366210938,
+      "y": 96.80000305175781,
+      "width": 94.75,
+      "height": 53,
+      "visible": true
+    },
+    {
+      "text": "Gift Card",
+      "tag": "A",
+      "x": 707.1000366210938,
+      "y": 97.80000305175781,
+      "width": 110.63750457763672,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "Email us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store locator",
+      "tag": "A",
+      "x": 991.5375366210938,
+      "y": 97.30000305175781,
+      "width": 143.33750915527344,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 173,
+      "width": 32.5,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 214.3000030517578,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Personal Information",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 276.3000183105469,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Addresses",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 338.3000183105469,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "HK Cash",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 400.3000183105469,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Saved Cards",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 462.3000183105469,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Refer and Earn",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 524.2999877929688,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Loyalty Rewards",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 586.2999877929688,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "My Wishlist",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 648.2999877929688,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Subscription",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 710.2999877929688,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Logout",
+      "tag": "A",
+      "x": 58.60000228881836,
+      "y": 772.2999877929688,
+      "width": 300,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Update My Preferences",
+      "tag": "A",
+      "x": 414.8000183105469,
+      "y": 379.5,
+      "width": 227.25,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 1124.3875732421875,
+      "y": 969.1000366210938,
+      "width": 95.4124984741211,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Whey protein",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1124.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Whey protein isolate",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1156.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Whey protein concentrate",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1188.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein powder",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1220.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mass gainer",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1252.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Weight gainer",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1284.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Creatine supplement",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1316.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "EAA supplements",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1348.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Pre workout supplements",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1380.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Multivitamin tablets",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1124.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best multivitamin for men",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1156.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best multivitamin for women",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1188.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best multivitamin for seniors",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1220.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Omega 3",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1252.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Biotin tablets",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1284.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C tablets",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1316.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vitamin D3 & calcium",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1348.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Collagen supplements",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1380.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ashwagandha Tablets",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1124.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ayurvedic Shilajit",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1156.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Giloy Tulsi Juice",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1188.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Brahmi Capsules",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1220.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Amla Juice for Hair & Skin",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1252.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Organic Safed Musli Powder",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1284.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Milk Thistle",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1316.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C Face Serum",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1348.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Biotin Hair Shampoo",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 1124.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair Growth Serum",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 1156.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Collagen Face Cleanser",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 1188.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Personal Hygiene",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 1220.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair Nourish Oil",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 1252.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair Mask",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 1284.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best Personal Care Products",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 1316.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "BMI Calculator",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1124.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "FAQs & Help",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1156.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1188.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1220.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1252.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delivery Policies",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1284.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Returns Policy",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1316.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1348.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Track Your Order",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1380.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 1412.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1500.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Refer & Earn",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1532.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Loyalty Rewards",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1564.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "HK Cash",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1596.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "HealthKart Coupons",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1628.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Authenticity Guaranteed",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1660.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Locate Your Nearest Store",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1692.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1724.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Brand Directory",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1756.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sell On HealthKart",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1788.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Blogs & Videos",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1820.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein peanut butter",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1500.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Oats",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1532.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Muesli",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1564.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein Bar",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1596.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Apple cider vinegar",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1628.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Shakes",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 1660.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1500.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "HK Vitals",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1532.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "TrueBasics",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1564.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gritzo",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1596.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "bGREEN",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1628.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "MB Z Verse",
+      "tag": "A",
+      "x": 523.25,
+      "y": 1660.5999755859375,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 215.25,
+      "y": 1888.2000732421875,
+      "width": 12,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 243.25,
+      "y": 1888.7000732421875,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 283.25,
+      "y": 1888.2000732421875,
+      "width": 23,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 322.25,
+      "y": 1888.2000732421875,
+      "width": 22,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 360.25,
+      "y": 1888.7000732421875,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 400.25,
+      "y": 1888.7000732421875,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 1934.2000732421875,
+      "width": 120,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 185.8000030517578,
+      "y": 1934.2000732421875,
+      "width": 120,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Protein powder for beginners",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 2173.60009765625,
+      "width": 180.4250030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein powder for women",
+      "tag": "A",
+      "x": 242.22500610351562,
+      "y": 2173.60009765625,
+      "width": 164.9499969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vegan & plant protein powder",
+      "tag": "A",
+      "x": 419.1750183105469,
+      "y": 2173.60009765625,
+      "width": 183.0625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Soy based protein",
+      "tag": "A",
+      "x": 614.2374877929688,
+      "y": 2173.60009765625,
+      "width": 111.38750457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Weight loss tablets",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 2253.60009765625,
+      "width": 118.67500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Heart health & cholesterol",
+      "tag": "A",
+      "x": 180.47500610351562,
+      "y": 2253.60009765625,
+      "width": 161.35000610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bone & joint health",
+      "tag": "A",
+      "x": 353.82501220703125,
+      "y": 2253.60009765625,
+      "width": 116.48750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair fall control & regrowth",
+      "tag": "A",
+      "x": 482.3125,
+      "y": 2253.60009765625,
+      "width": 166.5749969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Skin glow & anti-ageing",
+      "tag": "A",
+      "x": 660.8875122070312,
+      "y": 2253.60009765625,
+      "width": 144.5500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Immunity booster supplements",
+      "tag": "A",
+      "x": 817.4375,
+      "y": 2253.60009765625,
+      "width": 193.91250610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kids nutrition supplements",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 2333.60009765625,
+      "width": 166.875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women’s health supplements",
+      "tag": "A",
+      "x": 228.6750030517578,
+      "y": 2333.60009765625,
+      "width": 182.47500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men’s health & performance",
+      "tag": "A",
+      "x": 423.1499938964844,
+      "y": 2333.60009765625,
+      "width": 173.77500915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sports & athlete nutrition",
+      "tag": "A",
+      "x": 608.9249877929688,
+      "y": 2333.60009765625,
+      "width": 154.8000030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diabetes‑friendly nutrition",
+      "tag": "A",
+      "x": 775.7250366210938,
+      "y": 2333.60009765625,
+      "width": 160.83750915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Accessories",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 2413.60009765625,
+      "width": 108.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 170.16250610351562,
+      "y": 2413.60009765625,
+      "width": 95.42500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Essentials",
+      "tag": "A",
+      "x": 277.5874938964844,
+      "y": 2413.60009765625,
+      "width": 95.7125015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Yoga Mats",
+      "tag": "A",
+      "x": 385.3000183105469,
+      "y": 2413.60009765625,
+      "width": 66.55000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Bags",
+      "tag": "A",
+      "x": 463.8500061035156,
+      "y": 2413.60009765625,
+      "width": 63.337501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Wear",
+      "tag": "A",
+      "x": 539.1875,
+      "y": 2413.60009765625,
+      "width": 63.91250228881836,
+      "height": 20,
+      "visible": true
+    }
+  ]
+}

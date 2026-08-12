@@ -1,0 +1,5985 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://pharmeasy.in/",
+  "timestamp": "20260810_120001",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 9.600000381469727,
+      "width": 147,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Select Location",
+      "tag": "A",
+      "x": 252,
+      "y": 30,
+      "width": 123.4749984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hello, Log in",
+      "tag": "BUTTON",
+      "x": 929.8375244140625,
+      "y": 20,
+      "width": 149.83750915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1079.675048828125,
+      "y": 20,
+      "width": 101.875,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 1181.550048828125,
+      "y": 20,
+      "width": 58.45000076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Medicine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medicine",
+      "tag": "A",
+      "x": 268.0625,
+      "y": 64,
+      "width": 75.9124984741211,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Healthcare",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Healthcare",
+      "tag": "A",
+      "x": 359.9750061035156,
+      "y": 64,
+      "width": 107.5999984741211,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Health Must Haves",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamins & Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Monsoon Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Healthcare Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports Nutrition",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Food and Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ayurvedic Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mother and Baby Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mobility & Elderly Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Concern",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Diabetic Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Vitamin Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Feet Problem Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Orthopaedic Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Skin & Hair Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Healthcare Therapy Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Health Products on Best Deals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Sexual Wellness OTC Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Condoms",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Vigor & Vitality Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Shilajit Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pregnancy Support Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Oral Contraceptives",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Sexual Wellness Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Hair Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Skin Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Face Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Cleansers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lip Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Toners & Mists",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Facial Kits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturizers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Masks & Protective Masks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Talcum Powder",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Scrubs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Wipes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Creams",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Women Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mother Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Intimate Care & Hygiene Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Men Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men's Wellness Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Oral Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Toothpaste",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mouth Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tooth Powder",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Toothbrush",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mouth Fresheners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dental Flossers and Cleaners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Male Grooming Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beard Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Body Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Deodorants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Soaps",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massage Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Lotion & Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Wash & Shower Gels",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Talc",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Scrubs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Stretch Marks Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Cleansers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Healthcare Appliances",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massagers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Styling Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beard Grooming Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair & Beard Trimmers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Hands & Feet Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Scrubs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Lotions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hand Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Vitamins and Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Multivitamins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Biotin Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Collagen Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Health Gummies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Skin Health Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Sleep Support Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Vitamins & Supplements for Heart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Vitamins & Supplements for Diabetes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Immunity & Fever Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cold & Cough Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Food and Beverages",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Immunity Boosters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fever & Headache",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Digestive Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Monsoon Hygiene Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Intimate Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fungal Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Foot Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mosquito Repellant",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kadha",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Care OTC Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturizers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Nourishment Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Baby Monsoon Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Nutrition",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Bathing",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Grooming",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Hygiene",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Cold Cough and Headache",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Glucometer & Test Strips",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glucometer Test Strips",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glucometer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lancets & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All BP Monitors",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Oximeter",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Thermometer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Nebulizer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Vaporizer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Weighing Scale",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Hearing Aids & Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pregnancy Kits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Air Purifiers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Respirometers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Mobility Aids",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Sports Nutrition",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Whey Protein",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Creatine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Mass Gainers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Explore by Health Needs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin & Hair Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cold, Cough & Fever",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stomach & Liver Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Immunity & Wellness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women's Health",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Piles & Fistula",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Arthritis",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Care for Specific Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heart Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye & Ear Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thyroid Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mental Health",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Obesity Management",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Infection & Allergies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Featured Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wheezal Brand Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Allen Brand Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DR.WILLMAR SCHWABE INDIA STORE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baksons Brand Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SBL Brand Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Healthcare Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dry Fruits & Food Mix",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Butter and Edible Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nutritional Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Teas and Infusions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Energy and Hydration Boosters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Honey and Natural Sweeteners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Biscuits & Cookies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbal Superfoods",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Healthy Snacking Picks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dry Fruits & Nuts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Super Seeds",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Peanut Butter",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Biscuits & Cookies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Honey",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Daily Health Liquids",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbal Juices and Liquids",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Green Tea",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glucose & ORS Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nutritional Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Top Healthcare Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ensure Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Threptin Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kapiva Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glucon-D Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Farmley Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Delight Nuts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Organic India Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sugar Free Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Dry Fruits & Food Mix",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dry Fruits & Food Mix",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Super Seeds",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cereals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Almonds",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dates",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cashews",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mixed Seeds",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Raisins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nuts and Berries",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Diabetic Care OTC Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Glucometer & Test Strips",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glucometer Test Strips",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glucometer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lancets & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Diabetic Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Juices & Vinegars",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Sugar Substitutes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Ayurvedic Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pain Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heart Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti-Infectives",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liver Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Urinary Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bone, Joint & Muscle Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bone & Joint Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ENT Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stomach Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Respiratory Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Ayurvedic Foods & Juices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speciality Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbal Teas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbal Tea",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Digestive Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Juices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liver & Kidney Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Homeopathic Medicine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Sexual Wellness Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aphrodisiacs Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Unani & Siddha Medicine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Diapers & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Diapers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wipes & Rash Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Pacifiers & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Baby Feeding & Nutrition Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Infant Formula Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Feeding Bottles & Sippers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nursing and Breastfeeding Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pregnancy and Lactation Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Baby Bath & Grooming Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bath Time Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Moisturizers & Lotions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massage & Hair Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Grooming Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Infant Formula Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Food items for Stage 1 (0-6 Months) Baby",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Food items for Stage 2 (6-12 Months) Baby",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Food items for Stage 3 (12-18 Months) Baby",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Food items for Stage 4 (18+ months) Baby",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Mother Wellness Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pregnancy and Lactation Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stretch Marks and Skin Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nursing and Breastfeeding Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Everyday Baby Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Infant Formula Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pregnancy Nutrition Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Moisturizers & Lotions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lactation Support Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Wash & Soaps",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Shampoo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Diapers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Rash Creams",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Wipes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fever, Cold & Cough Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Powder",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Top Healthcare Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aptamil Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sebamed Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Similac Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nestle Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cetaphil Baby Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Prohance Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tedibar Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Himalaya Baby Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Johnson's Baby Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "R for Rabbit Baby Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Urinary Support and Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Adult Diapers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Underpads",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Urinary Control Drops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pain Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hot & Cold Packs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massage Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hot Water Bags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Compression Stockings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pain Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pain Relief Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pain Relief Wearables",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Mobility and Support Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Knee & Leg Support Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orthopedic Pillows",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hand & Wrist Braces",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Arm & Elbow Support Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back Support Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orthopaedic Supports",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Healthcare Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Massager",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Air Mattress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Electric Heating Pads",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Orthopedic Footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orthopedic Footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orthopedic Insoles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Eye Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Lens Solution",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glasses & Eyewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Bone, Joint & Muscle Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Skin Care OTC Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Anti Acne Topical Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Moisturizers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Skin Cleansers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Skin Nourishment Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Sunscreens",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pet Care Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Grooming Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Medicine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Healthcare Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pet Grooming Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pet Medicine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pet Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pet Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Stomach Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Piles Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Digestive Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Constipation Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Acidity Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gas Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stomach Pain Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Skin Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Eczema Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Fungal Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Itch Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Lice Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wound & Burn Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Allergy Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Acne Topical Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Pigmentation Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Pain Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Cold & Cough Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cough Syrups",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Balms and Rubs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Throat Lozenges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vaporizer & Nasal Sprays",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Anti Infective Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Kidney Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Liver Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Headache Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Deaddiction Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Eye Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Hangover Relief Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Mental Wellness Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Paralytic Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Memory and Cognition Enhancers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sleep Improvement Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stress Reliever Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Metabolic System Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thyroid Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pancreas Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anti Diabetic Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Reproductive System Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ovarian Health Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Menstrual Modulator Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Erectile Dysfunction & Premature Ejaculation Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Respiratory Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Respiratory Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Doctor Consult",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Doctor Consult",
+      "tag": "A",
+      "x": 483.57501220703125,
+      "y": 64,
+      "width": 117.11250305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Lab Tests",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lab Tests",
+      "tag": "A",
+      "x": 616.6875,
+      "y": 64,
+      "width": 100.3125,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "All Tests",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Packages",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS",
+      "tag": "A",
+      "x": 733,
+      "y": 64,
+      "width": 53.35000228881836,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Health Insights",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Insights",
+      "tag": "A",
+      "x": 802.3500366210938,
+      "y": 64,
+      "width": 136.35000610351562,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Blog Articles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chronic Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 954.7000122070312,
+      "y": 64,
+      "width": 57.23749923706055,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "UPLOAD NOW",
+      "tag": "A",
+      "x": 940.7750244140625,
+      "y": 167.25,
+      "width": 101.2249984741211,
+      "height": 17.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 234.8000030517578,
+      "y": 210.5500030517578,
+      "width": 37,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Search",
+      "tag": "BUTTON",
+      "x": 977.2000122070312,
+      "y": 209.75,
+      "width": 88,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "UPLOAD NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medicine\n\nSAVE 27%",
+      "tag": "A",
+      "x": 40,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "Lab Tests\n\nUPTO 70% OFF",
+      "tag": "A",
+      "x": 204,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "Doctor Consult\n\nFROM ₹199",
+      "tag": "A",
+      "x": 368,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "Branded Substitute\n\nUPTO 50% OFF",
+      "tag": "A",
+      "x": 532,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "Healthcare\n\nUPTO 60% OFF",
+      "tag": "A",
+      "x": 696,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "Health Blogs",
+      "tag": "A",
+      "x": 860,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "PLUS\n\nSave 5% Extra",
+      "tag": "A",
+      "x": 1024,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1188,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "Value Store\n\nUPTO 50% OFF",
+      "tag": "A",
+      "x": 1352,
+      "y": 312,
+      "width": 132,
+      "height": 176,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1200,
+      "y": 380,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 544,
+      "width": 527,
+      "height": 227.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 591,
+      "y": 544,
+      "width": 527,
+      "height": 298.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1142,
+      "y": 544,
+      "width": 527,
+      "height": 227.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1693,
+      "y": 544,
+      "width": 527,
+      "height": 227.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2244,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2795,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3346,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3897,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4448,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4999,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5550,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6101,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6652,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 7203,
+      "y": 544,
+      "width": 527,
+      "height": 227,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1200,
+      "y": 637.5,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 244,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 448,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 652,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 856,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1060,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1264,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1468,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1672,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1876,
+      "y": 975,
+      "width": 180,
+      "height": 186,
+      "visible": true
+    },
+    {
+      "text": "Upload",
+      "tag": "A",
+      "x": 205.8000030517578,
+      "y": 1334.425048828125,
+      "width": 111.45000457763672,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Health Must Haves",
+      "tag": "A",
+      "x": 40,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 215,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 390,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Vitamins & Supplements",
+      "tag": "A",
+      "x": 565,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 226,
+      "visible": true
+    },
+    {
+      "text": "Monsoon Store",
+      "tag": "A",
+      "x": 740,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Healthcare Devices",
+      "tag": "A",
+      "x": 915,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Sports Nutrition",
+      "tag": "A",
+      "x": 1090,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Homeopathy Care",
+      "tag": "A",
+      "x": 1265,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Health Food and Drinks",
+      "tag": "A",
+      "x": 1440,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 226,
+      "visible": true
+    },
+    {
+      "text": "Diabetes Essentials",
+      "tag": "A",
+      "x": 1615,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Ayurvedic Care",
+      "tag": "A",
+      "x": 1790,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Mother and Baby Care",
+      "tag": "A",
+      "x": 1965,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 226,
+      "visible": true
+    },
+    {
+      "text": "Mobility & Elderly Care",
+      "tag": "A",
+      "x": 2140,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 226,
+      "visible": true
+    },
+    {
+      "text": "Skin Care",
+      "tag": "A",
+      "x": 2315,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Pet Care",
+      "tag": "A",
+      "x": 2490,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Health Concern",
+      "tag": "A",
+      "x": 2665,
+      "y": 1537.3499755859375,
+      "width": 151,
+      "height": 202,
+      "visible": true
+    },
+    {
+      "text": "Gas-O-Fast For Relieving Acidity Active Jeera- 5 G Sachet (Pack Of 24)\nMRP ₹240\n",
+      "tag": "A",
+      "x": 40,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Baidyanath Asli Ayurved Nagarjunabhra Ras 40 Tablets (Pack Of 2)\nMRP ₹270\n₹230\n(",
+      "tag": "A",
+      "x": 244,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Grd Mom Protein Supplement Kesar Badam Flavour For Pregnant & Lactating Mothers ",
+      "tag": "A",
+      "x": 448,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Yuderma Eclipse Solaire Mattifying Sunscreen For Normal Skin Type Spf 50 Pa+++ |",
+      "tag": "A",
+      "x": 652,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Tiger Balm Oil | 3Ml (Set Of 2)\nMRP ₹75\nMRP ₹75",
+      "tag": "A",
+      "x": 856,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Cetaphil Moisturising Lotion 118 Ml\nMRP ₹789\n₹711\n(10%)",
+      "tag": "A",
+      "x": 1060,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "B-Fit Pant Style Medium Size (63.5-122 Cm) 25-48 Inch Adult Diaper 10 Nos\nMRP ₹5",
+      "tag": "A",
+      "x": 1264,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Outer Woods Insulin Cooler Bag With 2 Ice Gel Packs | 6+ Hrs Cooling | Insulin T",
+      "tag": "A",
+      "x": 1468,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Skore Eggstacy -Non-Powered Sleeve Massager For Men\nMRP ₹745\n₹641\n(14%)",
+      "tag": "A",
+      "x": 1672,
+      "y": 1907.3499755859375,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Shelcal 500Mg Strip Of 15 Tablets\nMRP ₹164\n₹154\n(6%)",
+      "tag": "A",
+      "x": 40,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Abzorb Total Skin Relief Dusting Powder (20% Extra) Bottle Of 120Gm\nMRP ₹164\n₹16",
+      "tag": "A",
+      "x": 244,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Liveasy Wellness Calcium Magnesium Vitamin D3 & Zinc - Bones & Dental Health - B",
+      "tag": "A",
+      "x": 448,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Evion 400Mg | Vitamin E | Antioxidant To Repair & Protect Cells | Strip Of 20 Ca",
+      "tag": "A",
+      "x": 652,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Revital Men Complete Multivitamin | With Natural Ginseng | 60 Capsules\nMRP ₹560\n",
+      "tag": "A",
+      "x": 856,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Dr. Morepen Gluco One Blood Glucose Test Strip | Bg-03 | 50 No's\nMRP ₹795\n₹597\n(",
+      "tag": "A",
+      "x": 1060,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Everherb Karela Jamun Juice - Helps Maintains Sugar Levels & Weight Management -",
+      "tag": "A",
+      "x": 1264,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Supradyn Daily Multivitamin For Men & Women Builds Energy & Immunity Strip Of 15",
+      "tag": "A",
+      "x": 1468,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Zincovit Strip Of 15 Tablets (Green)\nMRP ₹108\n₹101\n(7%)",
+      "tag": "A",
+      "x": 1672,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Manforce Xotic Extra Dotted Vegan Condoms For Men With 1500 Dots Strawberry Flav",
+      "tag": "A",
+      "x": 1876,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Unwanted 72 Strip Of 1 Tablet\nMRP ₹76\n₹66\n(14%)",
+      "tag": "A",
+      "x": 2080,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Accu-Chek Active Glucometer Test Strips Box Of 50\nMRP ₹1115\n₹1026\n(8%)",
+      "tag": "A",
+      "x": 2284,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Durex Extra Time Packet Of 10 Condoms\nMRP ₹356\n₹310\n(13%)",
+      "tag": "A",
+      "x": 2488,
+      "y": 2375.35009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Become a\nmember\nAnd enjoy extra bachat on every order\nExplore Now",
+      "tag": "A",
+      "x": 0,
+      "y": 2787.35009765625,
+      "width": 1280,
+      "height": 184,
+      "visible": true
+    },
+    {
+      "text": "View All",
+      "tag": "A",
+      "x": 1179.5250244140625,
+      "y": 3053.35009765625,
+      "width": 60.47500228881836,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "52% OFF\n\nComprehensive Full Body Checkup Test with Vitamin D and B12\n\n₹4599\n₹219",
+      "tag": "A",
+      "x": 48,
+      "y": 3107.35009765625,
+      "width": 278,
+      "height": 284,
+      "visible": true
+    },
+    {
+      "text": "54% OFF\n\nComprehensive Plus Full Body Checkup with Vitamin D B12 & Electrolytes\n",
+      "tag": "A",
+      "x": 350,
+      "y": 3107.35009765625,
+      "width": 278,
+      "height": 284,
+      "visible": true
+    },
+    {
+      "text": "43% OFF\n\nAarogyam Full Body Checkup with Vitamins\n\n₹4599\n₹2599",
+      "tag": "A",
+      "x": 652,
+      "y": 3107.35009765625,
+      "width": 278,
+      "height": 284,
+      "visible": true
+    },
+    {
+      "text": "53% OFF\n\nComprehensive Bronze Full Body Checkup with Cardiac and Fever Markers\n\n",
+      "tag": "A",
+      "x": 954,
+      "y": 3107.35009765625,
+      "width": 278,
+      "height": 284,
+      "visible": true
+    },
+    {
+      "text": "Limcee Chewable Vitamin C 500Mg | Tangy Orange | Immunity | Antioxidant & Skin S",
+      "tag": "A",
+      "x": 40,
+      "y": 3535.35009765625,
+      "width": 360,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Himalaya Liv.52 Ds | Tablets | 60 No's\nMRP ₹281\n₹248\n(12%)",
+      "tag": "A",
+      "x": 40,
+      "y": 3695.35009765625,
+      "width": 360,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Combiflam Ms Cream 30G | Deep Penetrating Cream For Fast Pain Relief | For Muscl",
+      "tag": "A",
+      "x": 456,
+      "y": 3535.35009765625,
+      "width": 360,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Shelcal Total Supplement With Your Daily Nutrition Vanilla Flavour Box 400 Gm\nMR",
+      "tag": "A",
+      "x": 456,
+      "y": 3695.35009765625,
+      "width": 360,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Diataal Cal | Calcium For Men & Women | Clinically Tested | 400 Iu Vit. D3 | 30 ",
+      "tag": "A",
+      "x": 872,
+      "y": 3535.35009765625,
+      "width": 360,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Enterogermina Suspension 10 X 5 Ml\nMRP ₹821\n₹706\n(14%)",
+      "tag": "A",
+      "x": 872,
+      "y": 3695.35009765625,
+      "width": 360,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Curkey 100Mg Strip Of 10 Pastilles\nMRP ₹227\n₹221\n(3%)",
+      "tag": "A",
+      "x": 1288,
+      "y": 3535.35009765625,
+      "width": 368,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Wellman Multivitamin Tablet Help To Maintain Men Health And Vitality 60 No's\nMRP",
+      "tag": "A",
+      "x": 1288,
+      "y": 3695.35009765625,
+      "width": 360,
+      "height": 136,
+      "visible": true
+    },
+    {
+      "text": "Pentasure",
+      "tag": "A",
+      "x": 40,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Fixderma",
+      "tag": "A",
+      "x": 244,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Sharmayu",
+      "tag": "A",
+      "x": 448,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Diataal",
+      "tag": "A",
+      "x": 652,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Cetafresh",
+      "tag": "A",
+      "x": 856,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Cetaphil",
+      "tag": "A",
+      "x": 1060,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Optimum Nutrition",
+      "tag": "A",
+      "x": 1264,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Mums Care",
+      "tag": "A",
+      "x": 1468,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Supradyn",
+      "tag": "A",
+      "x": 1672,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Herbs O' Shrubs",
+      "tag": "A",
+      "x": 1876,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Cos-iq",
+      "tag": "A",
+      "x": 2080,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Dynapar",
+      "tag": "A",
+      "x": 2284,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Dr Morepen",
+      "tag": "A",
+      "x": 2488,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "Polycrol",
+      "tag": "A",
+      "x": 2692,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "LivEasy",
+      "tag": "A",
+      "x": 2896,
+      "y": 3983.35009765625,
+      "width": 180,
+      "height": 208,
+      "visible": true
+    },
+    {
+      "text": "View All",
+      "tag": "A",
+      "x": 1179.5250244140625,
+      "y": 4250.10009765625,
+      "width": 60.47500228881836,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Enterogermina Suspension 10 X 5 Ml\nMRP ₹821\n₹706\n(14%)",
+      "tag": "A",
+      "x": 40,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Shelcal 500Mg Bottle Of 30 Tablets\nMRP ₹327\n₹295\n(10%)",
+      "tag": "A",
+      "x": 244,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Fixderma Shadow Sunscreen Spf 50+ Gel For Oily Skin Uva And Uvb | Spf 50 | Water",
+      "tag": "A",
+      "x": 448,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Dynapar Qps Plus Pain Relief Spray For Back | Knee | Muscle & Joint Pain - 30 Ml",
+      "tag": "A",
+      "x": 652,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Sharmayu Shaktipunj Supreme Tablets - 80N\nMRP ₹570\n₹513\n(10%)",
+      "tag": "A",
+      "x": 856,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Cir Pants M Adult Diaper 10 No's\nMRP ₹467\nMRP ₹467",
+      "tag": "A",
+      "x": 1060,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Vantej Long Lasting Protection Mint Flavour Everyday Toothpaste 100 Gm\nMRP ₹387\n",
+      "tag": "A",
+      "x": 1264,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Celevida For Diabetes Management- Nutrition Health Drink Vanilla Flavour 400G | ",
+      "tag": "A",
+      "x": 1468,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Slimbiome Optibiotix Glp-1 Safe Alternative Prebiotic Nutritional Supplement Veg",
+      "tag": "A",
+      "x": 1672,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Nicotex 2Mg Mint Plus Sugar Free Tin Of 44 Chewing Gums (41+3 Extra)\nMRP ₹415\n₹3",
+      "tag": "A",
+      "x": 1876,
+      "y": 4304.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Everherb Karela Jamun Juice - Helps Maintains Sugar Levels & Weight Management -",
+      "tag": "A",
+      "x": 40,
+      "y": 4772.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Pharmeasy Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bo",
+      "tag": "A",
+      "x": 244,
+      "y": 4772.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Liveasy Healthy Roasted Seed Mix - Blend Of 6 Fibre Rich Healthy Roasted Seeds -",
+      "tag": "A",
+      "x": 448,
+      "y": 4772.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Pharmeasy Calcium Magnesium Vitamin D3 & Zinc - Bones & Dental Health - Bottle 6",
+      "tag": "A",
+      "x": 652,
+      "y": 4772.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Liveasy Wellness Calcium Magnesium Vitamin D3 & Zinc - Bones & Dental Health - B",
+      "tag": "A",
+      "x": 856,
+      "y": 4772.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "Pharmeasy Orthopaedic Electric Heat Belt Regular\nMRP ₹997\n₹519\n(48%)",
+      "tag": "A",
+      "x": 1060,
+      "y": 4772.85009765625,
+      "width": 180,
+      "height": 340,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 374,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 708,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1042,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1376,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1710,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2044,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2378,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2712,
+      "y": 5152.85009765625,
+      "width": 310,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "View All",
+      "tag": "A",
+      "x": 1179.5250244140625,
+      "y": 5362.85009765625,
+      "width": 60.47500228881836,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Smog: What Is It, Causes and Ways To Protect Yourself From It",
+      "tag": "A",
+      "x": 40,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Everything to Know About GLP-1 Receptor Agonist and Its Role in Weight Managemen",
+      "tag": "A",
+      "x": 294,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Caring for a Baby with Blocked Nose: Simple Tips for Parents",
+      "tag": "A",
+      "x": 548,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Vomiting in Kids: Causes, Home Remedies & Treatment Options",
+      "tag": "A",
+      "x": 802,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Rickets in Children: Causes, Symptoms, Types & Treatment",
+      "tag": "A",
+      "x": 1056,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Baby Loose Motion: Causes, Home Remedies, and Effective Ways to Stop It Fast",
+      "tag": "A",
+      "x": 1310,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Oral Thrush in Babies: Why It Happens and How to Manage It Safely at Home",
+      "tag": "A",
+      "x": 1564,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Colic in Babies: Meaning, Symptoms, Causes, and Effective Treatments",
+      "tag": "A",
+      "x": 1818,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Why Your Baby Isn’t Sleeping and How to Help Them Sleep Through the Night",
+      "tag": "A",
+      "x": 2072,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Green Poop in Babies: Causes, When to Worry, and What Parents Should Know",
+      "tag": "A",
+      "x": 2326,
+      "y": 5416.85009765625,
+      "width": 230,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 466,
+      "y": 6353.4501953125,
+      "width": 162,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 652,
+      "y": 6353.4501953125,
+      "width": 162,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "FBS Test",
+      "tag": "A",
+      "x": 181.28750610351562,
+      "y": 6992.0625,
+      "width": 56.54999923706055,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "D Dimer Test",
+      "tag": "A",
+      "x": 257.4750061035156,
+      "y": 6992.0625,
+      "width": 80.6500015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "VDRL Test",
+      "tag": "A",
+      "x": 357.76251220703125,
+      "y": 6992.0625,
+      "width": 66.1500015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "CRP Test",
+      "tag": "A",
+      "x": 443.5500183105469,
+      "y": 6992.0625,
+      "width": 58.625,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Widal Test",
+      "tag": "A",
+      "x": 521.8125,
+      "y": 6992.0625,
+      "width": 64.32500457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "HIV Test",
+      "tag": "A",
+      "x": 605.7750244140625,
+      "y": 6992.0625,
+      "width": 52.66250228881836,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SGPT Test",
+      "tag": "A",
+      "x": 678.0750122070312,
+      "y": 6992.0625,
+      "width": 67.1875,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Troponin Test",
+      "tag": "A",
+      "x": 764.9000244140625,
+      "y": 6992.0625,
+      "width": 84.05000305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "HbA1c Test",
+      "tag": "A",
+      "x": 868.5875244140625,
+      "y": 6992.0625,
+      "width": 71.3375015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lipid Profile Test",
+      "tag": "A",
+      "x": 959.5625,
+      "y": 6992.0625,
+      "width": 102.4749984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "RBS Test",
+      "tag": "A",
+      "x": 1081.675048828125,
+      "y": 6992.0625,
+      "width": 58.10000228881836,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Thyroid Profile Test",
+      "tag": "A",
+      "x": 40,
+      "y": 7017.66259765625,
+      "width": 119.57500457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Liver Function Test",
+      "tag": "A",
+      "x": 179.21250915527344,
+      "y": 7017.66259765625,
+      "width": 117.25,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "CBC Test",
+      "tag": "A",
+      "x": 316.1000061035156,
+      "y": 7017.66259765625,
+      "width": 58.875,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Prolactin Test",
+      "tag": "A",
+      "x": 394.6125183105469,
+      "y": 7017.66259765625,
+      "width": 83.7874984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Creatinine Test",
+      "tag": "A",
+      "x": 498.0375061035156,
+      "y": 7017.66259765625,
+      "width": 93.13750457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ESR Test",
+      "tag": "A",
+      "x": 610.8125,
+      "y": 7017.66259765625,
+      "width": 58.10000228881836,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cystone Tablet",
+      "tag": "A",
+      "x": 267.88751220703125,
+      "y": 7067.2626953125,
+      "width": 92.36250305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "I Pill Contraceptive Pill",
+      "tag": "A",
+      "x": 379.88751220703125,
+      "y": 7067.2626953125,
+      "width": 139.28750610351562,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Depura Vitamin D3",
+      "tag": "A",
+      "x": 538.8125,
+      "y": 7067.2626953125,
+      "width": 118.0250015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Evion 400 mg",
+      "tag": "A",
+      "x": 676.4750366210938,
+      "y": 7067.2626953125,
+      "width": 85.61250305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cremaffin Syrup",
+      "tag": "A",
+      "x": 781.7250366210938,
+      "y": 7067.2626953125,
+      "width": 100.9000015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bold Care Extend Delay Spray",
+      "tag": "A",
+      "x": 902.2625122070312,
+      "y": 7067.2626953125,
+      "width": 189.875,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Himalaya Himcolin Gel",
+      "tag": "A",
+      "x": 40,
+      "y": 7092.86279296875,
+      "width": 141.60000610351562,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Unwanted 72",
+      "tag": "A",
+      "x": 201.2375030517578,
+      "y": 7092.86279296875,
+      "width": 82.51250457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dulcoflex 5mg",
+      "tag": "A",
+      "x": 303.38751220703125,
+      "y": 7092.86279296875,
+      "width": 88.7125015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Buscogast 10mg",
+      "tag": "A",
+      "x": 411.7375183105469,
+      "y": 7092.86279296875,
+      "width": 104.2874984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Supradyn Daily Multivitamin",
+      "tag": "A",
+      "x": 535.6625366210938,
+      "y": 7092.86279296875,
+      "width": 172.7375030517578,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shelcal 500mg",
+      "tag": "A",
+      "x": 728.0375366210938,
+      "y": 7092.86279296875,
+      "width": 92.625,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Prohance Nutrition Drink",
+      "tag": "A",
+      "x": 840.2999877929688,
+      "y": 7092.86279296875,
+      "width": 152.5124969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Prega News Pregnancy Test Kit",
+      "tag": "A",
+      "x": 1012.4500122070312,
+      "y": 7092.86279296875,
+      "width": 196.625,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Himalaya Confido Tablets",
+      "tag": "A",
+      "x": 40,
+      "y": 7118.46240234375,
+      "width": 158.5,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Gaviscon Liquid Instant Relief",
+      "tag": "A",
+      "x": 218.1374969482422,
+      "y": 7118.46240234375,
+      "width": 185.22500610351562,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Zincovit",
+      "tag": "A",
+      "x": 423,
+      "y": 7118.46240234375,
+      "width": 48.23749923706055,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mounjaro 5mg",
+      "tag": "A",
+      "x": 199.4250030517578,
+      "y": 7168.0625,
+      "width": 89.5,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wegovy 0.25mg",
+      "tag": "A",
+      "x": 308.5625,
+      "y": 7168.0625,
+      "width": 100.9124984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Erly 6mg",
+      "tag": "A",
+      "x": 429.1125183105469,
+      "y": 7168.0625,
+      "width": 55.23749923706055,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Telma 40",
+      "tag": "A",
+      "x": 503.9875183105469,
+      "y": 7168.0625,
+      "width": 56.8125,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Yurpeak 5mg",
+      "tag": "A",
+      "x": 580.4375,
+      "y": 7168.0625,
+      "width": 82.5,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mounjaro 7.5mg",
+      "tag": "A",
+      "x": 682.5750122070312,
+      "y": 7168.0625,
+      "width": 101.17500305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Montek LC",
+      "tag": "A",
+      "x": 803.3875122070312,
+      "y": 7168.0625,
+      "width": 67.70000457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Megalis 10",
+      "tag": "A",
+      "x": 890.7250366210938,
+      "y": 7168.0625,
+      "width": 67.7125015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lirafit 6mg",
+      "tag": "A",
+      "x": 978.0750122070312,
+      "y": 7168.0625,
+      "width": 65.36250305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Levipil 500",
+      "tag": "A",
+      "x": 1063.0750732421875,
+      "y": 7168.0625,
+      "width": 66.9375,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mounjaro 2.5mg",
+      "tag": "A",
+      "x": 40,
+      "y": 7193.66259765625,
+      "width": 101.17500305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Montair LC",
+      "tag": "A",
+      "x": 160.8125,
+      "y": 7193.66259765625,
+      "width": 68.4749984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amoxyclav 625",
+      "tag": "A",
+      "x": 248.9250030517578,
+      "y": 7193.66259765625,
+      "width": 94.9375,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Rybelsus 3mg",
+      "tag": "A",
+      "x": 363.5,
+      "y": 7193.66259765625,
+      "width": 88.7125015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Nurokind LC",
+      "tag": "A",
+      "x": 471.8500061035156,
+      "y": 7193.66259765625,
+      "width": 77.82500457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Orofer XT",
+      "tag": "A",
+      "x": 569.3125,
+      "y": 7193.66259765625,
+      "width": 61.462501525878906,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Primolut N",
+      "tag": "A",
+      "x": 216.5625,
+      "y": 7243.2626953125,
+      "width": 65.3499984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dolo 650",
+      "tag": "A",
+      "x": 301.5500183105469,
+      "y": 7243.2626953125,
+      "width": 56.04999923706055,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Nexpro Rd 40mg",
+      "tag": "A",
+      "x": 377.2375183105469,
+      "y": 7243.2626953125,
+      "width": 105.8375015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Budecort 0.5mg",
+      "tag": "A",
+      "x": 502.7124938964844,
+      "y": 7243.2626953125,
+      "width": 98.8375015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Meftal Spas",
+      "tag": "A",
+      "x": 621.1875,
+      "y": 7243.2626953125,
+      "width": 73.92500305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Karvol Plus",
+      "tag": "A",
+      "x": 714.75,
+      "y": 7243.2626953125,
+      "width": 70.8125,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ganaton 50mg",
+      "tag": "A",
+      "x": 805.2000122070312,
+      "y": 7243.2626953125,
+      "width": 92.625,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Zerodol Sp",
+      "tag": "A",
+      "x": 917.4625244140625,
+      "y": 7243.2626953125,
+      "width": 68.48750305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Omee 20mg",
+      "tag": "A",
+      "x": 1005.5875244140625,
+      "y": 7243.2626953125,
+      "width": 77.0374984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pan 40mg",
+      "tag": "A",
+      "x": 1102.2625732421875,
+      "y": 7243.2626953125,
+      "width": 63.82500076293945,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dexona 0.5mg",
+      "tag": "A",
+      "x": 40,
+      "y": 7268.86279296875,
+      "width": 91.0625,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Allegra 120mg",
+      "tag": "A",
+      "x": 150.6999969482422,
+      "y": 7268.86279296875,
+      "width": 90.2874984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fourderm Cream",
+      "tag": "A",
+      "x": 260.625,
+      "y": 7268.86279296875,
+      "width": 106.5875015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Duphaston 10mg",
+      "tag": "A",
+      "x": 386.8500061035156,
+      "y": 7268.86279296875,
+      "width": 106.63750457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Becosules",
+      "tag": "A",
+      "x": 513.125,
+      "y": 7268.86279296875,
+      "width": 64.5999984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ecosprin 75mg",
+      "tag": "A",
+      "x": 597.3624877929688,
+      "y": 7268.86279296875,
+      "width": 93.38750457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pneumovax 23 Injection",
+      "tag": "A",
+      "x": 208.03750610351562,
+      "y": 7318.46240234375,
+      "width": 149.4375,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Jeev 3mcg Vaccine",
+      "tag": "A",
+      "x": 377.1125183105469,
+      "y": 7318.46240234375,
+      "width": 120.36250305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Rotasil Vaccine",
+      "tag": "A",
+      "x": 517.1124877929688,
+      "y": 7318.46240234375,
+      "width": 95.4625015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Nukovax 13 Vaccine",
+      "tag": "A",
+      "x": 632.2125244140625,
+      "y": 7318.46240234375,
+      "width": 126.5999984741211,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Influvac Tetra Vaccine",
+      "tag": "A",
+      "x": 778.4500122070312,
+      "y": 7318.46240234375,
+      "width": 135.6750030517578,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fluquadri Sh Vaccine",
+      "tag": "A",
+      "x": 933.7625122070312,
+      "y": 7318.46240234375,
+      "width": 132.03750610351562,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tetanus Vaccine",
+      "tag": "A",
+      "x": 1085.4375,
+      "y": 7318.46240234375,
+      "width": 101.70000457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Havrix 720 Junior Vaccine",
+      "tag": "A",
+      "x": 40,
+      "y": 7344.0625,
+      "width": 161.60000610351562,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Boostrix Vaccine",
+      "tag": "A",
+      "x": 221.2375030517578,
+      "y": 7344.0625,
+      "width": 103.23750305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Vaxigrip NH 2025/2026 Vaccine",
+      "tag": "A",
+      "x": 344.1125183105469,
+      "y": 7344.0625,
+      "width": 196.3874969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Vaxiflu 2025-2026 Vaccine",
+      "tag": "A",
+      "x": 560.1375122070312,
+      "y": 7344.0625,
+      "width": 164.4875030517578,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Menactra Injection",
+      "tag": "A",
+      "x": 744.2625122070312,
+      "y": 7344.0625,
+      "width": 114.4000015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pneumosil Vaccine",
+      "tag": "A",
+      "x": 878.2999877929688,
+      "y": 7344.0625,
+      "width": 118.0250015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fluarix Tetra Vaccine",
+      "tag": "A",
+      "x": 1015.9625244140625,
+      "y": 7344.0625,
+      "width": 129.4250030517578,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Prevenar 13 Injection",
+      "tag": "A",
+      "x": 40,
+      "y": 7369.66259765625,
+      "width": 132.3125,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pneumovax 23 Vaccine",
+      "tag": "A",
+      "x": 191.9499969482422,
+      "y": 7369.66259765625,
+      "width": 146.0500030517578,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Biovac A Vaccine",
+      "tag": "A",
+      "x": 357.63751220703125,
+      "y": 7369.66259765625,
+      "width": 106.36250305175781,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Get App",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ORDER ON WHATSAPP",
+      "tag": "A",
+      "x": 1045.5875244140625,
+      "y": 608,
+      "width": 218.41250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 40,
+      "y": 8198.2626953125,
+      "width": 57.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 40,
+      "y": 8228.2626953125,
+      "width": 49.79999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 40,
+      "y": 8258.2626953125,
+      "width": 28.024999618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Partner with PharmEasy",
+      "tag": "A",
+      "x": 40,
+      "y": 8288.2626953125,
+      "width": 150.9499969482422,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Order Medicine",
+      "tag": "A",
+      "x": 40,
+      "y": 8366.2626953125,
+      "width": 95.7125015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Healthcare Products",
+      "tag": "A",
+      "x": 40,
+      "y": 8396.2626953125,
+      "width": 126.8499984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Lab Tests",
+      "tag": "A",
+      "x": 40,
+      "y": 8426.2626953125,
+      "width": 59.67499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Health Must Haves",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8198.2626953125,
+      "width": 118.2750015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8228.2626953125,
+      "width": 103.23750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8258.2626953125,
+      "width": 89.5,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vitamins & Supplements",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8288.2626953125,
+      "width": 152.27500915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Monsoon Store",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8318.2626953125,
+      "width": 94.95000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Healthcare Devices",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8348.2626953125,
+      "width": 121.38750457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sports Nutrition",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8378.2626953125,
+      "width": 96.48750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Homeopathy Care",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8408.2626953125,
+      "width": 113.625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Health Food and Drinks",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8438.2626953125,
+      "width": 147.08750915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Diabetes Essentials",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8468.2626953125,
+      "width": 122.9625015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ayurvedic Care",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8498.2626953125,
+      "width": 95.4625015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mother and Baby Care",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8528.2626953125,
+      "width": 140.8625030517578,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mobility & Elderly Care",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8558.2626953125,
+      "width": 141.60000610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Skin Care",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8588.2626953125,
+      "width": 61.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pet Care",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8618.2626953125,
+      "width": 55.25,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Health Concern",
+      "tag": "A",
+      "x": 377.3374938964844,
+      "y": 8648.2626953125,
+      "width": 97.2874984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Browse All Medicines",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8198.2626953125,
+      "width": 132.28750610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Browse All Molecules",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8228.2626953125,
+      "width": 132.28750610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Browse All Cities",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8258.2626953125,
+      "width": 104.26250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Browse All Stores",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8288.2626953125,
+      "width": 109.7125015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8318.2626953125,
+      "width": 35.01250076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8396.2626953125,
+      "width": 91.82500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8426.2626953125,
+      "width": 87.13750457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vulnerability Disclosure Policy",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8456.2626953125,
+      "width": 186.22500610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Terms and conditions",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8486.2626953125,
+      "width": 132.3000030517578,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Declaration on Dark Pattern",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8516.2626953125,
+      "width": 172.7624969482422,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Customer Support Policy",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8546.2626953125,
+      "width": 154.85000610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Return Policy",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8576.2626953125,
+      "width": 83.26250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Smartbuy Policy",
+      "tag": "A",
+      "x": 714.6625366210938,
+      "y": 8606.2626953125,
+      "width": 101.1500015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1048,
+      "y": 8199.8623046875,
+      "width": 30,
+      "height": 34.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1102,
+      "y": 8199.8623046875,
+      "width": 30,
+      "height": 34.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1156,
+      "y": 8199.8623046875,
+      "width": 30,
+      "height": 34.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1210,
+      "y": 8199.8623046875,
+      "width": 30,
+      "height": 34.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "ORDER ON WHATSAPP",
+      "tag": "A",
+      "x": 1045.5875244140625,
+      "y": 608,
+      "width": 218.41250610351562,
+      "height": 48,
+      "visible": true
+    }
+  ]
+}

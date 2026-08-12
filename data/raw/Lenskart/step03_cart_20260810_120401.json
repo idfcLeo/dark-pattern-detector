@@ -1,0 +1,1575 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.lenskart.com/contact-lenses.html?search=true&viewType=tile",
+  "timestamp": "20260810_120401",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 8,
+      "y": 8,
+      "width": 151.10000610351562,
+      "height": 38.85000228881836,
+      "visible": true
+    },
+    {
+      "text": "Corporate",
+      "tag": "A",
+      "x": 36,
+      "y": 16,
+      "width": 56.462501525878906,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "StoreLocator",
+      "tag": "A",
+      "x": 92.4625015258789,
+      "y": 16,
+      "width": 77.4000015258789,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Singapore",
+      "tag": "A",
+      "x": 169.8625030517578,
+      "y": 16,
+      "width": 63.45000076293945,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "UAE",
+      "tag": "A",
+      "x": 233.3125,
+      "y": 16,
+      "width": 33.25,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "John Jacobs",
+      "tag": "A",
+      "x": 266.5625,
+      "y": 16,
+      "width": 71.3125,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Aqualens",
+      "tag": "A",
+      "x": 337.875,
+      "y": 16,
+      "width": 57.78750228881836,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Cobrowsing",
+      "tag": "A",
+      "x": 395.6625061035156,
+      "y": 16,
+      "width": 72.5999984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Engineering Blog",
+      "tag": "A",
+      "x": 468.26251220703125,
+      "y": 16,
+      "width": 94.9124984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Partner With Us",
+      "tag": "A",
+      "x": 563.1749877929688,
+      "y": 16,
+      "width": 86.0999984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 50,
+      "y": 43.5625,
+      "width": 49,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "EYEGLASSES",
+      "tag": "A",
+      "x": 124,
+      "y": 38.5625,
+      "width": 78.4749984741211,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SUNGLASSES",
+      "tag": "A",
+      "x": 214.47500610351562,
+      "y": 38.5625,
+      "width": 81.55000305175781,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONTACTS",
+      "tag": "A",
+      "x": 308.0249938964844,
+      "y": 38.5625,
+      "width": 67.32500457763672,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SPECIAL POWER",
+      "tag": "A",
+      "x": 387.3500061035156,
+      "y": 38.5625,
+      "width": 99.4625015258789,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "STORES",
+      "tag": "A",
+      "x": 498.8125,
+      "y": 38.5625,
+      "width": 48,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Locate a Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TRY @ HOME",
+      "tag": "A",
+      "x": 558.8125,
+      "y": 38.5625,
+      "width": 76.0250015258789,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Book appointment",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1098,
+      "y": 56.5625,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1146,
+      "y": 56.5625,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Eyewear",
+      "tag": "A",
+      "x": 276,
+      "y": 124,
+      "width": 56.337501525878906,
+      "height": 17.137500762939453,
+      "visible": true
+    },
+    {
+      "text": "4.9\n1\n2\n3\n\nRenu Fresh Contact Lens Solution 120 ml\n\n120 ml\n\nDelivery by 17, Augu",
+      "tag": "A",
+      "x": 276,
+      "y": 205.1374969482422,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 418,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 428,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 438,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.8\n1\n2\n3\n\nBio True Contact Lens Solution 300 ml\n\n300 ml\n\nDelivery by 17, August",
+      "tag": "A",
+      "x": 612,
+      "y": 205.1374969482422,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 754,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 764,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 774,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.8\n1\n2\n3\n\nRenu fresh multipurpose Contact Lens Solution 355 ml\n\n355 ml\n\nDeliver",
+      "tag": "A",
+      "x": 948,
+      "y": 205.1374969482422,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 1090,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 1100,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 1110,
+      "y": 407.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.7\n1\n2\n3\n4\nAcuvue Oasys Bi-Weekly 24Hrs\n6 lens/box\n\nDelivery by 17, August\n\n₹ 2",
+      "tag": "A",
+      "x": 276,
+      "y": 647.7374877929688,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 422,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 432,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 442,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 452,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.7\n1\n2\n3\n4\nAcuvue 2 Bi-Weekly 10Hrs\n6 lens/box\n\nDelivery by 17, August\n\n₹ 1499\n",
+      "tag": "A",
+      "x": 612,
+      "y": 647.7374877929688,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 758,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 768,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 778,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 788,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.85\n1\n2\n3\n4\n5\nAcuvue Moist Daily Disposable with BC 8.5 10Hrs\n30 lens/box\n\nDeli",
+      "tag": "A",
+      "x": 948,
+      "y": 647.7374877929688,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 1094,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 1104,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 1114,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 1124,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "5",
+      "tag": "BUTTON",
+      "x": 1134,
+      "y": 850.5375366210938,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.75\n1\n2\nBausch & Lomb Soflens Daily Disposable\n30 lens/box\n\nDelivery by 17, Aug",
+      "tag": "A",
+      "x": 276,
+      "y": 1090.3375244140625,
+      "width": 320,
+      "height": 388.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 424,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 434,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.65\n1\n2\n3\nBausch & Lomb Soflens Toric Monthly Disposable\n6 lens/box\n\nDelivery b",
+      "tag": "A",
+      "x": 612,
+      "y": 1090.3375244140625,
+      "width": 320,
+      "height": 388.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 754,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 764,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 774,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.75\n1\n2\n3\nBausch & Lomb Soflens 59 Monthly Disposable\n6 lens/box\n\nDelivery by 1",
+      "tag": "A",
+      "x": 948,
+      "y": 1090.3375244140625,
+      "width": 320,
+      "height": 388.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 1090,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 1100,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 1110,
+      "y": 1293.1375732421875,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.6\n1\n2\nBausch & Lomb Yearly Disposable Wear Conventional\n1 lens/box\n\nDelivery b",
+      "tag": "A",
+      "x": 276,
+      "y": 1511.5374755859375,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 424,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 434,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.7\n1\n2\n3\n4\nBausch & Lomb Optima 38 Yearly Disposable\n1 lens/box\n\nDelivery by 17",
+      "tag": "A",
+      "x": 612,
+      "y": 1511.5374755859375,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 758,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 768,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 778,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 788,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.7\n1\n2\nBausch & Lomb Soflens Multifocal Lenses\n6 lens/box\n\nDelivery by 17, Augu",
+      "tag": "A",
+      "x": 948,
+      "y": 1511.5374755859375,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 1096,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 1106,
+      "y": 1714.3375244140625,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4.65\n1\n2\n3\n4\nBausch & Lomb Purevision 2 Astigmatism Monthly Disposable\n6 lens/bo",
+      "tag": "A",
+      "x": 276,
+      "y": 1954.1375732421875,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 422,
+      "y": 2156.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 432,
+      "y": 2156.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 442,
+      "y": 2156.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 452,
+      "y": 2156.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "Only few left\n4.85\n1\n2\n3\nAcuvue Moist Daily Disposable 10Hrs\n90 lens/box\n\nDelive",
+      "tag": "A",
+      "x": 612,
+      "y": 1954.1375732421875,
+      "width": 320,
+      "height": 410.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 754,
+      "y": 2156.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 764,
+      "y": 2156.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 774,
+      "y": 2156.9375,
+      "width": 10,
+      "height": 10,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1220,
+      "y": 547.8375244140625,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 55,
+      "y": 2445.737548828125,
+      "width": 81.75,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Buying Guide",
+      "tag": "A",
+      "x": 55,
+      "y": 2482.737548828125,
+      "width": 79.57500457763672,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Frame Size",
+      "tag": "A",
+      "x": 55,
+      "y": 2519.737548828125,
+      "width": 64.0250015258789,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "We Are Hiring",
+      "tag": "A",
+      "x": 237.16250610351562,
+      "y": 2445.737548828125,
+      "width": 79.3499984741211,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Refer And Earn",
+      "tag": "A",
+      "x": 237.16250610351562,
+      "y": 2482.737548828125,
+      "width": 86.7125015258789,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Lenskart Coupons",
+      "tag": "A",
+      "x": 237.16250610351562,
+      "y": 2519.737548828125,
+      "width": 108.4124984741211,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "FAQ's",
+      "tag": "A",
+      "x": 445.57501220703125,
+      "y": 2445.737548828125,
+      "width": 35.17499923706055,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal",
+      "tag": "A",
+      "x": 445.57501220703125,
+      "y": 2482.737548828125,
+      "width": 121.75,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "Cardemi",
+      "tag": "A",
+      "x": 445.57501220703125,
+      "y": 2519.737548828125,
+      "width": 51.212501525878906,
+      "height": 17,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1044.2874755859375,
+      "y": 2424.462646484375,
+      "width": 0,
+      "height": 18.5625,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1052.3875732421875,
+      "y": 2424.462646484375,
+      "width": 0,
+      "height": 18.5625,
+      "visible": false
+    },
+    {
+      "text": "T & C",
+      "tag": "A",
+      "x": 55,
+      "y": 2615.75,
+      "width": 33.625,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 137.22500610351562,
+      "y": 2615.75,
+      "width": 48.67499923706055,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Disclaimer",
+      "tag": "A",
+      "x": 234.5,
+      "y": 2615.75,
+      "width": 70.26250457763672,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Cookie Settings",
+      "tag": "A",
+      "x": 353.3625183105469,
+      "y": 2615.75,
+      "width": 107.7750015258789,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091,
+      "y": 2612.53759765625,
+      "width": 38,
+      "height": 31.42500114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1129,
+      "y": 2612.53759765625,
+      "width": 38,
+      "height": 31.42500114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1167,
+      "y": 2612.53759765625,
+      "width": 38,
+      "height": 31.42500114440918,
+      "visible": true
+    }
+  ]
+}

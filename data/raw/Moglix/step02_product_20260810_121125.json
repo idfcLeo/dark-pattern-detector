@@ -1,0 +1,1872 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.moglix.com/hospitality-and-furnitures/tables/220150000?sC=no&search_query=table&page=2",
+  "timestamp": "20260810_121125",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 993.3875122070312,
+      "y": 24.100000381469727,
+      "width": 84.1624984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1127.550048828125,
+      "y": 12.300000190734863,
+      "width": 31,
+      "height": 40.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1230,
+      "y": 20.899999618530273,
+      "width": 20,
+      "height": 23.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1225.5125732421875,
+      "y": 80,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mogli Express",
+      "tag": "A",
+      "x": 1192.0250244140625,
+      "y": 80,
+      "width": 66.9749984741211,
+      "height": 30.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 15,
+      "y": 135,
+      "width": 32.01250076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Office Furniture & Decor",
+      "tag": "A",
+      "x": 77.01250457763672,
+      "y": 135,
+      "width": 129.16250610351562,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Office Furniture & Decor",
+      "tag": "A",
+      "x": 208,
+      "y": 210.40000915527344,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tables",
+      "tag": "A",
+      "x": 208,
+      "y": 253.40000915527344,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Computer Tables",
+      "tag": "A",
+      "x": 190,
+      "y": 296.3999938964844,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Folding Table",
+      "tag": "A",
+      "x": 190,
+      "y": 340.20001220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Popularity",
+      "tag": "BUTTON",
+      "x": 1090,
+      "y": 189.40000915527344,
+      "width": 175,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable Stand with Wooden Grai",
+      "tag": "A",
+      "x": 302,
+      "y": 501.3999938964844,
+      "width": 206.1999969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rose Arrow Ash Brown Rectangular Folding Table",
+      "tag": "A",
+      "x": 545.25,
+      "y": 501.3999938964844,
+      "width": 162.41250610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cellbell Ergolift Wooden & Black Height Adjustable Table for Office Work, CBHKFO",
+      "tag": "A",
+      "x": 788.5,
+      "y": 501.3999938964844,
+      "width": 206.5,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1150x750mm Steel & Iron White Rectangular Folding Cafe Table Sta",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 501.3999938964844,
+      "width": 206.21250915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rose Arrow Ash Brown Rectangular Folding Table",
+      "tag": "A",
+      "x": 302,
+      "y": 951.4000244140625,
+      "width": 162.41250610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kawachi Engineered Wood Brown Wall Mounted Folding Bedside Table for Living & St",
+      "tag": "A",
+      "x": 545.25,
+      "y": 951.4000244140625,
+      "width": 201.3125,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cellbell Ergolift Black Height Adjustable Table for Office Work, CBHKFOC1369-SF_",
+      "tag": "A",
+      "x": 788.5,
+      "y": 951.4000244140625,
+      "width": 206.22500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable Stand with WhiteTable ",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 951.4000244140625,
+      "width": 203.1125030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cellbell Ergolift Wooden & White Height Adjustable Table for Office Work, CBHKFO",
+      "tag": "A",
+      "x": 302,
+      "y": 1402.4625244140625,
+      "width": 206.5,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wipro Flexiwork Engineered Wood & Metal Walnut Bronze Office Table, EFWSS12060XX",
+      "tag": "A",
+      "x": 545.25,
+      "y": 1402.4625244140625,
+      "width": 207.2624969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hubs 86x55x76cm Black Foldable Table",
+      "tag": "A",
+      "x": 788.5,
+      "y": 1402.4625244140625,
+      "width": 154.08750915527344,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy Finish Brown Rectangular Wall Mount TV Unit Tabl",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 1402.4625244140625,
+      "width": 208.8000030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy Finish Dark Brown Rectangular TV Unit Table, AF-",
+      "tag": "A",
+      "x": 302,
+      "y": 1852.4625244140625,
+      "width": 192.47500610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy & Lacquer Finish Brown Rectangular TV Unit Table",
+      "tag": "A",
+      "x": 545.25,
+      "y": 1852.4625244140625,
+      "width": 209.3125,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable Stand with Wooden Grai",
+      "tag": "A",
+      "x": 788.5,
+      "y": 1852.4625244140625,
+      "width": 206.1999969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy Finish Beige & Brown Cube Center Table, AF-154 .",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 1852.4625244140625,
+      "width": 194.52500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x750mm Dual Motor 3 Stage Motorized Height Adjustable Desk w",
+      "tag": "A",
+      "x": 302,
+      "y": 2302.462646484375,
+      "width": 200.53750610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Solid Sheesham & Teak Wood Glossy Finish Brown Rectangular TV Un",
+      "tag": "A",
+      "x": 545.25,
+      "y": 2302.462646484375,
+      "width": 201.5625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy Finish Dark Brown Rectangular Center Table, AF-1",
+      "tag": "A",
+      "x": 788.5,
+      "y": 2302.462646484375,
+      "width": 188.0749969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Solid Sheesham Wood Semi Glossy Finish Dark Brown Round Tripod E",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 2302.462646484375,
+      "width": 207.47500610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Solid Sheesham Wood Glossy Finish Brown Tallboy Side End Table, ",
+      "tag": "A",
+      "x": 302,
+      "y": 2752.462646484375,
+      "width": 204.4250030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cellbell Ergolift White Height Adjustable Table for Office Work, CBHKFOC1369-SF_",
+      "tag": "A",
+      "x": 545.25,
+      "y": 2752.462646484375,
+      "width": 206.22500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy Finish Brown Square Side End Table, AF-114 ...",
+      "tag": "A",
+      "x": 788.5,
+      "y": 2752.462646484375,
+      "width": 208.53750610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1150x750mm Steel & Iron White Rectangular Folding Cafe Table Sta",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 2752.462646484375,
+      "width": 206.21250915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x550mm Dual Motor 3 Stage Motorized White Height Adjustable ",
+      "tag": "A",
+      "x": 302,
+      "y": 3202.462646484375,
+      "width": 199.9875030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable Stand with White Table",
+      "tag": "A",
+      "x": 545.25,
+      "y": 3202.462646484375,
+      "width": 203.1125030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Natural Finish Beige & Brown Rectangular Center Table, ",
+      "tag": "A",
+      "x": 788.5,
+      "y": 3202.462646484375,
+      "width": 196.8625030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Solid Sheesham Wood Glossy Finish Dark Brown Tallboy Side End Ta",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 3202.462646484375,
+      "width": 207.53750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Solid Sheesham Wood Semi Glossy Finish Brown Round Tripod End Ta",
+      "tag": "A",
+      "x": 302,
+      "y": 3652.462646484375,
+      "width": 209.8125,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x600mm Dual Motor 3 Stage Motorized Height Adjustable Desk w",
+      "tag": "A",
+      "x": 545.25,
+      "y": 3652.462646484375,
+      "width": 200.53750610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x750mm Dual Motor 3 Stage Motorized Height Adjustable Desk w",
+      "tag": "A",
+      "x": 788.5,
+      "y": 3652.462646484375,
+      "width": 199.9875030517578,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Solid Sheesham Wood Lacquar Finish Dark Brown Rectangular Side E",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 3652.462646484375,
+      "width": 209.0625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Sheesham Glossy Finish Dark Brown Rectangular TV Unit Table, AF-",
+      "tag": "A",
+      "x": 302,
+      "y": 4102.46240234375,
+      "width": 192.47500610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x600mm Dual Motor 3 Stage Motorized Height Adjustable Desk w",
+      "tag": "A",
+      "x": 545.25,
+      "y": 4102.46240234375,
+      "width": 199.9875030517578,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Green Soul Oxford Black & Maple Multi-Purpose Table",
+      "tag": "A",
+      "x": 788.5,
+      "y": 4102.46240234375,
+      "width": 168.08750915527344,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Green Soul Oxford White & Maple Multi-Purpose Table",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 4102.46240234375,
+      "width": 169.6374969482422,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 17 Seater Meeting Table, VJ-B662",
+      "tag": "A",
+      "x": 302,
+      "y": 4552.46240234375,
+      "width": 182.10000610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 120x61x107cm Brown Sheesham Wood Walnut Finish Study Table ...",
+      "tag": "A",
+      "x": 545.25,
+      "y": 4552.46240234375,
+      "width": 207.77500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 107x56x77cm 3 Drawers Brown Sheesham Wood Honey Finish Study Table ",
+      "tag": "A",
+      "x": 788.5,
+      "y": 4552.46240234375,
+      "width": 206.72500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 92x56x92cm Brown Sheesham Wood Honey Finish Study Table ...",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 4552.46240234375,
+      "width": 207.77500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 120x61x107cm Brown Sheesham Wood Walnut Finish Study Table ...",
+      "tag": "A",
+      "x": 302,
+      "y": 5002.46240234375,
+      "width": 207.77500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 107x51x77cm Brown Sheesham Wood Walnut Finish Study Table ...",
+      "tag": "A",
+      "x": 545.25,
+      "y": 5002.46240234375,
+      "width": 207.77500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 107x51x107cm Brown Sheesham Wood Walnut Finish Study Table ...",
+      "tag": "A",
+      "x": 788.5,
+      "y": 5002.46240234375,
+      "width": 207.77500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 110x41x117cm Brown Sheesham Wood Walnut Finish Study Table ...",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 5002.46240234375,
+      "width": 207.77500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fitizen Wood Black & White Height Adjustable Wall Table, FITI-153-BW ...",
+      "tag": "A",
+      "x": 302,
+      "y": 5452.46240234375,
+      "width": 194.5625,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Excellent Steel Fab Stainless Steel 304 Table Base, ES1113",
+      "tag": "A",
+      "x": 545.25,
+      "y": 5452.46240234375,
+      "width": 187.58750915527344,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Excellent Steel Fab Stainless Steel 202 Table Base, ES1142",
+      "tag": "A",
+      "x": 788.5,
+      "y": 5452.46240234375,
+      "width": 188.625,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Excellent Steel Fab Stainless Steel 202 Table Base, ES1144",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 5452.46240234375,
+      "width": 188.625,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Excellent Steel Fab Stainless Steel 202 Table Base, ES1137",
+      "tag": "A",
+      "x": 302,
+      "y": 5902.46240234375,
+      "width": 188.625,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 5x2x2.5 inch Executive Table, VJ-B597 (5X2)",
+      "tag": "A",
+      "x": 545.25,
+      "y": 5902.46240234375,
+      "width": 197.41250610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 5x2x2.5 inch Executive Table, VJ-B541 (5X2)",
+      "tag": "A",
+      "x": 788.5,
+      "y": 5902.46240234375,
+      "width": 197.41250610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 1524x762x762mm Workstation Table, VJ-B458 (5X2)",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 5902.46240234375,
+      "width": 186.25,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salawas Arts 92x44x77cm Brown Sheesham Wood Honey Finish Study Table ...",
+      "tag": "A",
+      "x": 302,
+      "y": 6352.46240234375,
+      "width": 207.77500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zuari Furniture Galant Dark Brown Engineered Wood Study Table, 397150 ...",
+      "tag": "A",
+      "x": 545.25,
+      "y": 6352.46240234375,
+      "width": 209.08750915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 5x2.5x2.5 inch Workstation Table, VJ_B670-5X2.5-1 ...",
+      "tag": "A",
+      "x": 788.5,
+      "y": 6352.46240234375,
+      "width": 194.02500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maharaja 114x73.5x72cm Polypropylene Silver 4 Seater Dining Table for Home, Offi",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 6352.46240234375,
+      "width": 202.58750915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 2x2x2.5 inch Office Table, VJ-1726(4X2.5)",
+      "tag": "A",
+      "x": 302,
+      "y": 6802.46240234375,
+      "width": 186.5,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Evok Cayson Acacia Wood Honey Study Table with Book Rack, FBIBSBSWSTWN69129D ...",
+      "tag": "A",
+      "x": 545.25,
+      "y": 6802.46240234375,
+      "width": 202.28750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ergoniko Light Cheery Computer Table with Drawer, ENS-356A-LC ...",
+      "tag": "A",
+      "x": 788.5,
+      "y": 6802.46240234375,
+      "width": 206.97500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Savya Home Brown Multifunction Wooden Table",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 6802.46240234375,
+      "width": 206.1999969482422,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ergoniko Transparent L-Shape Computer Table with Keyboard Tray & CPU Holder, ENC",
+      "tag": "A",
+      "x": 302,
+      "y": 7252.46240234375,
+      "width": 209.5500030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 2x2x2.5 inch Workstation Table, VJ-B672 (4X2.5)",
+      "tag": "A",
+      "x": 545.25,
+      "y": 7252.46240234375,
+      "width": 186.25,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supreme Cherry Parrot Green Foldable Round Table",
+      "tag": "A",
+      "x": 788.5,
+      "y": 7252.46240234375,
+      "width": 187.52500915527344,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supreme Vegas Dark Beige Table with Matt Finish",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 7252.46240234375,
+      "width": 209.875,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fitizen Zen Wood Black & Brown Height Adjustable Wall Table, FITI-153-BB ...",
+      "tag": "A",
+      "x": 302,
+      "y": 7702.46240234375,
+      "width": 204.3874969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 2x2x2.5 inch Workstation Table, VJ-B670 (4X2.5)",
+      "tag": "A",
+      "x": 545.25,
+      "y": 7702.46240234375,
+      "width": 186.25,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AVA Designz Mango Wood Chestnut C-Shape Table",
+      "tag": "A",
+      "x": 788.5,
+      "y": 7702.46240234375,
+      "width": 166.53750610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 2x2x2.5 inch Workstation Table, VJ_B670-4X2.5-1",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 7702.46240234375,
+      "width": 194.02500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior Computer Table With Drawers, 2008",
+      "tag": "A",
+      "x": 302,
+      "y": 8152.46240234375,
+      "width": 198.16250610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 2x2x2.5 inch Workstation Table, VJ_B663-4X2.5-1",
+      "tag": "A",
+      "x": 545.25,
+      "y": 8152.46240234375,
+      "width": 194.02500915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jharfurn 107x184x46cm Engineered Wood Walnut Study Table, JHARST01019 ...",
+      "tag": "A",
+      "x": 788.5,
+      "y": 8152.46240234375,
+      "width": 205.46250915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supreme Aqua Blobus 495x475x655mm Plastic Brown Center Table",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 8152.46240234375,
+      "width": 202.3125,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 1219.2x609.6x762mm Workstation Table, VJ-B504 (4X2) ...",
+      "tag": "A",
+      "x": 302,
+      "y": 8602.462890625,
+      "width": 206.2375030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 1219.2x609.6x762mm Workstation Table, VJ-B458 (5X2) ...",
+      "tag": "A",
+      "x": 545.25,
+      "y": 8602.462890625,
+      "width": 206.2375030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 5x2.5x2.5 inch Executive Table, VJ-B677 (5X2.5)",
+      "tag": "A",
+      "x": 788.5,
+      "y": 8602.462890625,
+      "width": 209.08750915527344,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 1219.2x609.6x762mm Workstation Table, VJ_B503-4X2-1 ...",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 8602.462890625,
+      "width": 209.60000610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AVA Designz Marble Top Grey & Gold End C-Shape Table",
+      "tag": "A",
+      "x": 302,
+      "y": 9052.462890625,
+      "width": 199.9875030517578,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 1219.2x609.6x762mm Executive Table, VJ-B580 (4X2) ...",
+      "tag": "A",
+      "x": 545.25,
+      "y": 9052.462890625,
+      "width": 206.75,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VJ Interior 4 Seater Meeting Table, VJ-B661",
+      "tag": "A",
+      "x": 788.5,
+      "y": 9052.462890625,
+      "width": 174.3125,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supreme Swiss Mehndi Green Plastic & Polypropylene Rectangle Outdoor Table ...",
+      "tag": "A",
+      "x": 1031.75,
+      "y": 9052.462890625,
+      "width": 189.8625030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SEND QUERY",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

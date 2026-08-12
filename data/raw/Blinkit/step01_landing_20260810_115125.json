@@ -1,0 +1,504 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://blinkit.com/",
+  "timestamp": "20260810_115125",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 178,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "!\nSearch \"milk\"\nSearch \"chips\"",
+      "tag": "A",
+      "x": 499,
+      "y": 19.200000762939453,
+      "width": 458,
+      "height": 47.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 16,
+      "y": 3668.5,
+      "width": 30.475000381469727,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 16,
+      "y": 3696.60009765625,
+      "width": 48.8125,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Terms",
+      "tag": "A",
+      "x": 16,
+      "y": 3724.699951171875,
+      "width": 42.03750228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 16,
+      "y": 3752.800048828125,
+      "width": 37.35000228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Security",
+      "tag": "A",
+      "x": 16,
+      "y": 3780.900146484375,
+      "width": 54.82500076293945,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "x": 16,
+      "y": 3809,
+      "width": 52.625,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Partner",
+      "tag": "A",
+      "x": 133.3874969482422,
+      "y": 3668.5,
+      "width": 49.66250228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Franchise",
+      "tag": "A",
+      "x": 133.3874969482422,
+      "y": 3696.60009765625,
+      "width": 64.55000305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Seller",
+      "tag": "A",
+      "x": 133.3874969482422,
+      "y": 3724.699951171875,
+      "width": 37.01250076293945,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Warehouse",
+      "tag": "A",
+      "x": 133.3874969482422,
+      "y": 3752.800048828125,
+      "width": 77.5875015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Deliver",
+      "tag": "A",
+      "x": 133.3874969482422,
+      "y": 3780.900146484375,
+      "width": 46.47500228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Resources",
+      "tag": "A",
+      "x": 133.3874969482422,
+      "y": 3809,
+      "width": 69.7750015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Recipes",
+      "tag": "A",
+      "x": 273.5375061035156,
+      "y": 3668.5,
+      "width": 52.38750076293945,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bistro",
+      "tag": "A",
+      "x": 273.5375061035156,
+      "y": 3696.60009765625,
+      "width": 38.837501525878906,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "District",
+      "tag": "A",
+      "x": 273.5375061035156,
+      "y": 3724.699951171875,
+      "width": 47.28750228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Blinkit Ambulance",
+      "tag": "A",
+      "x": 273.5375061035156,
+      "y": 3752.800048828125,
+      "width": 119.9000015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Feeding India",
+      "tag": "A",
+      "x": 273.5375061035156,
+      "y": 3780.900146484375,
+      "width": 90.23750305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "see all",
+      "tag": "A",
+      "x": 527.3875122070312,
+      "y": 3601.400146484375,
+      "width": 64.0625,
+      "height": 68.70000457763672,
+      "visible": true
+    },
+    {
+      "text": "Bath & Body",
+      "tag": "A",
+      "x": 432,
+      "y": 3680.5,
+      "width": 84.1624984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Hair",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3680.5,
+      "width": 26.662500381469727,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Skin & Face",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3680.5,
+      "width": 77.5999984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Beauty & Cosmetics",
+      "tag": "A",
+      "x": 432,
+      "y": 3708.60009765625,
+      "width": 134.21250915527344,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Feminine Hygiene",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3708.60009765625,
+      "width": 120.0374984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Baby Care",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3708.60009765625,
+      "width": 70.1624984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Health & Pharma",
+      "tag": "A",
+      "x": 432,
+      "y": 3736.699951171875,
+      "width": 111.875,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3736.699951171875,
+      "width": 107.73750305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Vegetables & Fruits",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3736.699951171875,
+      "width": 130.78750610351562,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Atta, Rice & Dal",
+      "tag": "A",
+      "x": 432,
+      "y": 3764.800048828125,
+      "width": 104.26250457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Oil, Ghee & Masala",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3764.800048828125,
+      "width": 124.4375,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Dairy, Bread & Eggs",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3764.800048828125,
+      "width": 132.85000610351562,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bakery & Biscuits",
+      "tag": "A",
+      "x": 432,
+      "y": 3792.900146484375,
+      "width": 115.5250015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Dry Fruits & Cereals",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3792.900146484375,
+      "width": 133.1875,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Chicken, Meat & Fish",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3792.900146484375,
+      "width": 138.4375,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Kitchenware & Appliances",
+      "tag": "A",
+      "x": 432,
+      "y": 3821,
+      "width": 174.9499969482422,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Chips & Namkeen",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3821,
+      "width": 118.23750305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sweets & Chocolates",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3821,
+      "width": 140.7624969482422,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Drinks & Juices",
+      "tag": "A",
+      "x": 432,
+      "y": 3849.10009765625,
+      "width": 101.42500305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Tea, Coffee & Milk Drinks",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3849.10009765625,
+      "width": 167.3000030517578,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Instant Food",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3849.10009765625,
+      "width": 84.4000015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sauces & Spreads",
+      "tag": "A",
+      "x": 432,
+      "y": 3877.199951171875,
+      "width": 120.42500305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Paan Corner",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3877.199951171875,
+      "width": 83.2125015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Ice Creams & More",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3877.199951171875,
+      "width": 126.0875015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Home & Lifestyle",
+      "tag": "A",
+      "x": 432,
+      "y": 3905.300048828125,
+      "width": 113.375,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Cleaners & Repellents",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3905.300048828125,
+      "width": 145.33750915527344,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3905.300048828125,
+      "width": 73.0374984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Stationery & Games",
+      "tag": "A",
+      "x": 432,
+      "y": 3933.400146484375,
+      "width": 133.0500030517578,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Print Store",
+      "tag": "A",
+      "x": 731.2750244140625,
+      "y": 3933.400146484375,
+      "width": 71.4375,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "E-Gift Cards",
+      "tag": "A",
+      "x": 1022.9000244140625,
+      "y": 3933.400146484375,
+      "width": 80.55000305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Rakhi Gifts",
+      "tag": "A",
+      "x": 432,
+      "y": 3961.5,
+      "width": 70.8499984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "&",
+      "tag": "BUTTON",
+      "x": 370,
+      "y": 205.35000610351562,
+      "width": 40,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "Continue",
+      "tag": "BUTTON",
+      "x": 490,
+      "y": 426.8500061035156,
+      "width": 300,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Terms of service",
+      "tag": "A",
+      "x": 637.625,
+      "y": 502.25,
+      "width": 95.61250305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "A",
+      "x": 748.2374877929688,
+      "y": 502.25,
+      "width": 79.5999984741211,
+      "height": 16,
+      "visible": true
+    }
+  ]
+}
