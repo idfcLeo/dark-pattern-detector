@@ -1,0 +1,4428 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.freshtohome.com/",
+  "timestamp": "20260911_145302",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Didn't find your fish?",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log In",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Certificates",
+      "tag": "A",
+      "x": 881.375,
+      "y": 6.800000190734863,
+      "width": 61.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 963.2625122070312,
+      "y": 6.800000190734863,
+      "width": 25.575000762939453,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bangalore / Karnataka",
+      "tag": "A",
+      "x": 1030.8250732421875,
+      "y": 6.800000190734863,
+      "width": 141.5749969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 45,
+      "width": 80,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 635.2000122070312,
+      "y": 59.79999923706055,
+      "width": 43,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "Forgot Password ?",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Login",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Send OTP",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Register",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1058.4000244140625,
+      "y": 58,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Fish & Seafood",
+      "tag": "A",
+      "x": 207.3874969482422,
+      "y": 120,
+      "width": 148.7375030517578,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Poultry",
+      "tag": "A",
+      "x": 376.1000061035156,
+      "y": 120,
+      "width": 102.9625015258789,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Mutton",
+      "tag": "A",
+      "x": 499.0375061035156,
+      "y": 120,
+      "width": 102.70000457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Steaks & Fillet",
+      "tag": "A",
+      "x": 621.7125244140625,
+      "y": 120,
+      "width": 145.72500610351562,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Ready To Cook",
+      "tag": "A",
+      "x": 787.4249877929688,
+      "y": 120,
+      "width": 145.7624969482422,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Vegetarian",
+      "tag": "A",
+      "x": 953.1625366210938,
+      "y": 120,
+      "width": 124.2750015258789,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Become a Purple Member and ENJOY UNLIMITED FREE HOME DELIVERY, exclusive deals a",
+      "tag": "A",
+      "x": 157.40000915527344,
+      "y": 609.2000122070312,
+      "width": 246.1374969482422,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "iOS",
+      "tag": "A",
+      "x": 891.4000244140625,
+      "y": 639.6000366210938,
+      "width": 20.912500381469727,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ANDROID",
+      "tag": "A",
+      "x": 930.4249877929688,
+      "y": 639.6000366210938,
+      "width": 56.26250076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tangy Chicken Ghee Roast (250g pack)\n\n₹225.00\n\n₹145.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 798.7999877929688,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Spicy Chettinad Chicken (250g Pack)\n\n₹225.00\n\n₹129.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 798.7999877929688,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Lababdar Instant Gravy Mix (200g Pack)\n\n₹175.00\n\n₹109.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 798.7999877929688,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Triple Combo: (Chicken Fried Rice & Chilli Chicken + Chicken Fried Rice & Chicke",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 1136.925048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Indian Prawns / Venami / Vannamei / Jhinga / Chemmin / ಸೀಗಡಿ (70+ Count/kg)\n\n₹44",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 1136.925048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Black King Fish / Motha / Cobia (Similar to Seer Fish, Some Say That It Tastes B",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 1136.925048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "White Prawns / Indian Naaran / Jhinga / ಸೀಗಡಿ (Super Large)\n\n₹675.00\n\n₹445.00 /5",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 1136.925048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Anchovy / Natholi / ಬೊಲಿಂಗೆ (Medium)\n\n₹399.00\n\n₹209.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 1136.925048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Antibiotic-residue-free Chicken Winglets\n\n₹279.00\n\n₹49.00 /500g\n\nUse Cod",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 1403.050048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Tilapia / Jalebi Fish (Large)\n\n₹239.00\n\n₹109.00 /500g",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 1403.050048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Indian Prawns / Venami / Vannamei / Jhinga / Chemmin (100+ Count/kg)\n\n₹379.00\n\n₹",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 1403.050048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "**Exclusive** Fresh Himalayan Trout\n\n₹949.00\n\n₹625.00 /500g",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 1403.050048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Veg Fried Rice & Paneer Chilli (400g Pack, Ready to Heat & Eat, Microwave ready)",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 1403.050048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Prawns Ghee Roast (120g Pack, Ready to Heat & Eat, Microwave ready)\n\n₹199.00\n\n₹1",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 1669.175048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sardine / Mathi Cleaned (Large, 470g to 500g Pack, Freshly Frozen)\n\n₹699.00\n\n₹43",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 1669.175048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Heat & Eat",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 2047.300048828125,
+      "width": 155,
+      "height": 250,
+      "visible": true
+    },
+    {
+      "text": "Fish & Seafood",
+      "tag": "A",
+      "x": 277.3999938964844,
+      "y": 2047.300048828125,
+      "width": 155,
+      "height": 250,
+      "visible": true
+    },
+    {
+      "text": "Poultry",
+      "tag": "A",
+      "x": 462.3999938964844,
+      "y": 2047.300048828125,
+      "width": 155,
+      "height": 250,
+      "visible": true
+    },
+    {
+      "text": "Mutton - Goat & Lamb",
+      "tag": "A",
+      "x": 647.4000244140625,
+      "y": 2047.300048828125,
+      "width": 155,
+      "height": 268,
+      "visible": true
+    },
+    {
+      "text": "Ready to Cook",
+      "tag": "A",
+      "x": 832.4000244140625,
+      "y": 2047.300048828125,
+      "width": 155,
+      "height": 250,
+      "visible": true
+    },
+    {
+      "text": "Combo Packs",
+      "tag": "A",
+      "x": 1017.4000244140625,
+      "y": 2047.300048828125,
+      "width": 155,
+      "height": 250,
+      "visible": true
+    },
+    {
+      "text": "Steaks & Fillets",
+      "tag": "A",
+      "x": 832.4000244140625,
+      "y": 2297.300048828125,
+      "width": 155,
+      "height": 250,
+      "visible": true
+    },
+    {
+      "text": "Indian Breads & Batter",
+      "tag": "A",
+      "x": 1017.4000244140625,
+      "y": 2297.300048828125,
+      "width": 155,
+      "height": 268,
+      "visible": true
+    },
+    {
+      "text": "Dairy Products",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 2565.300048828125,
+      "width": 155,
+      "height": 250,
+      "visible": true
+    },
+    {
+      "text": "Cold Pressed Juices",
+      "tag": "A",
+      "x": 277.3999938964844,
+      "y": 2565.300048828125,
+      "width": 155,
+      "height": 268,
+      "visible": true
+    },
+    {
+      "text": "Indian Prawns (70+ Count/kg)\n\n₹449.00\n\n₹299.00 /500g",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 2925.300048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Black King Fish / Motha / Cobia (Similar to Seer Fish, Some Say That It Tastes B",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 2925.300048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Grouper / Reef Cod / Hamour / ಕೊಲಜಿ (Large)\n\n₹529.00\n\n₹449.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 2925.300048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Red Snapper / Chempalli / Rane (Large)\n\n₹579.00\n\n₹379.00 /500g",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 2925.300048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Mahi Mahi / Pulli Motha\n\n₹449.00\n\n₹329.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 2925.300048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui / ರೋಹು (Size/Grade: 1kg to 1.5kg)\n\n₹219.00\n\n₹139.00 /500g",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 3191.425048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Long Rayed Silver Biddy / Pranjil\n\n₹419.00\n\n₹339.00 /500g",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 3191.425048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "White Prawns / Indian Naaran / Jhinga / ಸೀಗಡಿ (Super Large)\n\n₹675.00\n\n₹445.00 /5",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 3191.425048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Squid / Koonthal / ಬೊಂಡಾಸ್\n\n₹469.00\n\n₹419.00 /500g",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 3191.425048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Fresh Indian Baasa / Pangasius / Pangas\n\n₹159.00\n\n₹109.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 3191.425048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Tiger Prawn (Super Large)\n\n₹749.00\n\n₹599.00 /500g",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 3457.550048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sword Fish\n\n₹459.00\n\n₹349.00 /500g",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 3457.550048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Blue Swimming Crab / ಏಡಿ\n\n₹709.00\n\n₹409.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 3457.550048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Queen Fish / Leather Skin Fish\n\n₹439.00\n\n₹229.00 /500g",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 3457.550048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Black Snapper / Karipetti\n\n₹409.00\n\n₹349.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 3457.550048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sea Crab / ಏಡಿ\n\n₹429.00\n\n₹379.00 /500g",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 3723.675048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji\n\n₹609.00\n\n₹509.00 /500g",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 3723.675048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Marine Sole Fish / Manthal / Repti / ನಂಗು ಮೀನು (Medium)\n\n₹389.00\n\n₹339.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 3723.675048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Anchovy / Natholi / ಬೊಲಿಂಗೆ (Medium)\n\n₹399.00\n\n₹209.00 /500g",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 3723.675048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Drumsticks\n\n₹299.00\n\n₹199.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 3723.675048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Vigova Duck (Vietnam Variety White Peking Duck, With Skin)\n\n₹375.00\n\n₹309.00 /50",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 3989.800048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender Goat / ಮೇಕೆ - Curry Cut\n\n₹649.00\n\n₹549.00 /500g",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 3989.800048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Clam / Kakka / ಬೆಳಚು Meat (Large, uncleaned)\n\n₹359.00\n\n₹249.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 3989.800048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Chicken Cubes\n\n₹339.00\n\n₹325.00 /500g",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 3989.800048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui / ರೋಹು (Size/Grade 2kg-3kg)\n\n₹229.00\n\n₹149.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 3989.800048828125,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Thigh (Boneless)\n\n₹329.00\n\n₹319.00 /500g",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 4255.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat Kidney - Curry Cut 250g Pack\n\n₹450.00\n\n₹175.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 4255.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Kumarakom Karimeen / Pearlspot (Medium)\n\n₹629.00\n\n₹539.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 4255.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Preservative Free Malabar Style Chicken Pickle - 150g+ pack\n\n₹199.00\n\n₹125.00 /p",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 4255.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Indian Prawns (60+ Count/kg)\n\n₹429.00\n\n₹329.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 4255.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui / ರೋಹು Egg (Roe)\n\n₹449.00\n\n₹74.50 /500g",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 4522.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat Raan / Leg Portion / ಮೇಕೆ ಕಾಲು ಮಾಂಸ\n\n₹599.00\n\n₹575.00 /500g",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 4522.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Peri Peri Chicken Drumsticks - Pack of 2 Drumsticks (Ready-To-Fry)\n\n₹249.00\n\n₹12",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 4522.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Chicken Mince / Kheema Dry Fry (500g)\n₹249.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 4522.05029296875,
+      "width": 192,
+      "height": 235.3249969482422,
+      "visible": true
+    },
+    {
+      "text": "Premium Mutton Fat\n\n₹245.00\n\n₹149.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 4522.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Seer Fish / Neymeen (5kg+) - Skinless Cubes (300g to 320g Pack)\n\n₹1,420.00\n\n₹735",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 4788.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Fresh Atlantic Salmon\n\n₹1,289.00\n\n₹925.00 /500g",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 4788.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Kumarakom Karimeen / Pearlspot (Super Large)\n\n₹699.00\n\n₹549.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 4788.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Prawns / Venami (60+ Count/kg) - Whole (230g to 250g)\n\n₹215.00\n\n₹192.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 4788.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Thigh Portion\n\n₹279.00\n\n₹225.00 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 4788.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Fresh Indian Baasa / Pangasius / Pangas - Boneless Cubes 200g Pack\n\n₹210.00\n\n₹19",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 5054.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Butter Chicken\n\n₹349.00\n\n₹199.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 5054.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Goat / ಮೇಕೆ - Heart\n\n₹425.00\n\n₹249.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 5054.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Coconut Chicken Curry (500g)\n\n₹349.00\n\n₹199.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 5054.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Granny's Masala Fried Chicken (250g Pack)\n\n₹225.00\n\n₹129.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 5054.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Boneless Fillet (230 to ",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 5320.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Cobia / Motha - Tikka Cut (380g to 400g Pack)\n\n₹1,359.00\n\n₹1,049.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 5320.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Chicken Skeleton Soup Bones for Broth / Stock (Janatha Chicken)\n\n₹125.00\n\n₹49.50",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 5320.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui / ರೋಹು (Extra Large, 3kg+)- Curry Cut W/o Head (480-500g/pack)\n\n₹43",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 5320.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Tandoori Baasa Boneless Fillets\n\n₹325.00\n\n₹199.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 5320.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Kerala Prawn Roast (300g)\n\n₹449.00\n\n₹275.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 5586.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Skewered Tandoori Prawns (250g Pack)\n\n₹399.00\n\n₹325.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 5586.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "**Exclusive** Fresh Himalayan Trout\n\n₹949.00\n\n₹625.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 5586.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "**Exclusive** Fresh Himalayan Trout - Fillet (Pack of 250g)\n\n₹1,519.00\n\n₹1,000.0",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 5586.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat / ಮೇಕೆ - Shanks (3 piece / 380g to 420g Pack)\n₹475.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 5586.55029296875,
+      "width": 192,
+      "height": 235.3249969482422,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat / ಮೇಕೆ - Kapura / Testicles (250g pack)\n\n₹298.00\n\n₹229.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 5852.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Prawns / Venami - PD (240-250g Pack)\n\n₹469.00\n\n₹326.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 5852.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Red Snapper / Chempalli (Large) - Boneless Fillet (240g to 260g Pack)\n\n₹752.00\n\n",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 5852.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender Goat / ಮೇಕೆ - Curry Cut (480 to 500g Pack)\n\n₹649.00\n\n₹549.00 /pac",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 5852.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender Goat / ಮೇಕೆ - Boneless Curry Cut (280 - 300g Pack)\n\n₹438.00\n\n₹429",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 5852.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat / ಮೇಕೆ - Chops (480 - 500g Pack)\n\n₹559.00\n\n₹525.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 6118.80029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat Saddle (480 - 500g Pack)\n\n₹598.00\n\n₹585.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 6118.80029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat Neck Steak (480 - 500g Pack)\n\n₹598.00\n\n₹425.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 6118.80029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat / ಮೇಕೆ - Leg Steaks (380 - 400g Pack)\n\n₹549.00\n\n₹525.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 6118.80029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat / ಮೇಕೆ Shoulder Curry Cut (380 - 400g Pack)\n\n₹585.00\n\n₹549.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 6118.80029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Bengali Curry Cut (330 t",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 6384.92529296875,
+      "width": 192,
+      "height": 235.3249969482422,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender Goat / ಮೇಕೆ - Biryani Cut (480 to 500g Pack)\n\n₹575.00\n\n₹525.00 /p",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 6384.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Fresh Indian Baasa / Pangasius / Pangas - Curry Cut (w/o head, 380g to 400g Pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 6384.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Tiger Prawn (Super Large) - Peeled & Deveined (230g to 250g Pack)\n\n₹705.00\n\n₹642",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 6384.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Tiger Prawn (Super Large) - Peeled & Deveined With Tail (230 to 250g Pack)\n\n₹738",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 6384.92529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat - Small Pieces Curry Cut (480g to 500g Pack)\n\n₹669.00\n\n₹525.00 /pac",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 6651.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Protein Pack (Chicken) - Mini\n\n₹225.00\n\n₹169.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 6651.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Protein Pack (Chicken) - Max\n\n₹399.00\n\n₹335.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 6651.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Combo: (250g Spicy Chettinad Chicken + 250g Tangy Chicken Ghee Roast)\n\n₹450.00\n\n",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 6651.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "200g Meaty Chicken Kebab + 200g Meaty Chicken Punjabi Seekh Kebab\n\n₹530.00\n\n₹263",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 6651.05029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Pack of 4 Malabar Chicken Samosas + Pack of 3 Chicken Cutlets\n\n₹398.00\n\n₹213.00 ",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 6917.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Mackerel (5 to 9 Count/kg) Whole Cleaned (340g to 400g) Pack\n\n₹469.00\n\n₹278.00 /",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 6917.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "* Exclusive* Bengal Rich Goat (Khashi) Mince / Kheema\n\n₹699.00\n\n₹639.00 /500g",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 6917.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Fresh Indian Baasa / Pangasius / Pangas - Fish Finger Cut (300g Pack)\n\n₹405.00\n\n",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 6917.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Combo:(450g of Butter Chicken + 450g of Tandoori Chicken Legs)\n\n₹748.00\n\n₹469.00",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 6917.17529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Super Seekh Combo: (200g Meaty Mutton Kebab + 200g Meaty Chicken Kebab)\n\n₹675.00",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 7183.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bannur Mutton / ಬನ್ನೂರು ಮಟನ್ - Curry Cut (480g to 500g Pack)\n\n₹698.00\n\n₹599.00 /",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 7183.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bannur Mutton / ಬನ್ನೂರು ಮಟನ್ - Biryani Cut (480g to 500g Pack)\n\n₹698.00\n\n₹638.00",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 7183.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bannur Mutton / ಬನ್ನೂರು ಮಟನ್ - Mince / Kheema (280g - 300g Pack)\n\n₹599.00\n\n₹498.",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 7183.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Thigh Curry Cut (Skinless)\n\n₹249.00\n\n₹219.50 /500g",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 7183.30029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Thigh Curry Cut (with Skin)\n\n₹249.00\n\n₹227.50 /500g",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 7449.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Ragi Idly / Dosa Batter (1kg Pack)\n\n₹120.00\n\n₹79.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 7449.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Tomato Onion Chutney (150g)\n\n₹90.00\n\n₹68.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 7449.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Mint Coriander Chutney (150g)\n\n₹90.00\n\n₹68.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 7449.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Coconut Chutney (150g)\n\n₹90.00\n\n₹68.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 7449.42529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Wholewheat Chapati / Roti (10 Pieces, 425g)\n\n₹75.00\n\n₹67.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 7715.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Combo:(480g Chicken + 480g Sardine / Mathi Cleaned with Partial Head)\n\n₹817.00\n\n",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 7715.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat Mince / Kheema (280g to 300g Pack)\n\n₹425.00\n\n₹375.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 7715.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Skinless Chicken Curry Cut (Jumbo Pack, 1.8kg to 2kg)\n\n₹876.00\n\n₹791.00 ",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 7715.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Combo(Malabar Parota + Spicy Chettinad Chicken)\n\n₹310.00\n\n₹183.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 7715.55029296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Whole Wheat Parota + Butter Chicken Gravy\n\n₹439.00\n\n₹272.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 7981.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Wheat Chapati / Roti + Butter Chicken Gravy\n\n₹424.00\n\n₹261.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 7981.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Wheat Chapati / Roti + Chicken Ghee Roast\n\n₹300.00\n\n₹207.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 7981.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Chicken Skinless Curry Cut + Chicken Boneless Cubes\n\n₹558.00\n\n₹519.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 7981.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Goat + Premium Chicken Skinless + Boneless Chicken Cubes\n\n₹1,057.00\n\n₹92",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 7981.67529296875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Triple Combo(Goat + Chicken + Granny's Masala Fried Chicken)\n\n₹1,093.00\n\n₹872.00",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 8247.7998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Skinless + Large SeerFish / Surmai / Neymeen Steaks\n\n₹1,758.00\n\n",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 8247.7998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Thigh (Boneless) - 480g to 500g Pack\n\n₹329.00\n\n₹319.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 8247.7998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Indian Prawns / Venami / Chemmin (60+ Count/kg) - PD (240g to 250g Pack)\n\n₹410.0",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 8247.7998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Triple Combo:(Goat + Chicken + Sardine/Mathi Cleaned with Partial Head)\n\n₹1,192.",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 8247.7998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Rich Goat Raan / Leg - Curry Cut (380 to 400g Pack)\n\n₹479.00\n\n₹472.00 /p",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 8513.9248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Chicken Skinless Curry Cut 480g + Seer Fish Steaks 400g\n\n₹1,848.00\n\n₹1,100.00 /p",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 8513.9248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sword Fish - Small Fry Cut (480g to 500g Pack)\n\n₹680.00\n\n₹517.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 8513.9248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sword Fish - Curry Cut (480g to 500g Pack)\n\n₹680.00\n\n₹517.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 8513.9248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sword Fish - Fillets (480g to 500g Pack)\n\n₹1,148.00\n\n₹873.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 8513.9248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender Goat - Curry Cut (400g to 420g Pack)\n\n₹550.00\n\n₹487.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 8780.0498046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Steaks (480g to 500g Pac",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 8780.0498046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Curry Cut, May include h",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 8780.0498046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sea Crab - Whole (440g to 500g Pack)\n\n₹429.00\n\n₹379.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 8780.0498046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Sea Crab - Whole Cleaned (with minimal shell, 440g to 500g Pack)\n₹758.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 8780.0498046875,
+      "width": 192,
+      "height": 235.3249969482422,
+      "visible": true
+    },
+    {
+      "text": "Squid / Koonthal - Rings (480g to 500g Pack)\n\n₹1,267.00\n\n₹1,132.00 /pack",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 9046.1748046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Squid / Koonthal - Tubes (480g to 500g Pack)\n\n₹1,065.00\n\n₹952.00 /pack",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 9046.1748046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Fresh Atlantic Salmon - Steaks (480g to 500g Pack)\n\n₹2,063.00\n\n₹1,480.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 9046.1748046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Fresh Atlantic Salmon - Fillets (480g to 500g Pack)\n\n₹4,125.00\n\n₹2,960.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 9046.1748046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Fillets (480g to 500g Pa",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 9046.1748046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Queen Fish / Leather Skin Fish - Curry Cut (480g to 500g Pack)\n\n₹677.00\n\n₹353.00",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 9312.2998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Queen Fish / Leather Skin Fish - Fillets (480g to 500g Pack)\n\n₹1,449.00\n\n₹756.00",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 9312.2998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui (Size/Grade 2kg-3kg) - Bengali Cut Headless (400g to 430g Pack)\n\n₹367",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 9312.2998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui (Size/Grade 2kg-3kg) - Gada Cut\n\n₹299.00\n\n₹213.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 9312.2998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui (Size/Grade: 1kg to 1.5kg) - One Fish (size: 1 to 1.2kg) Curry Cut Pa",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 9312.2998046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Rohu / Rui (Size/Grade: 1kg to 1.5kg) - One Fish (size: 1 to 1.2kg) Bengali Curr",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 9578.4248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Vigova Duck (Vietnam Variety White Peking Duck, With Skin) - Curry Cut (480g to ",
+      "tag": "A",
+      "x": 314.3999938964844,
+      "y": 9578.4248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Indian Prawns (70+ Count/kg)\n\n₹449.00\n\n₹341.00 /pack",
+      "tag": "A",
+      "x": 536.4000244140625,
+      "y": 9578.4248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Thigh (Boneless)\n\n₹1,316.00\n\n₹1,276.00 /pack",
+      "tag": "A",
+      "x": 758.4000244140625,
+      "y": 9578.4248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Premium Chicken Drumsticks\n\n₹1,196.00\n\n₹796.00 /pack",
+      "tag": "A",
+      "x": 980.4000244140625,
+      "y": 9578.4248046875,
+      "width": 192,
+      "height": 236.125,
+      "visible": true
+    },
+    {
+      "text": "Online Mutton:",
+      "tag": "A",
+      "x": 102.6875,
+      "y": 10456.5498046875,
+      "width": 91.8375015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Online Chicken:",
+      "tag": "A",
+      "x": 102.6875,
+      "y": 10474.5498046875,
+      "width": 95.23750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Online Fish Delivery:",
+      "tag": "A",
+      "x": 102.6875,
+      "y": 10492.5498046875,
+      "width": 126.4749984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ready to Cook:",
+      "tag": "A",
+      "x": 102.6875,
+      "y": 10510.5498046875,
+      "width": 89.51250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 10717.5498046875,
+      "width": 815.2125244140625,
+      "height": 285.3125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 957.6124877929688,
+      "y": 10905.5498046875,
+      "width": 119,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 957.6124877929688,
+      "y": 10953.5498046875,
+      "width": 119,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 436.82501220703125,
+      "y": 11073.6630859375,
+      "width": 25.42500114440918,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "News room",
+      "tag": "A",
+      "x": 492.9875183105469,
+      "y": 11073.6630859375,
+      "width": 67.1875,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 590.9125366210938,
+      "y": 11073.6630859375,
+      "width": 27.712499618530273,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Didn't find your product?",
+      "tag": "A",
+      "x": 649.3624877929688,
+      "y": 11073.6630859375,
+      "width": 150.4499969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 405.0874938964844,
+      "y": 11093.875,
+      "width": 128.66250610351562,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 564.4874877929688,
+      "y": 11093.875,
+      "width": 82.4000015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Refund Policy",
+      "tag": "A",
+      "x": 677.625,
+      "y": 11093.875,
+      "width": 81.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Sellers",
+      "tag": "A",
+      "x": 789.7999877929688,
+      "y": 11093.875,
+      "width": 41.75,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Franchise",
+      "tag": "A",
+      "x": 556.2250366210938,
+      "y": 11114.087890625,
+      "width": 56.78750228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 643.75,
+      "y": 11114.087890625,
+      "width": 64.01250457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 482,
+      "y": 11154.2998046875,
+      "width": 120,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 612,
+      "y": 11144.2998046875,
+      "width": 142,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 953.3125,
+      "y": 11213.6630859375,
+      "width": 32,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 998.7000122070312,
+      "y": 11215.6630859375,
+      "width": 32,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1044.0875244140625,
+      "y": 11215.6630859375,
+      "width": 32,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1089.4749755859375,
+      "y": 11215.6630859375,
+      "width": 32,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Marine Fish",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11374.8623046875,
+      "width": 57.72500228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Anchovy / Kozhuva / Natholi",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11390.8251953125,
+      "width": 141.0500030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Barracuda / Cheelavu",
+      "tag": "A",
+      "x": 241.875,
+      "y": 11390.8251953125,
+      "width": 104.7249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pomfret / Avoli",
+      "tag": "A",
+      "x": 355.0249938964844,
+      "y": 11390.8251953125,
+      "width": 74.125,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Threadfin Bream / Kilimeen / Goat Fish",
+      "tag": "A",
+      "x": 437.57501220703125,
+      "y": 11390.8251953125,
+      "width": 189.875,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Butter Fish / Punnarameen",
+      "tag": "A",
+      "x": 635.875,
+      "y": 11390.8251953125,
+      "width": 130.1374969482422,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Cobia / Motha",
+      "tag": "A",
+      "x": 774.4375,
+      "y": 11390.8251953125,
+      "width": 69.42500305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Emperor / Eari",
+      "tag": "A",
+      "x": 852.2875366210938,
+      "y": 11390.8251953125,
+      "width": 70.7249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Garfish / Kola",
+      "tag": "A",
+      "x": 931.4375,
+      "y": 11390.8251953125,
+      "width": 67.2249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Grey Mullet / Thirutha",
+      "tag": "A",
+      "x": 1007.0875244140625,
+      "y": 11390.8251953125,
+      "width": 109.30000305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Grouper / Reef Cods / Kalava",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11390.8251953125,
+      "width": 1072.25,
+      "height": 26.36250114440918,
+      "visible": true
+    },
+    {
+      "text": "Mackerel / Ayala",
+      "tag": "A",
+      "x": 200.1750030517578,
+      "y": 11402.7880859375,
+      "width": 83.5625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Salmon",
+      "tag": "A",
+      "x": 292.1625061035156,
+      "y": 11402.7880859375,
+      "width": 36.900001525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lady Fish / Silver whiting / Kane",
+      "tag": "A",
+      "x": 337.4875183105469,
+      "y": 11402.7880859375,
+      "width": 156.90000915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Silver Biddy / Pranjil",
+      "tag": "A",
+      "x": 502.8125,
+      "y": 11402.7880859375,
+      "width": 101.01250457763672,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Long Whiskered / Catfish",
+      "tag": "A",
+      "x": 612.25,
+      "y": 11402.7880859375,
+      "width": 122,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mahi Mahi",
+      "tag": "A",
+      "x": 742.6749877929688,
+      "y": 11402.7880859375,
+      "width": 50.61249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Milk Fish / Poomeen",
+      "tag": "A",
+      "x": 801.7125244140625,
+      "y": 11402.7880859375,
+      "width": 98.75,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pony Fish / Mullan",
+      "tag": "A",
+      "x": 908.8875122070312,
+      "y": 11402.7880859375,
+      "width": 91.1624984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Red Snapper / Chempalli / Rane",
+      "tag": "A",
+      "x": 1008.4750366210938,
+      "y": 11402.7880859375,
+      "width": 156.9499969482422,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Reef Cods / Kalava",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11414.75,
+      "width": 90.5,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Ribbon Fish / Vaala",
+      "tag": "A",
+      "x": 191.3249969482422,
+      "y": 11414.75,
+      "width": 93.625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sail Fish / Ola Meen",
+      "tag": "A",
+      "x": 293.375,
+      "y": 11414.75,
+      "width": 99.17500305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sardine / Mathy / Mathi",
+      "tag": "A",
+      "x": 400.9750061035156,
+      "y": 11414.75,
+      "width": 118.5875015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Seer Fish / Neymeen / Surumai",
+      "tag": "A",
+      "x": 527.9874877929688,
+      "y": 11414.75,
+      "width": 154.77500915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shark",
+      "tag": "A",
+      "x": 691.1875,
+      "y": 11414.75,
+      "width": 27.662500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shrimp Scad / Vatta Paara",
+      "tag": "A",
+      "x": 727.2750244140625,
+      "y": 11414.75,
+      "width": 126.3499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pomfret / Avoli / Pabda",
+      "tag": "A",
+      "x": 862.0499877929688,
+      "y": 11414.75,
+      "width": 114.7874984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Snapper",
+      "tag": "A",
+      "x": 985.2625122070312,
+      "y": 11414.75,
+      "width": 40.42499923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sole Fish / Manthal / Repti",
+      "tag": "A",
+      "x": 1034.112548828125,
+      "y": 11414.75,
+      "width": 130.8000030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sword Fish",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11426.712890625,
+      "width": 52.22500228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Trevally / Vatta",
+      "tag": "A",
+      "x": 153.0500030517578,
+      "y": 11426.712890625,
+      "width": 74.0250015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Tuna",
+      "tag": "A",
+      "x": 235.5,
+      "y": 11426.712890625,
+      "width": 22.350000381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "White Sardine / Veloori",
+      "tag": "A",
+      "x": 266.2749938964844,
+      "y": 11426.712890625,
+      "width": 114.9625015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Jobfish",
+      "tag": "A",
+      "x": 389.6625061035156,
+      "y": 11426.712890625,
+      "width": 33.150001525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Stingray / Thirandi",
+      "tag": "A",
+      "x": 431.2375183105469,
+      "y": 11426.712890625,
+      "width": 91.9375,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Eel / Mananjil",
+      "tag": "A",
+      "x": 531.6000366210938,
+      "y": 11426.712890625,
+      "width": 68.05000305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Kallanki",
+      "tag": "A",
+      "x": 608.0750122070312,
+      "y": 11426.712890625,
+      "width": 38.03750228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Queen Fish",
+      "tag": "A",
+      "x": 654.5375366210938,
+      "y": 11426.712890625,
+      "width": 54.29999923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Silver Belly / Thaali Mullen",
+      "tag": "A",
+      "x": 717.2625122070312,
+      "y": 11426.712890625,
+      "width": 132.5500030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shell Fish",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11456.6748046875,
+      "width": 48.587501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shrimp",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11472.6376953125,
+      "width": 35.20000076293945,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Clam / Kakka",
+      "tag": "A",
+      "x": 136.02500915527344,
+      "y": 11472.6376953125,
+      "width": 64.70000457763672,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Cuttle Fish",
+      "tag": "A",
+      "x": 209.15000915527344,
+      "y": 11472.6376953125,
+      "width": 51.48749923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Green Mussel Meat / Kallummekkaya",
+      "tag": "A",
+      "x": 269.0625,
+      "y": 11472.6376953125,
+      "width": 181.46250915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lobster",
+      "tag": "A",
+      "x": 458.95001220703125,
+      "y": 11472.6376953125,
+      "width": 35.087501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Prawns / Venami",
+      "tag": "A",
+      "x": 502.4624938964844,
+      "y": 11472.6376953125,
+      "width": 81.6875,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Octopus",
+      "tag": "A",
+      "x": 592.5750122070312,
+      "y": 11472.6376953125,
+      "width": 39.98749923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Oyster Meat",
+      "tag": "A",
+      "x": 640.9874877929688,
+      "y": 11472.6376953125,
+      "width": 60.212501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sand Lobster",
+      "tag": "A",
+      "x": 709.625,
+      "y": 11472.6376953125,
+      "width": 62.212501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Scampi / Attukonchu / Jinga / Chingdi",
+      "tag": "A",
+      "x": 780.2625122070312,
+      "y": 11472.6376953125,
+      "width": 186.8874969482422,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Crab",
+      "tag": "A",
+      "x": 975.5750122070312,
+      "y": 11472.6376953125,
+      "width": 22.787500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mud Crab",
+      "tag": "A",
+      "x": 1006.7875366210938,
+      "y": 11472.6376953125,
+      "width": 47.26250076293945,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Squid / Koonthal",
+      "tag": "A",
+      "x": 1062.4749755859375,
+      "y": 11472.6376953125,
+      "width": 82.1500015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Tiger prawn / Bagda / Chingri",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11484.6005859375,
+      "width": 144.8000030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Fish",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11514.5625,
+      "width": 77.82500457763672,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Baasa / Pangasius",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11530.525390625,
+      "width": 87.8499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Catla / Katla",
+      "tag": "A",
+      "x": 188.6750030517578,
+      "y": 11530.525390625,
+      "width": 60.79999923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Milk Fish / Kayal Poomeen",
+      "tag": "A",
+      "x": 257.8999938964844,
+      "y": 11530.525390625,
+      "width": 183.52500915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Goby / Poolan / Bele Mach",
+      "tag": "A",
+      "x": 449.8500061035156,
+      "y": 11530.525390625,
+      "width": 131.33750915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mrigal / Kanni Meen",
+      "tag": "A",
+      "x": 589.6124877929688,
+      "y": 11530.525390625,
+      "width": 99.5250015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mullet / Kanambu / Parshe Maach",
+      "tag": "A",
+      "x": 697.5625,
+      "y": 11530.525390625,
+      "width": 165.625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pearl Spot / Karimeen / Koral",
+      "tag": "A",
+      "x": 871.6124877929688,
+      "y": 11530.525390625,
+      "width": 143.0625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Rohu",
+      "tag": "A",
+      "x": 1023.1000366210938,
+      "y": 11530.525390625,
+      "width": 24.350000381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Tilapia",
+      "tag": "A",
+      "x": 1055.875,
+      "y": 11530.525390625,
+      "width": 31.912500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Catfish / Manjakoori / Tengra Mach",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11530.525390625,
+      "width": 1045.5125732421875,
+      "height": 26.36250114440918,
+      "visible": true
+    },
+    {
+      "text": "Barramundi / Bhetki / Asian Seabass",
+      "tag": "A",
+      "x": 226.41250610351562,
+      "y": 11542.4873046875,
+      "width": 179.25,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Poultry",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11572.4501953125,
+      "width": 36.86249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11588.4130859375,
+      "width": 37.587501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sasso Chicken",
+      "tag": "A",
+      "x": 138.41250610351562,
+      "y": 11588.4130859375,
+      "width": 68.0625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken Lollipop",
+      "tag": "A",
+      "x": 214.90000915527344,
+      "y": 11588.4130859375,
+      "width": 78.48750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken Breast",
+      "tag": "A",
+      "x": 301.8125,
+      "y": 11588.4130859375,
+      "width": 70.8499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken Drumsticks",
+      "tag": "A",
+      "x": 381.0874938964844,
+      "y": 11588.4130859375,
+      "width": 93.5,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Duck",
+      "tag": "A",
+      "x": 483.01251220703125,
+      "y": 11588.4130859375,
+      "width": 23.475000381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Kuttandan Duck",
+      "tag": "A",
+      "x": 514.9125366210938,
+      "y": 11588.4130859375,
+      "width": 75.6624984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Vigova Duck",
+      "tag": "A",
+      "x": 599,
+      "y": 11588.4130859375,
+      "width": 59.36249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Duck Egg",
+      "tag": "A",
+      "x": 666.7875366210938,
+      "y": 11588.4130859375,
+      "width": 44.20000076293945,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Meat",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11618.375,
+      "width": 25.287500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mutton",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11634.337890625,
+      "width": 34.86249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Goat",
+      "tag": "A",
+      "x": 135.6875,
+      "y": 11634.337890625,
+      "width": 22.80000114440918,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lamb",
+      "tag": "A",
+      "x": 166.91250610351562,
+      "y": 11634.337890625,
+      "width": 25.837499618530273,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lamb Chops",
+      "tag": "A",
+      "x": 201.1750030517578,
+      "y": 11634.337890625,
+      "width": 58.54999923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Goat Mince",
+      "tag": "A",
+      "x": 268.1499938964844,
+      "y": 11634.337890625,
+      "width": 54.10000228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Adibatla",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11688.7001953125,
+      "width": 47.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Adilabad",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11688.7001953125,
+      "width": 50.36249923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Adoni",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11688.7001953125,
+      "width": 33.1875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ahmednagar",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11688.7001953125,
+      "width": 72.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Alappuzha",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11688.7001953125,
+      "width": 60.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Amalapuram",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11688.7001953125,
+      "width": 72.70000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ambala",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11688.7001953125,
+      "width": 43.625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Anantapur",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11688.7001953125,
+      "width": 59,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Angamaly",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11706.7001953125,
+      "width": 57.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Attingal",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11706.7001953125,
+      "width": 45.125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Aurangabad",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11706.7001953125,
+      "width": 68.4000015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11706.7001953125,
+      "width": 56.73749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bawal",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11706.7001953125,
+      "width": 32.900001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bhimavaram",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11706.7001953125,
+      "width": 69.4749984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bhiwadi",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11706.7001953125,
+      "width": 43.525001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bidadi",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11706.7001953125,
+      "width": 35,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bidar",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11724.7001953125,
+      "width": 29.375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bodhan",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11724.7001953125,
+      "width": 42.22500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chalakkudi",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11724.7001953125,
+      "width": 61.53750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chandigarh",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11724.7001953125,
+      "width": 64.26250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Changanassery",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11724.7001953125,
+      "width": 85.36250305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chengannur",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11724.7001953125,
+      "width": 68.2750015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "chennai",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11724.7001953125,
+      "width": 42.76250076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chennapatna",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11724.7001953125,
+      "width": 73.4124984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chikmagalur",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11742.7001953125,
+      "width": 70.95000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chittoor",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11742.7001953125,
+      "width": 44.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Cochin",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11742.7001953125,
+      "width": 37.32500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Coimbatore",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11742.7001953125,
+      "width": 64.48750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Davanegere",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11742.7001953125,
+      "width": 65.70000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Dehradun",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11742.7001953125,
+      "width": 54.57500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Delhi",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11742.7001953125,
+      "width": 29.325000762939453,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Dharmavaram",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11742.7001953125,
+      "width": 78.2249984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Edappal",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11760.7001953125,
+      "width": 44.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Eluru",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11760.7001953125,
+      "width": 29.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ernakulam",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11760.7001953125,
+      "width": 58.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Erode",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11760.7001953125,
+      "width": 31.6875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ettumanoor",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11760.7001953125,
+      "width": 64.5999984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Faridabad",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11760.7001953125,
+      "width": 54.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gadwal",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11760.7001953125,
+      "width": 41.42499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gajwel",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11760.7001953125,
+      "width": 37.5625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gannavaram",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11778.7001953125,
+      "width": 70.0250015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ghanpur",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11778.7001953125,
+      "width": 48.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ghaziabad",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11778.7001953125,
+      "width": 59.13750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gudivada",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11778.7001953125,
+      "width": 52.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gulbarga",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11778.7001953125,
+      "width": 51.78750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gummidipoondi",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11778.7001953125,
+      "width": 89.5250015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Guntakal",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11778.7001953125,
+      "width": 49.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Guntur",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11778.7001953125,
+      "width": 38.92499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gurgaon",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11796.7001953125,
+      "width": 48.150001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hassan",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11796.7001953125,
+      "width": 39.97500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hindupur",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11796.7001953125,
+      "width": 52.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hosur",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11796.7001953125,
+      "width": 33.10000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11796.7001953125,
+      "width": 61.42499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Irinjalakuda",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11796.7001953125,
+      "width": 64.73750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Jadcherla",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11796.7001953125,
+      "width": 52.17499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Jaipur",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11796.7001953125,
+      "width": 33.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kadapa",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11814.7001953125,
+      "width": 40.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kadiri",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11814.7001953125,
+      "width": 32.04999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kakinada",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11814.7001953125,
+      "width": 50,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kalpakkam",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11814.7001953125,
+      "width": 60.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kamareddy",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11814.7001953125,
+      "width": 63.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kanchipuram",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11814.7001953125,
+      "width": 72.5,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kanjirappally",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11814.7001953125,
+      "width": 73.4000015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kannur",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11814.7001953125,
+      "width": 39.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kanpur",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11832.7001953125,
+      "width": 39.67499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karad",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11832.7001953125,
+      "width": 31.837499618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karimnagar",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11832.7001953125,
+      "width": 64.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karnal",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11832.7001953125,
+      "width": 35.625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karunagappalli",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11832.7001953125,
+      "width": 84.0625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kattappana",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11832.7001953125,
+      "width": 62.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kayamkulam",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11832.7001953125,
+      "width": 72.2874984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kengeri",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11832.7001953125,
+      "width": 42.462501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kesarapalli",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11850.7001953125,
+      "width": 61.20000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "KGF",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11850.7001953125,
+      "width": 22.225000381469727,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Khammam",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11850.7001953125,
+      "width": 59.85000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kilimanoor",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11850.7001953125,
+      "width": 60.66250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kodad",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11850.7001953125,
+      "width": 34.63750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kolenchery",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11850.7001953125,
+      "width": 62.25,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kolhapur",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11850.7001953125,
+      "width": 50.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kolkata",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11850.7001953125,
+      "width": 40.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kollam",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11868.7001953125,
+      "width": 38.63750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kothagudem",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11868.7001953125,
+      "width": 70.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kothamangalam",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11868.7001953125,
+      "width": 90.5875015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottakkal",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11868.7001953125,
+      "width": 51.212501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottarakkara",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11868.7001953125,
+      "width": 69.5625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottayam",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11868.7001953125,
+      "width": 53.0625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottiyam",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11868.7001953125,
+      "width": 49.900001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Koyilandy",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11868.7001953125,
+      "width": 55.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kozhenjerry",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11886.7001953125,
+      "width": 67.2249984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kozhikode",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11886.7001953125,
+      "width": 57.04999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kumbanad",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11886.7001953125,
+      "width": 59.625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kurnool",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11886.7001953125,
+      "width": 43.837501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kurukshetra",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11886.7001953125,
+      "width": 66.9749984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Lucknow",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11886.7001953125,
+      "width": 46.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Machlipatnam",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11886.7001953125,
+      "width": 78.9625015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Madikeri",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11886.7001953125,
+      "width": 48.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Madurai",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11904.7001953125,
+      "width": 45.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mahbubnagar",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11904.7001953125,
+      "width": 77.63750457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Manaparai",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11904.7001953125,
+      "width": 58.78750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mancherial",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11904.7001953125,
+      "width": 61.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mandya",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11904.7001953125,
+      "width": 45.07500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Manesar",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11904.7001953125,
+      "width": 47.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mangalore",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11904.7001953125,
+      "width": 59.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Manikonda",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11904.7001953125,
+      "width": 61.16250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mavelikara",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11922.7001953125,
+      "width": 60.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Medak",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11922.7001953125,
+      "width": 37.07500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Miryalguda",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11922.7001953125,
+      "width": 64.23750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mohali",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11922.7001953125,
+      "width": 38.36249923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11922.7001953125,
+      "width": 45.66250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Muvattupuzha",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11922.7001953125,
+      "width": 79.9375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mysore",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11922.7001953125,
+      "width": 41.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nagamangala",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11922.7001953125,
+      "width": 77.5875015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nagpur",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11940.7001953125,
+      "width": 41.97500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nalgonda",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11940.7001953125,
+      "width": 54.25,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nandigama",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11940.7001953125,
+      "width": 64.0875015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nandyala",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11940.7001953125,
+      "width": 53.86249923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Narsaraopeta",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11940.7001953125,
+      "width": 74.8499984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nashik",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11940.7001953125,
+      "width": 37.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nedumangad",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11940.7001953125,
+      "width": 75.17500305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Neemrana",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11940.7001953125,
+      "width": 57.85000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nellore",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11958.7001953125,
+      "width": 41.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nirmal",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11958.7001953125,
+      "width": 38.57500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nizamabad",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11958.7001953125,
+      "width": 62.91250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Noida",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11958.7001953125,
+      "width": 33,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "NorthIndia",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11958.7001953125,
+      "width": 59.150001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "NorthParavur",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11958.7001953125,
+      "width": 74.05000305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Oman",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11958.7001953125,
+      "width": 34.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ongole",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11958.7001953125,
+      "width": 41.4375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pala",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11976.7001953125,
+      "width": 23.212499618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Palakkad",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11976.7001953125,
+      "width": 48.95000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Palladam",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11976.7001953125,
+      "width": 51.1875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Panchkula",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11976.7001953125,
+      "width": 55.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Panipat",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11976.7001953125,
+      "width": 40.97500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pathanamthitta",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11976.7001953125,
+      "width": 83.9124984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Peddapalli",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11976.7001953125,
+      "width": 58.0625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Perinthalmanna",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11976.7001953125,
+      "width": 87.375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Perumbavoor",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 11994.7001953125,
+      "width": 73.45000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pollachi",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 11994.7001953125,
+      "width": 42.837501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pondicherry",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 11994.7001953125,
+      "width": 66.3499984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 11994.7001953125,
+      "width": 27.774999618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Rajamundry",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 11994.7001953125,
+      "width": 67.20000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ramanagara",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 11994.7001953125,
+      "width": 69.01250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ranipet",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 11994.7001953125,
+      "width": 41.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Rewari",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 11994.7001953125,
+      "width": 36.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sakaleshpur",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 12012.7001953125,
+      "width": 68.6500015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Salem",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 12012.7001953125,
+      "width": 35.22500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sangareddy",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 12012.7001953125,
+      "width": 67.26250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sangli",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 12012.7001953125,
+      "width": 35.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Satara",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 12012.7001953125,
+      "width": 35.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Shadnagar",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 12012.7001953125,
+      "width": 60.04999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Shamshabad",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 12012.7001953125,
+      "width": 71.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Shivamogga",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 12012.7001953125,
+      "width": 68.6875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Siddipet",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 12030.7001953125,
+      "width": 46.20000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Siruseri",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 12030.7001953125,
+      "width": 43.025001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sivakasi",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 12030.7001953125,
+      "width": 44.76250076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sonipat",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 12030.7001953125,
+      "width": 42.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Srikakulam",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 12030.7001953125,
+      "width": 62.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sriperumbudur",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 12030.7001953125,
+      "width": 85.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Suryapet",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 12030.7001953125,
+      "width": 50.85000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tadepalligudem",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 12030.7001953125,
+      "width": 88.4000015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tadigadapa",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 12048.7001953125,
+      "width": 62.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tadipatri",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 12048.7001953125,
+      "width": 47.73749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tanuku",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 12048.7001953125,
+      "width": 38.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tenali",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 12048.7001953125,
+      "width": 32.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thalassery",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 12048.7001953125,
+      "width": 59.900001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thiruvalla",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 12048.7001953125,
+      "width": 54.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thiruvallur",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 12048.7001953125,
+      "width": 60.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thodupuzha",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 12048.7001953125,
+      "width": 68.57500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thrissur",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 12066.7001953125,
+      "width": 44.650001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirunelveli",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 12066.7001953125,
+      "width": 58.8125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirupati",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 12066.7001953125,
+      "width": 42.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirupur",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 12066.7001953125,
+      "width": 40.60000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirur",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 12066.7001953125,
+      "width": 26.337499618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Trichy",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 12066.7001953125,
+      "width": 32.73749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Trivandrum",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 12066.7001953125,
+      "width": 62.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tumakur",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 12066.7001953125,
+      "width": 47.53750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Uppal",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 12084.7001953125,
+      "width": 33.400001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vadakkencherry",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 12084.7001953125,
+      "width": 88.9375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vaniyambadi",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 12084.7001953125,
+      "width": 72.6624984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Varkala",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 12084.7001953125,
+      "width": 41.60000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vellalapatti",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 12084.7001953125,
+      "width": 63.525001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vellore",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 12084.7001953125,
+      "width": 39.57500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vijayawada",
+      "tag": "A",
+      "x": 832.7250366210938,
+      "y": 12084.7001953125,
+      "width": 63.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vizag",
+      "tag": "A",
+      "x": 956.1124877929688,
+      "y": 12084.7001953125,
+      "width": 31.375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vizianagaram",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": 12102.7001953125,
+      "width": 76.9749984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Wada",
+      "tag": "A",
+      "x": 215.78750610351562,
+      "y": 12102.7001953125,
+      "width": 32.28750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Wanaparthy",
+      "tag": "A",
+      "x": 339.1750183105469,
+      "y": 12102.7001953125,
+      "width": 69.11250305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Warangal",
+      "tag": "A",
+      "x": 462.5625,
+      "y": 12102.7001953125,
+      "width": 54.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Zaheerabad",
+      "tag": "A",
+      "x": 585.9500122070312,
+      "y": 12102.7001953125,
+      "width": 66.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Zirakpur",
+      "tag": "A",
+      "x": 709.3375244140625,
+      "y": 12102.7001953125,
+      "width": 47.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "INDIA",
+      "tag": "BUTTON",
+      "x": 587.375,
+      "y": 461,
+      "width": 90.0374984741211,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UAE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

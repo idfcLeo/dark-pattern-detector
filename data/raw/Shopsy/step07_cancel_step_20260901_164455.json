@@ -1,0 +1,198 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://www.shopsy.in/reseller-my-account",
+  "timestamp": "20260901_164455",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 28,
+      "y": 12.800000190734863,
+      "width": 156,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Become a Seller",
+      "tag": "A",
+      "x": 1013.1500244140625,
+      "y": 20.80000114440918,
+      "width": 153.85000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 59.28750228881836,
+      "y": 1124.4000244140625,
+      "width": 64.8499984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 59.28750228881836,
+      "y": 1144.4000244140625,
+      "width": 64.8499984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Payments",
+      "tag": "A",
+      "x": 148.1374969482422,
+      "y": 1124.4000244140625,
+      "width": 131.8874969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Shipping",
+      "tag": "A",
+      "x": 148.1374969482422,
+      "y": 1144.4000244140625,
+      "width": 131.8874969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Returns",
+      "tag": "A",
+      "x": 148.1374969482422,
+      "y": 1164.4000244140625,
+      "width": 131.8874969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 148.1374969482422,
+      "y": 1184.4000244140625,
+      "width": 131.8874969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 304.0249938964844,
+      "y": 1124.4000244140625,
+      "width": 185.7624969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 304.0249938964844,
+      "y": 1144.4000244140625,
+      "width": 185.7624969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 304.0249938964844,
+      "y": 1164.4000244140625,
+      "width": 185.7624969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal",
+      "tag": "A",
+      "x": 304.0249938964844,
+      "y": 1184.4000244140625,
+      "width": 185.7624969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "EPR Compliance",
+      "tag": "A",
+      "x": 304.0249938964844,
+      "y": 1204.4000244140625,
+      "width": 185.7624969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "FSSAI Food Safety Connect App",
+      "tag": "A",
+      "x": 304.0249938964844,
+      "y": 1224.4000244140625,
+      "width": 185.7624969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 513.7875366210938,
+      "y": 1124.4000244140625,
+      "width": 58.47500228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 513.7875366210938,
+      "y": 1144.4000244140625,
+      "width": 58.47500228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Twitter",
+      "tag": "A",
+      "x": 513.7875366210938,
+      "y": 1164.4000244140625,
+      "width": 58.47500228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "YouTube",
+      "tag": "A",
+      "x": 513.7875366210938,
+      "y": 1184.4000244140625,
+      "width": 58.47500228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "044-45614700",
+      "tag": "A",
+      "x": 1036.362548828125,
+      "y": 1251.5999755859375,
+      "width": 89.5625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Become a Seller",
+      "tag": "A",
+      "x": 131.5749969482422,
+      "y": 1334.5999755859375,
+      "width": 91.38750457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Help Center",
+      "tag": "A",
+      "x": 354.5375061035156,
+      "y": 1334.5999755859375,
+      "width": 67.9000015258789,
+      "height": 18,
+      "visible": true
+    }
+  ]
+}

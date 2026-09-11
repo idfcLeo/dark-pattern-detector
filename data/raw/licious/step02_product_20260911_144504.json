@@ -1,0 +1,126 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.licious.in/search",
+  "timestamp": "20260911_144504",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Stores",
+      "tag": "A",
+      "x": 794.9125366210938,
+      "y": 30,
+      "width": 67.48750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 1081.0625,
+      "y": 2948.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 547.0625,
+      "y": 3120.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 1081.0625,
+      "y": 3120.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 547.0625,
+      "y": 3292.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 1081.0625,
+      "y": 3292.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 547.0625,
+      "y": 3464.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 1081.0625,
+      "y": 3464.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 547.0625,
+      "y": 3636.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 1081.0625,
+      "y": 3636.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 547.0625,
+      "y": 3808.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 1081.0625,
+      "y": 3808.53759765625,
+      "width": 82.9375,
+      "height": 33.0625,
+      "visible": true
+    },
+    {
+      "text": "Proceed Via OTP",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

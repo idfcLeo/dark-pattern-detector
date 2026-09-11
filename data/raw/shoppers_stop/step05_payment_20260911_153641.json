@@ -1,0 +1,261 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.shoppersstop.com/cart/payment",
+  "timestamp": "20260911_153641",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 56,
+      "y": 21,
+      "width": 204.66250610351562,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Other Payments\nPay using cards, Net Banking, Wallets",
+      "tag": "BUTTON",
+      "x": 56.79999923706055,
+      "y": -136.40000915527344,
+      "width": 763.7250366210938,
+      "height": 75,
+      "visible": true
+    },
+    {
+      "text": "First Citizen\nUse Your First Citizen Points\nMinimum Amount To Be Redeemed is ₹60",
+      "tag": "BUTTON",
+      "x": 56.79999923706055,
+      "y": 289.3999938964844,
+      "width": 763.7250366210938,
+      "height": 95,
+      "visible": true
+    },
+    {
+      "text": "Gift Card / E-Gift Voucher\nRedeem Your Gift Vouchers",
+      "tag": "BUTTON",
+      "x": 56.79999923706055,
+      "y": 385.20001220703125,
+      "width": 763.7250366210938,
+      "height": 75,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 962.6625366210938,
+      "y": 266.8999938964844,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "customercare@shoppersstop.com",
+      "tag": "A",
+      "x": 80,
+      "y": 687.75,
+      "width": 208.6999969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 606.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 638.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kids",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 670.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 702.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Watches",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 734.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gift",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 766.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 798.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Luxe",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 830.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bargain",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 862.7999877929688,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 606.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 638.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Track Orders",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 670.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Corporate Site",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 702.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 734.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 766.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Help/FAQS",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 798.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Club",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 830.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Policy",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 862.7999877929688,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 606.7999877929688,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 638.7999877929688,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delivery Policy",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 670.7999877929688,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Exchange & Return",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 702.7999877929688,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.maxfashion.in/in/en/newCheckout",
+  "timestamp": "20260911_154153",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "Call 1800-123-1444",
+      "tag": "A",
+      "x": 1045.7625732421875,
+      "y": 8,
+      "width": 106.23750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Home Delivery\n\n(Get your product delivered to your home)",
+      "tag": "BUTTON",
+      "x": 200.3874969482422,
+      "y": 216.60000610351562,
+      "width": 266.25,
+      "height": 65.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Pick from nearby store\n\n(Collect your order from a store of your choice)",
+      "tag": "BUTTON",
+      "x": 474.2375183105469,
+      "y": 216.60000610351562,
+      "width": 281.4375,
+      "height": 65.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Add new address",
+      "tag": "BUTTON",
+      "x": 610.25,
+      "y": 307.3999938964844,
+      "width": 125.42500305175781,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO PAYMENT",
+      "tag": "BUTTON",
+      "x": 515.6749877929688,
+      "y": 416.20001220703125,
+      "width": 214,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 876.5750122070312,
+      "y": 234.22500610351562,
+      "width": 42.525001525878906,
+      "height": 21.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "BUTTON",
+      "x": 1007.1875,
+      "y": 337.0375061035156,
+      "width": 64,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 774.3875122070312,
+      "y": 599.1500244140625,
+      "width": 73.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 858.8375244140625,
+      "y": 599.1500244140625,
+      "width": 70.23750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 940.0875244140625,
+      "y": 599.1500244140625,
+      "width": 104.6500015258789,
+      "height": 18,
+      "visible": true
+    }
+  ]
+}

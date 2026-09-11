@@ -1,0 +1,684 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.shoppersstop.com/search/result?q=shoes&page=2",
+  "timestamp": "20260911_153518",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 58.22500228881836,
+      "width": 200,
+      "height": 19.537500381469727,
+      "visible": true
+    },
+    {
+      "text": "BARGA%NS",
+      "tag": "A",
+      "x": 176.5,
+      "y": 105.2125015258789,
+      "width": 93.67500305175781,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "BARGA%NS",
+      "tag": "A",
+      "x": 176.5,
+      "y": 113.2125015258789,
+      "width": 93.67500305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 302.1750183105469,
+      "y": 104.2125015258789,
+      "width": 35.23749923706055,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 302.1750183105469,
+      "y": 112.2125015258789,
+      "width": 35.23749923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 369.4125061035156,
+      "y": 104.2125015258789,
+      "width": 63.650001525878906,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 369.4125061035156,
+      "y": 112.2125015258789,
+      "width": 63.650001525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "KIDS",
+      "tag": "A",
+      "x": 465.0625,
+      "y": 104.2125015258789,
+      "width": 35.70000076293945,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "KIDS",
+      "tag": "A",
+      "x": 465.0625,
+      "y": 112.2125015258789,
+      "width": 35.70000076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "WATCHES",
+      "tag": "A",
+      "x": 532.7625122070312,
+      "y": 104.2125015258789,
+      "width": 75.9749984741211,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "WATCHES",
+      "tag": "A",
+      "x": 532.7625122070312,
+      "y": 112.2125015258789,
+      "width": 75.9749984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "HOMESTOP",
+      "tag": "A",
+      "x": 640.7374877929688,
+      "y": 104.2125015258789,
+      "width": 88.5625,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HOMESTOP",
+      "tag": "A",
+      "x": 640.7374877929688,
+      "y": 112.2125015258789,
+      "width": 88.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "LUXE",
+      "tag": "A",
+      "x": 761.2999877929688,
+      "y": 104.2125015258789,
+      "width": 40.900001525878906,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "LUXE",
+      "tag": "A",
+      "x": 761.2999877929688,
+      "y": 112.2125015258789,
+      "width": 40.900001525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "BRANDS",
+      "tag": "A",
+      "x": 834.2000122070312,
+      "y": 104.2125015258789,
+      "width": 64.73750305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "BRANDS",
+      "tag": "A",
+      "x": 834.2000122070312,
+      "y": 112.2125015258789,
+      "width": 64.73750305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "GIFTS",
+      "tag": "A",
+      "x": 930.9375,
+      "y": 104.2125015258789,
+      "width": 44.22500228881836,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "GIFTS",
+      "tag": "A",
+      "x": 930.9375,
+      "y": 112.2125015258789,
+      "width": 44.22500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1007.1625366210938,
+      "y": 102.7125015258789,
+      "width": 92.32500457763672,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1011.1625366210938,
+      "y": 114.7125015258789,
+      "width": 84.32500457763672,
+      "height": 23,
+      "visible": true
+    },
+    {
+      "text": "Department",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 214.5124969482422,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Categories",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 285.3125,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Sub-Categories",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 356.1125183105469,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Brands",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 426.9125061035156,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Product Type",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 497.7124938964844,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Gender",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 568.5125122070312,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Price",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 639.3125,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Discount",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 710.1124877929688,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Offers",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 780.9125366210938,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Color",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 851.7125244140625,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Fabric",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 922.5125122070312,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Size",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 993.3125,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Country of Origin",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 1064.112548828125,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Pattern",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 1206.9124755859375,
+      "width": 260,
+      "height": 58,
+      "visible": true
+    },
+    {
+      "text": "Sort By:Popularity",
+      "tag": "BUTTON",
+      "x": 1048.5625,
+      "y": 166.5124969482422,
+      "width": 167.4375,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Louis Philippe Leather Low Tops Lace Up Men's Formal Shoes\n₹4949\n\n₹5499\n\n10% Off",
+      "tag": "A",
+      "x": 368,
+      "y": 246.5124969482422,
+      "width": 188,
+      "height": 402,
+      "visible": true
+    },
+    {
+      "text": "Puma Softride Rift Premium Fabric Lace Up Women's Sports Shoes\n₹3299\n\n₹5499\n\n40%",
+      "tag": "A",
+      "x": 588,
+      "y": 246.5124969482422,
+      "width": 188,
+      "height": 402,
+      "visible": true
+    },
+    {
+      "text": "Asics GEL-KAYANO 14 Synthetic Leather Unisex Sports Shoes - Ironclad/Cloud Grey\n",
+      "tag": "A",
+      "x": 808,
+      "y": 246.5124969482422,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "ADIDAS PUREBOOST 23 Mesh Low Tops Lace Up Stripes Men Sports Shoes\n₹5199\n\n₹12999",
+      "tag": "A",
+      "x": 1028,
+      "y": 246.5124969482422,
+      "width": 188,
+      "height": 402,
+      "visible": true
+    },
+    {
+      "text": "U.S. Polo Assn. Cenik PU Lace Up Men's Casual Shoes\n₹3999\n5 Offers Available",
+      "tag": "A",
+      "x": 368,
+      "y": 680.5125122070312,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "Reebok FLYLITE RUSHRUN W Synthetic Lace Up Women's Sports Shoes\n₹2599\n6 Offers A",
+      "tag": "A",
+      "x": 588,
+      "y": 680.5125122070312,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "Skechers Go Run Consistent 2.0 Mesh Low Tops Lace Up Men's Casual Shoes\n₹6999\n5 ",
+      "tag": "A",
+      "x": 808,
+      "y": 680.5125122070312,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "Lotto Energex Mesh Lace Up Men's Sports Shoes\n₹5999\n5 Offers Available",
+      "tag": "A",
+      "x": 1028,
+      "y": 680.5125122070312,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "Red Label Mocca Synthetic Slip-On Men's Casual Shoes\n₹2299\n5 Offers Available",
+      "tag": "A",
+      "x": 368,
+      "y": 1110.5125732421875,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "ECCO S Lite Moc 540514 Leather Slip-on Men's Casual Shoes\n₹15999\n5 Offers Availa",
+      "tag": "A",
+      "x": 588,
+      "y": 1110.5125732421875,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "Louis Philippe Leather Lace Up Men's Formal Shoes\n₹6299\n\n₹6999\n\n10% Off\n\n6 Offer",
+      "tag": "A",
+      "x": 808,
+      "y": 1110.5125732421875,
+      "width": 188,
+      "height": 402,
+      "visible": true
+    },
+    {
+      "text": "U.S. Polo Assn. Anton PU Slip-on Men's Loafers\n₹2959\n\n₹3699\n\n20% Off\n\n6 Offers A",
+      "tag": "A",
+      "x": 1028,
+      "y": 1110.5125732421875,
+      "width": 188,
+      "height": 402,
+      "visible": true
+    },
+    {
+      "text": "Asics GEL-KAYANO 14 Synthetic Leather Unisex Sports Shoes - Truffle Grey/Oatmeal",
+      "tag": "A",
+      "x": 368,
+      "y": 1544.5125732421875,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "Puma Mesh Lace Up Women's Sports Shoes\n₹3599\n\n₹5999\n\n40% Off\n\n8 Offers Available",
+      "tag": "A",
+      "x": 588,
+      "y": 1544.5125732421875,
+      "width": 188,
+      "height": 402,
+      "visible": true
+    },
+    {
+      "text": "ADIDAS Powerthru W Textile Low Tops Slip-On Stripes Women Sports Shoes\n₹2119\n\n₹5",
+      "tag": "A",
+      "x": 808,
+      "y": 1544.5125732421875,
+      "width": 188,
+      "height": 402,
+      "visible": true
+    },
+    {
+      "text": "Reebok Synthetic Low Tops Lace Up Men's Sports Shoes\n₹4599\n6 Offers Available",
+      "tag": "A",
+      "x": 1028,
+      "y": 1544.5125732421875,
+      "width": 188,
+      "height": 398,
+      "visible": true
+    },
+    {
+      "text": "customercare@shoppersstop.com",
+      "tag": "A",
+      "x": 80,
+      "y": 2713.462646484375,
+      "width": 208.6999969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2632.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2664.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kids",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2696.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2728.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Watches",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2760.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gift",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2792.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2824.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Luxe",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2856.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bargain",
+      "tag": "A",
+      "x": 479.2875061035156,
+      "y": 2888.512451171875,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2632.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2664.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Track Orders",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2696.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Corporate Site",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2728.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2760.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2792.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Help/FAQS",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2824.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Club",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2856.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Policy",
+      "tag": "A",
+      "x": 612.1000366210938,
+      "y": 2888.512451171875,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 744.9125366210938,
+      "y": 2632.512451171875,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 744.9125366210938,
+      "y": 2664.512451171875,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delivery Policy",
+      "tag": "A",
+      "x": 744.9125366210938,
+      "y": 2696.512451171875,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Exchange & Return",
+      "tag": "A",
+      "x": 744.9125366210938,
+      "y": 2728.512451171875,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    }
+  ]
+}

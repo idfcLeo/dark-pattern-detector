@@ -1,0 +1,2916 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.freshtohome.com/catalog-elastic/search/?q=chicken",
+  "timestamp": "20260911_145013",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Didn't find your fish?",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log Out",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Certificates",
+      "tag": "A",
+      "x": 986.4750366210938,
+      "y": 6.800000190734863,
+      "width": 61.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 1068.362548828125,
+      "y": 6.800000190734863,
+      "width": 25.575000762939453,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Delhi",
+      "tag": "A",
+      "x": 1135.925048828125,
+      "y": 6.800000190734863,
+      "width": 44.07500076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 100,
+      "y": 45,
+      "width": 80,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 59.79999923706055,
+      "width": 43,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1066,
+      "y": 58,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Fish & Seafood",
+      "tag": "A",
+      "x": 227,
+      "y": 120,
+      "width": 148.7375030517578,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Poultry",
+      "tag": "A",
+      "x": 419.76251220703125,
+      "y": 120,
+      "width": 102.9625015258789,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Mutton",
+      "tag": "A",
+      "x": 566.7374877929688,
+      "y": 120,
+      "width": 102.70000457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Steaks & Fillet",
+      "tag": "A",
+      "x": 713.4625244140625,
+      "y": 120,
+      "width": 145.72500610351562,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Ready To Cook",
+      "tag": "A",
+      "x": 903.2000122070312,
+      "y": 120,
+      "width": 145.7624969482422,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Continue",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "India",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "India",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UAE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Premium Tender and Antibiotic-residue-free Chicken (Skinless)\n₹209.00 /500g\n₹160",
+      "tag": "A",
+      "x": 100,
+      "y": 227.3000030517578,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender and Antibiotic-residue-free Chicken - Whole Uncut (Skinless)\n₹209",
+      "tag": "A",
+      "x": 285,
+      "y": 227.3000030517578,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender and Antibiotic-residue-free Chicken - Curry Cut (Skinless) (450g ",
+      "tag": "A",
+      "x": 470,
+      "y": 227.3000030517578,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender and Antibiotic-residue-free Chicken (Skinless) - Curry Cut Small ",
+      "tag": "A",
+      "x": 655,
+      "y": 227.3000030517578,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Tender and Antibiotic-residue-free Chicken (Skinless) - Biryani Cut (450",
+      "tag": "A",
+      "x": 840,
+      "y": 227.3000030517578,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Antibiotic-residue-free Chicken Breast Fillet\n₹399.00 /500g\n₹33",
+      "tag": "A",
+      "x": 1025,
+      "y": 227.3000030517578,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Antibiotic-residue-free Chicken Breast Fillet - 800g Pack\n₹639.",
+      "tag": "A",
+      "x": 100,
+      "y": 490.1000061035156,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Chicken Breast - Mini Bites Cubes (250g Pack)\n₹200.00 /pack\n₹19",
+      "tag": "A",
+      "x": 285,
+      "y": 490.1000061035156,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Antibiotic-residue-free Chicken Breast Fillet - 480g to 500g pa",
+      "tag": "A",
+      "x": 470,
+      "y": 490.1000061035156,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Antibiotic-residue-free Chicken - Tikka Cut (480g to 500g Pack)",
+      "tag": "A",
+      "x": 655,
+      "y": 490.1000061035156,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Antibiotic-residue-free Chicken - Cubes (480g to 500g Pack)\n₹39",
+      "tag": "A",
+      "x": 840,
+      "y": 490.1000061035156,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "Premium Boneless Antibiotic-residue-free Chicken - Supreme / Tenderloin (480g to",
+      "tag": "A",
+      "x": 1025,
+      "y": 490.1000061035156,
+      "width": 155,
+      "height": 232.8000030517578,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 444.4250183105469,
+      "y": 863.7000122070312,
+      "width": 25.42500114440918,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "News room",
+      "tag": "A",
+      "x": 500.5874938964844,
+      "y": 863.7000122070312,
+      "width": 67.1875,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 598.5125122070312,
+      "y": 863.7000122070312,
+      "width": 27.712499618530273,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Didn't find your product?",
+      "tag": "A",
+      "x": 656.9625244140625,
+      "y": 863.7000122070312,
+      "width": 150.4499969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 412.6875,
+      "y": 883.9125366210938,
+      "width": 128.66250610351562,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 572.0875244140625,
+      "y": 883.9125366210938,
+      "width": 82.4000015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Refund Policy",
+      "tag": "A",
+      "x": 685.2250366210938,
+      "y": 883.9125366210938,
+      "width": 81.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Sellers",
+      "tag": "A",
+      "x": 797.4000244140625,
+      "y": 883.9125366210938,
+      "width": 41.75,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Franchise",
+      "tag": "A",
+      "x": 563.8250122070312,
+      "y": 904.125,
+      "width": 56.78750228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 651.3500366210938,
+      "y": 904.125,
+      "width": 64.01250457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 489.6000061035156,
+      "y": 944.3375244140625,
+      "width": 120,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 619.6000366210938,
+      "y": 934.3375244140625,
+      "width": 142,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 960.9125366210938,
+      "y": 1003.7000122070312,
+      "width": 32,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1006.2999877929688,
+      "y": 1005.7000122070312,
+      "width": 32,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1051.6875,
+      "y": 1005.7000122070312,
+      "width": 32,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1097.0750732421875,
+      "y": 1005.7000122070312,
+      "width": 32,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Marine Fish",
+      "tag": "A",
+      "x": 100,
+      "y": 1100.9000244140625,
+      "width": 57.72500228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Anchovy / Kozhuva / Natholi",
+      "tag": "A",
+      "x": 100,
+      "y": 1116.862548828125,
+      "width": 141.0500030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Barracuda / Cheelavu",
+      "tag": "A",
+      "x": 249.47500610351562,
+      "y": 1116.862548828125,
+      "width": 104.7249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pomfret / Avoli",
+      "tag": "A",
+      "x": 362.625,
+      "y": 1116.862548828125,
+      "width": 74.125,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Threadfin Bream / Kilimeen / Goat Fish",
+      "tag": "A",
+      "x": 445.1750183105469,
+      "y": 1116.862548828125,
+      "width": 189.875,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Butter Fish / Punnarameen",
+      "tag": "A",
+      "x": 643.4750366210938,
+      "y": 1116.862548828125,
+      "width": 130.1374969482422,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Cobia / Motha",
+      "tag": "A",
+      "x": 782.0375366210938,
+      "y": 1116.862548828125,
+      "width": 69.42500305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Emperor / Eari",
+      "tag": "A",
+      "x": 859.8875122070312,
+      "y": 1116.862548828125,
+      "width": 70.7249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Garfish / Kola",
+      "tag": "A",
+      "x": 939.0375366210938,
+      "y": 1116.862548828125,
+      "width": 67.2249984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Grey Mullet / Thirutha",
+      "tag": "A",
+      "x": 1014.6875,
+      "y": 1116.862548828125,
+      "width": 109.30000305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Grouper / Reef Cods / Kalava",
+      "tag": "A",
+      "x": 100,
+      "y": 1116.862548828125,
+      "width": 1072.25,
+      "height": 26.36250114440918,
+      "visible": true
+    },
+    {
+      "text": "Mackerel / Ayala",
+      "tag": "A",
+      "x": 207.77500915527344,
+      "y": 1128.8250732421875,
+      "width": 83.5625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Salmon",
+      "tag": "A",
+      "x": 299.76251220703125,
+      "y": 1128.8250732421875,
+      "width": 36.900001525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lady Fish / Silver whiting / Kane",
+      "tag": "A",
+      "x": 345.0874938964844,
+      "y": 1128.8250732421875,
+      "width": 156.90000915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Silver Biddy / Pranjil",
+      "tag": "A",
+      "x": 510.4125061035156,
+      "y": 1128.8250732421875,
+      "width": 101.01250457763672,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Long Whiskered / Catfish",
+      "tag": "A",
+      "x": 619.8500366210938,
+      "y": 1128.8250732421875,
+      "width": 122,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mahi Mahi",
+      "tag": "A",
+      "x": 750.2750244140625,
+      "y": 1128.8250732421875,
+      "width": 50.61249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Milk Fish / Poomeen",
+      "tag": "A",
+      "x": 809.3125,
+      "y": 1128.8250732421875,
+      "width": 98.75,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pony Fish / Mullan",
+      "tag": "A",
+      "x": 916.4874877929688,
+      "y": 1128.8250732421875,
+      "width": 91.1624984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Red Snapper / Chempalli / Rane",
+      "tag": "A",
+      "x": 1016.0750122070312,
+      "y": 1128.8250732421875,
+      "width": 156.9499969482422,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Reef Cods / Kalava",
+      "tag": "A",
+      "x": 100,
+      "y": 1140.7874755859375,
+      "width": 90.5,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Ribbon Fish / Vaala",
+      "tag": "A",
+      "x": 198.9250030517578,
+      "y": 1140.7874755859375,
+      "width": 93.625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sail Fish / Ola Meen",
+      "tag": "A",
+      "x": 300.9750061035156,
+      "y": 1140.7874755859375,
+      "width": 99.17500305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sardine / Mathy / Mathi",
+      "tag": "A",
+      "x": 408.57501220703125,
+      "y": 1140.7874755859375,
+      "width": 118.5875015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Seer Fish / Neymeen / Surumai",
+      "tag": "A",
+      "x": 535.5875244140625,
+      "y": 1140.7874755859375,
+      "width": 154.77500915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shark",
+      "tag": "A",
+      "x": 698.7875366210938,
+      "y": 1140.7874755859375,
+      "width": 27.662500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shrimp Scad / Vatta Paara",
+      "tag": "A",
+      "x": 734.875,
+      "y": 1140.7874755859375,
+      "width": 126.3499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pomfret / Avoli / Pabda",
+      "tag": "A",
+      "x": 869.6500244140625,
+      "y": 1140.7874755859375,
+      "width": 114.7874984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Snapper",
+      "tag": "A",
+      "x": 992.8624877929688,
+      "y": 1140.7874755859375,
+      "width": 40.42499923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sole Fish / Manthal / Repti",
+      "tag": "A",
+      "x": 1041.7125244140625,
+      "y": 1140.7874755859375,
+      "width": 130.8000030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sword Fish",
+      "tag": "A",
+      "x": 100,
+      "y": 1152.75,
+      "width": 52.22500228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Trevally / Vatta",
+      "tag": "A",
+      "x": 160.65000915527344,
+      "y": 1152.75,
+      "width": 74.0250015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Tuna",
+      "tag": "A",
+      "x": 243.10000610351562,
+      "y": 1152.75,
+      "width": 22.350000381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "White Sardine / Veloori",
+      "tag": "A",
+      "x": 273.875,
+      "y": 1152.75,
+      "width": 114.9625015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Jobfish",
+      "tag": "A",
+      "x": 397.26251220703125,
+      "y": 1152.75,
+      "width": 33.150001525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Stingray / Thirandi",
+      "tag": "A",
+      "x": 438.8374938964844,
+      "y": 1152.75,
+      "width": 91.9375,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Eel / Mananjil",
+      "tag": "A",
+      "x": 539.2000122070312,
+      "y": 1152.75,
+      "width": 68.05000305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Kallanki",
+      "tag": "A",
+      "x": 615.6749877929688,
+      "y": 1152.75,
+      "width": 38.03750228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Queen Fish",
+      "tag": "A",
+      "x": 662.1375122070312,
+      "y": 1152.75,
+      "width": 54.29999923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Silver Belly / Thaali Mullen",
+      "tag": "A",
+      "x": 724.8624877929688,
+      "y": 1152.75,
+      "width": 132.5500030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shell Fish",
+      "tag": "A",
+      "x": 100,
+      "y": 1182.7125244140625,
+      "width": 48.587501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Shrimp",
+      "tag": "A",
+      "x": 100,
+      "y": 1198.675048828125,
+      "width": 35.20000076293945,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Clam / Kakka",
+      "tag": "A",
+      "x": 143.625,
+      "y": 1198.675048828125,
+      "width": 64.70000457763672,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Cuttle Fish",
+      "tag": "A",
+      "x": 216.75,
+      "y": 1198.675048828125,
+      "width": 51.48749923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Green Mussel Meat / Kallummekkaya",
+      "tag": "A",
+      "x": 276.6625061035156,
+      "y": 1198.675048828125,
+      "width": 181.46250915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lobster",
+      "tag": "A",
+      "x": 466.5500183105469,
+      "y": 1198.675048828125,
+      "width": 35.087501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Prawns / Venami",
+      "tag": "A",
+      "x": 510.0625,
+      "y": 1198.675048828125,
+      "width": 81.6875,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Octopus",
+      "tag": "A",
+      "x": 600.1749877929688,
+      "y": 1198.675048828125,
+      "width": 39.98749923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Oyster Meat",
+      "tag": "A",
+      "x": 648.5875244140625,
+      "y": 1198.675048828125,
+      "width": 60.212501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sand Lobster",
+      "tag": "A",
+      "x": 717.2250366210938,
+      "y": 1198.675048828125,
+      "width": 62.212501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Scampi / Attukonchu / Jinga / Chingdi",
+      "tag": "A",
+      "x": 787.8624877929688,
+      "y": 1198.675048828125,
+      "width": 186.8874969482422,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Crab",
+      "tag": "A",
+      "x": 983.1749877929688,
+      "y": 1198.675048828125,
+      "width": 22.787500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mud Crab",
+      "tag": "A",
+      "x": 1014.3875122070312,
+      "y": 1198.675048828125,
+      "width": 47.26250076293945,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Squid / Koonthal",
+      "tag": "A",
+      "x": 1070.0750732421875,
+      "y": 1198.675048828125,
+      "width": 82.1500015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Tiger prawn / Bagda / Chingri",
+      "tag": "A",
+      "x": 100,
+      "y": 1210.6375732421875,
+      "width": 144.8000030517578,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Fish",
+      "tag": "A",
+      "x": 100,
+      "y": 1240.5999755859375,
+      "width": 77.82500457763672,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Baasa / Pangasius",
+      "tag": "A",
+      "x": 100,
+      "y": 1256.5625,
+      "width": 87.8499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Catla / Katla",
+      "tag": "A",
+      "x": 196.27500915527344,
+      "y": 1256.5625,
+      "width": 60.79999923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Milk Fish / Kayal Poomeen",
+      "tag": "A",
+      "x": 265.5,
+      "y": 1256.5625,
+      "width": 183.52500915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Goby / Poolan / Bele Mach",
+      "tag": "A",
+      "x": 457.45001220703125,
+      "y": 1256.5625,
+      "width": 131.33750915527344,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mrigal / Kanni Meen",
+      "tag": "A",
+      "x": 597.2125244140625,
+      "y": 1256.5625,
+      "width": 99.5250015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mullet / Kanambu / Parshe Maach",
+      "tag": "A",
+      "x": 705.1625366210938,
+      "y": 1256.5625,
+      "width": 165.625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Pearl Spot / Karimeen / Koral",
+      "tag": "A",
+      "x": 879.2125244140625,
+      "y": 1256.5625,
+      "width": 143.0625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Rohu",
+      "tag": "A",
+      "x": 1030.7000732421875,
+      "y": 1256.5625,
+      "width": 24.350000381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Tilapia",
+      "tag": "A",
+      "x": 1063.4749755859375,
+      "y": 1256.5625,
+      "width": 31.912500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Catfish / Manjakoori / Tengra Mach",
+      "tag": "A",
+      "x": 100,
+      "y": 1256.5625,
+      "width": 1045.5125732421875,
+      "height": 26.36250114440918,
+      "visible": true
+    },
+    {
+      "text": "Barramundi / Bhetki / Asian Seabass",
+      "tag": "A",
+      "x": 234.0124969482422,
+      "y": 1268.5250244140625,
+      "width": 179.25,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Poultry",
+      "tag": "A",
+      "x": 100,
+      "y": 1298.487548828125,
+      "width": 36.86249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken",
+      "tag": "A",
+      "x": 100,
+      "y": 1314.4500732421875,
+      "width": 37.587501525878906,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Sasso Chicken",
+      "tag": "A",
+      "x": 146.0124969482422,
+      "y": 1314.4500732421875,
+      "width": 68.0625,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken Lollipop",
+      "tag": "A",
+      "x": 222.5,
+      "y": 1314.4500732421875,
+      "width": 78.48750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken Breast",
+      "tag": "A",
+      "x": 309.4125061035156,
+      "y": 1314.4500732421875,
+      "width": 70.8499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Chicken Drumsticks",
+      "tag": "A",
+      "x": 388.6875,
+      "y": 1314.4500732421875,
+      "width": 93.5,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Duck",
+      "tag": "A",
+      "x": 490.6125183105469,
+      "y": 1314.4500732421875,
+      "width": 23.475000381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Kuttandan Duck",
+      "tag": "A",
+      "x": 522.5125122070312,
+      "y": 1314.4500732421875,
+      "width": 75.6624984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Vigova Duck",
+      "tag": "A",
+      "x": 606.6000366210938,
+      "y": 1314.4500732421875,
+      "width": 59.36249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Duck Egg",
+      "tag": "A",
+      "x": 674.3875122070312,
+      "y": 1314.4500732421875,
+      "width": 44.20000076293945,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Meat",
+      "tag": "A",
+      "x": 100,
+      "y": 1344.4124755859375,
+      "width": 25.287500381469727,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mutton",
+      "tag": "A",
+      "x": 100,
+      "y": 1360.375,
+      "width": 34.86249923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Goat",
+      "tag": "A",
+      "x": 143.28750610351562,
+      "y": 1360.375,
+      "width": 22.80000114440918,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lamb",
+      "tag": "A",
+      "x": 174.5124969482422,
+      "y": 1360.375,
+      "width": 25.837499618530273,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Lamb Chops",
+      "tag": "A",
+      "x": 208.77500915527344,
+      "y": 1360.375,
+      "width": 58.54999923706055,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Goat Mince",
+      "tag": "A",
+      "x": 275.75,
+      "y": 1360.375,
+      "width": 54.10000228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Adibatla",
+      "tag": "A",
+      "x": 100,
+      "y": 1414.737548828125,
+      "width": 47.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Adilabad",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1414.737548828125,
+      "width": 50.36249923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Adoni",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1414.737548828125,
+      "width": 33.1875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ahmednagar",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1414.737548828125,
+      "width": 72.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Alappuzha",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1414.737548828125,
+      "width": 60.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Amalapuram",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1414.737548828125,
+      "width": 72.70000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ambala",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1414.737548828125,
+      "width": 43.625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Anantapur",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1414.737548828125,
+      "width": 59,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Angamaly",
+      "tag": "A",
+      "x": 100,
+      "y": 1432.737548828125,
+      "width": 57.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Attingal",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1432.737548828125,
+      "width": 45.125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Aurangabad",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1432.737548828125,
+      "width": 68.4000015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1432.737548828125,
+      "width": 56.73749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bawal",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1432.737548828125,
+      "width": 32.900001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bhimavaram",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1432.737548828125,
+      "width": 69.4749984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bhiwadi",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1432.737548828125,
+      "width": 43.525001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bidadi",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1432.737548828125,
+      "width": 35,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bidar",
+      "tag": "A",
+      "x": 100,
+      "y": 1450.737548828125,
+      "width": 29.375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Bodhan",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1450.737548828125,
+      "width": 42.22500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chalakkudi",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1450.737548828125,
+      "width": 61.53750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chandigarh",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1450.737548828125,
+      "width": 64.26250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Changanassery",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1450.737548828125,
+      "width": 85.36250305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chengannur",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1450.737548828125,
+      "width": 68.2750015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "chennai",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1450.737548828125,
+      "width": 42.76250076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chennapatna",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1450.737548828125,
+      "width": 73.4124984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chikmagalur",
+      "tag": "A",
+      "x": 100,
+      "y": 1468.737548828125,
+      "width": 70.95000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Chittoor",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1468.737548828125,
+      "width": 44.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Cochin",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1468.737548828125,
+      "width": 37.32500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Coimbatore",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1468.737548828125,
+      "width": 64.48750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Davanegere",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1468.737548828125,
+      "width": 65.70000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Dehradun",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1468.737548828125,
+      "width": 54.57500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Delhi",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1468.737548828125,
+      "width": 29.325000762939453,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Dharmavaram",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1468.737548828125,
+      "width": 78.2249984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Edappal",
+      "tag": "A",
+      "x": 100,
+      "y": 1486.737548828125,
+      "width": 44.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Eluru",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1486.737548828125,
+      "width": 29.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ernakulam",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1486.737548828125,
+      "width": 58.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Erode",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1486.737548828125,
+      "width": 31.6875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ettumanoor",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1486.737548828125,
+      "width": 64.5999984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Faridabad",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1486.737548828125,
+      "width": 54.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gadwal",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1486.737548828125,
+      "width": 41.42499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gajwel",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1486.737548828125,
+      "width": 37.5625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gannavaram",
+      "tag": "A",
+      "x": 100,
+      "y": 1504.737548828125,
+      "width": 70.0250015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ghanpur",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1504.737548828125,
+      "width": 48.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ghaziabad",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1504.737548828125,
+      "width": 59.13750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gudivada",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1504.737548828125,
+      "width": 52.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gulbarga",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1504.737548828125,
+      "width": 51.78750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gummidipoondi",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1504.737548828125,
+      "width": 89.5250015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Guntakal",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1504.737548828125,
+      "width": 49.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Guntur",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1504.737548828125,
+      "width": 38.92499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Gurgaon",
+      "tag": "A",
+      "x": 100,
+      "y": 1522.737548828125,
+      "width": 48.150001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hassan",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1522.737548828125,
+      "width": 39.97500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hindupur",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1522.737548828125,
+      "width": 52.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hosur",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1522.737548828125,
+      "width": 33.10000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1522.737548828125,
+      "width": 61.42499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Irinjalakuda",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1522.737548828125,
+      "width": 64.73750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Jadcherla",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1522.737548828125,
+      "width": 52.17499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Jaipur",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1522.737548828125,
+      "width": 33.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kadapa",
+      "tag": "A",
+      "x": 100,
+      "y": 1540.737548828125,
+      "width": 40.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kadiri",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1540.737548828125,
+      "width": 32.04999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kakinada",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1540.737548828125,
+      "width": 50,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kalpakkam",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1540.737548828125,
+      "width": 60.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kamareddy",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1540.737548828125,
+      "width": 63.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kanchipuram",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1540.737548828125,
+      "width": 72.5,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kanjirappally",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1540.737548828125,
+      "width": 73.4000015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kannur",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1540.737548828125,
+      "width": 39.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kanpur",
+      "tag": "A",
+      "x": 100,
+      "y": 1558.737548828125,
+      "width": 39.67499923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karad",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1558.737548828125,
+      "width": 31.837499618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karimnagar",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1558.737548828125,
+      "width": 64.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karnal",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1558.737548828125,
+      "width": 35.625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Karunagappalli",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1558.737548828125,
+      "width": 84.0625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kattappana",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1558.737548828125,
+      "width": 62.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kayamkulam",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1558.737548828125,
+      "width": 72.2874984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kengeri",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1558.737548828125,
+      "width": 42.462501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kesarapalli",
+      "tag": "A",
+      "x": 100,
+      "y": 1576.737548828125,
+      "width": 61.20000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "KGF",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1576.737548828125,
+      "width": 22.225000381469727,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Khammam",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1576.737548828125,
+      "width": 59.85000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kilimanoor",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1576.737548828125,
+      "width": 60.66250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kodad",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1576.737548828125,
+      "width": 34.63750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kolenchery",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1576.737548828125,
+      "width": 62.25,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kolhapur",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1576.737548828125,
+      "width": 50.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kolkata",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1576.737548828125,
+      "width": 40.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kollam",
+      "tag": "A",
+      "x": 100,
+      "y": 1594.737548828125,
+      "width": 38.63750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kothagudem",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1594.737548828125,
+      "width": 70.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kothamangalam",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1594.737548828125,
+      "width": 90.5875015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottakkal",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1594.737548828125,
+      "width": 51.212501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottarakkara",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1594.737548828125,
+      "width": 69.5625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottayam",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1594.737548828125,
+      "width": 53.0625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kottiyam",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1594.737548828125,
+      "width": 49.900001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Koyilandy",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1594.737548828125,
+      "width": 55.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kozhenjerry",
+      "tag": "A",
+      "x": 100,
+      "y": 1612.737548828125,
+      "width": 67.2249984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kozhikode",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1612.737548828125,
+      "width": 57.04999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kumbanad",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1612.737548828125,
+      "width": 59.625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kurnool",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1612.737548828125,
+      "width": 43.837501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Kurukshetra",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1612.737548828125,
+      "width": 66.9749984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Lucknow",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1612.737548828125,
+      "width": 46.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Machlipatnam",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1612.737548828125,
+      "width": 78.9625015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Madikeri",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1612.737548828125,
+      "width": 48.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Madurai",
+      "tag": "A",
+      "x": 100,
+      "y": 1630.737548828125,
+      "width": 45.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mahbubnagar",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1630.737548828125,
+      "width": 77.63750457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Manaparai",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1630.737548828125,
+      "width": 58.78750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mancherial",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1630.737548828125,
+      "width": 61.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mandya",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1630.737548828125,
+      "width": 45.07500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Manesar",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1630.737548828125,
+      "width": 47.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mangalore",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1630.737548828125,
+      "width": 59.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Manikonda",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1630.737548828125,
+      "width": 61.16250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mavelikara",
+      "tag": "A",
+      "x": 100,
+      "y": 1648.737548828125,
+      "width": 60.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Medak",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1648.737548828125,
+      "width": 37.07500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Miryalguda",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1648.737548828125,
+      "width": 64.23750305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mohali",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1648.737548828125,
+      "width": 38.36249923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1648.737548828125,
+      "width": 45.66250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Muvattupuzha",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1648.737548828125,
+      "width": 79.9375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Mysore",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1648.737548828125,
+      "width": 41.72500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nagamangala",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1648.737548828125,
+      "width": 77.5875015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nagpur",
+      "tag": "A",
+      "x": 100,
+      "y": 1666.737548828125,
+      "width": 41.97500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nalgonda",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1666.737548828125,
+      "width": 54.25,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nandigama",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1666.737548828125,
+      "width": 64.0875015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nandyala",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1666.737548828125,
+      "width": 53.86249923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Narsaraopeta",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1666.737548828125,
+      "width": 74.8499984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nashik",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1666.737548828125,
+      "width": 37.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nedumangad",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1666.737548828125,
+      "width": 75.17500305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Neemrana",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1666.737548828125,
+      "width": 57.85000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nellore",
+      "tag": "A",
+      "x": 100,
+      "y": 1684.737548828125,
+      "width": 41.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nirmal",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1684.737548828125,
+      "width": 38.57500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Nizamabad",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1684.737548828125,
+      "width": 62.91250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Noida",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1684.737548828125,
+      "width": 33,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "NorthIndia",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1684.737548828125,
+      "width": 59.150001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "NorthParavur",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1684.737548828125,
+      "width": 74.05000305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Oman",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1684.737548828125,
+      "width": 34.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ongole",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1684.737548828125,
+      "width": 41.4375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pala",
+      "tag": "A",
+      "x": 100,
+      "y": 1702.737548828125,
+      "width": 23.212499618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Palakkad",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1702.737548828125,
+      "width": 48.95000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Palladam",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1702.737548828125,
+      "width": 51.1875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Panchkula",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1702.737548828125,
+      "width": 55.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Panipat",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1702.737548828125,
+      "width": 40.97500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pathanamthitta",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1702.737548828125,
+      "width": 83.9124984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Peddapalli",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1702.737548828125,
+      "width": 58.0625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Perinthalmanna",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1702.737548828125,
+      "width": 87.375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Perumbavoor",
+      "tag": "A",
+      "x": 100,
+      "y": 1720.737548828125,
+      "width": 73.45000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pollachi",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1720.737548828125,
+      "width": 42.837501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pondicherry",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1720.737548828125,
+      "width": 66.3499984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1720.737548828125,
+      "width": 27.774999618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Rajamundry",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1720.737548828125,
+      "width": 67.20000457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ramanagara",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1720.737548828125,
+      "width": 69.01250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Ranipet",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1720.737548828125,
+      "width": 41.70000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Rewari",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1720.737548828125,
+      "width": 36.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sakaleshpur",
+      "tag": "A",
+      "x": 100,
+      "y": 1738.737548828125,
+      "width": 68.6500015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Salem",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1738.737548828125,
+      "width": 35.22500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sangareddy",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1738.737548828125,
+      "width": 67.26250457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sangli",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1738.737548828125,
+      "width": 35.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Satara",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1738.737548828125,
+      "width": 35.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Shadnagar",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1738.737548828125,
+      "width": 60.04999923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Shamshabad",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1738.737548828125,
+      "width": 71.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Shivamogga",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1738.737548828125,
+      "width": 68.6875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Siddipet",
+      "tag": "A",
+      "x": 100,
+      "y": 1756.737548828125,
+      "width": 46.20000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Siruseri",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1756.737548828125,
+      "width": 43.025001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sivakasi",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1756.737548828125,
+      "width": 44.76250076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sonipat",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1756.737548828125,
+      "width": 42.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Srikakulam",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1756.737548828125,
+      "width": 62.47500228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Sriperumbudur",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1756.737548828125,
+      "width": 85.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Suryapet",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1756.737548828125,
+      "width": 50.85000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tadepalligudem",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1756.737548828125,
+      "width": 88.4000015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tadigadapa",
+      "tag": "A",
+      "x": 100,
+      "y": 1774.737548828125,
+      "width": 62.75,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tadipatri",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1774.737548828125,
+      "width": 47.73749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tanuku",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1774.737548828125,
+      "width": 38.98749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tenali",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1774.737548828125,
+      "width": 32.38750076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thalassery",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1774.737548828125,
+      "width": 59.900001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thiruvalla",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1774.737548828125,
+      "width": 54.962501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thiruvallur",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1774.737548828125,
+      "width": 60.3125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thodupuzha",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1774.737548828125,
+      "width": 68.57500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Thrissur",
+      "tag": "A",
+      "x": 100,
+      "y": 1792.737548828125,
+      "width": 44.650001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirunelveli",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1792.737548828125,
+      "width": 58.8125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirupati",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1792.737548828125,
+      "width": 42.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirupur",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1792.737548828125,
+      "width": 40.60000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tirur",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1792.737548828125,
+      "width": 26.337499618530273,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Trichy",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1792.737548828125,
+      "width": 32.73749923706055,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Trivandrum",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1792.737548828125,
+      "width": 62.587501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Tumakur",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1792.737548828125,
+      "width": 47.53750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Uppal",
+      "tag": "A",
+      "x": 100,
+      "y": 1810.737548828125,
+      "width": 33.400001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vadakkencherry",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1810.737548828125,
+      "width": 88.9375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vaniyambadi",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1810.737548828125,
+      "width": 72.6624984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Varkala",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1810.737548828125,
+      "width": 41.60000228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vellalapatti",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1810.737548828125,
+      "width": 63.525001525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vellore",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1810.737548828125,
+      "width": 39.57500076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vijayawada",
+      "tag": "A",
+      "x": 840.3250122070312,
+      "y": 1810.737548828125,
+      "width": 63.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vizag",
+      "tag": "A",
+      "x": 963.7125244140625,
+      "y": 1810.737548828125,
+      "width": 31.375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Vizianagaram",
+      "tag": "A",
+      "x": 100,
+      "y": 1828.737548828125,
+      "width": 76.9749984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Wada",
+      "tag": "A",
+      "x": 223.3874969482422,
+      "y": 1828.737548828125,
+      "width": 32.28750228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Wanaparthy",
+      "tag": "A",
+      "x": 346.7749938964844,
+      "y": 1828.737548828125,
+      "width": 69.11250305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Warangal",
+      "tag": "A",
+      "x": 470.1625061035156,
+      "y": 1828.737548828125,
+      "width": 54.41250228881836,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Zaheerabad",
+      "tag": "A",
+      "x": 593.5499877929688,
+      "y": 1828.737548828125,
+      "width": 66.32500457763672,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Zirakpur",
+      "tag": "A",
+      "x": 716.9375,
+      "y": 1828.737548828125,
+      "width": 47.45000076293945,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

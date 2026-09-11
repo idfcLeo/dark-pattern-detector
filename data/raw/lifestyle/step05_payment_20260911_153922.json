@@ -1,0 +1,81 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.lifestylestores.com/in/en/newCheckout",
+  "timestamp": "20260911_153922",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Call 080-65011555",
+      "tag": "A",
+      "x": 1049.2249755859375,
+      "y": 8,
+      "width": 102.7750015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 691.6749877929688,
+      "y": -122.9375,
+      "width": 64,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "GENERATE QR CODE",
+      "tag": "BUTTON",
+      "x": 383.2875061035156,
+      "y": 239.96250915527344,
+      "width": 356.375,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 876.5750122070312,
+      "y": -44.97500228881836,
+      "width": 42.525001525878906,
+      "height": 21.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "BUTTON",
+      "x": 1007.1875,
+      "y": 57.837501525878906,
+      "width": 64,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 774.3875122070312,
+      "y": 319.95001220703125,
+      "width": 73.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 858.8375244140625,
+      "y": 319.95001220703125,
+      "width": 70.23750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 940.0875244140625,
+      "y": 319.95001220703125,
+      "width": 104.6500015258789,
+      "height": 18,
+      "visible": true
+    }
+  ]
+}

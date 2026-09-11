@@ -1,0 +1,81 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.pantaloons.com/cart",
+  "timestamp": "20260911_153157",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 44,
+      "y": 30.5,
+      "width": 250,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1081.800048828125,
+      "y": 30.149999618530273,
+      "width": 22,
+      "height": 22.700000762939453,
+      "visible": true
+    },
+    {
+      "text": "Pantaloons",
+      "tag": "A",
+      "x": 106.4000015258789,
+      "y": 111.5999984741211,
+      "width": 75.98750305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "ADDRESS(0)",
+      "tag": "BUTTON",
+      "x": 116.4000015258789,
+      "y": 213.0124969482422,
+      "width": 670.6625366210938,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 135.40000915527344,
+      "y": 1177.4749755859375,
+      "width": 100,
+      "height": 20.012500762939453,
+      "visible": true
+    },
+    {
+      "text": "Navy Printed Formal Full Sleeves Shirt Collar Women Regular Fit Tops",
+      "tag": "A",
+      "x": 265.3999938964844,
+      "y": 1197.625,
+      "width": 222.96250915527344,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "MOVE TO WISHLIST",
+      "tag": "BUTTON",
+      "x": 641.9000244140625,
+      "y": 1270.7750244140625,
+      "width": 145.16250610351562,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "CHECKOUT",
+      "tag": "BUTTON",
+      "x": 843.4249877929688,
+      "y": 567.4625244140625,
+      "width": 300.6000061035156,
+      "height": 47.400001525878906,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.maxfashion.in/in/en/newCheckout",
+  "timestamp": "20260911_154159",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Call 1800-123-1444",
+      "tag": "A",
+      "x": 1045.7625732421875,
+      "y": 8,
+      "width": 106.23750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 691.6749877929688,
+      "y": -43.73749923706055,
+      "width": 64,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "GENERATE QR CODE",
+      "tag": "BUTTON",
+      "x": 383.2875061035156,
+      "y": 319.1625061035156,
+      "width": 356.375,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 876.5750122070312,
+      "y": 34.22500228881836,
+      "width": 42.525001525878906,
+      "height": 21.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "BUTTON",
+      "x": 1007.1875,
+      "y": 137.03750610351562,
+      "width": 64,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 774.3875122070312,
+      "y": 399.1499938964844,
+      "width": 73.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 858.8375244140625,
+      "y": 399.1499938964844,
+      "width": 70.23750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 940.0875244140625,
+      "y": 399.1499938964844,
+      "width": 104.6500015258789,
+      "height": 18,
+      "visible": true
+    }
+  ]
+}

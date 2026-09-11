@@ -1,0 +1,8 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://api.razorpay.com/v1/checkout/hosted",
+  "timestamp": "20260901_172201",
+  "suspected_pattern": null,
+  "clickable_elements": []
+}

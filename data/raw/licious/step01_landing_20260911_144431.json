@@ -1,0 +1,909 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.licious.in/",
+  "timestamp": "20260911_144431",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Stores",
+      "tag": "A",
+      "x": 794.9125366210938,
+      "y": 30,
+      "width": 67.48750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Proceed Via OTP",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 100,
+      "y": 1626.425048828125,
+      "width": 72,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Why Licious?",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 1688.425048828125,
+      "width": 79.82500457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Refer & Earn",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 1709.425048828125,
+      "width": 77.9625015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Licious Cash & Cash+",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 1730.425048828125,
+      "width": 88.3499984741211,
+      "height": 37.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 1772.425048828125,
+      "width": 48.72500228881836,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 1793.425048828125,
+      "width": 37.150001525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1688.425048828125,
+      "width": 57.13750076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bug Bounty Guidelines",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1709.425048828125,
+      "width": 139.375,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "T&C",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1730.425048828125,
+      "width": 26.774999618530273,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1751.425048828125,
+      "width": 27.399999618530273,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1772.425048828125,
+      "width": 85.4625015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Reschedule Policy",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1793.425048828125,
+      "width": 162.85000610351562,
+      "height": 37.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "FSSC 22000 Certification",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1835.425048828125,
+      "width": 155.72500610351562,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "CSR Policy",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1856.425048828125,
+      "width": 65.73750305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1877.425048828125,
+      "width": 49.88750076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Notices",
+      "tag": "A",
+      "x": 626.375,
+      "y": 1898.425048828125,
+      "width": 47.125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Call: 1800-4190-786",
+      "tag": "A",
+      "x": 833.3250122070312,
+      "y": 1692.425048828125,
+      "width": 129.125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "talktous@licious.com",
+      "tag": "A",
+      "x": 833.3250122070312,
+      "y": 1713.425048828125,
+      "width": 129.33750915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Report Security Issue",
+      "tag": "A",
+      "x": 833.3250122070312,
+      "y": 2047.2249755859375,
+      "width": 130.40000915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bengaluru",
+      "tag": "A",
+      "x": 124.80000305175781,
+      "y": 2166.425048828125,
+      "width": 63.22500228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "NCR",
+      "tag": "A",
+      "x": 249.625,
+      "y": 2166.425048828125,
+      "width": 29.200000762939453,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad",
+      "tag": "A",
+      "x": 340.4250183105469,
+      "y": 2166.425048828125,
+      "width": 67.9625015258789,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Chandigarh",
+      "tag": "A",
+      "x": 469.9875183105469,
+      "y": 2166.425048828125,
+      "width": 71.3499984741211,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Panchkula",
+      "tag": "A",
+      "x": 602.9375,
+      "y": 2166.425048828125,
+      "width": 63.212501525878906,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Mohali",
+      "tag": "A",
+      "x": 727.75,
+      "y": 2166.425048828125,
+      "width": 42.72500228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 832.0750122070312,
+      "y": 2166.425048828125,
+      "width": 50.67499923706055,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 944.3500366210938,
+      "y": 2166.425048828125,
+      "width": 31.462499618530273,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Chennai",
+      "tag": "A",
+      "x": 1037.4124755859375,
+      "y": 2166.425048828125,
+      "width": 50.962501525878906,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Coimbatore",
+      "tag": "A",
+      "x": 124.80000305175781,
+      "y": 2221.025146484375,
+      "width": 73.36250305175781,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Jaipur",
+      "tag": "A",
+      "x": 259.76251220703125,
+      "y": 2221.025146484375,
+      "width": 38.0625,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Cochin",
+      "tag": "A",
+      "x": 359.4250183105469,
+      "y": 2221.025146484375,
+      "width": 43.07500076293945,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Vijayawada",
+      "tag": "A",
+      "x": 464.1000061035156,
+      "y": 2221.025146484375,
+      "width": 70.4375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Visakhapatnam",
+      "tag": "A",
+      "x": 596.1375122070312,
+      "y": 2221.025146484375,
+      "width": 94.92500305175781,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Kolkata",
+      "tag": "A",
+      "x": 752.6625366210938,
+      "y": 2221.025146484375,
+      "width": 47.41250228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Lucknow",
+      "tag": "A",
+      "x": 861.6749877929688,
+      "y": 2221.025146484375,
+      "width": 55.150001525878906,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Kanpur",
+      "tag": "A",
+      "x": 978.4249877929688,
+      "y": 2221.025146484375,
+      "width": 45.57500076293945,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Nagpur",
+      "tag": "A",
+      "x": 1085.5999755859375,
+      "y": 2221.025146484375,
+      "width": 46,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Order Chicken online in Bangalore",
+      "tag": "A",
+      "x": 124.80000305175781,
+      "y": 2382.625,
+      "width": 209.7624969482422,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Order Chicken online in Delhi",
+      "tag": "A",
+      "x": 396.1625061035156,
+      "y": 2382.625,
+      "width": 180.0500030517578,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Order Chicken online in Mumbai",
+      "tag": "A",
+      "x": 637.8125,
+      "y": 2382.625,
+      "width": 197.8874969482422,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Order Chicken online in Hyderabad",
+      "tag": "A",
+      "x": 897.2999877929688,
+      "y": 2382.625,
+      "width": 215.1750030517578,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Order Chicken online in Pune",
+      "tag": "A",
+      "x": 124.80000305175781,
+      "y": 2437.22509765625,
+      "width": 178.6750030517578,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Order Chicken online in Chennai",
+      "tag": "A",
+      "x": 365.07501220703125,
+      "y": 2437.22509765625,
+      "width": 198.1750030517578,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Order Chicken online in Kolkata",
+      "tag": "A",
+      "x": 624.8500366210938,
+      "y": 2437.22509765625,
+      "width": 194.625,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Chicken",
+      "tag": "A",
+      "x": 100,
+      "y": 2618.025146484375,
+      "width": 49.53750228881836,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Curry Cut (Small - 13 to 16 Pieces)",
+      "tag": "A",
+      "x": 100,
+      "y": 2648.824951171875,
+      "width": 223.65000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Curry Cut Small - Large Pack",
+      "tag": "A",
+      "x": 333.26251220703125,
+      "y": 2648.824951171875,
+      "width": 193.5500030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Breast Boneless",
+      "tag": "A",
+      "x": 536.4249877929688,
+      "y": 2648.824951171875,
+      "width": 128.9250030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Mini Bites (Boneless)",
+      "tag": "A",
+      "x": 674.9625244140625,
+      "y": 2648.824951171875,
+      "width": 154.4499969482422,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Thigh (Boneless)",
+      "tag": "A",
+      "x": 839.0250244140625,
+      "y": 2648.824951171875,
+      "width": 131.10000610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Breast Boneless - Large Pack",
+      "tag": "A",
+      "x": 979.7374877929688,
+      "y": 2648.824951171875,
+      "width": 194.5500030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Drumstick-Pack of 6",
+      "tag": "A",
+      "x": 106.9124984741211,
+      "y": 2671.625,
+      "width": 151.3000030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Curry Cut Large - Large Pack",
+      "tag": "A",
+      "x": 267.82501220703125,
+      "y": 2671.625,
+      "width": 194.625,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Curry Cut (Large - 8 to 10 Pieces)",
+      "tag": "A",
+      "x": 472.0625,
+      "y": 2671.625,
+      "width": 217.7624969482422,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Mince - Keema",
+      "tag": "A",
+      "x": 699.4375,
+      "y": 2671.625,
+      "width": 122.7125015258789,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Mutton",
+      "tag": "A",
+      "x": 100,
+      "y": 2709.625,
+      "width": 46.6875,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Goat Shoulder - Curry Cut",
+      "tag": "A",
+      "x": 100,
+      "y": 2740.425048828125,
+      "width": 136.8249969482422,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Lamb Curry Cut",
+      "tag": "A",
+      "x": 246.4375,
+      "y": 2740.425048828125,
+      "width": 83.5250015258789,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Goat - Mince",
+      "tag": "A",
+      "x": 339.57501220703125,
+      "y": 2740.425048828125,
+      "width": 67.51250457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Goat Boneless 250g",
+      "tag": "A",
+      "x": 416.70001220703125,
+      "y": 2740.425048828125,
+      "width": 104.86250305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Goat Curry Cut - Mini Pack",
+      "tag": "A",
+      "x": 531.1749877929688,
+      "y": 2740.425048828125,
+      "width": 140.72500610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Mutton Liver Chunks",
+      "tag": "A",
+      "x": 681.5125122070312,
+      "y": 2740.425048828125,
+      "width": 110.7249984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Goat - Biryani Cut",
+      "tag": "A",
+      "x": 801.8500366210938,
+      "y": 2740.425048828125,
+      "width": 94.17500305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Goat Mince 225g",
+      "tag": "A",
+      "x": 905.6375122070312,
+      "y": 2740.425048828125,
+      "width": 90.36250305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Lamb - Mince",
+      "tag": "A",
+      "x": 1005.6124877929688,
+      "y": 2740.425048828125,
+      "width": 70.2874984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Fish & Seafood",
+      "tag": "A",
+      "x": 100,
+      "y": 2778.425048828125,
+      "width": 90.5875015258789,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Rohu - Bengali Cut (Without Head)",
+      "tag": "A",
+      "x": 100,
+      "y": 2809.22509765625,
+      "width": 244.10000610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Catla - Bengali Cut (Without Head)",
+      "tag": "A",
+      "x": 353.7124938964844,
+      "y": 2809.22509765625,
+      "width": 244.28750610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Pabda Small - Whole Cleaned & Gutted With Head",
+      "tag": "A",
+      "x": 607.6124877929688,
+      "y": 2809.22509765625,
+      "width": 262.4875183105469,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Basa - Fry Cut",
+      "tag": "A",
+      "x": 879.7125244140625,
+      "y": 2809.22509765625,
+      "width": 73.0374984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Mackerel Medium - Whole, Cleaned",
+      "tag": "A",
+      "x": 962.3624877929688,
+      "y": 2809.22509765625,
+      "width": 187.0124969482422,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "White Sardine (Silver fish) - Whole, Cleaned",
+      "tag": "A",
+      "x": 100,
+      "y": 2832.025146484375,
+      "width": 227.16250610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Seer Small - Steaks",
+      "tag": "A",
+      "x": 336.7749938964844,
+      "y": 2832.025146484375,
+      "width": 98.0374984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "King Fish Large - Steaks",
+      "tag": "A",
+      "x": 444.4250183105469,
+      "y": 2832.025146484375,
+      "width": 123.4375,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Prawns 80C - (Cleaned and Deveined Without Tail)",
+      "tag": "A",
+      "x": 577.4750366210938,
+      "y": 2832.025146484375,
+      "width": 326.07501220703125,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Freshwater Prawns 40C-60C - Cleaned & Deveined, No Tail",
+      "tag": "A",
+      "x": 100,
+      "y": 2854.824951171875,
+      "width": 307.5,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Spreads",
+      "tag": "A",
+      "x": 100,
+      "y": 2892.824951171875,
+      "width": 49.13750076293945,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chunky Shawarma Chicken Spread (Single Serve)",
+      "tag": "A",
+      "x": 100,
+      "y": 2923.625,
+      "width": 255.03750610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chunky Butter Chicken Spread",
+      "tag": "A",
+      "x": 364.6499938964844,
+      "y": 2923.625,
+      "width": 161.4875030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chunky Shawarma Chicken Spread",
+      "tag": "A",
+      "x": 535.75,
+      "y": 2923.625,
+      "width": 182.0500030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chunky Continental Egg Spread -35 Gms Blister",
+      "tag": "A",
+      "x": 727.4125366210938,
+      "y": 2923.625,
+      "width": 249.75,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chunky Continental Chicken Spread (Single Serve)",
+      "tag": "A",
+      "x": 100,
+      "y": 2946.425048828125,
+      "width": 262.3500061035156,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Kebab",
+      "tag": "A",
+      "x": 100,
+      "y": 2984.425048828125,
+      "width": 39.375,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Afghani Murgh Seekh Kebab",
+      "tag": "A",
+      "x": 100,
+      "y": 3015.22509765625,
+      "width": 148.78750610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Lucknowi Mutton Galouti Kebab",
+      "tag": "A",
+      "x": 258.3999938964844,
+      "y": 3015.22509765625,
+      "width": 169.90000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Chicken Seekh Kebab",
+      "tag": "A",
+      "x": 437.9125061035156,
+      "y": 3015.22509765625,
+      "width": 112.73750305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Hyderabadi Mutton Shami Kebab",
+      "tag": "A",
+      "x": 560.2625122070312,
+      "y": 3015.22509765625,
+      "width": 174.0625,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Purani Dilli ki Mutton Seekh Kebab",
+      "tag": "A",
+      "x": 743.9375,
+      "y": 3015.22509765625,
+      "width": 182.3625030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Ready to Cook",
+      "tag": "A",
+      "x": 100,
+      "y": 3053.22509765625,
+      "width": 89.3499984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Creamy Afghani Chicken",
+      "tag": "A",
+      "x": 100,
+      "y": 3084.025146484375,
+      "width": 129.16250610351562,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Angara Murgh Tikka",
+      "tag": "A",
+      "x": 238.77500915527344,
+      "y": 3084.025146484375,
+      "width": 106.5374984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Oriental Basil Chicken",
+      "tag": "A",
+      "x": 354.9250183105469,
+      "y": 3084.025146484375,
+      "width": 116.375,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Honey Chilli Garlic Chicken Wings",
+      "tag": "A",
+      "x": 480.9125061035156,
+      "y": 3084.025146484375,
+      "width": 178.3874969482422,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Tandoori Chicken",
+      "tag": "A",
+      "x": 668.9125366210938,
+      "y": 3084.025146484375,
+      "width": 91.07500457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Butter chicken",
+      "tag": "A",
+      "x": 769.6000366210938,
+      "y": 3084.025146484375,
+      "width": 76.67500305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Eggs",
+      "tag": "A",
+      "x": 100,
+      "y": 3122.025146484375,
+      "width": 28.524999618530273,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Brown Eggs - Pack Of 6",
+      "tag": "A",
+      "x": 100,
+      "y": 3152.824951171875,
+      "width": 120.9124984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Classic Eggs - Pack Of 6",
+      "tag": "A",
+      "x": 230.52500915527344,
+      "y": 3152.824951171875,
+      "width": 122.25,
+      "height": 22,
+      "visible": true
+    }
+  ]
+}

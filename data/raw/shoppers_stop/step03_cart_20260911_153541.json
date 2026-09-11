@@ -1,0 +1,261 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.shoppersstop.com/cart/bag",
+  "timestamp": "20260911_153541",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 56,
+      "y": 21,
+      "width": 204.66250610351562,
+      "height": 19.98750114440918,
+      "visible": true
+    },
+    {
+      "text": "Select Address",
+      "tag": "BUTTON",
+      "x": 669.8125,
+      "y": 186.8000030517578,
+      "width": 134.71250915527344,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Size: UK 6",
+      "tag": "BUTTON",
+      "x": 233.8000030517578,
+      "y": 345.20001220703125,
+      "width": 90.7249984741211,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 962.6625366210938,
+      "y": 687.2999877929688,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Place Order",
+      "tag": "BUTTON",
+      "x": 881.3250122070312,
+      "y": 881.4000244140625,
+      "width": 322.6750183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "customercare@shoppersstop.com",
+      "tag": "A",
+      "x": 80,
+      "y": 1380.3499755859375,
+      "width": 208.6999969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1299.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1331.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kids",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1363.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1395.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Watches",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1427.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gift",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1459.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1491.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Luxe",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1523.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bargain",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 1555.4000244140625,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1299.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1331.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Track Orders",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1363.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Corporate Site",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1395.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1427.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1459.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Help/FAQS",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1491.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Club",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1523.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Policy",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 1555.4000244140625,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 1299.4000244140625,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 1331.4000244140625,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delivery Policy",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 1363.4000244140625,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Exchange & Return",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 1395.4000244140625,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    }
+  ]
+}

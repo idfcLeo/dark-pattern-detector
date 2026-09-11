@@ -1,0 +1,1683 @@
+{
+  "step": 8,
+  "label": "cancel_step",
+  "url": "https://www.dmart.in/profile",
+  "timestamp": "20260901_164911",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "Logo",
+      "tag": "A",
+      "x": 27.325000762939453,
+      "y": 7.5,
+      "width": 122,
+      "height": 49,
+      "visible": true
+    },
+    {
+      "text": "SEARCH",
+      "tag": "BUTTON",
+      "x": 816.4000244140625,
+      "y": 11,
+      "width": 81.5999984741211,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "Hello abc xta\nMy Account",
+      "tag": "BUTTON",
+      "x": 937,
+      "y": 7,
+      "width": 160,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1103.1624755859375,
+      "y": 9,
+      "width": 46,
+      "height": 46,
+      "visible": true
+    },
+    {
+      "text": "5\n₹560",
+      "tag": "BUTTON",
+      "x": 1173.050048828125,
+      "y": 11,
+      "width": 81.20000457763672,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "DMart Grocery",
+      "tag": "A",
+      "x": 232,
+      "y": 76.5999984741211,
+      "width": 134.5500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ready To Cook",
+      "tag": "A",
+      "x": 374.5500183105469,
+      "y": 76.5999984741211,
+      "width": 135.3000030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Beverages",
+      "tag": "A",
+      "x": 517.8500366210938,
+      "y": 76.5999984741211,
+      "width": 106.70000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Biscuits & Cookies",
+      "tag": "A",
+      "x": 632.5499877929688,
+      "y": 76.5999984741211,
+      "width": 156.27500915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bath & Body",
+      "tag": "A",
+      "x": 796.8250122070312,
+      "y": 76.5999984741211,
+      "width": 119.82500457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Detergent & Fabric Care",
+      "tag": "A",
+      "x": 924.6500244140625,
+      "y": 76.5999984741211,
+      "width": 195.08750915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Cleaners",
+      "tag": "A",
+      "x": 1127.737548828125,
+      "y": 76.5999984741211,
+      "width": 94.9749984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "5",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hello abc xtaMy Account",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SAVE CHANGES",
+      "tag": "BUTTON",
+      "x": 244,
+      "y": 484.6000061035156,
+      "width": 356,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "DELETE MY ACCOUNT",
+      "tag": "BUTTON",
+      "x": 244,
+      "y": 541.1000366210938,
+      "width": 356,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "Milk|",
+      "tag": "A",
+      "x": 139.1999969482422,
+      "y": 692.4000244140625,
+      "width": 29.375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cheese|",
+      "tag": "A",
+      "x": 168.5749969482422,
+      "y": 692.4000244140625,
+      "width": 47.962501525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Ketchup & Sauce|",
+      "tag": "A",
+      "x": 216.53750610351562,
+      "y": 692.4000244140625,
+      "width": 100.67500305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Pickles|",
+      "tag": "A",
+      "x": 317.2124938964844,
+      "y": 692.4000244140625,
+      "width": 45.29999923706055,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Atta|",
+      "tag": "A",
+      "x": 362.51251220703125,
+      "y": 692.4000244140625,
+      "width": 31.30000114440918,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Ready To Cook|",
+      "tag": "A",
+      "x": 393.8125,
+      "y": 692.4000244140625,
+      "width": 89.76250457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Chips & Wafers|",
+      "tag": "A",
+      "x": 483.57501220703125,
+      "y": 692.4000244140625,
+      "width": 93.26250457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Oats|",
+      "tag": "A",
+      "x": 576.8375244140625,
+      "y": 692.4000244140625,
+      "width": 33.79999923706055,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Green Tea|",
+      "tag": "A",
+      "x": 610.6375122070312,
+      "y": 692.4000244140625,
+      "width": 63.51250076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cold Drinks|",
+      "tag": "A",
+      "x": 674.1500244140625,
+      "y": 692.4000244140625,
+      "width": 70.23750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Skin Care|",
+      "tag": "A",
+      "x": 744.3875122070312,
+      "y": 692.4000244140625,
+      "width": 59.875,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Body Lotions|",
+      "tag": "A",
+      "x": 804.2625122070312,
+      "y": 692.4000244140625,
+      "width": 79.0625,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Baby Powder|",
+      "tag": "A",
+      "x": 883.3250122070312,
+      "y": 692.4000244140625,
+      "width": 81.88750457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Bath Soaps|",
+      "tag": "A",
+      "x": 965.2125244140625,
+      "y": 692.4000244140625,
+      "width": 71.5875015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Hair Shampoos|",
+      "tag": "A",
+      "x": 1036.800048828125,
+      "y": 692.4000244140625,
+      "width": 93.01250457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Toothpaste|",
+      "tag": "A",
+      "x": 1129.8125,
+      "y": 692.4000244140625,
+      "width": 69.3499984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Diapers|",
+      "tag": "A",
+      "x": 139.1999969482422,
+      "y": 710.4000244140625,
+      "width": 50.17499923706055,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Crockery Set|",
+      "tag": "A",
+      "x": 189.375,
+      "y": 710.4000244140625,
+      "width": 77.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Tawas & Sauce Pans|",
+      "tag": "A",
+      "x": 266.8125,
+      "y": 710.4000244140625,
+      "width": 123.2125015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Jar Container|",
+      "tag": "A",
+      "x": 390.0249938964844,
+      "y": 710.4000244140625,
+      "width": 79.6624984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Trolley bags|",
+      "tag": "A",
+      "x": 469.6875,
+      "y": 710.4000244140625,
+      "width": 73.9000015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Bathroom Cleaners|",
+      "tag": "A",
+      "x": 543.5875244140625,
+      "y": 710.4000244140625,
+      "width": 114.0250015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Detergent Powder|",
+      "tag": "A",
+      "x": 657.6124877929688,
+      "y": 710.4000244140625,
+      "width": 108.4749984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Dishwash Liquids|",
+      "tag": "A",
+      "x": 766.0875244140625,
+      "y": 710.4000244140625,
+      "width": 105.07500457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Stationery Kits",
+      "tag": "A",
+      "x": 871.1625366210938,
+      "y": 710.4000244140625,
+      "width": 81.1624984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Amul|",
+      "tag": "A",
+      "x": 139.1999969482422,
+      "y": 743.4000244140625,
+      "width": 36.3125,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Pampers|",
+      "tag": "A",
+      "x": 175.5124969482422,
+      "y": 743.4000244140625,
+      "width": 56.41250228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Tata|",
+      "tag": "A",
+      "x": 231.9250030517578,
+      "y": 743.4000244140625,
+      "width": 32.11249923706055,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cadbury Dairy Milk|",
+      "tag": "A",
+      "x": 264.0375061035156,
+      "y": 743.4000244140625,
+      "width": 113.36250305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Fortune|",
+      "tag": "A",
+      "x": 377.3999938964844,
+      "y": 743.4000244140625,
+      "width": 49.900001525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Gemini|",
+      "tag": "A",
+      "x": 427.3000183105469,
+      "y": 743.4000244140625,
+      "width": 45.76250076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "MTR|",
+      "tag": "A",
+      "x": 473.0625,
+      "y": 743.4000244140625,
+      "width": 33.025001525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Harpic|",
+      "tag": "A",
+      "x": 506.0874938964844,
+      "y": 743.4000244140625,
+      "width": 43.92499923706055,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Vim|",
+      "tag": "A",
+      "x": 550.0125122070312,
+      "y": 743.4000244140625,
+      "width": 28.950000762939453,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Haldiram|",
+      "tag": "A",
+      "x": 578.9625244140625,
+      "y": 743.4000244140625,
+      "width": 58.51250076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Patanjali|",
+      "tag": "A",
+      "x": 637.4750366210938,
+      "y": 743.4000244140625,
+      "width": 56.10000228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Borosil|",
+      "tag": "A",
+      "x": 693.5750122070312,
+      "y": 743.4000244140625,
+      "width": 44.98749923706055,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Bata|",
+      "tag": "A",
+      "x": 738.5625,
+      "y": 743.4000244140625,
+      "width": 33.9375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "D Homes|",
+      "tag": "A",
+      "x": 772.5,
+      "y": 743.4000244140625,
+      "width": 58.337501525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Britannia|",
+      "tag": "A",
+      "x": 830.8375244140625,
+      "y": 743.4000244140625,
+      "width": 58.07500076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Parle|",
+      "tag": "A",
+      "x": 888.9125366210938,
+      "y": 743.4000244140625,
+      "width": 35.650001525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Everest|",
+      "tag": "A",
+      "x": 924.5625,
+      "y": 743.4000244140625,
+      "width": 47.837501525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "DMart Premia|",
+      "tag": "A",
+      "x": 972.4000244140625,
+      "y": 743.4000244140625,
+      "width": 84.73750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Maggi|",
+      "tag": "A",
+      "x": 1057.1375732421875,
+      "y": 743.4000244140625,
+      "width": 42,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Ching's|",
+      "tag": "A",
+      "x": 1099.1375732421875,
+      "y": 743.4000244140625,
+      "width": 48.150001525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Society|",
+      "tag": "A",
+      "x": 1147.2874755859375,
+      "y": 743.4000244140625,
+      "width": 47.47500228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Gowardhan|",
+      "tag": "A",
+      "x": 139.1999969482422,
+      "y": 761.4000244140625,
+      "width": 72.9625015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Saffola|",
+      "tag": "A",
+      "x": 212.16250610351562,
+      "y": 761.4000244140625,
+      "width": 46.51250076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Nescafe|",
+      "tag": "A",
+      "x": 258.6750183105469,
+      "y": 761.4000244140625,
+      "width": 52.13750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Horlicks|",
+      "tag": "A",
+      "x": 310.8125,
+      "y": 761.4000244140625,
+      "width": 51.26250076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Tide|",
+      "tag": "A",
+      "x": 362.07501220703125,
+      "y": 761.4000244140625,
+      "width": 31.012500762939453,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Lizol|",
+      "tag": "A",
+      "x": 393.0874938964844,
+      "y": 761.4000244140625,
+      "width": 32.38750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Kinder Joy|",
+      "tag": "A",
+      "x": 425.4750061035156,
+      "y": 761.4000244140625,
+      "width": 62.97500228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Ferrero Rocher|",
+      "tag": "A",
+      "x": 488.45001220703125,
+      "y": 761.4000244140625,
+      "width": 88.5250015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "McCain|",
+      "tag": "A",
+      "x": 576.9750366210938,
+      "y": 761.4000244140625,
+      "width": 48.51250076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Johnson's|",
+      "tag": "A",
+      "x": 625.4874877929688,
+      "y": 761.4000244140625,
+      "width": 60.48749923706055,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Himalaya|",
+      "tag": "A",
+      "x": 685.9750366210938,
+      "y": 761.4000244140625,
+      "width": 60.41250228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Mamy Poko|",
+      "tag": "A",
+      "x": 746.3875122070312,
+      "y": 761.4000244140625,
+      "width": 71.9375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Nivea|",
+      "tag": "A",
+      "x": 818.3250122070312,
+      "y": 761.4000244140625,
+      "width": 39.01250076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Vaseline|",
+      "tag": "A",
+      "x": 857.3375244140625,
+      "y": 761.4000244140625,
+      "width": 53.82500076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Philips|",
+      "tag": "A",
+      "x": 911.1625366210938,
+      "y": 761.4000244140625,
+      "width": 43.75,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Kellogg's|",
+      "tag": "A",
+      "x": 954.9125366210938,
+      "y": 761.4000244140625,
+      "width": 56.82500076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Wonderchef|",
+      "tag": "A",
+      "x": 1011.7374877929688,
+      "y": 761.4000244140625,
+      "width": 75.26250457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Joyo",
+      "tag": "A",
+      "x": 1087,
+      "y": 761.4000244140625,
+      "width": 23.850000381469727,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Grocery|",
+      "tag": "A",
+      "x": 139.1999969482422,
+      "y": 794.4000244140625,
+      "width": 50.525001525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Dairy & Beverages|",
+      "tag": "A",
+      "x": 189.72500610351562,
+      "y": 794.4000244140625,
+      "width": 110.23750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Packaged Food|",
+      "tag": "A",
+      "x": 299.9624938964844,
+      "y": 794.4000244140625,
+      "width": 92.67500305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Fruits & Vegetables|",
+      "tag": "A",
+      "x": 392.63751220703125,
+      "y": 794.4000244140625,
+      "width": 114.30000305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen|",
+      "tag": "A",
+      "x": 506.9375,
+      "y": 794.4000244140625,
+      "width": 95.73750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Kitchen & Dining|",
+      "tag": "A",
+      "x": 602.6749877929688,
+      "y": 794.4000244140625,
+      "width": 98.61250305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Personal Care & Beauty|",
+      "tag": "A",
+      "x": 701.2875366210938,
+      "y": 794.4000244140625,
+      "width": 138.3625030517578,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Sports & Fitness|",
+      "tag": "A",
+      "x": 839.6500244140625,
+      "y": 794.4000244140625,
+      "width": 97.11250305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Baby Care|",
+      "tag": "A",
+      "x": 936.7625122070312,
+      "y": 794.4000244140625,
+      "width": 65.17500305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Books|",
+      "tag": "A",
+      "x": 1001.9375,
+      "y": 794.4000244140625,
+      "width": 41.0625,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Stationery|",
+      "tag": "A",
+      "x": 1043,
+      "y": 794.4000244140625,
+      "width": 64.5875015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Home Utility & Organisers|",
+      "tag": "A",
+      "x": 139.1999969482422,
+      "y": 812.4000244140625,
+      "width": 150.5124969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Electronics & Appliances|",
+      "tag": "A",
+      "x": 289.7124938964844,
+      "y": 812.4000244140625,
+      "width": 142.46250915527344,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Footwear|",
+      "tag": "A",
+      "x": 432.1750183105469,
+      "y": 812.4000244140625,
+      "width": 60.03750228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Clothing & Accessories|",
+      "tag": "A",
+      "x": 492.2124938964844,
+      "y": 812.4000244140625,
+      "width": 133.08750915527344,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Bags & More|",
+      "tag": "A",
+      "x": 625.2999877929688,
+      "y": 812.4000244140625,
+      "width": 78,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Gifting|",
+      "tag": "A",
+      "x": 703.2999877929688,
+      "y": 812.4000244140625,
+      "width": 43.900001525878906,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Seasonal & More",
+      "tag": "A",
+      "x": 747.2000122070312,
+      "y": 812.4000244140625,
+      "width": 93.375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Grocery",
+      "tag": "A",
+      "x": 46,
+      "y": 927.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Dals",
+      "tag": "A",
+      "x": 276,
+      "y": 927.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Pulses",
+      "tag": "A",
+      "x": 506,
+      "y": 927.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Dry Fruits",
+      "tag": "A",
+      "x": 736,
+      "y": 927.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "DMart Grocery",
+      "tag": "A",
+      "x": 966,
+      "y": 927.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Cooking Oil",
+      "tag": "A",
+      "x": 46,
+      "y": 962.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Ghee & Vanaspati",
+      "tag": "A",
+      "x": 276,
+      "y": 962.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Flours & Grains",
+      "tag": "A",
+      "x": 506,
+      "y": 962.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Rice & Rice Products",
+      "tag": "A",
+      "x": 736,
+      "y": 962.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Masala & Spices",
+      "tag": "A",
+      "x": 966,
+      "y": 962.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Salt / Sugar / Jaggery",
+      "tag": "A",
+      "x": 46,
+      "y": 997.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Dairy & Beverages",
+      "tag": "A",
+      "x": 276,
+      "y": 997.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Beverages",
+      "tag": "A",
+      "x": 506,
+      "y": 997.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Dairy",
+      "tag": "A",
+      "x": 736,
+      "y": 997.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Fruits & Vegetables",
+      "tag": "A",
+      "x": 966,
+      "y": 997.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Fresh Fruits",
+      "tag": "A",
+      "x": 46,
+      "y": 1032.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Vegetables",
+      "tag": "A",
+      "x": 276,
+      "y": 1032.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen",
+      "tag": "A",
+      "x": 506,
+      "y": 1032.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Detergent & Fabric Care",
+      "tag": "A",
+      "x": 736,
+      "y": 1032.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Cleaners",
+      "tag": "A",
+      "x": 966,
+      "y": 1032.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Utensil Cleaners",
+      "tag": "A",
+      "x": 46,
+      "y": 1067.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Furniture & Decor",
+      "tag": "A",
+      "x": 276,
+      "y": 1067.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Cookware",
+      "tag": "A",
+      "x": 506,
+      "y": 1067.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Pooja Needs",
+      "tag": "A",
+      "x": 736,
+      "y": 1067.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Kitchen & Dining",
+      "tag": "A",
+      "x": 966,
+      "y": 1067.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Cookware Set",
+      "tag": "A",
+      "x": 46,
+      "y": 1102.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Drinkware",
+      "tag": "A",
+      "x": 276,
+      "y": 1102.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Shop By Room",
+      "tag": "A",
+      "x": 506,
+      "y": 1102.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Packaged Food",
+      "tag": "A",
+      "x": 736,
+      "y": 1102.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Biscuits & Cookies",
+      "tag": "A",
+      "x": 966,
+      "y": 1102.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Snacks & Farsans",
+      "tag": "A",
+      "x": 46,
+      "y": 1137.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Breakfast Cereals",
+      "tag": "A",
+      "x": 276,
+      "y": 1137.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Chocolates & Candies",
+      "tag": "A",
+      "x": 506,
+      "y": 1137.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Pasta & Noodles",
+      "tag": "A",
+      "x": 736,
+      "y": 1137.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Ready to Cook",
+      "tag": "A",
+      "x": 966,
+      "y": 1137.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Heathy Food",
+      "tag": "A",
+      "x": 46,
+      "y": 1172.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Bakery",
+      "tag": "A",
+      "x": 276,
+      "y": 1172.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Frozen Food",
+      "tag": "A",
+      "x": 506,
+      "y": 1172.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Sweets",
+      "tag": "A",
+      "x": 736,
+      "y": 1172.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Seasonal & More",
+      "tag": "A",
+      "x": 966,
+      "y": 1172.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Gifting",
+      "tag": "A",
+      "x": 46,
+      "y": 1207.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Festive Specials",
+      "tag": "A",
+      "x": 276,
+      "y": 1207.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Bed & Bath",
+      "tag": "A",
+      "x": 506,
+      "y": 1207.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Bedding",
+      "tag": "A",
+      "x": 736,
+      "y": 1207.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Curtains",
+      "tag": "A",
+      "x": 966,
+      "y": 1207.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Bedroom Storage",
+      "tag": "A",
+      "x": 46,
+      "y": 1242.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Bath Accessories",
+      "tag": "A",
+      "x": 276,
+      "y": 1242.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Electronics & Appliances",
+      "tag": "A",
+      "x": 506,
+      "y": 1242.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Electronics & Accessories",
+      "tag": "A",
+      "x": 736,
+      "y": 1242.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Home Appliances",
+      "tag": "A",
+      "x": 966,
+      "y": 1242.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Kitchen Appliances",
+      "tag": "A",
+      "x": 46,
+      "y": 1277.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Personal Care Appliances",
+      "tag": "A",
+      "x": 276,
+      "y": 1277.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Clothing & Accessories",
+      "tag": "A",
+      "x": 506,
+      "y": 1277.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Men Clothing",
+      "tag": "A",
+      "x": 736,
+      "y": 1277.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Women Clothing",
+      "tag": "A",
+      "x": 966,
+      "y": 1277.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 46,
+      "y": 1312.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 276,
+      "y": 1312.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Sports & Fitness",
+      "tag": "A",
+      "x": 506,
+      "y": 1312.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Books & Stationery",
+      "tag": "A",
+      "x": 736,
+      "y": 1312.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Home Utility & Organisers",
+      "tag": "A",
+      "x": 966,
+      "y": 1312.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Bags & More",
+      "tag": "A",
+      "x": 46,
+      "y": 1347.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "School Supplies",
+      "tag": "A",
+      "x": 276,
+      "y": 1347.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Footwear",
+      "tag": "A",
+      "x": 506,
+      "y": 1347.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Men's Footwear",
+      "tag": "A",
+      "x": 736,
+      "y": 1347.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Women's Footwear",
+      "tag": "A",
+      "x": 966,
+      "y": 1347.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Baby & Kids",
+      "tag": "A",
+      "x": 46,
+      "y": 1382.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Diapering",
+      "tag": "A",
+      "x": 276,
+      "y": 1382.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Baby Care",
+      "tag": "A",
+      "x": 506,
+      "y": 1382.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Baby Food",
+      "tag": "A",
+      "x": 736,
+      "y": 1382.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Baby Gear & Furniture",
+      "tag": "A",
+      "x": 966,
+      "y": 1382.4000244140625,
+      "width": 230,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 44,
+      "y": 1562.2000732421875,
+      "width": 154,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 198,
+      "y": 1562.2000732421875,
+      "width": 154,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 636,
+      "y": 1508.4000244140625,
+      "width": 35.5625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 636,
+      "y": 1544.4000244140625,
+      "width": 92.45000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pricing, Delivery, Return and Refund Policy",
+      "tag": "A",
+      "x": 636,
+      "y": 1580.4000244140625,
+      "width": 283.9125061035156,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 636,
+      "y": 1616.4000244140625,
+      "width": 144.6999969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Disclaimer",
+      "tag": "A",
+      "x": 636,
+      "y": 1652.4000244140625,
+      "width": 70.1500015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "BUTTON",
+      "x": 930,
+      "y": 1506.800048828125,
+      "width": 73.42500305175781,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 930,
+      "y": 1544.4000244140625,
+      "width": 62.337501525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Join Us",
+      "tag": "A",
+      "x": 930,
+      "y": 1580.4000244140625,
+      "width": 46.66250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pickup Points",
+      "tag": "A",
+      "x": 930,
+      "y": 1616.4000244140625,
+      "width": 90.30000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 948,
+      "y": 46,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "CONFIRM",
+      "tag": "BUTTON",
+      "x": 457.32501220703125,
+      "y": 244.9250030517578,
+      "width": 365.32501220703125,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "Go Back",
+      "tag": "BUTTON",
+      "x": 616.1625366210938,
+      "y": 329.4250183105469,
+      "width": 47.67499923706055,
+      "height": 18,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.dmart.in/cart",
+  "timestamp": "20260901_164817",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "Logo",
+      "tag": "A",
+      "x": 27.325000762939453,
+      "y": 7.5,
+      "width": 122,
+      "height": 49,
+      "visible": true
+    },
+    {
+      "text": "SEARCH",
+      "tag": "BUTTON",
+      "x": 824.4000244140625,
+      "y": 11,
+      "width": 81.5999984741211,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "Hello abc xta\nMy Account",
+      "tag": "BUTTON",
+      "x": 945,
+      "y": 7,
+      "width": 160,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1111.1624755859375,
+      "y": 9,
+      "width": 46,
+      "height": 46,
+      "visible": true
+    },
+    {
+      "text": "5\n₹560",
+      "tag": "BUTTON",
+      "x": 1181.050048828125,
+      "y": 11,
+      "width": 81.20000457763672,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "DMart Grocery",
+      "tag": "A",
+      "x": 232,
+      "y": 76.5999984741211,
+      "width": 134.5500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ready To Cook",
+      "tag": "A",
+      "x": 374.5500183105469,
+      "y": 76.5999984741211,
+      "width": 135.3000030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Beverages",
+      "tag": "A",
+      "x": 517.8500366210938,
+      "y": 76.5999984741211,
+      "width": 106.70000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Biscuits & Cookies",
+      "tag": "A",
+      "x": 632.5499877929688,
+      "y": 76.5999984741211,
+      "width": 156.27500915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bath & Body",
+      "tag": "A",
+      "x": 796.8250122070312,
+      "y": 76.5999984741211,
+      "width": 119.82500457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Detergent & Fabric Care",
+      "tag": "A",
+      "x": 924.6500244140625,
+      "y": 76.5999984741211,
+      "width": 195.08750915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Cleaners",
+      "tag": "A",
+      "x": 1127.737548828125,
+      "y": 76.5999984741211,
+      "width": 94.9749984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "5",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hello abc xtaMy Account",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Britannia Little Hearts Classic Biscuits : 70 g",
+      "tag": "A",
+      "x": 97.98750305175781,
+      "y": 252.40000915527344,
+      "width": 199.58750915527344,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 600.1375122070312,
+      "y": 270.3999938964844,
+      "width": 44,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 704.1375122070312,
+      "y": 270.3999938964844,
+      "width": 44,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 777.9375,
+      "y": 270.3999938964844,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Britannia Nutrichoice Digestive Hi-Fibre Biscuits : 960 g",
+      "tag": "A",
+      "x": 97.98750305175781,
+      "y": 360,
+      "width": 199.58750915527344,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 600.1375122070312,
+      "y": 378,
+      "width": 44,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 704.1375122070312,
+      "y": 378,
+      "width": 44,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 777.9375,
+      "y": 378,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Parle-G Gold Biscuits : 1 kg",
+      "tag": "A",
+      "x": 97.98750305175781,
+      "y": 467.6000061035156,
+      "width": 199.58750915527344,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 600.1375122070312,
+      "y": 485.6000061035156,
+      "width": 44,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 704.1375122070312,
+      "y": 485.6000061035156,
+      "width": 44,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 777.9375,
+      "y": 485.6000061035156,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Remove all",
+      "tag": "BUTTON",
+      "x": 727.9874877929688,
+      "y": 570.4000244140625,
+      "width": 120,
+      "height": 37,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO CHECKOUT",
+      "tag": "BUTTON",
+      "x": 951.9750366210938,
+      "y": 419,
+      "width": 312,
+      "height": 40.5,
+      "visible": true
+    }
+  ]
+}

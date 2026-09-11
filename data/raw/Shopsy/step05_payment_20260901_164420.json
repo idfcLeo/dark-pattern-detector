@@ -1,0 +1,36 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.shopsy.in/payments?isRevampedDesktopView=true&token=PN260901164408f3f19a9fd16563b013dd75d4c312ed430ddbdb7b46296c97eb7f9dde1fa36d39abfe7aa84be2b58d2002a86b2799fc0c73d98eeb0298c10b797ed0466ac543fb1_v3_2&personalization=SHOPSY&isShopsy=true&platform=web&enablestreaming=true",
+  "timestamp": "20260901_164420",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 34,
+      "y": 98.80000305175781,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Place Order",
+      "tag": "BUTTON",
+      "x": 453.20001220703125,
+      "y": 265.6000061035156,
+      "width": 356,
+      "height": 39.60000228881836,
+      "visible": true
+    }
+  ]
+}

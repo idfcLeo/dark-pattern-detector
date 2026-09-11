@@ -1,0 +1,72 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.dmart.in/checkout",
+  "timestamp": "20260901_164843",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 24,
+      "y": 4.5,
+      "width": 122,
+      "height": 55,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Change",
+      "tag": "BUTTON",
+      "x": 723.6000366210938,
+      "y": 194.3000030517578,
+      "width": 51.53750228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Change",
+      "tag": "BUTTON",
+      "x": 723.6000366210938,
+      "y": 259.8999938964844,
+      "width": 51.53750228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Submit",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PAY ON DELIVERY (COD)",
+      "tag": "BUTTON",
+      "x": 896.6625366210938,
+      "y": 468.70001220703125,
+      "width": 332,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "PAY NOW (PREPAID)",
+      "tag": "BUTTON",
+      "x": 896.6625366210938,
+      "y": 560.2000122070312,
+      "width": 332,
+      "height": 36.10000228881836,
+      "visible": true
+    }
+  ]
+}

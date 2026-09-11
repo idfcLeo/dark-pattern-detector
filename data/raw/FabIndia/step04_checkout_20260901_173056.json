@@ -1,0 +1,126 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.fabindia.com/checkout/shipping-address",
+  "timestamp": "20260901_173056",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skip to Main Content",
+      "tag": "BUTTON",
+      "x": 535.8250122070312,
+      "y": -720,
+      "width": 208.33750915527344,
+      "height": 59.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Skip to Footer",
+      "tag": "BUTTON",
+      "x": 559.1375122070312,
+      "y": -720,
+      "width": 161.71250915527344,
+      "height": 59.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 85,
+      "y": 6.5,
+      "width": 128,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 435.1000061035156,
+      "y": 23.399999618530273,
+      "width": 47.86249923706055,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Address",
+      "tag": "A",
+      "x": 673.8125,
+      "y": 23.399999618530273,
+      "width": 74.05000305175781,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Payment",
+      "tag": "A",
+      "x": 923.2875366210938,
+      "y": 23.399999618530273,
+      "width": 78.7125015258789,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back",
+      "tag": "BUTTON",
+      "x": 186.40000915527344,
+      "y": 888.6000366210938,
+      "width": 180,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "Save Address",
+      "tag": "BUTTON",
+      "x": 390.3999938964844,
+      "y": 888.6000366210938,
+      "width": 180,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 839.2000122070312,
+      "y": 138,
+      "width": 60,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Need Help? Contact Us",
+      "tag": "A",
+      "x": 1062.3125,
+      "y": 990.2000122070312,
+      "width": 153.6875,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1215,
+      "y": 666.1000366210938,
+      "width": 40,
+      "height": 23.200000762939453,
+      "visible": true
+    }
+  ]
+}

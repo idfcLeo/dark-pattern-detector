@@ -1,0 +1,90 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.pantaloons.com/checkout?page=shipping&step=2",
+  "timestamp": "20260911_153239",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 44,
+      "y": 30.5,
+      "width": 250,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1097,
+      "y": 30.149999618530273,
+      "width": 22,
+      "height": 22.700000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 114,
+      "y": 112.80000305175781,
+      "width": 20,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "ADDRESS(1)\n\nCHANGE",
+      "tag": "BUTTON",
+      "x": 124,
+      "y": 154.40000915527344,
+      "width": 622,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "DELIVERY MODE SELECTION",
+      "tag": "BUTTON",
+      "x": 124,
+      "y": 268.3999938964844,
+      "width": 622,
+      "height": 55,
+      "visible": true
+    },
+    {
+      "text": "Standard Delivery (1 items)",
+      "tag": "BUTTON",
+      "x": 148.8000030517578,
+      "y": 394.8000183105469,
+      "width": 572.4000244140625,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "PAYMENT",
+      "tag": "BUTTON",
+      "x": 124,
+      "y": 626.4125366210938,
+      "width": 622,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 140,
+      "y": 751.2125244140625,
+      "width": 596,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO PAY",
+      "tag": "BUTTON",
+      "x": 856,
+      "y": 486.1000061035156,
+      "width": 300,
+      "height": 43,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,1818 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.gonoise.com/search?q=buds",
+  "timestamp": "20260911_151557",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "REP - 24x7 Fitness Tracker | Sale 2 is LIVE -->",
+      "tag": "A",
+      "x": 495.57501220703125,
+      "y": 11.625,
+      "width": 288.8374938964844,
+      "height": 16.73750114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 120,
+      "y": 55.875,
+      "width": 104,
+      "height": 23.05000114440918,
+      "visible": true
+    },
+    {
+      "text": "Master Series",
+      "tag": "A",
+      "x": 292.70001220703125,
+      "y": 40,
+      "width": 119.32500457763672,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 412.0249938964844,
+      "y": 40,
+      "width": 144.1875,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Audio",
+      "tag": "A",
+      "x": 556.2125244140625,
+      "y": 40,
+      "width": 84.57500457763672,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Power Series",
+      "tag": "A",
+      "x": 640.7875366210938,
+      "y": 40,
+      "width": 129.9499969482422,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Gift Store",
+      "tag": "A",
+      "x": 770.7374877929688,
+      "y": 40,
+      "width": 90.61250305175781,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "New Launches",
+      "tag": "A",
+      "x": 861.3500366210938,
+      "y": 40,
+      "width": 125.9375,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "noise power chargersupports all iphones | globally compatible | macbooks₹3,799₹4",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "noise power charger",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air buds pro 4hybrid anc (up to 40db) | quad mic with enc4.6 (68)₹2,499₹5,49955%",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air buds pro 4",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air buds pro 6lhdc 5.0 | adaptive anc 49db | lhdc 5.04.6 (201)₹3,499₹3,99913% OF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air buds pro 6",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air clipsopen beam design | 40h playtime with touch controls4.6 (567)₹2,599₹3,99",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air clips",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds vs102 pro70 hour playtime | quad mic anc +14.8 (280)₹1,499₹4,99970% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds vs102 pro",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "colorfit pro 51.85\" amoled | limited edition | 1.85\" amoled +65.0 (76)₹2,999₹8,9",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "colorfit pro 5",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "colorfit pulse 4 maxai create & search | 1.96\" amoled +54.6 (46)₹2,499₹6,99964% ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "colorfit pulse 4 max",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pure pods80 hr playtime with airwave™ | airwave technology4.6 (1149)₹1,999₹6,999",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pure pods",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "noisefit diva1.1\" amoled diamond cut display | 1.1\" amoled display | ai voice as",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "noisefit diva",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30w charger & mag cableadvanced overcharge protection | gan technology₹4,299₹5,9",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30w charger & mag cable",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds marineanc up to 32db | india's 1st fully metallic case | metallic case5.0 (",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds marine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air buds pro 6lhdc 5.0 | adaptive anc 49db | lhdc 5.04.6 (201)₹3,499₹3,99913% OF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "air buds pro 6",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds vs102 eliteup to 50 hours of playtime | instacharge™ +14.8 (510)₹1,099₹3,49",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds vs102 elite",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds n1 pro60 hrs playtime | anc (upto 32db)4.8 (72)₹1,499₹4,99970% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds n1 pro",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds unoinstacharge | leather finish | 40h playtime4.8 (191)₹1,399₹3,49960% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds uno",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds x2anc upto 32db | 140h playtime | instacharge5.0 (105)₹1,599₹4,49964% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "buds x2",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1095,
+      "y": 54.900001525878906,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 725.25,
+      "y": 642.1124877929688,
+      "width": 150.28750610351562,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Featured",
+      "tag": "A",
+      "x": 32,
+      "y": 258.4250183105469,
+      "width": 82.45000457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Price, Low to High",
+      "tag": "A",
+      "x": 32,
+      "y": 300.0249938964844,
+      "width": 144.6999969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Price, High to Low",
+      "tag": "A",
+      "x": 32,
+      "y": 341.625,
+      "width": 144.6999969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Date, old to new",
+      "tag": "A",
+      "x": 32,
+      "y": 383.2250061035156,
+      "width": 131.1875,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Date, new to old",
+      "tag": "A",
+      "x": 32,
+      "y": 424.82501220703125,
+      "width": 131.1875,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 229.8625030517578,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds Marine\nAnc Up To 32db | India's 1st Fully Metallic Case | Metallic Case\n5.0",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 532.4000244140625,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds Marine",
+      "tag": "A",
+      "x": 370.8000183105469,
+      "y": 553.2000122070312,
+      "width": 119.9625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 229.8625030517578,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Air Buds Pro 6\nLhdc 5.0 | Adaptive Anc 49db | Lhdc 5.0\n4.6\n(201)\n₹3,499\n₹3,999\n1",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 532.4000244140625,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Air Buds Pro 6",
+      "tag": "A",
+      "x": 677.4625244140625,
+      "y": 553.2000122070312,
+      "width": 136.1999969482422,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 964.125,
+      "y": 229.8625030517578,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds Vs102 Elite\nUp To 50 Hours Of Playtime | Instacharge™\n+1\n4.8\n(510)\n₹1,099\n₹",
+      "tag": "A",
+      "x": 964.125,
+      "y": 532.4000244140625,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds Vs102 Elite",
+      "tag": "A",
+      "x": 984.125,
+      "y": 553.2000122070312,
+      "width": 157.0500030517578,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 783.5625,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds N1 Pro\n60 Hrs Playtime | Anc (Upto 32db)\n4.8\n(72)\n₹1,499\n₹4,999\n70% OFF",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 1086.0999755859375,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds N1 Pro",
+      "tag": "A",
+      "x": 370.8000183105469,
+      "y": 1106.9000244140625,
+      "width": 114.6624984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 783.5625,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds Uno\nInstacharge | Leather Finish | 40h Playtime\n4.8\n(191)\n₹1,399\n₹3,499\n60%",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 1086.0999755859375,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds Uno",
+      "tag": "A",
+      "x": 677.4625244140625,
+      "y": 1106.9000244140625,
+      "width": 92.55000305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 964.125,
+      "y": 783.5625,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds X2\nAnc Upto 32db | 140h Playtime | Instacharge\n5.0\n(105)\n₹1,599\n₹4,499\n64% ",
+      "tag": "A",
+      "x": 964.125,
+      "y": 1086.0999755859375,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds X2",
+      "tag": "A",
+      "x": 984.125,
+      "y": 1106.9000244140625,
+      "width": 79.9749984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 1337.2625732421875,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds Trance\nBean Design | Up To 40 Hours Of Playtime\n+1\n4.6\n(6)\n₹999\n₹2,499\n60% ",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 1639.800048828125,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds Trance",
+      "tag": "A",
+      "x": 370.8000183105469,
+      "y": 1660.5999755859375,
+      "width": 119.88750457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 1337.2625732421875,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds N1\nUp To 40 Hours Of Playtime\n4.8\n(44)\n₹1,199\n₹3,499\n66% OFF",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 1639.800048828125,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds N1",
+      "tag": "A",
+      "x": 677.4625244140625,
+      "y": 1660.5999755859375,
+      "width": 77.0625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 964.125,
+      "y": 1337.2625732421875,
+      "width": 285.0625,
+      "height": 285.0625,
+      "visible": true
+    },
+    {
+      "text": "Buds Vs202\nUp To 24 Hours Of Playtime | 13mm Driver\n₹1,199\n₹3,499\n66% OFF",
+      "tag": "A",
+      "x": 964.125,
+      "y": 1639.800048828125,
+      "width": 285.0625,
+      "height": 187.5,
+      "visible": true
+    },
+    {
+      "text": "Buds Vs202",
+      "tag": "A",
+      "x": 984.125,
+      "y": 1660.5999755859375,
+      "width": 115.23750305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 2033.5,
+      "width": 285.0625,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Buds Ace\nTru Bass | 24 Hour Playtime\n4.6\n(2)\n₹1,399\n₹3,499\n60% OFF",
+      "tag": "A",
+      "x": 350.8000183105469,
+      "y": 2193.5,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds Ace",
+      "tag": "A",
+      "x": 370.8000183105469,
+      "y": 2214.300048828125,
+      "width": 90.9625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 2033.5,
+      "width": 285.0625,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Air Buds Pro 2\nTriple Mic Calling | Hybrid Anc Upto 40db\n4.6\n(67)\n₹2,699\n₹7,999\n",
+      "tag": "A",
+      "x": 657.4625244140625,
+      "y": 2193.5,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Air Buds Pro 2",
+      "tag": "A",
+      "x": 677.4625244140625,
+      "y": 2214.300048828125,
+      "width": 135.9250030517578,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 964.125,
+      "y": 2033.5,
+      "width": 285.0625,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Buds Combat\nUp To 45 Hours Of Playtime | 13mm Driver\n4.6\n(95)\n₹1,299\n₹3,999\n68% ",
+      "tag": "A",
+      "x": 964.125,
+      "y": 2193.5,
+      "width": 285.0625,
+      "height": 188.10000610351562,
+      "visible": true
+    },
+    {
+      "text": "Buds Combat",
+      "tag": "A",
+      "x": 984.125,
+      "y": 2214.300048828125,
+      "width": 128.875,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 20,
+      "y": 497.9375,
+      "width": 74.70000457763672,
+      "height": 40.41250228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 20,
+      "y": 538.3500366210938,
+      "width": 135.375,
+      "height": 40.41250228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 20,
+      "y": 578.7625122070312,
+      "width": 135.375,
+      "height": 40.41250228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 20,
+      "y": 619.1749877929688,
+      "width": 122.3499984741211,
+      "height": 40.41250228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 20,
+      "y": 659.5875244140625,
+      "width": 122.3499984741211,
+      "height": 40.41250228881836,
+      "visible": true
+    },
+    {
+      "text": "Featured",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Price, Low to High",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Price, High to Low",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Date, old to new",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Date, new to old",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apply Filter",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 120,
+      "y": 2499.762451171875,
+      "width": 111,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 440.20001220703125,
+      "y": 2616.3125,
+      "width": 24,
+      "height": 13,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches with Alexa",
+      "tag": "A",
+      "x": 120,
+      "y": 2717.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AMOLED Display Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 2750.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Round Dial Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 2783.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Metallic & Leather Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 2816.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "BT Calling Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 2849.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Android Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 2882.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches for Men",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 2717.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches for Women",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 2750.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches for Kids",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 2783.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹2000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 2717.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹3000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 2750.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹4000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 2783.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹5000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 2816.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Above ₹5000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 2849.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "ANC Earbuds",
+      "tag": "A",
+      "x": 120,
+      "y": 2987.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Gaming Earbuds",
+      "tag": "A",
+      "x": 120,
+      "y": 3020.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹1000",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 2987.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹1500",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 3020.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹2000",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 3053.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹2500",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 3086.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Above ₹2500",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 3119.012451171875,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "REP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Master Series",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 3510.612548828125,
+      "width": 15.77500057220459,
+      "height": 435.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 3947.41259765625,
+      "width": 15.77500057220459,
+      "height": 518.4000244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 4467.41259765625,
+      "width": 15.77500057220459,
+      "height": 435.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 4904.21240234375,
+      "width": 15.77500057220459,
+      "height": 580.7999877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 5486.61279296875,
+      "width": 15.77500057220459,
+      "height": 435.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 5923.41259765625,
+      "width": 15.77500057220459,
+      "height": 393.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 6318.61279296875,
+      "width": 15.77500057220459,
+      "height": 372.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 6693.0126953125,
+      "width": 15.77500057220459,
+      "height": 414.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 7109.0126953125,
+      "width": 15.77500057220459,
+      "height": 393.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 7504.21240234375,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 7961.8125,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 8419.4130859375,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 8877.0126953125,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 9334.6123046875,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 9792.212890625,
+      "width": 12.0625,
+      "height": 206.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 10000.212890625,
+      "width": 14.02500057220459,
+      "height": 268.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 10270.6123046875,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 10624.212890625,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 10977.8125,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 11331.4130859375,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 11685.0126953125,
+      "width": 11.050000190734863,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Compare\n                      0",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Compare",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear All",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Judge.me",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

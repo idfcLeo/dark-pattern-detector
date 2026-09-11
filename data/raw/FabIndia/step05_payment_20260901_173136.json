@@ -1,0 +1,450 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.fabindia.com/checkout/payment-details",
+  "timestamp": "20260901_173136",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skip to Main Content",
+      "tag": "BUTTON",
+      "x": 535.8250122070312,
+      "y": -720,
+      "width": 208.33750915527344,
+      "height": 59.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Skip to Footer",
+      "tag": "BUTTON",
+      "x": 559.1375122070312,
+      "y": -720,
+      "width": 161.71250915527344,
+      "height": 59.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 85,
+      "y": 6.5,
+      "width": 128,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 435.1000061035156,
+      "y": 23.399999618530273,
+      "width": 47.86249923706055,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Address",
+      "tag": "A",
+      "x": 674.4500122070312,
+      "y": 23.399999618530273,
+      "width": 72.76250457763672,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Payment",
+      "tag": "A",
+      "x": 922.4625244140625,
+      "y": 23.399999618530273,
+      "width": 80.375,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UPI",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 136.60000610351562,
+      "width": 55.29999923706055,
+      "height": 42.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Cards",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 189,
+      "width": 64.0999984741211,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Net Banking",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 236.60000610351562,
+      "width": 107.13750457763672,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Wallet",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 284.20001220703125,
+      "width": 67.4749984741211,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "EMI",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 331.8000183105469,
+      "width": 50.23749923706055,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Gift Card",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 379.3999938964844,
+      "width": 84.17500305175781,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Fabcoins",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 427,
+      "width": 85.1500015258789,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Cash On Delivery",
+      "tag": "BUTTON",
+      "x": 127.4000015258789,
+      "y": 474.6000061035156,
+      "width": 138.2375030517578,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 470.1750183105469,
+      "y": 514.2374877929688,
+      "width": 180,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Generate OTP",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Redeem",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add Card",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Redeem",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UPI",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cards",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Net Banking",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wallets",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "EMI",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pay Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Card",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Redeem",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add Card",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fabcoins",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Redeem",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cash On Delivery",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Generate OTP",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 837.4000244140625,
+      "y": 117.80000305175781,
+      "width": 40,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Need Help? Contact Us",
+      "tag": "A",
+      "x": 1062.3125,
+      "y": 664,
+      "width": 153.6875,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1215,
+      "y": 666.1000366210938,
+      "width": 40,
+      "height": 23.200000762939453,
+      "visible": true
+    }
+  ]
+}

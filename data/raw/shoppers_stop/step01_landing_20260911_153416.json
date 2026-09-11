@@ -1,0 +1,2187 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.shoppersstop.com/",
+  "timestamp": "20260911_153416",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 58.22500228881836,
+      "width": 200,
+      "height": 19.537500381469727,
+      "visible": true
+    },
+    {
+      "text": "BARGA%NS",
+      "tag": "A",
+      "x": 178.5,
+      "y": 105.2125015258789,
+      "width": 93.67500305175781,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "BARGA%NS",
+      "tag": "A",
+      "x": 178.5,
+      "y": 113.2125015258789,
+      "width": 93.67500305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 304.1750183105469,
+      "y": 104.2125015258789,
+      "width": 35.23749923706055,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 304.1750183105469,
+      "y": 112.2125015258789,
+      "width": 35.23749923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 371.4125061035156,
+      "y": 104.2125015258789,
+      "width": 63.650001525878906,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 371.4125061035156,
+      "y": 112.2125015258789,
+      "width": 63.650001525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "KIDS",
+      "tag": "A",
+      "x": 467.0625,
+      "y": 104.2125015258789,
+      "width": 35.70000076293945,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "KIDS",
+      "tag": "A",
+      "x": 467.0625,
+      "y": 112.2125015258789,
+      "width": 35.70000076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "WATCHES",
+      "tag": "A",
+      "x": 534.7625122070312,
+      "y": 104.2125015258789,
+      "width": 75.9749984741211,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "WATCHES",
+      "tag": "A",
+      "x": 534.7625122070312,
+      "y": 112.2125015258789,
+      "width": 75.9749984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "HOMESTOP",
+      "tag": "A",
+      "x": 642.7374877929688,
+      "y": 104.2125015258789,
+      "width": 88.5625,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "HOMESTOP",
+      "tag": "A",
+      "x": 642.7374877929688,
+      "y": 112.2125015258789,
+      "width": 88.5625,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "LUXE",
+      "tag": "A",
+      "x": 763.2999877929688,
+      "y": 104.2125015258789,
+      "width": 40.900001525878906,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "LUXE",
+      "tag": "A",
+      "x": 763.2999877929688,
+      "y": 112.2125015258789,
+      "width": 40.900001525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "BRANDS",
+      "tag": "A",
+      "x": 836.2000122070312,
+      "y": 104.2125015258789,
+      "width": 64.73750305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "BRANDS",
+      "tag": "A",
+      "x": 836.2000122070312,
+      "y": 112.2125015258789,
+      "width": 64.73750305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "GIFTS",
+      "tag": "A",
+      "x": 932.9375,
+      "y": 104.2125015258789,
+      "width": 44.22500228881836,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "GIFTS",
+      "tag": "A",
+      "x": 932.9375,
+      "y": 112.2125015258789,
+      "width": 44.22500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1009.1625366210938,
+      "y": 102.7125015258789,
+      "width": 92.32500457763672,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1013.1625366210938,
+      "y": 114.7125015258789,
+      "width": 84.32500457763672,
+      "height": 23,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -3420,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2260,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1100,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1220,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2380,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3540,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4700,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5860,
+      "y": 160.5124969482422,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 612,
+      "y": 505.5500183105469,
+      "width": 6,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 622,
+      "y": 505.5500183105469,
+      "width": 6,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 632,
+      "y": 505.5500183105469,
+      "width": 26,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 662,
+      "y": 505.5500183105469,
+      "width": 6,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -3420,
+      "y": 534.5499877929688,
+      "width": 1160,
+      "height": 157.15000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2260,
+      "y": 534.5499877929688,
+      "width": 1160,
+      "height": 157.15000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1100,
+      "y": 534.5499877929688,
+      "width": 1160,
+      "height": 157.15000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 534.5499877929688,
+      "width": 1160,
+      "height": 157.15000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1220,
+      "y": 534.5499877929688,
+      "width": 1160,
+      "height": 157.15000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2380,
+      "y": 534.5499877929688,
+      "width": 1160,
+      "height": 157.15000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3540,
+      "y": 534.5499877929688,
+      "width": 1160,
+      "height": 157.15000915527344,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 617,
+      "y": 700.1000366210938,
+      "width": 6,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 627,
+      "y": 700.1000366210938,
+      "width": 6,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 637,
+      "y": 700.1000366210938,
+      "width": 26,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 719.1000366210938,
+      "width": 1160,
+      "height": 125.7249984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1100,
+      "y": 844.8250122070312,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 844.8250122070312,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1220,
+      "y": 844.8250122070312,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2380,
+      "y": 844.8250122070312,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3540,
+      "y": 844.8250122070312,
+      "width": 1160,
+      "height": 336.63751220703125,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 622,
+      "y": 1189.862548828125,
+      "width": 26,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 652,
+      "y": 1189.862548828125,
+      "width": 6,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "SWITCH TO",
+      "tag": "BUTTON",
+      "x": 535,
+      "y": 2245.862548828125,
+      "width": 210,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 2486.862548828125,
+      "width": 1160,
+      "height": 435.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "Explore Now",
+      "tag": "BUTTON",
+      "x": 100,
+      "y": 3331.85009765625,
+      "width": 237.53750610351562,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 397.5375061035156,
+      "y": 3006.9375,
+      "width": 762.4625244140625,
+      "height": 287.9125061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 667,
+      "y": 4295.75,
+      "width": 130,
+      "height": 37,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 667,
+      "y": 4348.75,
+      "width": 130,
+      "height": 37,
+      "visible": true
+    },
+    {
+      "text": "luxury watches",
+      "tag": "A",
+      "x": 589.1500244140625,
+      "y": 4934.4501953125,
+      "width": 106.9625015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "men’s clothing",
+      "tag": "A",
+      "x": 676.5875244140625,
+      "y": 5010.75,
+      "width": 105.6624984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "women’s clothing",
+      "tag": "A",
+      "x": 788.8875122070312,
+      "y": 5010.75,
+      "width": 126.92500305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bandeya",
+      "tag": "A",
+      "x": 454,
+      "y": 5141.4501953125,
+      "width": 62.48749923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "men’s Indianwear",
+      "tag": "A",
+      "x": 542.8375244140625,
+      "y": 5141.4501953125,
+      "width": 126.4749984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Stop",
+      "tag": "A",
+      "x": 875.3624877929688,
+      "y": 5141.4501953125,
+      "width": 32.67499923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "W",
+      "tag": "A",
+      "x": 586.8125,
+      "y": 5348.4501953125,
+      "width": 19.537500381469727,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Biba",
+      "tag": "A",
+      "x": 637.2374877929688,
+      "y": 5348.4501953125,
+      "width": 32.36249923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Haute Curry",
+      "tag": "A",
+      "x": 1048.875,
+      "y": 5348.4501953125,
+      "width": 85.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Fratini",
+      "tag": "A",
+      "x": 150.8874969482422,
+      "y": 5368.05029296875,
+      "width": 45.400001525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Kashish",
+      "tag": "A",
+      "x": 397.7375183105469,
+      "y": 5368.05029296875,
+      "width": 55.26250076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "shoes for men",
+      "tag": "A",
+      "x": 449.8999938964844,
+      "y": 5668.85009765625,
+      "width": 104.67500305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Adidas",
+      "tag": "A",
+      "x": 680.2625122070312,
+      "y": 5668.85009765625,
+      "width": 48.57500076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": ",",
+      "tag": "A",
+      "x": 728.8375244140625,
+      "y": 5668.85009765625,
+      "width": 6.950000286102295,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Skechers",
+      "tag": "A",
+      "x": 735.7875366210938,
+      "y": 5668.85009765625,
+      "width": 64.32500457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Reebok",
+      "tag": "A",
+      "x": 806.75,
+      "y": 5668.85009765625,
+      "width": 54.36249923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "footwear for ladies",
+      "tag": "A",
+      "x": 120,
+      "y": 5745.14990234375,
+      "width": 131.41250610351562,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "online shopping for kids clothes",
+      "tag": "A",
+      "x": 551.8125,
+      "y": 5836.64990234375,
+      "width": 227.1875,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "beauty products",
+      "tag": "A",
+      "x": 351.1750183105469,
+      "y": 6024.05029296875,
+      "width": 120.3125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "fashion accessories",
+      "tag": "A",
+      "x": 357.1875,
+      "y": 6250.64990234375,
+      "width": 136.5749969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Fragrances",
+      "tag": "A",
+      "x": 120,
+      "y": 6400.9501953125,
+      "width": 78.4124984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Clothing",
+      "tag": "A",
+      "x": 321.2124938964844,
+      "y": 7307.75,
+      "width": 121.76250457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Indianwear",
+      "tag": "A",
+      "x": 454.4375,
+      "y": 7307.75,
+      "width": 140.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Westernwear",
+      "tag": "A",
+      "x": 606.4000244140625,
+      "y": 7307.75,
+      "width": 155.125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lingerie & Nightwear",
+      "tag": "A",
+      "x": 772.9874877929688,
+      "y": 7307.75,
+      "width": 150.21250915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Footwear",
+      "tag": "A",
+      "x": 934.6625366210938,
+      "y": 7307.75,
+      "width": 127.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "women watches",
+      "tag": "A",
+      "x": 120,
+      "y": 7307.75,
+      "width": 1007.7999877929688,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Fragrance For Women",
+      "tag": "A",
+      "x": 190.6750030517578,
+      "y": 7327.35009765625,
+      "width": 159.0124969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Bags & Wallets",
+      "tag": "A",
+      "x": 361.1499938964844,
+      "y": 7327.35009765625,
+      "width": 165.8874969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Sunglasses",
+      "tag": "A",
+      "x": 538.5,
+      "y": 7327.35009765625,
+      "width": 139.8125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Jewellery",
+      "tag": "A",
+      "x": 689.7750244140625,
+      "y": 7327.35009765625,
+      "width": 127.0250015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Accessories",
+      "tag": "A",
+      "x": 828.2625122070312,
+      "y": 7327.35009765625,
+      "width": 143.1125030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Clothing",
+      "tag": "A",
+      "x": 295.0874938964844,
+      "y": 7401.55029296875,
+      "width": 96.45000457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Footwear",
+      "tag": "A",
+      "x": 403,
+      "y": 7401.55029296875,
+      "width": 102.1875,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Watches",
+      "tag": "A",
+      "x": 516.6500244140625,
+      "y": 7401.55029296875,
+      "width": 97.1624984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Fragrance For Men",
+      "tag": "A",
+      "x": 625.2750244140625,
+      "y": 7401.55029296875,
+      "width": 133.6999969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Grooming For Men",
+      "tag": "A",
+      "x": 770.4375,
+      "y": 7401.55029296875,
+      "width": 134.3625030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Sunglasses",
+      "tag": "A",
+      "x": 916.2625122070312,
+      "y": 7401.55029296875,
+      "width": 114.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men jewellery",
+      "tag": "A",
+      "x": 1042.2249755859375,
+      "y": 7401.55029296875,
+      "width": 98.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Accessories",
+      "tag": "A",
+      "x": 120,
+      "y": 7421.14990234375,
+      "width": 117.80000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Makeup",
+      "tag": "A",
+      "x": 318.5375061035156,
+      "y": 7458.25,
+      "width": 57.650001525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Face",
+      "tag": "A",
+      "x": 383.9750061035156,
+      "y": 7458.25,
+      "width": 33.45000076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Face Primers",
+      "tag": "A",
+      "x": 425.2124938964844,
+      "y": 7458.25,
+      "width": 92.7125015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Color Correctors",
+      "tag": "A",
+      "x": 525.7125244140625,
+      "y": 7458.25,
+      "width": 114.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Concealers",
+      "tag": "A",
+      "x": 648,
+      "y": 7458.25,
+      "width": 77.9375,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "BB and CC Creams",
+      "tag": "A",
+      "x": 733.7250366210938,
+      "y": 7458.25,
+      "width": 133.52500915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Tinted Moisturizers",
+      "tag": "A",
+      "x": 875.0375366210938,
+      "y": 7458.25,
+      "width": 135.58750915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Foundations",
+      "tag": "A",
+      "x": 1018.4125366210938,
+      "y": 7458.25,
+      "width": 89.625,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Compacts",
+      "tag": "A",
+      "x": 124.125,
+      "y": 7477.85009765625,
+      "width": 72.125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Blushes",
+      "tag": "A",
+      "x": 204.03750610351562,
+      "y": 7477.85009765625,
+      "width": 56.11249923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bronzers",
+      "tag": "A",
+      "x": 267.9375,
+      "y": 7477.85009765625,
+      "width": 63.10000228881836,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Highlighters and Illuminators",
+      "tag": "A",
+      "x": 338.82501220703125,
+      "y": 7477.85009765625,
+      "width": 208.72500610351562,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Setting Sprays",
+      "tag": "A",
+      "x": 555.3375244140625,
+      "y": 7477.85009765625,
+      "width": 101.80000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Face Palettes and Sets",
+      "tag": "A",
+      "x": 664.9249877929688,
+      "y": 7477.85009765625,
+      "width": 159.75,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Makeup Removers",
+      "tag": "A",
+      "x": 832.4625244140625,
+      "y": 7477.85009765625,
+      "width": 132.5625,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Loose Powders",
+      "tag": "A",
+      "x": 972.8125,
+      "y": 7477.85009765625,
+      "width": 107.2125015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eyes",
+      "tag": "A",
+      "x": 1087.8125,
+      "y": 7477.85009765625,
+      "width": 32.587501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Under Eye Concealers",
+      "tag": "A",
+      "x": 124.125,
+      "y": 7497.4501953125,
+      "width": 155.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Kajals",
+      "tag": "A",
+      "x": 287.4125061035156,
+      "y": 7497.4501953125,
+      "width": 41.525001525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eye Pencils",
+      "tag": "A",
+      "x": 336.7250061035156,
+      "y": 7497.4501953125,
+      "width": 80.0999984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eyeliners",
+      "tag": "A",
+      "x": 424.6125183105469,
+      "y": 7497.4501953125,
+      "width": 64.2249984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mascaras",
+      "tag": "A",
+      "x": 496.625,
+      "y": 7497.4501953125,
+      "width": 65.6500015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eye Shadows",
+      "tag": "A",
+      "x": 570.0625,
+      "y": 7497.4501953125,
+      "width": 93.67500305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eye Brow Enhancers",
+      "tag": "A",
+      "x": 671.5250244140625,
+      "y": 7497.4501953125,
+      "width": 146.08750915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "False Eyelashes",
+      "tag": "A",
+      "x": 825.4000244140625,
+      "y": 7497.4501953125,
+      "width": 110.2249984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eye Palettes And Sets",
+      "tag": "A",
+      "x": 943.4125366210938,
+      "y": 7497.4501953125,
+      "width": 153.75,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eye Makeup Removers",
+      "tag": "A",
+      "x": 120,
+      "y": 7497.4501953125,
+      "width": 1010.5250244140625,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Lips",
+      "tag": "A",
+      "x": 260.3500061035156,
+      "y": 7517.05029296875,
+      "width": 28.787500381469727,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lip Liners",
+      "tag": "A",
+      "x": 296.9250183105469,
+      "y": 7517.05029296875,
+      "width": 68.61250305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lipsticks",
+      "tag": "A",
+      "x": 373.32501220703125,
+      "y": 7517.05029296875,
+      "width": 61.78750228881836,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lip Glosses",
+      "tag": "A",
+      "x": 442.8999938964844,
+      "y": 7517.05029296875,
+      "width": 78.75,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lips Stains and Tints",
+      "tag": "A",
+      "x": 529.4375,
+      "y": 7517.05029296875,
+      "width": 145.0500030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lip Balms",
+      "tag": "A",
+      "x": 682.2750244140625,
+      "y": 7517.05029296875,
+      "width": 70.2249984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lip Palettes and Sets",
+      "tag": "A",
+      "x": 760.2875366210938,
+      "y": 7517.05029296875,
+      "width": 148.0749969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Liquid Lipsticks",
+      "tag": "A",
+      "x": 916.1500244140625,
+      "y": 7517.05029296875,
+      "width": 110.25,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lip Primers",
+      "tag": "A",
+      "x": 1034.1875,
+      "y": 7517.05029296875,
+      "width": 81.05000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Nails",
+      "tag": "A",
+      "x": 1123.0250244140625,
+      "y": 7517.05029296875,
+      "width": 34.57500076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Nail Polishes",
+      "tag": "A",
+      "x": 124.125,
+      "y": 7536.64990234375,
+      "width": 90.0875015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Nail Art Kits",
+      "tag": "A",
+      "x": 222,
+      "y": 7536.64990234375,
+      "width": 83.82500457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Base and Top Coats",
+      "tag": "A",
+      "x": 313.6125183105469,
+      "y": 7536.64990234375,
+      "width": 138.875,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Nail Polish Removers",
+      "tag": "A",
+      "x": 460.2749938964844,
+      "y": 7536.64990234375,
+      "width": 149.4250030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Makeup Tools and Brushes",
+      "tag": "A",
+      "x": 617.4874877929688,
+      "y": 7536.64990234375,
+      "width": 190.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Makeup Kits",
+      "tag": "A",
+      "x": 815.7750244140625,
+      "y": 7536.64990234375,
+      "width": 88.1500015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Skin",
+      "tag": "A",
+      "x": 291.57501220703125,
+      "y": 7573.75,
+      "width": 30.75,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Cleansers and Exfoliators",
+      "tag": "A",
+      "x": 330.1125183105469,
+      "y": 7573.75,
+      "width": 177.47500610351562,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Face Washes",
+      "tag": "A",
+      "x": 515.375,
+      "y": 7573.75,
+      "width": 92.7125015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Scrubs and Exfoliators",
+      "tag": "A",
+      "x": 615.875,
+      "y": 7573.75,
+      "width": 157.46250915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Facial Wipes",
+      "tag": "A",
+      "x": 781.125,
+      "y": 7573.75,
+      "width": 89.45000457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Toners and Mists",
+      "tag": "A",
+      "x": 878.3624877929688,
+      "y": 7573.75,
+      "width": 119.2750015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Moisturizers",
+      "tag": "A",
+      "x": 1005.4249877929688,
+      "y": 7573.75,
+      "width": 86.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Face Moisturizers and Day Creams",
+      "tag": "A",
+      "x": 120,
+      "y": 7573.75,
+      "width": 1013.1625366210938,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Face Oils",
+      "tag": "A",
+      "x": 334.6750183105469,
+      "y": 7593.35009765625,
+      "width": 63.79999923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Face Serums",
+      "tag": "A",
+      "x": 406.26251220703125,
+      "y": 7593.35009765625,
+      "width": 91.5,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Eye Care",
+      "tag": "A",
+      "x": 505.5500183105469,
+      "y": 7593.35009765625,
+      "width": 61.73749923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lip Care",
+      "tag": "A",
+      "x": 575.0750122070312,
+      "y": 7593.35009765625,
+      "width": 57.95000076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Masks and Treatments",
+      "tag": "A",
+      "x": 640.8125,
+      "y": 7593.35009765625,
+      "width": 160.9875030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Sun Care",
+      "tag": "A",
+      "x": 809.5875244140625,
+      "y": 7593.35009765625,
+      "width": 63.88750076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Kits and Combos",
+      "tag": "A",
+      "x": 881.2625122070312,
+      "y": 7593.35009765625,
+      "width": 120.55000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair",
+      "tag": "A",
+      "x": 290.0249938964844,
+      "y": 7630.4501953125,
+      "width": 29.387500762939453,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Shampoo and Conditioners",
+      "tag": "A",
+      "x": 327.20001220703125,
+      "y": 7630.4501953125,
+      "width": 194.6750030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Treatments",
+      "tag": "A",
+      "x": 529.6625366210938,
+      "y": 7630.4501953125,
+      "width": 115,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Masks",
+      "tag": "A",
+      "x": 652.4500122070312,
+      "y": 7630.4501953125,
+      "width": 77.30000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Oils",
+      "tag": "A",
+      "x": 737.5375366210938,
+      "y": 7630.4501953125,
+      "width": 59.75,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Serums",
+      "tag": "A",
+      "x": 805.0750122070312,
+      "y": 7630.4501953125,
+      "width": 87.45000457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Scalp Treatments",
+      "tag": "A",
+      "x": 900.3125,
+      "y": 7630.4501953125,
+      "width": 124.125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Styling",
+      "tag": "A",
+      "x": 1032.2249755859375,
+      "y": 7630.4501953125,
+      "width": 81.9375,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Tools and Accessories",
+      "tag": "A",
+      "x": 120,
+      "y": 7630.4501953125,
+      "width": 1038.0999755859375,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Hair Brushes and Combs",
+      "tag": "A",
+      "x": 241.5625,
+      "y": 7650.05029296875,
+      "width": 176.02500915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Dryers",
+      "tag": "A",
+      "x": 425.375,
+      "y": 7650.05029296875,
+      "width": 79.36250305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Straighteners and Flat Irons",
+      "tag": "A",
+      "x": 512.5250244140625,
+      "y": 7650.05029296875,
+      "width": 197.125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Multi Stylers",
+      "tag": "A",
+      "x": 717.4375,
+      "y": 7650.05029296875,
+      "width": 120.3375015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hair Accessories",
+      "tag": "A",
+      "x": 845.5625,
+      "y": 7650.05029296875,
+      "width": 115.7125015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 359.9875183105469,
+      "y": 7687.14990234375,
+      "width": 98.125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bath and Shower",
+      "tag": "A",
+      "x": 465.8999938964844,
+      "y": 7687.14990234375,
+      "width": 122.88750457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Body Washes and Shower Gels",
+      "tag": "A",
+      "x": 596.5750122070312,
+      "y": 7687.14990234375,
+      "width": 218.75,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Body Scrubs and Exfoliators",
+      "tag": "A",
+      "x": 823.1124877929688,
+      "y": 7687.14990234375,
+      "width": 198.0749969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Soaps",
+      "tag": "A",
+      "x": 1028.9749755859375,
+      "y": 7687.14990234375,
+      "width": 42.45000076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bath and Shower Sets",
+      "tag": "A",
+      "x": 120,
+      "y": 7687.14990234375,
+      "width": 1024.737548828125,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Body Care",
+      "tag": "A",
+      "x": 215.22500610351562,
+      "y": 7706.75,
+      "width": 73.0250015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Body Moisturizers",
+      "tag": "A",
+      "x": 296.0375061035156,
+      "y": 7706.75,
+      "width": 127.11250305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Body Lotions and Body Oils",
+      "tag": "A",
+      "x": 430.9375,
+      "y": 7706.75,
+      "width": 195.0500030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hands and Feet",
+      "tag": "A",
+      "x": 633.7750244140625,
+      "y": 7706.75,
+      "width": 112.4124984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Handwashes",
+      "tag": "A",
+      "x": 753.9750366210938,
+      "y": 7706.75,
+      "width": 91.61250305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hand Creams",
+      "tag": "A",
+      "x": 853.375,
+      "y": 7706.75,
+      "width": 96.70000457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Feminine Hygiene",
+      "tag": "A",
+      "x": 957.8624877929688,
+      "y": 7706.75,
+      "width": 130.46250915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Fragrances",
+      "tag": "A",
+      "x": 332.6499938964844,
+      "y": 7743.85009765625,
+      "width": 138.96250915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women EDTs",
+      "tag": "A",
+      "x": 479.3999938964844,
+      "y": 7743.85009765625,
+      "width": 96.05000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women EDPs",
+      "tag": "A",
+      "x": 583.2374877929688,
+      "y": 7743.85009765625,
+      "width": 98.625,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Deodorants",
+      "tag": "A",
+      "x": 689.6500244140625,
+      "y": 7743.85009765625,
+      "width": 143.8625030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Body Sprays",
+      "tag": "A",
+      "x": 841.2999877929688,
+      "y": 7743.85009765625,
+      "width": 147.4250030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Perfume Gift Sets for Women",
+      "tag": "A",
+      "x": 120,
+      "y": 7743.85009765625,
+      "width": 1024.8250732421875,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Men Fragrances",
+      "tag": "A",
+      "x": 184.5749969482422,
+      "y": 7763.4501953125,
+      "width": 113.6500015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "After-Shave Lotions",
+      "tag": "A",
+      "x": 306.01251220703125,
+      "y": 7763.4501953125,
+      "width": 138.71250915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Colognes",
+      "tag": "A",
+      "x": 452.51251220703125,
+      "y": 7763.4501953125,
+      "width": 66.1500015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men EDTs",
+      "tag": "A",
+      "x": 526.4500122070312,
+      "y": 7763.4501953125,
+      "width": 70.75,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men EDPs",
+      "tag": "A",
+      "x": 604.9874877929688,
+      "y": 7763.4501953125,
+      "width": 73.3125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Deodorants",
+      "tag": "A",
+      "x": 686.0875244140625,
+      "y": 7763.4501953125,
+      "width": 118.55000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Body Sprays",
+      "tag": "A",
+      "x": 812.4249877929688,
+      "y": 7763.4501953125,
+      "width": 122.11250305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Perfume Gift Sets",
+      "tag": "A",
+      "x": 942.3250122070312,
+      "y": 7763.4501953125,
+      "width": 160.3249969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Unisex Fragrances",
+      "tag": "A",
+      "x": 120,
+      "y": 7763.4501953125,
+      "width": 1038.0625,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Unisex EDTs",
+      "tag": "A",
+      "x": 206.1999969482422,
+      "y": 7783.05029296875,
+      "width": 86.88750457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Unisex EDPs",
+      "tag": "A",
+      "x": 300.875,
+      "y": 7783.05029296875,
+      "width": 89.45000457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Unisex Deodorants",
+      "tag": "A",
+      "x": 398.1125183105469,
+      "y": 7783.05029296875,
+      "width": 134.6999969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Unisex Body Sprays",
+      "tag": "A",
+      "x": 540.6000366210938,
+      "y": 7783.05029296875,
+      "width": 138.25,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Unisex Perfume Gift Sets",
+      "tag": "A",
+      "x": 686.6375122070312,
+      "y": 7783.05029296875,
+      "width": 176.47500610351562,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Beauty and Hair Accessories",
+      "tag": "A",
+      "x": 446.6000061035156,
+      "y": 7820.14990234375,
+      "width": 200.58750915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Brushes",
+      "tag": "A",
+      "x": 654.9750366210938,
+      "y": 7820.14990234375,
+      "width": 57.95000076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Manicure And Pedicure",
+      "tag": "A",
+      "x": 720.7125244140625,
+      "y": 7820.14990234375,
+      "width": 167.2375030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mens Grooming",
+      "tag": "A",
+      "x": 375.70001220703125,
+      "y": 7857.25,
+      "width": 114.32500457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Shaving Creams",
+      "tag": "A",
+      "x": 497.8125,
+      "y": 7857.25,
+      "width": 115.26250457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Shaving Foams For Men",
+      "tag": "A",
+      "x": 620.8624877929688,
+      "y": 7857.25,
+      "width": 171.1125030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Shaving Gels",
+      "tag": "A",
+      "x": 799.7625122070312,
+      "y": 7857.25,
+      "width": 91.45000457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Pre and Post Shaves",
+      "tag": "A",
+      "x": 899,
+      "y": 7857.25,
+      "width": 144.03750610351562,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Shaving Brushes",
+      "tag": "A",
+      "x": 120,
+      "y": 7857.25,
+      "width": 988.2125244140625,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Beard Care",
+      "tag": "A",
+      "x": 185.7375030517578,
+      "y": 7876.85009765625,
+      "width": 78.63750457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Skin Care For Men",
+      "tag": "A",
+      "x": 272.1625061035156,
+      "y": 7876.85009765625,
+      "width": 129.21250915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Hair Care",
+      "tag": "A",
+      "x": 409.1625061035156,
+      "y": 7876.85009765625,
+      "width": 100.80000305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Body Care",
+      "tag": "A",
+      "x": 517.75,
+      "y": 7876.85009765625,
+      "width": 108.26250457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Men Fragrance",
+      "tag": "A",
+      "x": 633.7999877929688,
+      "y": 7876.85009765625,
+      "width": 106.63750457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Read More",
+      "tag": "BUTTON",
+      "x": 120,
+      "y": 5044.64990234375,
+      "width": 1040,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "customercare@shoppersstop.com",
+      "tag": "A",
+      "x": 80,
+      "y": 5270.64990234375,
+      "width": 208.6999969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5210.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5242.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kids",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5274.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5306.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Watches",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5338.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gift",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5370.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5402.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Luxe",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5434.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bargain",
+      "tag": "A",
+      "x": 481.2875061035156,
+      "y": 5466.64990234375,
+      "width": 98.1875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5210.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5242.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Track Orders",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5274.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Corporate Site",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5306.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5338.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5370.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Help/FAQS",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5402.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Club",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5434.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "First Citizen Policy",
+      "tag": "A",
+      "x": 614.1000366210938,
+      "y": 5466.64990234375,
+      "width": 111.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Use",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 5210.64990234375,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 5242.64990234375,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delivery Policy",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 5274.64990234375,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Exchange & Return",
+      "tag": "A",
+      "x": 746.9125366210938,
+      "y": 5306.64990234375,
+      "width": 116.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Continue",
+      "tag": "BUTTON",
+      "x": 292,
+      "y": 383.6000061035156,
+      "width": 360,
+      "height": 48,
+      "visible": true
+    }
+  ]
+}

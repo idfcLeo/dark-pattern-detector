@@ -1,0 +1,135 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://shopify.com/32974995591/account/profile?buyer_flags=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0aGUtbGFiZWwtbGlmZS1pbmRpYS5teXNob3BpZnkuY29tIiwiZmxhZ3MiOltdLCJleHAiOjE3ODg4NjgzMzIsIm5iZiI6MTc4ODI2MzUzMn0.H3Jitju3VOJNrG8R2fv-xV25oOweqWzvG9sk8ACVCt8&locale=en&region_country=IN",
+  "timestamp": "20260901_172227",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 3.200000047683716,
+      "height": 3.200000047683716,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 56,
+      "y": 16,
+      "width": 300,
+      "height": 39.32500076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1192.4749755859375,
+      "y": 19.899999618530273,
+      "width": 31.524999618530273,
+      "height": 31.524999618530273,
+      "visible": true
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 56,
+      "y": 96.125,
+      "width": 68.7249984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 56,
+      "y": 126.125,
+      "width": 68.7249984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 982.1124877929688,
+      "y": 96.125,
+      "width": 46.75,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 983.0125122070312,
+      "y": 224.5749969482422,
+      "width": 45.85000228881836,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Sign out",
+      "tag": "BUTTON",
+      "x": 388.8625183105469,
+      "y": 516.125,
+      "width": 84.3499984741211,
+      "height": 46.900001525878906,
+      "visible": true
+    },
+    {
+      "text": "Sign out of all devices",
+      "tag": "BUTTON",
+      "x": 493.2124938964844,
+      "y": 530.125,
+      "width": 145.75,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "BUTTON",
+      "x": 56,
+      "y": 683.7999877929688,
+      "width": 41.8125,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Refund policy",
+      "tag": "BUTTON",
+      "x": 111.8125,
+      "y": 683.7999877929688,
+      "width": 77.76250457763672,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Shipping",
+      "tag": "BUTTON",
+      "x": 203.5749969482422,
+      "y": 683.7999877929688,
+      "width": 50.22500228881836,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "BUTTON",
+      "x": 267.8000183105469,
+      "y": 683.7999877929688,
+      "width": 79.7125015258789,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Terms of service",
+      "tag": "BUTTON",
+      "x": 361.51251220703125,
+      "y": 683.7999877929688,
+      "width": 97.11250305175781,
+      "height": 16.200000762939453,
+      "visible": true
+    }
+  ]
+}

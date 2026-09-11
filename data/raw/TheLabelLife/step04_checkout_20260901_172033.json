@@ -1,0 +1,234 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://thelabellife.com/checkouts/cn/hWNGKM9yvKtsY6YgppmJlZlU/en-in?_r=AQAB-O3E0z7dGy0kEjIzGX6DIYlC6HblVZ3ZnblJdlEcmdc&attributes%5Bfastrr_redirect%5D=1&attributes%5Bfastrr_redirect_time%5D=2026-09-01T11%3A49%3A43.245Z&attributes%5Bfastrr_redirect_uuid%5D=d56e2731",
+  "timestamp": "20260901_172033",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": -1,
+      "y": -1,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": 27.662500381469727,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Navigate to Online Store",
+      "tag": "A",
+      "x": 482.3999938964844,
+      "y": 20,
+      "width": 300,
+      "height": 39.32500076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1098.4000244140625,
+      "y": 27.662500381469727,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navigate to Online Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 627.6000366210938,
+      "y": 142.8874969482422,
+      "width": 14,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 612.7999877929688,
+      "y": 585.6500244140625,
+      "width": 18,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "+17",
+      "tag": "BUTTON",
+      "x": 604.0125122070312,
+      "y": 862.6500244140625,
+      "width": 22.787500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Add discount",
+      "tag": "BUTTON",
+      "x": 141.40000915527344,
+      "y": 1212.9500732421875,
+      "width": 125.9749984741211,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Pay now\n₹2,461.00",
+      "tag": "BUTTON",
+      "x": 142.40000915527344,
+      "y": 1227.9500732421875,
+      "width": 499.20001220703125,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Submit",
+      "tag": "BUTTON",
+      "x": 141.40000915527344,
+      "y": 119.125,
+      "width": 48.76250076293945,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Refund policy",
+      "tag": "BUTTON",
+      "x": 142.40000915527344,
+      "y": 1340.3499755859375,
+      "width": 90.7249984741211,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Shipping",
+      "tag": "BUTTON",
+      "x": 247.125,
+      "y": 1340.3499755859375,
+      "width": 58.60000228881836,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "BUTTON",
+      "x": 319.7250061035156,
+      "y": 1340.3499755859375,
+      "width": 93,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Terms of service",
+      "tag": "BUTTON",
+      "x": 426.7250061035156,
+      "y": 1340.3499755859375,
+      "width": 113.30000305175781,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navigate to Online Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apply",
+      "tag": "BUTTON",
+      "x": 1056.800048828125,
+      "y": 245.21250915527344,
+      "width": 58.79999923706055,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "Submit",
+      "tag": "BUTTON",
+      "x": 721.4000244140625,
+      "y": 237.41250610351562,
+      "width": 48.76250076293945,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Back to finalize order",
+      "tag": "BUTTON",
+      "x": 721.4000244140625,
+      "y": 300.01251220703125,
+      "width": 182.33750915527344,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 785,
+      "y": 348.3625183105469,
+      "width": 14,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "Refresh Page",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

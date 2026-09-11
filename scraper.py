@@ -115,8 +115,37 @@ if __name__ == "__main__":
         #"Netmeds": "https://www.netmeds.com/",
         #"HealthKart": "https://www.healthkart.com/",
         #"Techjockey": "https://www.techjockey.com/",
-        "The Souled Store": "https://www.thesouledstore.com/",
+        #"The Souled Store": "https://www.thesouledstore.com/",
+        #'eBay': "https://www.ebay.com/",
+        #'Otipy': "https://www.otipy.com/",
+        #"Snitch" : "https://www.snitch.com/",
+        #"Shopsy": "https://www.shopsy.in/",
+        #"DMart Ready" : "https://www.dmart.in/"
+        #"cars24" : "https://www.cars24.com/",
+        #"spinny" : "https://www.spinny.com/",
+        #"Infra.Market" : "https://infra.market/",
+        #"bluestar" : "https://www.bluestarindia.com/",
+        #"bluestone" : "https://www.bluestone.com/",
+        #"craftsvilla" : "https://www.craftsvila.in/",
+        #"TheLabelLife" : "https://www.thelabellife.com/",
+        #"FabIndia": "https://www.fabindia.com/",
+        #"indiamart": "https://www.indiamart.com/"
+        #"country_delight": "https://countrydelight.in/",
+        #"natures_basket": "https://www.naturesbasket.co.in/",
+        #"licious": "https://www.licious.in/",
+        #"freshtohome": "https://www.freshtohome.com/",
+        #"poorvika": "https://www.poorvika.com/",
+        #"boat": "https://www.boat-lifestyle.com/",
+        #"noise": "https://www.gonoise.com/",
+        #"boult": "https://www.boultaudio.com/",
+        #"westside": "https://www.westside.com/",
+        #"pantaloons": "https://www.pantaloons.com/",
+        #"shoppers_stop": "https://www.shoppersstop.com/",
+        #"lifestyle": "https://www.lifestylestores.com/",
+        #"max_fashion": "https://www.maxfashion.in/",
 
     }
     for name, url in sites.items():
         run_session(name, url)
+
+        #9959277532

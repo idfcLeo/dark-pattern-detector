@@ -1,0 +1,882 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.gonoise.com/products/noise-air-buds-pro-6-earbuds",
+  "timestamp": "20260911_151846",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "REP - 24x7 Fitness Tracker | Sale 2 is LIVE -->",
+      "tag": "A",
+      "x": 495.57501220703125,
+      "y": -688.375,
+      "width": 288.8374938964844,
+      "height": 16.73750114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 120,
+      "y": 15.875,
+      "width": 104,
+      "height": 23.05000114440918,
+      "visible": true
+    },
+    {
+      "text": "Master Series",
+      "tag": "A",
+      "x": 292.70001220703125,
+      "y": 0,
+      "width": 119.32500457763672,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 412.0249938964844,
+      "y": 0,
+      "width": 144.1875,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Audio",
+      "tag": "A",
+      "x": 556.2125244140625,
+      "y": 0,
+      "width": 84.57500457763672,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Power Series",
+      "tag": "A",
+      "x": 640.7875366210938,
+      "y": 0,
+      "width": 129.9499969482422,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Gift Store",
+      "tag": "A",
+      "x": 770.7374877929688,
+      "y": 0,
+      "width": 90.61250305175781,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "New Launches",
+      "tag": "A",
+      "x": 861.3500366210938,
+      "y": 0,
+      "width": 125.9375,
+      "height": 54.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1095,
+      "y": 14.90000057220459,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 320.6875,
+      "y": 564.2000122070312,
+      "width": 6,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 336.6875,
+      "y": 564.2000122070312,
+      "width": 7.775000095367432,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 354.4624938964844,
+      "y": 564.2000122070312,
+      "width": 18.212499618530273,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 382.6750183105469,
+      "y": 564.2000122070312,
+      "width": 6,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 398.6750183105469,
+      "y": 564.2000122070312,
+      "width": 6,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 414.6750183105469,
+      "y": 564.2000122070312,
+      "width": 6,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 430.6750183105469,
+      "y": 564.2000122070312,
+      "width": 6,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 446.6750183105469,
+      "y": 564.2000122070312,
+      "width": 6,
+      "height": 6,
+      "visible": true
+    },
+    {
+      "text": "Noise Air Buds Pro 6 Earbuds\n                                    ₹3499.00",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Noise Buds Marine Truly Wireless Bluetooth Earbuds\n                             ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Air Buds 6",
+      "tag": "A",
+      "x": 753.4000244140625,
+      "y": -152.40000915527344,
+      "width": 102.625,
+      "height": 43.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Air Buds 6",
+      "tag": "BUTTON",
+      "x": 753.4000244140625,
+      "y": -152.40000915527344,
+      "width": 102.625,
+      "height": 43.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Air Buds Pro 6",
+      "tag": "A",
+      "x": 864.0250244140625,
+      "y": -152.40000915527344,
+      "width": 128.9499969482422,
+      "height": 43.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Air Buds Pro 6",
+      "tag": "BUTTON",
+      "x": 864.0250244140625,
+      "y": -152.40000915527344,
+      "width": 128.9499969482422,
+      "height": 43.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Add 1-Year Extended Warranty Coverage @ ₹249",
+      "tag": "BUTTON",
+      "x": 754.2000122070312,
+      "y": 273.6000061035156,
+      "width": 501.20001220703125,
+      "height": 49,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART\n% ADDITIONAL OFFERS",
+      "tag": "BUTTON",
+      "x": 753.4000244140625,
+      "y": 359.3999938964844,
+      "width": 243.40000915527344,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW\n⚡FASTER CHECKOUT",
+      "tag": "BUTTON",
+      "x": 1012.7999877929688,
+      "y": 359.3999938964844,
+      "width": 243.40000915527344,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2000122070312,
+      "y": 1196.550048828125,
+      "width": 92,
+      "height": 92,
+      "visible": true
+    },
+    {
+      "text": "NOTIFY ME",
+      "tag": "BUTTON",
+      "x": 902.2000122070312,
+      "y": 1260.25,
+      "width": 158.35000610351562,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 11557.5126953125,
+      "width": 266.6750183105469,
+      "height": 286.6750183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 591.7374877929688,
+      "y": 11540.5126953125,
+      "width": 37.60000228881836,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 346.6750183105469,
+      "y": 11557.5126953125,
+      "width": 266.6625061035156,
+      "height": 286.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 878.4000244140625,
+      "y": 11540.5126953125,
+      "width": 37.60000228881836,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 633.3375244140625,
+      "y": 11557.5126953125,
+      "width": 266.6625061035156,
+      "height": 286.6625061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 120,
+      "y": 13421.3505859375,
+      "width": 111,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 440.20001220703125,
+      "y": 13537.900390625,
+      "width": 24,
+      "height": 13,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches with Alexa",
+      "tag": "A",
+      "x": 120,
+      "y": 13638.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AMOLED Display Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 13671.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Round Dial Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 13704.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Metallic & Leather Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 13737.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "BT Calling Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 13770.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Android Smart Watches",
+      "tag": "A",
+      "x": 120,
+      "y": 13803.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches for Men",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 13638.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches for Women",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 13671.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches for Kids",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 13704.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹2000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 13638.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹3000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 13671.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹4000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 13704.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Under ₹5000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 13737.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches Above ₹5000",
+      "tag": "A",
+      "x": 813.3250122070312,
+      "y": 13770.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "ANC Earbuds",
+      "tag": "A",
+      "x": 120,
+      "y": 13908.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Gaming Earbuds",
+      "tag": "A",
+      "x": 120,
+      "y": 13941.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹1000",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 13908.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹1500",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 13941.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹2000",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 13974.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Under ₹2500",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 14007.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Earbuds Above ₹2500",
+      "tag": "A",
+      "x": 466.6625061035156,
+      "y": 14040.6005859375,
+      "width": 346.6625061035156,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 14432.2001953125,
+      "width": 15.77500057220459,
+      "height": 435.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 14869,
+      "width": 15.77500057220459,
+      "height": 518.4000244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 15389,
+      "width": 15.77500057220459,
+      "height": 435.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 15825.7998046875,
+      "width": 15.77500057220459,
+      "height": 580.7999877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 16408.201171875,
+      "width": 15.77500057220459,
+      "height": 435.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 16845,
+      "width": 15.77500057220459,
+      "height": 393.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 17240.201171875,
+      "width": 15.77500057220459,
+      "height": 372.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 17614.599609375,
+      "width": 15.77500057220459,
+      "height": 414.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 18030.599609375,
+      "width": 15.77500057220459,
+      "height": 393.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 18425.80078125,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 18883.400390625,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 19341,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 19798.599609375,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 20256.201171875,
+      "width": 15.77500057220459,
+      "height": 456,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 20713.80078125,
+      "width": 12.0625,
+      "height": 206.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 20921.80078125,
+      "width": 14.02500057220459,
+      "height": 268.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 21192.201171875,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 21545.80078125,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 21899.400390625,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 22253,
+      "width": 11.912500381469727,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 22606.599609375,
+      "width": 11.050000190734863,
+      "height": 352,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Compare\n                      0",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Compare",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear All",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Judge.me",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

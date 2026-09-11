@@ -1,0 +1,1269 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.spinny.com/",
+  "timestamp": "20260901_170111",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20,
+      "y": 18.80000114440918,
+      "width": 130.8000030517578,
+      "height": 44.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Buy car",
+      "tag": "A",
+      "x": 647.8624877929688,
+      "y": 19,
+      "width": 95.17500305175781,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 659.8624877929688,
+      "y": 41,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sell car",
+      "tag": "A",
+      "x": 751.0375366210938,
+      "y": 19,
+      "width": 90.73750305175781,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Shortlisted",
+      "tag": "A",
+      "x": 934.5375366210938,
+      "y": 17.80000114440918,
+      "width": 74.0250015258789,
+      "height": 46.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Account",
+      "tag": "A",
+      "x": 1016.5625,
+      "y": 5,
+      "width": 96.36250305175781,
+      "height": 72,
+      "visible": true
+    },
+    {
+      "text": "View all Cars",
+      "tag": "BUTTON",
+      "x": 179.1999969482422,
+      "y": 480.70001220703125,
+      "width": 220,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Sell your Car",
+      "tag": "BUTTON",
+      "x": 1459.2000732421875,
+      "y": 480.70001220703125,
+      "width": 220,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Check Eligibility",
+      "tag": "BUTTON",
+      "x": 2739.199951171875,
+      "y": 480.70001220703125,
+      "width": 220,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Check Challan",
+      "tag": "BUTTON",
+      "x": 4019.199951171875,
+      "y": 480.70001220703125,
+      "width": 220,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 12,
+      "y": 325.20001220703125,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1220.800048828125,
+      "y": 325.20001220703125,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1183.800048828125,
+      "y": 532.4000244140625,
+      "width": 8,
+      "height": 8,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1199.800048828125,
+      "y": 532.4000244140625,
+      "width": 8,
+      "height": 8,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1215.800048828125,
+      "y": 532.4000244140625,
+      "width": 8,
+      "height": 8,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1231.800048828125,
+      "y": 532.4000244140625,
+      "width": 8,
+      "height": 8,
+      "visible": true
+    },
+    {
+      "text": "Watch the film",
+      "tag": "BUTTON",
+      "x": 56.400001525878906,
+      "y": 1124.4000244140625,
+      "width": 193.10000610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Browse cars",
+      "tag": "BUTTON",
+      "x": 503.2875061035156,
+      "y": 1120.4000244140625,
+      "width": 343,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 1100.0750732421875,
+      "y": 1136.4000244140625,
+      "width": 108.32500457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Get price",
+      "tag": "BUTTON",
+      "x": 1753.4000244140625,
+      "y": 1113.2000732421875,
+      "width": 343,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Watch how it works",
+      "tag": "BUTTON",
+      "x": 512.4000244140625,
+      "y": 1737.5999755859375,
+      "width": 240,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Learn more",
+      "tag": "A",
+      "x": 585.7000122070312,
+      "y": 1813.5999755859375,
+      "width": 93.38750457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 24.399999618530273,
+      "y": 2171.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1208.4000244140625,
+      "y": 2171.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "View all Spinny cars",
+      "tag": "A",
+      "x": 527.6000366210938,
+      "y": 2365.60009765625,
+      "width": 209.58750915527344,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 24.399999618530273,
+      "y": 2673.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1208.4000244140625,
+      "y": 2673.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "View all hatchbacks",
+      "tag": "A",
+      "x": 528.6875,
+      "y": 2845.60009765625,
+      "width": 207.4250030517578,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Check eligibility",
+      "tag": "A",
+      "x": 12.40000057220459,
+      "y": 4301.60009765625,
+      "width": 335,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 121.5374984741211,
+      "y": 4327.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Explore buyback",
+      "tag": "A",
+      "x": 327.3999938964844,
+      "y": 4301.60009765625,
+      "width": 335,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 433.7250061035156,
+      "y": 4327.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recharge FASTag",
+      "tag": "A",
+      "x": 642.4000244140625,
+      "y": 4301.60009765625,
+      "width": 335,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 744.8250122070312,
+      "y": 4327.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Check Challan",
+      "tag": "A",
+      "x": 957.4000244140625,
+      "y": 4301.60009765625,
+      "width": 335,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1072.9500732421875,
+      "y": 4327.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dainik Bhaskar\nSpinny Park Lucknow with North-India’s Largest car inventory",
+      "tag": "A",
+      "x": 28.399999618530273,
+      "y": 4481.60009765625,
+      "width": 300,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 28.399999618530273,
+      "y": 4797.2001953125,
+      "width": 0,
+      "height": 17.600000381469727,
+      "visible": false
+    },
+    {
+      "text": "AFAQS\nSpinny and Sachin celebrate 3 years of partnership",
+      "tag": "A",
+      "x": 344.3999938964844,
+      "y": 4481.60009765625,
+      "width": 300,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 344.3999938964844,
+      "y": 4797.2001953125,
+      "width": 0,
+      "height": 17.600000381469727,
+      "visible": false
+    },
+    {
+      "text": "Yourstory\nEarning trust with no shortcuts, no price negotiations",
+      "tag": "A",
+      "x": 660.4000244140625,
+      "y": 4481.60009765625,
+      "width": 300,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 660.4000244140625,
+      "y": 4797.2001953125,
+      "width": 0,
+      "height": 17.600000381469727,
+      "visible": false
+    },
+    {
+      "text": "Financial Express\nFull-stack concept explained with benefits",
+      "tag": "A",
+      "x": 976.4000244140625,
+      "y": 4481.60009765625,
+      "width": 300,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 976.4000244140625,
+      "y": 4797.2001953125,
+      "width": 0,
+      "height": 17.600000381469727,
+      "visible": false
+    },
+    {
+      "text": "AFAQS\nSachin and Sara Tendulkar share bond with their dogs in new Spinny ad",
+      "tag": "A",
+      "x": 1292.4000244140625,
+      "y": 4481.60009765625,
+      "width": 300,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1292.4000244140625,
+      "y": 4797.2001953125,
+      "width": 0,
+      "height": 17.600000381469727,
+      "visible": false
+    },
+    {
+      "text": "Economic Times\n76% first time car buyers with Spinny",
+      "tag": "A",
+      "x": 1608.4000244140625,
+      "y": 4481.60009765625,
+      "width": 300,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1608.4000244140625,
+      "y": 4797.2001953125,
+      "width": 0,
+      "height": 17.600000381469727,
+      "visible": false
+    },
+    {
+      "text": "Live Mint\nNo sales pitch, just ‘God Promise’: Spinny’s quiet campaign with Sachi",
+      "tag": "A",
+      "x": 1924.4000244140625,
+      "y": 4481.60009765625,
+      "width": 300,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1924.4000244140625,
+      "y": 4797.2001953125,
+      "width": 0,
+      "height": 17.600000381469727,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 24.399999618530273,
+      "y": 4630.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1208.4000244140625,
+      "y": 4630.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 24.399999618530273,
+      "y": 5458.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1208.4000244140625,
+      "y": 5458.60009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Q. When and where can I take a test drive?",
+      "tag": "BUTTON",
+      "x": 32.400001525878906,
+      "y": 5809.60009765625,
+      "width": 1200,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "home test drive",
+      "tag": "A",
+      "x": 528.7625122070312,
+      "y": 5863.2001953125,
+      "width": 95.7125015258789,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Q. What’s the process for booking my car?",
+      "tag": "BUTTON",
+      "x": 32.400001525878906,
+      "y": 5917.60009765625,
+      "width": 1200,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Q. Will Spinny help me with car finance?",
+      "tag": "BUTTON",
+      "x": 32.400001525878906,
+      "y": 5974.39990234375,
+      "width": 1200,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Q. How does Spinny's money back guarantee work?",
+      "tag": "BUTTON",
+      "x": 32.400001525878906,
+      "y": 6031.2001953125,
+      "width": 1200,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Visit help center",
+      "tag": "A",
+      "x": 540.9249877929688,
+      "y": 6088,
+      "width": 182.9499969482422,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 124,
+      "y": 6500,
+      "width": 456.3999938964844,
+      "height": 49.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 124,
+      "y": 6786.60009765625,
+      "width": 112.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 256.875,
+      "y": 6781.39990234375,
+      "width": 24,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 300.875,
+      "y": 6786.60009765625,
+      "width": 108.4124984741211,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 429.2875061035156,
+      "y": 6781.39990234375,
+      "width": 24,
+      "height": 26.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "727-727-7275",
+      "tag": "A",
+      "x": 124,
+      "y": 6946.2001953125,
+      "width": 159.4499969482422,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 297.8500061035156,
+      "y": 6946.2001953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 459.6750183105469,
+      "y": 6946.2001953125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spinny Assured",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6536,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Who we are",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6568,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6600,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6632,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Customer reviews",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6664,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Car hub locations",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6720,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Popular car overview",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6752,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6808,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6840,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Buy car",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6536,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Sell car",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6568,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Used car loan",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6600,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Car service",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6632,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Car insurance",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6664,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Challan",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6696,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Spinny Partners",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6728,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "FASTag recharge",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6760,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Autocar India",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6792,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Periodic service",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6536,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "AC servicing",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6568,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Clutch & suspension",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6600,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Health check services",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6656,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Wheel care",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6712,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Washing & cleaning",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6744,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "How buying works",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6940,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Inspection process",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 6996,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Service cost calculator",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 6960,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "EMI calculator",
+      "tag": "A",
+      "x": 865.8624877929688,
+      "y": 7016,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Trade with us",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6940,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Connect with us",
+      "tag": "A",
+      "x": 1031.3250732421875,
+      "y": 6972,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 7140,
+      "width": 125.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Terms & conditions",
+      "tag": "A",
+      "x": 700.4000244140625,
+      "y": 7172,
+      "width": 125.4625015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Delhi NCR",
+      "tag": "A",
+      "x": 124,
+      "y": 7324,
+      "width": 66.9000015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 202.72500610351562,
+      "y": 7324,
+      "width": 63.86249923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad",
+      "tag": "A",
+      "x": 278.4125061035156,
+      "y": 7324,
+      "width": 70.8375015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 361.07501220703125,
+      "y": 7324,
+      "width": 51.587501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 424.4875183105469,
+      "y": 7324,
+      "width": 31.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delhi",
+      "tag": "A",
+      "x": 468.125,
+      "y": 7324,
+      "width": 33,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gurgaon",
+      "tag": "A",
+      "x": 512.9500122070312,
+      "y": 7324,
+      "width": 56.79999923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Noida",
+      "tag": "A",
+      "x": 124,
+      "y": 7348,
+      "width": 39.41250228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 175.2375030517578,
+      "y": 7348,
+      "width": 77.75,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Chennai",
+      "tag": "A",
+      "x": 264.8125,
+      "y": 7348,
+      "width": 52.5,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kolkata",
+      "tag": "A",
+      "x": 329.13751220703125,
+      "y": 7348,
+      "width": 45.22500228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Lucknow",
+      "tag": "A",
+      "x": 386.1875,
+      "y": 7348,
+      "width": 55.462501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jaipur",
+      "tag": "A",
+      "x": 453.4750061035156,
+      "y": 7348,
+      "width": 36.025001525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Agra",
+      "tag": "A",
+      "x": 501.32501220703125,
+      "y": 7348,
+      "width": 31.225000381469727,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ambala",
+      "tag": "A",
+      "x": 544.375,
+      "y": 7348,
+      "width": 48.29999923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Chandigarh",
+      "tag": "A",
+      "x": 124,
+      "y": 7372,
+      "width": 74.2249984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Coimbatore",
+      "tag": "A",
+      "x": 210.0500030517578,
+      "y": 7372,
+      "width": 75.11250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Faridabad",
+      "tag": "A",
+      "x": 296.9875183105469,
+      "y": 7372,
+      "width": 63.85000228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ghaziabad",
+      "tag": "A",
+      "x": 372.6625061035156,
+      "y": 7372,
+      "width": 69.20000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jodhpur",
+      "tag": "A",
+      "x": 453.6875,
+      "y": 7372,
+      "width": 49.78750228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kanpur",
+      "tag": "A",
+      "x": 515.2999877929688,
+      "y": 7372,
+      "width": 45.625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Karnal",
+      "tag": "A",
+      "x": 572.75,
+      "y": 7372,
+      "width": 39.525001525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kochi",
+      "tag": "A",
+      "x": 124,
+      "y": 7396,
+      "width": 35.79999923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ludhiana",
+      "tag": "A",
+      "x": 171.625,
+      "y": 7396,
+      "width": 57.04999923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mangaluru",
+      "tag": "A",
+      "x": 240.5,
+      "y": 7396,
+      "width": 67.3125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mohali",
+      "tag": "A",
+      "x": 319.63751220703125,
+      "y": 7396,
+      "width": 42.66250228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mysuru",
+      "tag": "A",
+      "x": 374.125,
+      "y": 7396,
+      "width": 46.275001525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Nagpur",
+      "tag": "A",
+      "x": 432.2250061035156,
+      "y": 7396,
+      "width": 49.23749923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Prayagraj",
+      "tag": "A",
+      "x": 493.2875061035156,
+      "y": 7396,
+      "width": 59.337501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ranchi",
+      "tag": "A",
+      "x": 564.4500122070312,
+      "y": 7396,
+      "width": 42.400001525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sonipat",
+      "tag": "A",
+      "x": 124,
+      "y": 7420,
+      "width": 47.712501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vadodara",
+      "tag": "A",
+      "x": 183.53750610351562,
+      "y": 7420,
+      "width": 62.42499923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Visakhapatnam",
+      "tag": "A",
+      "x": 257.7875061035156,
+      "y": 7420,
+      "width": 95.4124984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delhi NCR",
+      "tag": "A",
+      "x": 660.4000244140625,
+      "y": 7324,
+      "width": 66.9000015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 739.125,
+      "y": 7324,
+      "width": 63.86249923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad",
+      "tag": "A",
+      "x": 814.8125,
+      "y": 7324,
+      "width": 70.8375015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 897.4750366210938,
+      "y": 7324,
+      "width": 51.587501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 960.8875122070312,
+      "y": 7324,
+      "width": 31.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 1004.5250244140625,
+      "y": 7324,
+      "width": 77.75,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Chennai",
+      "tag": "A",
+      "x": 1094.0999755859375,
+      "y": 7324,
+      "width": 52.5,
+      "height": 20,
+      "visible": true
+    }
+  ]
+}

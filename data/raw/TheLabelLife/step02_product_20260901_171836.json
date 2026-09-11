@@ -1,0 +1,5355 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://thelabellife.com/search?q=kurti&options%5Bprefix%5D=last",
+  "timestamp": "20260901_171836",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": -99999,
+      "y": 0,
+      "width": 150.3625030517578,
+      "height": 54.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "DRESS WITH INTENT, EXPRESS WITH CONFIDENCE",
+      "tag": "A",
+      "x": -2339.199951171875,
+      "y": 10,
+      "width": 1189.5999755859375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "NEW SEASON, NEW ARRIVALS",
+      "tag": "A",
+      "x": -1149.5999755859375,
+      "y": 10,
+      "width": 1189.5999755859375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "AN EMBROIDERED TOTE FREE ON NEW ARRIVALS OVER ₹3500",
+      "tag": "A",
+      "x": 40,
+      "y": 10,
+      "width": 1189.5999755859375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1229.5999755859375,
+      "y": 4,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TOPS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DRESSES & JUMPSUITS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BOTTOMS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OUTERWEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "COORD SETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BESTSELLERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WORKWEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WEEKEND",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "THE LABEL ESSENTIALS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL THINGS SUMMER",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MONOCHROME MAGIC",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DATE NIGHT EDIT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OCCASIONWEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WINTER ESSENTIALS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PRINT PARADE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "#THELABELLUXE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UP TO 60% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW ON SALE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "COSY ESSENTIALS ON SALE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MY ACCOUNT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WISHLIST",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ORDER TRACKING",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VISIT OUR STORE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONTACT US",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Search",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW",
+      "tag": "A",
+      "x": 30,
+      "y": 47.20000076293945,
+      "width": 62.54999923706055,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "CLOTHING",
+      "tag": "A",
+      "x": 92.55000305175781,
+      "y": 47.20000076293945,
+      "width": 104.8499984741211,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 143.40000915527344,
+      "width": 63.23749923706055,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 182.60000610351562,
+      "width": 33.54999923706055,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 221.8000030517578,
+      "width": 146.91250610351562,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 261,
+      "width": 62.525001525878906,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 300.20001220703125,
+      "width": 83.51250457763672,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 339.3999938964844,
+      "width": 80.23750305175781,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "COLLECTIONS",
+      "tag": "A",
+      "x": 197.40000915527344,
+      "y": 47.20000076293945,
+      "width": 137.10000610351562,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 143.40000915527344,
+      "width": 91.5250015258789,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 182.60000610351562,
+      "width": 80.42500305175781,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 221.8000030517578,
+      "width": 66.36250305175781,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 261,
+      "width": 152.41250610351562,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 300.20001220703125,
+      "width": 137.15000915527344,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 339.3999938964844,
+      "width": 135.0625,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 378.6000061035156,
+      "width": 105.4749984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 417.8000183105469,
+      "width": 104.7249984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 457,
+      "width": 134.53750610351562,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 496.20001220703125,
+      "width": 90.3125,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 535.4000244140625,
+      "width": 110.2874984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 143.40000915527344,
+      "width": 200,
+      "height": 33.42499923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 300,
+      "y": 143.40000915527344,
+      "width": 90.7249984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 300,
+      "y": 182.60000610351562,
+      "width": 89.1500015258789,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 300,
+      "y": 221.8000030517578,
+      "width": 174.1875,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "MORE",
+      "tag": "BUTTON",
+      "x": 334.5,
+      "y": 47.20000076293945,
+      "width": 69.6500015258789,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "More",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 434.8000183105469,
+      "y": 47.20000076293945,
+      "width": 400,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "SEARCH",
+      "tag": "BUTTON",
+      "x": 935.5250244140625,
+      "y": 80.20000457763672,
+      "width": 68.32500457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "WISHLIST",
+      "tag": "A",
+      "x": 1023.8500366210938,
+      "y": 77.4000015258789,
+      "width": 85.4625015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 1129.3125,
+      "y": 68.2249984741211,
+      "width": 43.95000076293945,
+      "height": 43.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1105.2625732421875,
+      "y": 228.22500610351562,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 809.2625122070312,
+      "y": 300.2250061035156,
+      "width": 162.0500030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 979.3125,
+      "y": 300.2250061035156,
+      "width": 157.9499969482422,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "CART\nTOTAL ITEMS IN CART: 0",
+      "tag": "BUTTON",
+      "x": 1193.2625732421875,
+      "y": 80.20000457763672,
+      "width": 44.337501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue shopping",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 594.7999877929688,
+      "y": 272.3999938964844,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Skip to results list",
+      "tag": "A",
+      "x": -99959,
+      "y": 325.20001220703125,
+      "width": 169.3625030517578,
+      "height": 54.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Show more\n            Show less",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Show more\n            Show less",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Show more\n            Show less",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "More",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear all",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FILTER AND SORT",
+      "tag": "BUTTON",
+      "x": 1080.550048828125,
+      "y": 405.20001220703125,
+      "width": 149.0500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Show more\n            Show less",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Show more\n            Show less",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Show more\n            Show less",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navy Knit Slit Sleeve Top",
+      "tag": "A",
+      "x": 40,
+      "y": 457.20001220703125,
+      "width": 584.7999877929688,
+      "height": 887.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 473.20001220703125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 200.40000915527344,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 256.3999938964844,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 312.3999938964844,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 368.3999938964844,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 424.3999938964844,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NAVY KNIT SLIT SLEEVE TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beige Jute Lace Detail Shirt",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 457.20001220703125,
+      "width": 584.7999877929688,
+      "height": 913.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 473.20001220703125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 1247.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BEIGE JUTE LACE DETAIL SHIRT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Contrast Piping Godet Top",
+      "tag": "A",
+      "x": 40,
+      "y": 1476.6375732421875,
+      "width": 1189.5999755859375,
+      "height": 1000.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 1492.6375732421875,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 1476.6375732421875,
+      "width": 1189.5999755859375,
+      "height": 892.5,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 474.8000183105469,
+      "y": 2379.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 2379.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 2379.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 2379.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 2379.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 754.7999877929688,
+      "y": 2379.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BLACK CONTRAST PIPING GODET TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chartreuse Buttoned Cuff Knit Top",
+      "tag": "A",
+      "x": 40,
+      "y": 2583.137451171875,
+      "width": 584.7999877929688,
+      "height": 887.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 2599.137451171875,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 200.40000915527344,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 256.3999938964844,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 312.3999938964844,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 368.3999938964844,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 424.3999938964844,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CHARTREUSE BUTTONED CUFF KNIT TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cocoa Polka Satin Buckled Top",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 2583.137451171875,
+      "width": 584.7999877929688,
+      "height": 887.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 2599.137451171875,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 3373.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "COCOA POLKA SATIN BUCKLED TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Slate Blue Linen Gold Button Top",
+      "tag": "A",
+      "x": 40,
+      "y": 3576.574951171875,
+      "width": 1189.5999755859375,
+      "height": 991.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 3592.574951171875,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 3576.574951171875,
+      "width": 1189.5999755859375,
+      "height": 877.625,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 474.8000183105469,
+      "y": 4465,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 4465,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 4465,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 4465,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 4465,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 754.7999877929688,
+      "y": 4465,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SLATE BLUE LINEN GOLD BUTTON TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navy Knit Off Shoulder Top",
+      "tag": "A",
+      "x": 40,
+      "y": 4674.2001953125,
+      "width": 584.7999877929688,
+      "height": 913.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 4690.2001953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 172.40000915527344,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 228.40000915527344,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 284.3999938964844,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 340.3999938964844,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 396.3999938964844,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 452.3999938964844,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NAVY KNIT OFF SHOULDER TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navy Stripe Detail Top",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 4674.2001953125,
+      "width": 584.7999877929688,
+      "height": 867.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 4690.2001953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 5464.4375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NAVY STRIPE DETAIL TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "White Strappy Knit Top",
+      "tag": "A",
+      "x": 40,
+      "y": 5693.6376953125,
+      "width": 1189.5999755859375,
+      "height": 1000.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 5709.6376953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 5693.6376953125,
+      "width": 1189.5999755859375,
+      "height": 892.5,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 474.8000183105469,
+      "y": 6596.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 6596.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 6596.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 6596.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 6596.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 754.7999877929688,
+      "y": 6596.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WHITE STRAPPY KNIT TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navy Asymmetric Piping Detail Top",
+      "tag": "A",
+      "x": 40,
+      "y": 6800.1376953125,
+      "width": 584.7999877929688,
+      "height": 887.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 6816.1376953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 172.40000915527344,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 228.40000915527344,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 284.3999938964844,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 340.3999938964844,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 396.3999938964844,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 452.3999938964844,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NAVY ASYMMETRIC PIPING DETAIL TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Olive Striped Oversized Shirt",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 6800.1376953125,
+      "width": 584.7999877929688,
+      "height": 887.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 6816.1376953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 7590.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OLIVE STRIPED OVERSIZED SHIRT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sage strappy ribbed knit top",
+      "tag": "A",
+      "x": 40,
+      "y": 7793.5751953125,
+      "width": 1189.5999755859375,
+      "height": 1006.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 7809.5751953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 7793.5751953125,
+      "width": 1189.5999755859375,
+      "height": 892.5,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 474.8000183105469,
+      "y": 8696.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 8696.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 8696.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 8696.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 8696.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 754.7999877929688,
+      "y": 8696.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SAGE STRAPPY RIBBED KNIT TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Teal Satin Ruched Top",
+      "tag": "A",
+      "x": 40,
+      "y": 8906.0751953125,
+      "width": 584.7999877929688,
+      "height": 887.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 8922.0751953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 172.40000915527344,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 228.40000915527344,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 284.3999938964844,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 340.3999938964844,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 396.3999938964844,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 452.3999938964844,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TEAL SATIN RUCHED TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "White Striped Flared Back Shirt",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 8906.0751953125,
+      "width": 584.7999877929688,
+      "height": 893.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 8922.0751953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 9696.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WHITE STRIPED FLARED BACK SHIRT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black High Neck Knit Top",
+      "tag": "A",
+      "x": 40,
+      "y": 9905.5126953125,
+      "width": 1189.5999755859375,
+      "height": 1011.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 9921.5126953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 9905.5126953125,
+      "width": 1189.5999755859375,
+      "height": 877.625,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 474.8000183105469,
+      "y": 10793.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 10793.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 10793.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 10793.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 10793.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 754.7999877929688,
+      "y": 10793.9375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BLACK HIGH NECK KNIT TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Green Striped Embroidered Shirt",
+      "tag": "A",
+      "x": 40,
+      "y": 11023.1376953125,
+      "width": 584.7999877929688,
+      "height": 867.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 11039.1376953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 172.40000915527344,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 228.40000915527344,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 284.3999938964844,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 340.3999938964844,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 396.3999938964844,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 452.3999938964844,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "GREEN STRIPED EMBROIDERED SHIRT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Butter Yellow Side Ruched Top",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 11023.1376953125,
+      "width": 584.7999877929688,
+      "height": 867.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 11039.1376953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 11813.375,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUTTER YELLOW SIDE RUCHED TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Button Detail Knit Top",
+      "tag": "A",
+      "x": 40,
+      "y": 11996.5751953125,
+      "width": 1189.5999755859375,
+      "height": 980.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 12012.5751953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 11996.5751953125,
+      "width": 1189.5999755859375,
+      "height": 892.5,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 474.8000183105469,
+      "y": 12899.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 12899.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 12899.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 12899.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 12899.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 754.7999877929688,
+      "y": 12899.875,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BLACK BUTTON DETAIL KNIT TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terracotta Satin Halter Neck Top",
+      "tag": "A",
+      "x": 40,
+      "y": 13083.0751953125,
+      "width": 584.7999877929688,
+      "height": 887.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 13099.0751953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 172.40000915527344,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 228.40000915527344,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 284.3999938964844,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 340.3999938964844,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 396.3999938964844,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 452.3999938964844,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TERRACOTTA SATIN HALTER NECK TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "White Collar Pin Detail In Cut Shirt",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 13083.0751953125,
+      "width": 584.7999877929688,
+      "height": 893.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 13099.0751953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 13873.3125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WHITE COLLAR PIN DETAIL IN CUT SHIRT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Olive Wave Jacquard Knit Top",
+      "tag": "A",
+      "x": 40,
+      "y": 14082.5126953125,
+      "width": 1189.5999755859375,
+      "height": 1026.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 14098.5126953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 14082.5126953125,
+      "width": 1189.5999755859375,
+      "height": 892.5,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 14985.8125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 14985.8125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 14985.8125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 14985.8125,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OLIVE WAVE JACQUARD KNIT TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "White Knit Off Shoulder Top",
+      "tag": "A",
+      "x": 40,
+      "y": 15215.0126953125,
+      "width": 584.7999877929688,
+      "height": 913.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 588.7999877929688,
+      "y": 15231.0126953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 172.40000915527344,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 228.40000915527344,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 284.3999938964844,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 340.3999938964844,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 396.3999938964844,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 452.3999938964844,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WHITE KNIT OFF SHOULDER TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beige Ruched Knit Top",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 15215.0126953125,
+      "width": 584.7999877929688,
+      "height": 913.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 15231.0126953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 777.2000122070312,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 833.2000122070312,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 889.2000122070312,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 945.2000122070312,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 1001.2000122070312,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 1057.2000732421875,
+      "y": 16005.25,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BEIGE RUCHED KNIT TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ice Statement Buckle Wrap Top",
+      "tag": "A",
+      "x": 40,
+      "y": 16234.4501953125,
+      "width": 1189.5999755859375,
+      "height": 1000.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1193.5999755859375,
+      "y": 16250.4501953125,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 16234.4501953125,
+      "width": 1189.5999755859375,
+      "height": 892.5,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 474.8000183105469,
+      "y": 17137.75,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 530.7999877929688,
+      "y": 17137.75,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 586.7999877929688,
+      "y": 17137.75,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 642.7999877929688,
+      "y": 17137.75,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 698.7999877929688,
+      "y": 17137.75,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 754.7999877929688,
+      "y": 17137.75,
+      "width": 40,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "SIZE GUIDE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Size Chart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "How to Measure",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cm",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "inch",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ICE STATEMENT BUCKLE WRAP TOP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 448,
+      "y": 17502.951171875,
+      "width": 42,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 17425.349609375,
+      "width": 84.4375,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 17470.951171875,
+      "width": 87.70000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 17516.55078125,
+      "width": 70.48750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 17562.150390625,
+      "width": 59.45000076293945,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 17425.349609375,
+      "width": 32.53750228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 17470.951171875,
+      "width": 67.8499984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 17516.55078125,
+      "width": 190.1999969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 17562.150390625,
+      "width": 147.5124969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 17607.75,
+      "width": 103.4124984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 17425.349609375,
+      "width": 98.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 17470.951171875,
+      "width": 70.76250457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 17516.55078125,
+      "width": 78.80000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 17562.150390625,
+      "width": 90.11250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 17607.75,
+      "width": 92.70000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "The Label Life",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powered by Shopify",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms and Policies",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Refund policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms of service",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shipping policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Abstract Print Belted Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Azure Brooch Detail Pleated Top",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Azure Twist Front Midi Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beige High Waisted Pleated Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View all",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1150.5999755859375,
+      "y": 581,
+      "width": 39,
+      "height": 39,
+      "visible": true
+    }
+  ]
+}

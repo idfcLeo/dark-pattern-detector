@@ -1,0 +1,2943 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://goboult.co.in/pages/search?q=watches",
+  "timestamp": "20260911_152047",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 120,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "HOLI SALE | upto 80% off",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45.5,
+      "y": 49.900001525878906,
+      "width": 226,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "Categories",
+      "tag": "A",
+      "x": 341.9125061035156,
+      "y": 46.900001525878906,
+      "width": 54.6875,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home AudioNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PowerbanksNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support & Warranty",
+      "tag": "A",
+      "x": 416.6000061035156,
+      "y": 46.900001525878906,
+      "width": 98.625,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series",
+      "tag": "A",
+      "x": 535.2250366210938,
+      "y": 46.900001525878906,
+      "width": 77.92500305175781,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "Corporate Orders",
+      "tag": "A",
+      "x": 633.1500244140625,
+      "y": 46.900001525878906,
+      "width": 87.17500305175781,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "More",
+      "tag": "A",
+      "x": 740.3250122070312,
+      "y": 46.900001525878906,
+      "width": 25.899999618530273,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 881,
+      "y": 66.4000015258789,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Order History",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 1198,
+      "y": 59.400001525878906,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home Audio",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powerbanks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Login/Sign up",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1190.2000732421875,
+      "y": -38.900001525878906,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 907.7999877929688,
+      "y": 15.100000381469727,
+      "width": 296.3999938964844,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 981.9874877929688,
+      "y": 70.0999984741211,
+      "width": 148.0124969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop by Categories\n              \n                \n      \n    \n\n  svg.logo-gobou",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home Audio\nNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powerbanks\nNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop by Lifestyle\n              \n                \n      \n    \n\n  svg.logo-goboul",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Audiophile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Workout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Travel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gaming\nNEW ARRIVAL",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support & Warranty\n              \n                \n      \n    \n\n  svg.logo-gobou",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate Orders\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    wid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300px",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300p",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account\n          \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Filters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 227.10000610351562,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 227.10000610351562,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 310,
+      "y": 227.10000610351562,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.07501220703125,
+      "y": 580.5,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 456.07501220703125,
+      "y": 580.5,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 227.10000610351562,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 227.10000610351562,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.9",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 227.10000610351562,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 771.2374877929688,
+      "y": 580.5,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 776.2374877929688,
+      "y": 580.5,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 227.10000610351562,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 227.10000610351562,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.9",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 227.10000610351562,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 580.5,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 580.5,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 697.9000244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 697.9000244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 310,
+      "y": 697.9000244140625,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.07501220703125,
+      "y": 1051.300048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 456.07501220703125,
+      "y": 1051.300048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 697.9000244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 697.9000244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 697.9000244140625,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 771.2374877929688,
+      "y": 1051.300048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 776.2374877929688,
+      "y": 1051.300048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 697.9000244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 697.9000244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 697.9000244140625,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 1046.7249755859375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 1046.7249755859375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 1168.7000732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 1168.7000732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.8",
+      "tag": "A",
+      "x": 310,
+      "y": 1168.7000732421875,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 442.07501220703125,
+      "y": 1517.5250244140625,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 447.07501220703125,
+      "y": 1517.5250244140625,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 465.07501220703125,
+      "y": 1517.5250244140625,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 1168.7000732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 1168.7000732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 1168.7000732421875,
+      "width": 300.1625061035156,
+      "height": 371.9750061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 762.2374877929688,
+      "y": 1518.875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 767.2374877929688,
+      "y": 1518.875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 785.2374877929688,
+      "y": 1518.875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 1168.7000732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 1168.7000732421875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.8",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 1168.7000732421875,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 1517.5250244140625,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 1517.5250244140625,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Top Rated\n\n4.7 \nRover Pro\n1.43\" Round AMOLED with AOD\n\nSuper AMOLED Screen\n\n₹2,0",
+      "tag": "A",
+      "x": 310,
+      "y": 1636.2750244140625,
+      "width": 300.1625061035156,
+      "height": 446.2250061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 1636.2750244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 1636.2750244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.7",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 1636.2750244140625,
+      "width": 300.1625061035156,
+      "height": 371.9750061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 742.5375366210938,
+      "y": 1986.4500732421875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 747.5375366210938,
+      "y": 1986.4500732421875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 765.5375366210938,
+      "y": 1986.4500732421875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 783.5375366210938,
+      "y": 1986.4500732421875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 1636.2750244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 1636.2750244140625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.6",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 1636.2750244140625,
+      "width": 300.1625061035156,
+      "height": 371.9750061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1073.4000244140625,
+      "y": 1986.4500732421875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1078.4000244140625,
+      "y": 1986.4500732421875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 1986.4500732421875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1114.4000244140625,
+      "y": 1986.4500732421875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 2103.85009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 2103.85009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller",
+      "tag": "A",
+      "x": 310,
+      "y": 2103.85009765625,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 442.07501220703125,
+      "y": 2452.675048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 447.07501220703125,
+      "y": 2452.675048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 465.07501220703125,
+      "y": 2452.675048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 2103.85009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 2103.85009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.7",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 2103.85009765625,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 742.2625122070312,
+      "y": 2452.675048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 747.2625122070312,
+      "y": 2452.675048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 765.2625122070312,
+      "y": 2452.675048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 783.2625122070312,
+      "y": 2452.675048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Top Rated\n\nRover Pro\n1.43\" AMOLED Display\n\nHealth Monitoring\n\n₹2,299\n₹10,999",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 2103.85009765625,
+      "width": 300.1625061035156,
+      "height": 446.2250061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 2570.074951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 2570.074951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.7",
+      "tag": "A",
+      "x": 310,
+      "y": 2570.074951171875,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 422.2437438964844,
+      "y": 2918.900146484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 427.2437438964844,
+      "y": 2918.900146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 445.2437438964844,
+      "y": 2918.900146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 463.2437438964844,
+      "y": 2918.900146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 2570.074951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 2570.074951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 2570.074951171875,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 771.2374877929688,
+      "y": 2918.900146484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 776.2374877929688,
+      "y": 2918.900146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 2570.074951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 2570.074951171875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.8",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 2570.074951171875,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 2918.900146484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 2918.900146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 3016.300048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 3016.300048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.7",
+      "tag": "A",
+      "x": 310,
+      "y": 3016.300048828125,
+      "width": 300.1625061035156,
+      "height": 370.8999938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 423.4375,
+      "y": 3365.400146484375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 428.4375,
+      "y": 3365.400146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 446.4375,
+      "y": 3365.400146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 464.4375,
+      "y": 3365.400146484375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 3016.300048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 3016.300048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 3016.300048828125,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 771.2374877929688,
+      "y": 3365.125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 776.2374877929688,
+      "y": 3365.125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 3016.300048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 3016.300048828125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.7",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 3016.300048828125,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 3369.699951171875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 3369.699951171875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 3506.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 3506.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.7",
+      "tag": "A",
+      "x": 310,
+      "y": 3506.60009765625,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.07501220703125,
+      "y": 3860,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 456.07501220703125,
+      "y": 3860,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 3506.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 3506.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 3506.60009765625,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 771.2374877929688,
+      "y": 3855.425048828125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 776.2374877929688,
+      "y": 3855.425048828125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 3506.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 3506.60009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.5",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 3506.60009765625,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 3860,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 3860,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 3977.400146484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 3977.400146484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launch\n\n4.7",
+      "tag": "A",
+      "x": 310,
+      "y": 3977.400146484375,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.07501220703125,
+      "y": 4330.80029296875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 456.07501220703125,
+      "y": 4330.80029296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 3977.400146484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 3977.400146484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launch\n\n4.8",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 3977.400146484375,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 771.2374877929688,
+      "y": 4330.80029296875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 776.2374877929688,
+      "y": 4330.80029296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 3977.400146484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 3977.400146484375,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launch\n\n4.8",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 3977.400146484375,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 4330.80029296875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 4330.80029296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 4466.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 4466.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launch\n\n4.7",
+      "tag": "A",
+      "x": 310,
+      "y": 4466.10009765625,
+      "width": 300.1625061035156,
+      "height": 405.1875,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.07501220703125,
+      "y": 4849.48779296875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 456.07501220703125,
+      "y": 4849.48779296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 4466.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 4466.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launch\n\n4.7",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 4466.10009765625,
+      "width": 300.1625061035156,
+      "height": 405.1875,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 771.2374877929688,
+      "y": 4849.48779296875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 776.2374877929688,
+      "y": 4849.48779296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 4466.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 4466.10009765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.7",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 4466.10009765625,
+      "width": 300.1625061035156,
+      "height": 371.9750061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1062.7000732421875,
+      "y": 4816.27490234375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1067.7000732421875,
+      "y": 4816.27490234375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1085.7000732421875,
+      "y": 4816.27490234375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1103.7000732421875,
+      "y": 4816.27490234375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 4952.48779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 4952.48779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 310,
+      "y": 4952.48779296875,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 451.07501220703125,
+      "y": 5305.8876953125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 456.07501220703125,
+      "y": 5305.8876953125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 4952.48779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 4952.48779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller\n\n4.9",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 4952.48779296875,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 742.5375366210938,
+      "y": 5301.3125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 747.5375366210938,
+      "y": 5301.3125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 765.5375366210938,
+      "y": 5301.3125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 783.5375366210938,
+      "y": 5301.3125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 4952.48779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 4952.48779296875,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launch\n\n4.7",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 4952.48779296875,
+      "width": 300.1625061035156,
+      "height": 375.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 5305.8876953125,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 5305.8876953125,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 5423.28759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 460.07501220703125,
+      "y": 5423.28759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Top Rated",
+      "tag": "A",
+      "x": 310,
+      "y": 5423.28759765625,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 433.07501220703125,
+      "y": 5772.11279296875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 438.07501220703125,
+      "y": 5772.11279296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 456.07501220703125,
+      "y": 5772.11279296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 474.07501220703125,
+      "y": 5772.11279296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 5423.28759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 780.2374877929688,
+      "y": 5423.28759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 630.1625366210938,
+      "y": 5423.28759765625,
+      "width": 300.1625061035156,
+      "height": 371.9750061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 742.5375366210938,
+      "y": 5773.46240234375,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 747.5375366210938,
+      "y": 5773.46240234375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 765.5375366210938,
+      "y": 5773.46240234375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 783.5375366210938,
+      "y": 5773.46240234375,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 5423.28759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1100.4000244140625,
+      "y": 5423.28759765625,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Seller",
+      "tag": "A",
+      "x": 950.3250122070312,
+      "y": 5423.28759765625,
+      "width": 300.1625061035156,
+      "height": 370.625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1091.4000244140625,
+      "y": 5772.11279296875,
+      "width": 0,
+      "height": 16.80000114440918,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1096.4000244140625,
+      "y": 5772.11279296875,
+      "width": 13,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 189.4375,
+      "y": 6270.86279296875,
+      "width": 134.1374969482422,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "True Wireless",
+      "tag": "A",
+      "x": 496,
+      "y": 6033.5625,
+      "width": 72.70000457763672,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "DashCam",
+      "tag": "A",
+      "x": 496,
+      "y": 6051.16259765625,
+      "width": 54.28750228881836,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 496,
+      "y": 6073.7626953125,
+      "width": 82.875,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 496,
+      "y": 6096.36279296875,
+      "width": 62.400001525878906,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 496,
+      "y": 6118.96240234375,
+      "width": 70.0875015258789,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 496,
+      "y": 6141.5625,
+      "width": 50.75,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smartwatch Straps",
+      "tag": "A",
+      "x": 496,
+      "y": 6164.16259765625,
+      "width": 103.45000457763672,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 496,
+      "y": 6186.7626953125,
+      "width": 66.125,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Audiophile",
+      "tag": "A",
+      "x": 751.6625366210938,
+      "y": 6033.5625,
+      "width": 57.73749923706055,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Workout",
+      "tag": "A",
+      "x": 751.6625366210938,
+      "y": 6051.16259765625,
+      "width": 45.875,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Travel",
+      "tag": "A",
+      "x": 751.6625366210938,
+      "y": 6073.7626953125,
+      "width": 31.899999618530273,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Gaming",
+      "tag": "A",
+      "x": 751.6625366210938,
+      "y": 6096.36279296875,
+      "width": 42.79999923706055,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 1007.3375244140625,
+      "y": 6033.5625,
+      "width": 116.73750305175781,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 1007.3375244140625,
+      "y": 6051.16259765625,
+      "width": 157.72500610351562,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Customer support",
+      "tag": "A",
+      "x": 1007.3375244140625,
+      "y": 6073.7626953125,
+      "width": 98.2249984741211,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 1007.3375244140625,
+      "y": 6096.36279296875,
+      "width": 63.04999923706055,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 496,
+      "y": 6266.2626953125,
+      "width": 50.85000228881836,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 496,
+      "y": 6283.86279296875,
+      "width": 42.51250076293945,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 496,
+      "y": 6306.46240234375,
+      "width": 30.61250114440918,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bulk Order",
+      "tag": "A",
+      "x": 879.5,
+      "y": 6266.2626953125,
+      "width": 57.400001525878906,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 516.6500244140625,
+      "y": 6424.86279296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 578.3250122070312,
+      "y": 6424.86279296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "YouTube",
+      "tag": "A",
+      "x": 640,
+      "y": 6424.86279296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "YouTube",
+      "tag": "A",
+      "x": 701.6749877929688,
+      "y": 6424.86279296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions**",
+      "tag": "A",
+      "x": 459.7749938964844,
+      "y": 6485.86279296875,
+      "width": 109.3499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 577.9249877929688,
+      "y": 6485.86279296875,
+      "width": 68.8375015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Site map",
+      "tag": "A",
+      "x": 655.5625,
+      "y": 6485.86279296875,
+      "width": 43.875,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "E-Waste Management",
+      "tag": "A",
+      "x": 708.2374877929688,
+      "y": 6485.86279296875,
+      "width": 111.9749984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "GOBOULT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": -8733,
+      "y": 35.63750076293945,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1220,
+      "y": 588,
+      "width": 60,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Go to UK store",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "STAY IN THIS STORE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Other Countries/Regions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONFIRM",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CANCEL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ANC\n              \n                \n                  \n                    \n    ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ANC\n              \n                \n                  \n                    \n    ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ANC\n              \n                \n                  \n                    \n    ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ANC\n              \n                \n                  \n                    \n    ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ANC\n              \n                \n                  \n                    \n    ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ANC\n              \n                \n                  \n                    \n    ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View More",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Racer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Stallion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earl",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Thunder",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

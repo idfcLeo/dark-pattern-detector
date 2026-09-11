@@ -1,0 +1,2097 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.spinny.com/used-cars-in-delhi-ncr/s/",
+  "timestamp": "20260901_170618",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20,
+      "y": 18.80000114440918,
+      "width": 130.8000030517578,
+      "height": 44.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Buy car",
+      "tag": "A",
+      "x": 578.2125244140625,
+      "y": 19,
+      "width": 95.17500305175781,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 590.2125244140625,
+      "y": 41,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sell car",
+      "tag": "A",
+      "x": 681.3875122070312,
+      "y": 19,
+      "width": 90.73750305175781,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Service car",
+      "tag": "A",
+      "x": 780.125,
+      "y": 31,
+      "width": 76.8499984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Shortlisted",
+      "tag": "A",
+      "x": 949.7374877929688,
+      "y": 17.80000114440918,
+      "width": 74.0250015258789,
+      "height": 46.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Price Range",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 150.8000030517578,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Brands + Models",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 327.6000061035156,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Year",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 773.4000244140625,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kms Driven",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 1114.2000732421875,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Fuel Type",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 1421,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Body Type",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 1669.800048828125,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Transmission",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 1882.5999755859375,
+      "width": 210.0500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Car Category",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2041,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Color",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2093.800048828125,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2137.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 68.80000305175781,
+      "y": 2137.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 120.80000305175781,
+      "y": 2137.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 172.8000030517578,
+      "y": 2137.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 224.8000030517578,
+      "y": 2137.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2185.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 68.80000305175781,
+      "y": 2185.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 120.80000305175781,
+      "y": 2185.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 172.8000030517578,
+      "y": 2185.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 224.8000030517578,
+      "y": 2185.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2233.800048828125,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Safety & Features",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2314.60009765625,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Seats",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2367.400146484375,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "RTO",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2420.199951171875,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Owner",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2473,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hubs",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2525.800048828125,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Availability",
+      "tag": "BUTTON",
+      "x": 16.80000114440918,
+      "y": 2578.60009765625,
+      "width": 260.8000183105469,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "HOME",
+      "tag": "A",
+      "x": 334.3999938964844,
+      "y": 142,
+      "width": 74.8499984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "USED CARS",
+      "tag": "A",
+      "x": 409.25,
+      "y": 142,
+      "width": 102.92500305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 338.3999938964844,
+      "y": 240.40000915527344,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1216,
+      "y": 240.40000915527344,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Hyundai",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tata",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maruti-Suzuki",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kia",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pre-owned luxury cars",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mercedes-Benz",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BMW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Audi",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hyundai Creta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maruti Suzuki Baleno",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tata Nexon",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kia Seltos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tata Punch",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Used cars under Rs. 5 lakh",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "second hand cars under Rs. 10 lakh",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "second hand hatchback",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sedan",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SUV",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spinny Car Hub in Dwarka",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maruti Suzuki",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maruti Suzuki Baleno",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sell your car online",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "car valuation",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2nd Hand Hyundai Cars in Delhi NCR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Used Maruti Suzuki Cars in Delhi NCR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pre Owned Tata Cars in Delhi NCR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Old Honda Cars in Delhi NCR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Used Petrol Cars in Delhi NCR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Used Diesel Cars in Delhi NCR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Luxury Cars in Delhi NCR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2020 Honda Amaze",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 527.2000122070312,
+      "width": 140.52500915527344,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2020 Hyundai Grand i10 Nios",
+      "tag": "A",
+      "x": 661.0875244140625,
+      "y": 527.2000122070312,
+      "width": 183.8125,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2020 Tata Altroz",
+      "tag": "A",
+      "x": 975.7750244140625,
+      "y": 527.2000122070312,
+      "width": 117.45000457763672,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2017 Hyundai Elite i20",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 790,
+      "width": 158.47500610351562,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2020 Skoda Rapid",
+      "tag": "A",
+      "x": 661.0875244140625,
+      "y": 790,
+      "width": 130.3000030517578,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2022 Hyundai Aura",
+      "tag": "A",
+      "x": 975.7750244140625,
+      "y": 790,
+      "width": 137.60000610351562,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2025 Tata Punch",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 1052.800048828125,
+      "width": 117.1624984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2025 Mahindra XUV700",
+      "tag": "A",
+      "x": 661.0875244140625,
+      "y": 1052.800048828125,
+      "width": 171.9499969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2023 Tata Punch",
+      "tag": "A",
+      "x": 975.7750244140625,
+      "y": 1052.800048828125,
+      "width": 116.8375015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2021 Maruti Baleno",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 1624.800048828125,
+      "width": 136.0124969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2020 Hyundai Elite i20",
+      "tag": "A",
+      "x": 661.0875244140625,
+      "y": 1624.800048828125,
+      "width": 161.66250610351562,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2021 Hyundai Grand i10 Nios",
+      "tag": "A",
+      "x": 975.7750244140625,
+      "y": 1624.800048828125,
+      "width": 183.9875030517578,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2020 Maruti Baleno",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 1887.5999755859375,
+      "width": 138.53750610351562,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2024 Hyundai Creta",
+      "tag": "A",
+      "x": 661.0875244140625,
+      "y": 1887.5999755859375,
+      "width": 142.27500915527344,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2024 Hyundai Creta",
+      "tag": "A",
+      "x": 975.7750244140625,
+      "y": 1887.5999755859375,
+      "width": 142.27500915527344,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2018 Ford Freestyle",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 2150.400146484375,
+      "width": 138.6750030517578,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2017 Maruti Swift",
+      "tag": "A",
+      "x": 661.0875244140625,
+      "y": 2150.400146484375,
+      "width": 122.36250305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2017 Land Rover Discovery Sport",
+      "tag": "A",
+      "x": 975.7750244140625,
+      "y": 2150.400146484375,
+      "width": 177.0625,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2019 Jeep Compass",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 2413.199951171875,
+      "width": 137.625,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2023 Audi A4",
+      "tag": "A",
+      "x": 661.0875244140625,
+      "y": 2413.199951171875,
+      "width": 100.0250015258789,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2021 Jeep Compass",
+      "tag": "A",
+      "x": 975.7750244140625,
+      "y": 2413.199951171875,
+      "width": 137.4499969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "2019 Mahindra XUV 300",
+      "tag": "A",
+      "x": 346.3999938964844,
+      "y": 2676,
+      "width": 174.02500915527344,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20.80000114440918,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2021 Nissan Magnite XE\n\n15K km\nPetrol\nManual\n4.13 Lakh\nEMI from ₹7,101/m",
+      "tag": "A",
+      "x": 20.80000114440918,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Faridabad",
+      "tag": "A",
+      "x": 20.80000114440918,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2020 Honda Amaze 1.2 VX MT Petrol\n\n71K km\nPetrol\nManual\n5.15 Lakh\nEMI from ₹8,90",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Trillium Avenue, Gurgaon",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 628.7999877929688,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2020 Hyundai Grand i10 Nios Sportz AMT 1.2 Kappa VTVT\n\n43K km\nPetrol\nAutomatic\n4",
+      "tag": "A",
+      "x": 628.7999877929688,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Rcube Monad Mall, Rajouri",
+      "tag": "A",
+      "x": 628.7999877929688,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 932.7999877929688,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2020 Tata Altroz XZ Petrol\n\n23K km\nPetrol\nManual\n5.21 Lakh\nEMI from ₹9,008/m",
+      "tag": "A",
+      "x": 932.7999877929688,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, GNB Mall Ghaziabad",
+      "tag": "A",
+      "x": 932.7999877929688,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1236.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2026 Tata Tiago EV XT Medium Range\n\n6K km\nElectric\nAutomatic\n6.61 Lakh\nEMI from ",
+      "tag": "A",
+      "x": 1236.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Taj Vivanta, Dwarka, Delhi",
+      "tag": "A",
+      "x": 1236.800048828125,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1540.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2020 Toyota Glanza V CVT\n\n29K km\nPetrol\nAutomatic\n6.05 Lakh\nEMI from ₹10,370/m",
+      "tag": "A",
+      "x": 1540.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Trillium Avenue, Gurgaon",
+      "tag": "A",
+      "x": 1540.800048828125,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1844.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2023 Hyundai New i20 Asta (O) 1.2 IVT\n\n53K km\nPetrol\nAutomatic\n7.51 Lakh\nEMI fro",
+      "tag": "A",
+      "x": 1844.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, GNB Mall Ghaziabad",
+      "tag": "A",
+      "x": 1844.800048828125,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2148.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2021 Maruti Suzuki Ciaz Alpha 1.5\n\n68K km\nPetrol\nManual\n6.21 Lakh\nEMI from ₹10,7",
+      "tag": "A",
+      "x": 2148.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2148.800048828125,
+      "y": 3273.97509765625,
+      "width": 286.3999938964844,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2452.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2021 Honda WR-V VX MT Diesel\n\n88K km\nDiesel\nManual\n6.44 Lakh\nEMI from ₹11,103/m",
+      "tag": "A",
+      "x": 2452.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2452.800048828125,
+      "y": 3273.97509765625,
+      "width": 286.3999938964844,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2756.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2017 Hyundai Elite i20 Asta 1.2\n\n92K km\nPetrol\nManual\n3.77 Lakh\nEMI from ₹6,488/",
+      "tag": "A",
+      "x": 2756.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Rcube Monad Mall, Rajouri",
+      "tag": "A",
+      "x": 2756.800048828125,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3060.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2025 Tata Punch Pure CNG\n\n23K km\nCng\nManual\n6.24 Lakh\nEMI from ₹10,762/m",
+      "tag": "A",
+      "x": 3060.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3060.800048828125,
+      "y": 3273.97509765625,
+      "width": 286.3999938964844,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3364.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2023 Hyundai Verna SX 1.5 Petrol IVT\n\n41K km\nPetrol\nAutomatic\n8.70 Lakh\nEMI from",
+      "tag": "A",
+      "x": 3364.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3364.800048828125,
+      "y": 3273.97509765625,
+      "width": 286.3999938964844,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3668.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2019 Tata Tiago Revotron XE\n\n30K km\nPetrol\nManual\n3.09 Lakh\nEMI from ₹5,398/m",
+      "tag": "A",
+      "x": 3668.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3668.800048828125,
+      "y": 3273.97509765625,
+      "width": 286.3999938964844,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3972.800048828125,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2017 Tata Tiago Revotron XM\n\n72K km\nPetrol\nManual\n2.41 Lakh\nEMI from ₹4,532/m",
+      "tag": "A",
+      "x": 3972.800048828125,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3972.800048828125,
+      "y": 3273.97509765625,
+      "width": 286.3999938964844,
+      "height": 29,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4276.80029296875,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2023 Hyundai i20 Asta (O) 1.2 IVT\n\n18K km\nPetrol\nAutomatic\n7.91 Lakh\nEMI from ₹1",
+      "tag": "A",
+      "x": 4276.80029296875,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Rcube Monad Mall, Rajouri",
+      "tag": "A",
+      "x": 4276.80029296875,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4580.80029296875,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2022 Maruti Suzuki XL6 Alpha Plus AT Petrol\n\n13K km\nPetrol\nAutomatic\n11.23 Lakh\n",
+      "tag": "A",
+      "x": 4580.80029296875,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Universal Trade Tower, Sohna Road, Gurgaon",
+      "tag": "A",
+      "x": 4580.80029296875,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4884.80029296875,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2022 Hyundai Venue S Plus 1.2 Petrol\n\n15K km\nPetrol\nManual\n7.05 Lakh\nEMI from ₹1",
+      "tag": "A",
+      "x": 4884.80029296875,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Gaur City, Noida",
+      "tag": "A",
+      "x": 4884.80029296875,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5188.80029296875,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2023 Hyundai Verna SX 1.5 Petrol MT\n\n45K km\nPetrol\nManual\n9.14 Lakh\nEMI from ₹15",
+      "tag": "A",
+      "x": 5188.80029296875,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Universal Trade Tower, Sohna Road, Gurgaon",
+      "tag": "A",
+      "x": 5188.80029296875,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5492.80029296875,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2024 Nissan Magnite XL\n\n22K km\nPetrol\nManual\n5.26 Lakh\nEMI from ₹9,076/m",
+      "tag": "A",
+      "x": 5492.80029296875,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Mini Hub,Karnal",
+      "tag": "A",
+      "x": 5492.80029296875,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5796.80029296875,
+      "y": 3009.60009765625,
+      "width": 286.3999938964844,
+      "height": 160.375,
+      "visible": true
+    },
+    {
+      "text": "2022 Maruti Suzuki Swift VXi\n\n58K km\nPetrol\nManual\n4.89 Lakh\nEMI from ₹8,395/m",
+      "tag": "A",
+      "x": 5796.80029296875,
+      "y": 3169.97509765625,
+      "width": 286.3999938964844,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "Spinny Hub, Indirapuram Habitat Centre, Ghaziabad",
+      "tag": "A",
+      "x": 5796.80029296875,
+      "y": 3274.175048828125,
+      "width": 286.3999938964844,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 97.5,
+      "y": 3710.775146484375,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1150.5,
+      "y": 3710.775146484375,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1188,
+      "y": 4015.775146484375,
+      "width": 36,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1224,
+      "y": 4015.775146484375,
+      "width": 36,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "View all Reviews",
+      "tag": "A",
+      "x": 520,
+      "y": 4321.375,
+      "width": 240,
+      "height": 51.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 92,
+      "y": 4646.5751953125,
+      "width": 480,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 92,
+      "y": 4888.17529296875,
+      "width": 136.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 228.875,
+      "y": 4888.17529296875,
+      "width": 48,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 276.875,
+      "y": 4888.17529296875,
+      "width": 132.41250610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 409.2875061035156,
+      "y": 4888.17529296875,
+      "width": 48,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Get Instant Quotes",
+      "tag": "A",
+      "x": 262.6000061035156,
+      "y": 5044.97509765625,
+      "width": 155.65000915527344,
+      "height": 51.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Browse Cars",
+      "tag": "A",
+      "x": 432.25,
+      "y": 5044.97509765625,
+      "width": 118.8375015258789,
+      "height": 51.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Spinny Assured",
+      "tag": "A",
+      "x": 692,
+      "y": 4675.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Who we are",
+      "tag": "A",
+      "x": 692,
+      "y": 4700.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 692,
+      "y": 4725.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 692,
+      "y": 4750.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Customer reviews",
+      "tag": "A",
+      "x": 692,
+      "y": 4775.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Car hub locations",
+      "tag": "A",
+      "x": 692,
+      "y": 4800.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Popular car overview",
+      "tag": "A",
+      "x": 692,
+      "y": 4825.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 692,
+      "y": 4850.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 692,
+      "y": 4875.5751953125,
+      "width": 123.95000457763672,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Buy car",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4675.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Sell car",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4700.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Used car loan",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4725.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Car service",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4750.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Car insurance",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4775.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Challan",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4800.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Spinny Partners",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4825.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "FASTag recharge",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4850.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Autocar India",
+      "tag": "A",
+      "x": 903.9500122070312,
+      "y": 4875.5751953125,
+      "width": 102.2874984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Periodic service",
+      "tag": "A",
+      "x": 692,
+      "y": 4969.5751953125,
+      "width": 126.3499984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AC servicing",
+      "tag": "A",
+      "x": 692,
+      "y": 4994.5751953125,
+      "width": 126.3499984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Clutch & suspension",
+      "tag": "A",
+      "x": 692,
+      "y": 5019.5751953125,
+      "width": 126.3499984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Health check services",
+      "tag": "A",
+      "x": 692,
+      "y": 5044.5751953125,
+      "width": 126.3499984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Wheel care",
+      "tag": "A",
+      "x": 692,
+      "y": 5069.5751953125,
+      "width": 126.3499984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Washing & cleaning",
+      "tag": "A",
+      "x": 692,
+      "y": 5094.5751953125,
+      "width": 126.3499984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "How buying works",
+      "tag": "A",
+      "x": 906.3500366210938,
+      "y": 4969.5751953125,
+      "width": 110.0875015258789,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Inspection process",
+      "tag": "A",
+      "x": 906.3500366210938,
+      "y": 4994.5751953125,
+      "width": 110.0875015258789,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Service cost calculator",
+      "tag": "A",
+      "x": 692,
+      "y": 5188.5751953125,
+      "width": 130.41250610351562,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "EMI calculator",
+      "tag": "A",
+      "x": 692,
+      "y": 5213.5751953125,
+      "width": 130.41250610351562,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Trade with us",
+      "tag": "A",
+      "x": 910.4125366210938,
+      "y": 5188.5751953125,
+      "width": 92.9124984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Connect with us",
+      "tag": "A",
+      "x": 910.4125366210938,
+      "y": 5213.5751953125,
+      "width": 92.9124984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "A",
+      "x": 692,
+      "y": 5307.5751953125,
+      "width": 112.7750015258789,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Terms & conditions",
+      "tag": "A",
+      "x": 692,
+      "y": 5332.5751953125,
+      "width": 112.7750015258789,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Delhi NCR |",
+      "tag": "A",
+      "x": 92,
+      "y": 5452.5751953125,
+      "width": 72.9375,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bangalore |",
+      "tag": "A",
+      "x": 164.9375,
+      "y": 5452.5751953125,
+      "width": 70.0875015258789,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad |",
+      "tag": "A",
+      "x": 235.02500915527344,
+      "y": 5452.5751953125,
+      "width": 76.625,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mumbai |",
+      "tag": "A",
+      "x": 311.6499938964844,
+      "y": 5452.5751953125,
+      "width": 58.57500076293945,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Pune |",
+      "tag": "A",
+      "x": 370.2250061035156,
+      "y": 5452.5751953125,
+      "width": 40.03750228881836,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Delhi |",
+      "tag": "A",
+      "x": 410.26251220703125,
+      "y": 5452.5751953125,
+      "width": 41.150001525878906,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Gurgaon |",
+      "tag": "A",
+      "x": 451.4125061035156,
+      "y": 5452.5751953125,
+      "width": 63.462501525878906,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Noida |",
+      "tag": "A",
+      "x": 514.875,
+      "y": 5452.5751953125,
+      "width": 47.16250228881836,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad |",
+      "tag": "A",
+      "x": 92,
+      "y": 5477.375,
+      "width": 83.0999984741211,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Chennai |",
+      "tag": "A",
+      "x": 175.10000610351562,
+      "y": 5477.375,
+      "width": 59.4375,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Kolkata |",
+      "tag": "A",
+      "x": 234.53750610351562,
+      "y": 5477.375,
+      "width": 52.61249923706055,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Lucknow |",
+      "tag": "A",
+      "x": 287.1499938964844,
+      "y": 5477.375,
+      "width": 62.212501525878906,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Jaipur |",
+      "tag": "A",
+      "x": 349.3625183105469,
+      "y": 5477.375,
+      "width": 43.98749923706055,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Agra |",
+      "tag": "A",
+      "x": 393.3500061035156,
+      "y": 5477.375,
+      "width": 39.48749923706055,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Ambala |",
+      "tag": "A",
+      "x": 432.8374938964844,
+      "y": 5477.375,
+      "width": 55.48749923706055,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Chandigarh |",
+      "tag": "A",
+      "x": 488.32501220703125,
+      "y": 5477.375,
+      "width": 79.80000305175781,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Coimbatore |",
+      "tag": "A",
+      "x": 92,
+      "y": 5502.17529296875,
+      "width": 80.625,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Faridabad |",
+      "tag": "A",
+      "x": 172.625,
+      "y": 5502.17529296875,
+      "width": 70.0625,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Ghaziabad |",
+      "tag": "A",
+      "x": 242.6875,
+      "y": 5502.17529296875,
+      "width": 75.0875015258789,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Jodhpur |",
+      "tag": "A",
+      "x": 317.7749938964844,
+      "y": 5502.17529296875,
+      "width": 56.88750076293945,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Kanpur |",
+      "tag": "A",
+      "x": 374.6625061035156,
+      "y": 5502.17529296875,
+      "width": 52.98749923706055,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Karnal |",
+      "tag": "A",
+      "x": 427.6499938964844,
+      "y": 5502.17529296875,
+      "width": 47.26250076293945,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Kochi |",
+      "tag": "A",
+      "x": 474.9125061035156,
+      "y": 5502.17529296875,
+      "width": 43.775001525878906,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Ludhiana |",
+      "tag": "A",
+      "x": 518.6875,
+      "y": 5502.17529296875,
+      "width": 63.6875,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mangaluru |",
+      "tag": "A",
+      "x": 92,
+      "y": 5526.97509765625,
+      "width": 73.32500457763672,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mohali |",
+      "tag": "A",
+      "x": 165.3249969482422,
+      "y": 5526.97509765625,
+      "width": 50.212501525878906,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mysuru |",
+      "tag": "A",
+      "x": 215.53750610351562,
+      "y": 5526.97509765625,
+      "width": 53.60000228881836,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Nagpur |",
+      "tag": "A",
+      "x": 269.13751220703125,
+      "y": 5526.97509765625,
+      "width": 56.375,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Prayagraj |",
+      "tag": "A",
+      "x": 325.51251220703125,
+      "y": 5526.97509765625,
+      "width": 65.8375015258789,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Ranchi |",
+      "tag": "A",
+      "x": 391.3500061035156,
+      "y": 5526.97509765625,
+      "width": 49.962501525878906,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Sonipat |",
+      "tag": "A",
+      "x": 441.3125,
+      "y": 5526.97509765625,
+      "width": 54.95000076293945,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Vadodara |",
+      "tag": "A",
+      "x": 496.26251220703125,
+      "y": 5526.97509765625,
+      "width": 68.73750305175781,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Visakhapatnam |",
+      "tag": "A",
+      "x": 92,
+      "y": 5551.77490234375,
+      "width": 99.6624984741211,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Delhi NCR |",
+      "tag": "A",
+      "x": 660,
+      "y": 5452.5751953125,
+      "width": 72.9375,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Bangalore |",
+      "tag": "A",
+      "x": 732.9375,
+      "y": 5452.5751953125,
+      "width": 70.0875015258789,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Hyderabad |",
+      "tag": "A",
+      "x": 803.0250244140625,
+      "y": 5452.5751953125,
+      "width": 76.625,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mumbai |",
+      "tag": "A",
+      "x": 879.6500244140625,
+      "y": 5452.5751953125,
+      "width": 58.57500076293945,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Pune |",
+      "tag": "A",
+      "x": 938.2250366210938,
+      "y": 5452.5751953125,
+      "width": 40.03750228881836,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad |",
+      "tag": "A",
+      "x": 978.2625122070312,
+      "y": 5452.5751953125,
+      "width": 83.0999984741211,
+      "height": 24.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Chennai",
+      "tag": "A",
+      "x": 1061.362548828125,
+      "y": 5452.5751953125,
+      "width": 49.22500228881836,
+      "height": 24.80000114440918,
+      "visible": true
+    }
+  ]
+}

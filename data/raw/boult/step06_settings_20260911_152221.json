@@ -1,0 +1,1197 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://goboult.co.in/account",
+  "timestamp": "20260911_152221",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 0,
+      "y": -216,
+      "width": 120,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "HOLI SALE | upto 80% off",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 42.5,
+      "y": 0,
+      "width": 226,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "Categories",
+      "tag": "A",
+      "x": 335.82501220703125,
+      "y": 0,
+      "width": 54.6875,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home AudioNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PowerbanksNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support & Warranty",
+      "tag": "A",
+      "x": 410.51251220703125,
+      "y": 0,
+      "width": 98.625,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series",
+      "tag": "A",
+      "x": 529.1375122070312,
+      "y": 0,
+      "width": 77.92500305175781,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "Corporate Orders",
+      "tag": "A",
+      "x": 627.0625,
+      "y": 0,
+      "width": 87.17500305175781,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "More",
+      "tag": "A",
+      "x": 734.2374877929688,
+      "y": 0,
+      "width": 25.899999618530273,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 865.7999877929688,
+      "y": 16.5,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Order History",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1072.5999755859375,
+      "y": 52.5,
+      "width": 63.75,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1072.5999755859375,
+      "y": 52.5,
+      "width": 115.57500457763672,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1072.5999755859375,
+      "y": 52.5,
+      "width": 37.78750228881836,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cart\n1\n1 item",
+      "tag": "A",
+      "x": 1182.800048828125,
+      "y": 9.5,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home Audio",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powerbanks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1175,
+      "y": -91.80000305175781,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 892.6000366210938,
+      "y": -37.79999923706055,
+      "width": 296.3999938964844,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 966.7875366210938,
+      "y": 17.200000762939453,
+      "width": 148.0124969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop by Categories\n              \n                \n      \n    \n\n  svg.logo-gobou",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home Audio\nNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powerbanks\nNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop by Lifestyle\n              \n                \n      \n    \n\n  svg.logo-goboul",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Audiophile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Workout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Travel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gaming\nNEW ARRIVAL",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support & Warranty\n              \n                \n      \n    \n\n  svg.logo-gobou",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate Orders\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    wid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300px",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300p",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account\n          \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Profile",
+      "tag": "A",
+      "x": 80,
+      "y": 150,
+      "width": 136.8000030517578,
+      "height": 67.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Your Order",
+      "tag": "A",
+      "x": 80,
+      "y": 237.1999969482422,
+      "width": 136.8000030517578,
+      "height": 67.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Logout",
+      "tag": "A",
+      "x": 80,
+      "y": 324.3999938964844,
+      "width": 136.8000030517578,
+      "height": 67.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 362.8000183105469,
+      "y": 536.2999877929688,
+      "width": 301.1000061035156,
+      "height": 70.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 187.78750610351562,
+      "y": 1038.7000732421875,
+      "width": 132.1125030517578,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "True Wireless",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 801.4000244140625,
+      "width": 72.70000457763672,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "DashCam",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 819,
+      "width": 54.28750228881836,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 841.6000366210938,
+      "width": 82.875,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 864.2000122070312,
+      "width": 62.400001525878906,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 886.7999877929688,
+      "width": 70.0875015258789,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 909.4000244140625,
+      "width": 50.75,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smartwatch Straps",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 932,
+      "width": 103.45000457763672,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 954.6000366210938,
+      "width": 66.125,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Audiophile",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 801.4000244140625,
+      "width": 57.73749923706055,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Workout",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 819,
+      "width": 45.875,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Travel",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 841.6000366210938,
+      "width": 31.899999618530273,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Gaming",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 864.2000122070312,
+      "width": 42.79999923706055,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 801.4000244140625,
+      "width": 116.73750305175781,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 819,
+      "width": 157.72500610351562,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Customer support",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 841.6000366210938,
+      "width": 98.2249984741211,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 864.2000122070312,
+      "width": 63.04999923706055,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 1034.0999755859375,
+      "width": 50.85000228881836,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 1051.7000732421875,
+      "width": 42.51250076293945,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 1074.300048828125,
+      "width": 30.61250114440918,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bulk Order",
+      "tag": "A",
+      "x": 869.2250366210938,
+      "y": 1034.0999755859375,
+      "width": 57.400001525878906,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 509.0500183105469,
+      "y": 1192.7000732421875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 570.7250366210938,
+      "y": 1192.7000732421875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "YouTube",
+      "tag": "A",
+      "x": 632.4000244140625,
+      "y": 1192.7000732421875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "YouTube",
+      "tag": "A",
+      "x": 694.0750122070312,
+      "y": 1192.7000732421875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions**",
+      "tag": "A",
+      "x": 452.1750183105469,
+      "y": 1253.7000732421875,
+      "width": 109.3499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 570.3250122070312,
+      "y": 1253.7000732421875,
+      "width": 68.8375015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Site map",
+      "tag": "A",
+      "x": 647.9625244140625,
+      "y": 1253.7000732421875,
+      "width": 43.875,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "E-Waste Management",
+      "tag": "A",
+      "x": 700.6375122070312,
+      "y": 1253.7000732421875,
+      "width": 111.9749984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "GOBOULT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": -8748.2001953125,
+      "y": 35.63750076293945,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab - Racer Apex Blue",
+      "tag": "A",
+      "x": -9006.2001953125,
+      "y": 141.0749969482422,
+      "width": 214,
+      "height": 37.900001525878906,
+      "visible": true
+    },
+    {
+      "text": "-",
+      "tag": "BUTTON",
+      "x": -9005.400390625,
+      "y": 243.1750030517578,
+      "width": 28,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": -8925.400390625,
+      "y": 243.1750030517578,
+      "width": 28,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Checkout",
+      "tag": "BUTTON",
+      "x": -9150.2001953125,
+      "y": 641,
+      "width": 432,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1204.800048828125,
+      "y": 588,
+      "width": 60,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Go to UK store",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "STAY IN THIS STORE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Other Countries/Regions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONFIRM",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CANCEL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

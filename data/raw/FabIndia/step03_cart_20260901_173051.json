@@ -1,0 +1,2196 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.fabindia.com/cart",
+  "timestamp": "20260901_173051",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skip to Main Content",
+      "tag": "BUTTON",
+      "x": 535.8250122070312,
+      "y": -720,
+      "width": 208.33750915527344,
+      "height": 59.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Skip to Footer",
+      "tag": "BUTTON",
+      "x": 559.1375122070312,
+      "y": -720,
+      "width": 161.71250915527344,
+      "height": 59.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 85,
+      "y": 6.5,
+      "width": 128,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 434.6499938964844,
+      "y": 23.399999618530273,
+      "width": 48.775001525878906,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Address",
+      "tag": "A",
+      "x": 674.4500122070312,
+      "y": 23.399999618530273,
+      "width": 72.76250457763672,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Payment",
+      "tag": "A",
+      "x": 923.2875366210938,
+      "y": 23.399999618530273,
+      "width": 78.7125015258789,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 80,
+      "y": 154.8000030517578,
+      "width": 178,
+      "height": 203.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "Indigo Cotton Embroidered Long Kurta",
+      "tag": "A",
+      "x": 270,
+      "y": 154.8000030517578,
+      "width": 447.6625061035156,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "-",
+      "tag": "BUTTON",
+      "x": 270.8000183105469,
+      "y": 254.8000030517578,
+      "width": 20.1875,
+      "height": 28.92500114440918,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 325.375,
+      "y": 254.8000030517578,
+      "width": 20.1875,
+      "height": 28.92500114440918,
+      "visible": true
+    },
+    {
+      "text": "Apply",
+      "tag": "BUTTON",
+      "x": 1122.362548828125,
+      "y": 94.0999984741211,
+      "width": 77.63750457763672,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "Proceed To Checkout",
+      "tag": "BUTTON",
+      "x": 840.7999877929688,
+      "y": 307.3999938964844,
+      "width": 359.20001220703125,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 44.5,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 44.5,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Black Cotton Pintuck Knee Length Kurta",
+      "tag": "A",
+      "x": 59.5,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 59.5,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 90.5250015258789,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 124.2249984741211,
+      "y": 802.2875366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 154.5625,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 191.97500610351562,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 59.5,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 285.70001220703125,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 285.70001220703125,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Maroon Cotton Ajrakh Printed Knee Length Kurta",
+      "tag": "A",
+      "x": 300.70001220703125,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 300.70001220703125,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 331.7250061035156,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 365.4250183105469,
+      "y": 802.2875366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 395.76251220703125,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 433.1750183105469,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 300.70001220703125,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 526.9000244140625,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 526.9000244140625,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Black Cotton Long Kurta",
+      "tag": "A",
+      "x": 541.9000244140625,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 541.9000244140625,
+      "y": 802.2875366210938,
+      "width": 27.912500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 579.8125,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 610.8375244140625,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 644.5375366210938,
+      "y": 802.2875366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 674.875,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 712.2875366210938,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 756.7625122070312,
+      "y": 802.2875366210938,
+      "width": 41.54999923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 541.9000244140625,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 768.1000366210938,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 768.1000366210938,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Indigo Cotton Bagru Printed Short Kurta",
+      "tag": "A",
+      "x": 783.1000366210938,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 783.1000366210938,
+      "y": 802.2875366210938,
+      "width": 27.912500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 821.0125122070312,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 852.0375366210938,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 885.7374877929688,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 923.1500244140625,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 783.1000366210938,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1009.2999877929688,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1009.2999877929688,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Maroon Cotton Hand Embroidered Slim Fit Long Kurta",
+      "tag": "A",
+      "x": 1024.300048828125,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1024.300048828125,
+      "y": 802.2875366210938,
+      "width": 27.912500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1062.2125244140625,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1093.237548828125,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1126.9375,
+      "y": 802.2875366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1157.2750244140625,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1194.6875,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1024.300048828125,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1250.5,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1250.5,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Olive Cotton Kalamkari Long Kurta",
+      "tag": "A",
+      "x": 1265.5,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1265.5,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1296.5250244140625,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1330.2249755859375,
+      "y": 802.2875366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1360.5625,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1397.9749755859375,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1265.5,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1491.7000732421875,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1491.7000732421875,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Green Cotton Hand Block Printed Long Kurta",
+      "tag": "A",
+      "x": 1506.7000732421875,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1506.7000732421875,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1537.7249755859375,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1571.425048828125,
+      "y": 802.2875366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1601.7625732421875,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1639.175048828125,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1506.7000732421875,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1732.9000244140625,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1732.9000244140625,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 287.26251220703125,
+      "visible": true
+    },
+    {
+      "text": "Indigo Cotton Hand Block Print Long Kurta",
+      "tag": "A",
+      "x": 1747.9000244140625,
+      "y": 751.0875244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1747.9000244140625,
+      "y": 802.2875366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1778.925048828125,
+      "y": 802.2875366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1812.625,
+      "y": 802.2875366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1842.9625244140625,
+      "y": 802.2875366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1880.375,
+      "y": 802.2875366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1747.9000244140625,
+      "y": 836.2875366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1974.0999755859375,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1974.0999755859375,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 226.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "Natural-Maroon Cotton Bagru Printed Slim Fit Short Kurta",
+      "tag": "A",
+      "x": 1989.0999755859375,
+      "y": 690.0250244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1989.0999755859375,
+      "y": 741.2250366210938,
+      "width": 27.912500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2027.0125732421875,
+      "y": 741.2250366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2058.03759765625,
+      "y": 741.2250366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2091.737548828125,
+      "y": 741.2250366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2122.074951171875,
+      "y": 741.2250366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1989.0999755859375,
+      "y": 775.2250366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2215.300048828125,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2215.300048828125,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 226.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "Indigo Cotton Hand Block Printed Short Kurta",
+      "tag": "A",
+      "x": 2230.300048828125,
+      "y": 690.0250244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2230.300048828125,
+      "y": 741.2250366210938,
+      "width": 27.912500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2268.212646484375,
+      "y": 741.2250366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2299.237548828125,
+      "y": 741.2250366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2332.9375,
+      "y": 741.2250366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2363.275146484375,
+      "y": 741.2250366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2400.6875,
+      "y": 741.2250366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2230.300048828125,
+      "y": 775.2250366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2456.5,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2456.5,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 226.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "Maroon Cotton Bagh Printed Short Kurta",
+      "tag": "A",
+      "x": 2471.5,
+      "y": 690.0250244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2471.5,
+      "y": 741.2250366210938,
+      "width": 27.912500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2509.41259765625,
+      "y": 741.2250366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2540.4375,
+      "y": 741.2250366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2574.137451171875,
+      "y": 741.2250366210938,
+      "width": 20.337499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2604.47509765625,
+      "y": 741.2250366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2641.887451171875,
+      "y": 741.2250366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2471.5,
+      "y": 775.2250366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2697.699951171875,
+      "y": 448.82501220703125,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2697.699951171875,
+      "y": 448.82501220703125,
+      "width": 226.1999969482422,
+      "height": 226.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "Maroon Cotton Hand Block Printed Short Kurta",
+      "tag": "A",
+      "x": 2712.699951171875,
+      "y": 690.0250244140625,
+      "width": 196.1999969482422,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2712.699951171875,
+      "y": 741.2250366210938,
+      "width": 27.912500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2750.612548828125,
+      "y": 741.2250366210938,
+      "width": 21.024999618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2781.637451171875,
+      "y": 741.2250366210938,
+      "width": 23.700000762939453,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2815.337646484375,
+      "y": 741.2250366210938,
+      "width": 27.412500381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2852.75,
+      "y": 741.2250366210938,
+      "width": 34.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 2712.699951171875,
+      "y": 775.2250366210938,
+      "width": 196.1999969482422,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 44.5,
+      "y": 564.9750366210938,
+      "width": 25,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1210.5,
+      "y": 564.9750366210938,
+      "width": 25,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Cotton Pintuck Knee Length Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maroon Cotton Ajrakh Printed Knee Length Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Cotton Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indigo Cotton Bagru Printed Short Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maroon Cotton Hand Embroidered Slim Fit Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Olive Cotton Kalamkari Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Green Cotton Hand Block Printed Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indigo Cotton Hand Block Print Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Natural-Maroon Cotton Bagru Printed Slim Fit Short Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indigo Cotton Hand Block Printed Short Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maroon Cotton Bagh Printed Short Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "L",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maroon Cotton Hand Block Printed Short Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "S",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "M",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XXL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Need Help? Contact Us",
+      "tag": "A",
+      "x": 1062.3125,
+      "y": 884.2875366210938,
+      "width": 153.6875,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1215,
+      "y": 666.1000366210938,
+      "width": 40,
+      "height": 23.200000762939453,
+      "visible": true
+    }
+  ]
+}

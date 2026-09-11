@@ -1,0 +1,2601 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://goboult.co.in/",
+  "timestamp": "20260911_152244",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 0,
+      "y": -16,
+      "width": 120,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "HOLI SALE | upto 80% off",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 45.5,
+      "y": 33.900001525878906,
+      "width": 226,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "Categories",
+      "tag": "A",
+      "x": 335.82501220703125,
+      "y": 30.899999618530273,
+      "width": 54.6875,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home AudioNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PowerbanksNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support & Warranty",
+      "tag": "A",
+      "x": 410.51251220703125,
+      "y": 30.899999618530273,
+      "width": 98.625,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series",
+      "tag": "A",
+      "x": 529.1375122070312,
+      "y": 30.899999618530273,
+      "width": 77.92500305175781,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "Corporate Orders",
+      "tag": "A",
+      "x": 627.0625,
+      "y": 30.899999618530273,
+      "width": 87.17500305175781,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "More",
+      "tag": "A",
+      "x": 734.2374877929688,
+      "y": 30.899999618530273,
+      "width": 25.899999618530273,
+      "height": 69,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 865.7999877929688,
+      "y": 50.400001525878906,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Order History",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cart\n1\n1 item",
+      "tag": "A",
+      "x": 1182.800048828125,
+      "y": 43.400001525878906,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home Audio",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powerbanks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Login/Sign up",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1175,
+      "y": -54.900001525878906,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 892.6000366210938,
+      "y": -0.9000000357627869,
+      "width": 296.3999938964844,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 966.7875366210938,
+      "y": 54.10000228881836,
+      "width": 148.0124969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop by Categories\n              \n                \n      \n    \n\n  svg.logo-gobou",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home Audio\nNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powerbanks\nNew Arrival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mustang Series\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop by Lifestyle\n              \n                \n      \n    \n\n  svg.logo-goboul",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Audiophile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Workout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Travel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gaming\nNEW ARRIVAL",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support & Warranty\n              \n                \n      \n    \n\n  svg.logo-gobou",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate Orders\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    wid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300px",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us\n              \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300p",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log In \n          \n      \n      \n    \n\n  svg.logo-goboult {\n    width: 300px;\n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "svg.logo-goboult {\n    width: 300px;\n    height: 46px;\n    padding-right: 130px;",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "True Wireless Stereo",
+      "tag": "A",
+      "x": 10,
+      "y": 109.9000015258789,
+      "width": 124.80000305175781,
+      "height": 138.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "Mustang Series",
+      "tag": "A",
+      "x": 174.8000030517578,
+      "y": 109.9000015258789,
+      "width": 100,
+      "height": 138.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 314.8000183105469,
+      "y": 109.9000015258789,
+      "width": 100,
+      "height": 138.40000915527344,
+      "visible": true
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 454.8000183105469,
+      "y": 119.5,
+      "width": 100,
+      "height": 119.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 594.7999877929688,
+      "y": 119.5,
+      "width": 100,
+      "height": 119.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Home Audio",
+      "tag": "A",
+      "x": 734.7999877929688,
+      "y": 119.5,
+      "width": 100,
+      "height": 119.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Powerbanks",
+      "tag": "A",
+      "x": 874.7999877929688,
+      "y": 119.5,
+      "width": 100,
+      "height": 119.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 1014.7999877929688,
+      "y": 119.5,
+      "width": 100,
+      "height": 119.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 1154.800048828125,
+      "y": 116.0999984741211,
+      "width": 100,
+      "height": 126,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2530,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1265,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 399.3125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1265,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2530,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3795,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5060,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6325,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 7590,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 8855,
+      "y": 268.3000183105469,
+      "width": 1265,
+      "height": 395.51251220703125,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.8\nMustang® Official Collab Stallion Ignite Gold | Prebook Pass\nPreboo",
+      "tag": "A",
+      "x": -601.5,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": -420.0500183105469,
+      "y": 1320.112548828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.8\nMustang® Official Collab Turbo Red Blaze | Prebook Pass\nPrebook @\n₹",
+      "tag": "A",
+      "x": -290.75,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": -109.30000305175781,
+      "y": 1320.112548828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.7\nMustang® Official Collab Stallion Nitro Ice | Prebook Pass\nPrebook ",
+      "tag": "A",
+      "x": 20,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 201.4499969482422,
+      "y": 1320.112548828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.7\nSlimX Platinum Silver | Prebook Pass\nPrebook @\n₹999\nADD",
+      "tag": "A",
+      "x": 330.75,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 397.2375183105469,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 512.2000122070312,
+      "y": 1301,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.8\nMustang® Official Collab Turbo Bronze 302 | Prebook Pass\nPrebook @\n",
+      "tag": "A",
+      "x": 641.5,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 822.9500122070312,
+      "y": 1320.112548828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.8\nSlimX Midnight Silver | Prebook Pass\nPrebook @\n₹999\nADD",
+      "tag": "A",
+      "x": 952.25,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 397.2375183105469,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1133.7000732421875,
+      "y": 1301,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.8\nAmpVault V20 Pro V2 Prebook\nPrebook @\n₹999\nADD",
+      "tag": "A",
+      "x": 1263,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 398.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1444.4500732421875,
+      "y": 1301.9124755859375,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.7\nCoup Hunter Green | Prebook Pass.\nPrebook @\n₹499\nADD",
+      "tag": "A",
+      "x": 1573.75,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 398.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1755.2000732421875,
+      "y": 1301.9124755859375,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.7\nMustang® Official Collab Turbo Black GT | Prebook Pass\nPrebook @\n₹4",
+      "tag": "A",
+      "x": 1884.5,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2065.949951171875,
+      "y": 1320.112548828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.7\nCoup Raven Black | Prebook Pass.\nPrebook @\n₹499\nADD",
+      "tag": "A",
+      "x": 2195.25,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 398.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2376.699951171875,
+      "y": 1301.9124755859375,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.9\nMustang® Official Collab - Racer Apex Blue\n₹12,999\n₹3,999\nPay₹1now,",
+      "tag": "A",
+      "x": 2506,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 440.82501220703125,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2687.449951171875,
+      "y": 1344.5875244140625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Newly In\n4.9\nMustang® Official Collab - Muscle Frost\n₹9,999\n₹2,999\nPay₹1now, res",
+      "tag": "A",
+      "x": 2816.75,
+      "y": 955.3624877929688,
+      "width": 292.75,
+      "height": 440.82501220703125,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2998.199951171875,
+      "y": 1344.5875244140625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 1458.1875,
+      "width": 310.7875061035156,
+      "height": 556.2125244140625,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab Stallion Ignite Gold | Prebook Pass\n\n₹1,499",
+      "tag": "A",
+      "x": 0,
+      "y": 1894.4000244140625,
+      "width": 330.7875061035156,
+      "height": 120,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 340.7875061035156,
+      "y": 1458.1875,
+      "width": 310.7875061035156,
+      "height": 556.2125244140625,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab Stallion Nitro Ice | Prebook Pass\n\n₹1,499",
+      "tag": "A",
+      "x": 340.7875061035156,
+      "y": 1894.4000244140625,
+      "width": 330.7875061035156,
+      "height": 120,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 681.5750122070312,
+      "y": 1458.1875,
+      "width": 310.7875061035156,
+      "height": 556.2125244140625,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab - Torq Silver\n\n₹1,799",
+      "tag": "A",
+      "x": 681.5750122070312,
+      "y": 1894.4000244140625,
+      "width": 330.7875061035156,
+      "height": 120,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1022.3624877929688,
+      "y": 1458.1875,
+      "width": 310.7875061035156,
+      "height": 556.2125244140625,
+      "visible": true
+    },
+    {
+      "text": "Rover Pro\n\n₹1,599",
+      "tag": "A",
+      "x": 1022.3624877929688,
+      "y": 1894.4000244140625,
+      "width": 330.7875061035156,
+      "height": 120,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1363.1500244140625,
+      "y": 1458.1875,
+      "width": 310.7875061035156,
+      "height": 556.2125244140625,
+      "visible": true
+    },
+    {
+      "text": "Rover Pro\n\n₹1,599",
+      "tag": "A",
+      "x": 1363.1500244140625,
+      "y": 1894.4000244140625,
+      "width": 330.7875061035156,
+      "height": 120,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.7\nMustang® Official Collab Stallion Nitro Ice | Prebook Pass\nPrebo",
+      "tag": "A",
+      "x": -601.5,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": -420.0500183105469,
+      "y": 2442.550048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.8\nAmpVault V20 Pro V2 Prebook\nPrebook @\n₹999\nADD",
+      "tag": "A",
+      "x": -290.75,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 398.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": -109.30000305175781,
+      "y": 2424.35009765625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.8\nMustang® Official Collab Turbo Red Blaze | Prebook Pass\nPrebook ",
+      "tag": "A",
+      "x": 20,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 201.4499969482422,
+      "y": 2442.550048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.8\nMustang® Official Collab Stallion Ignite Gold | Prebook Pass\nPre",
+      "tag": "A",
+      "x": 330.75,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 512.2000122070312,
+      "y": 2442.550048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.8\nSlimX Midnight Silver | Prebook Pass\nPrebook @\n₹999\nADD",
+      "tag": "A",
+      "x": 641.5,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 397.2375183105469,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 822.9500122070312,
+      "y": 2423.4375,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.7\nSlimX Platinum Silver | Prebook Pass\nPrebook @\n₹999\nADD",
+      "tag": "A",
+      "x": 952.25,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 397.2375183105469,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1133.7000732421875,
+      "y": 2423.4375,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.8\nMustang® Official Collab Turbo Bronze 302 | Prebook Pass\nPrebook",
+      "tag": "A",
+      "x": 1263,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1444.4500732421875,
+      "y": 2442.550048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.7\nCoup Hunter Green | Prebook Pass.\nPrebook @\n₹499\nADD",
+      "tag": "A",
+      "x": 1573.75,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 398.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1755.2000732421875,
+      "y": 2424.35009765625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.7\nMustang® Official Collab Turbo Black GT | Prebook Pass\nPrebook @",
+      "tag": "A",
+      "x": 1884.5,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 416.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2065.949951171875,
+      "y": 2442.550048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.9\nMustang® Official Collab - Racer Apex Blue\n₹12,999\n₹3,999\nPay₹1n",
+      "tag": "A",
+      "x": 2195.25,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 440.82501220703125,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2376.699951171875,
+      "y": 2467.025146484375,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.9\nMustang® Official Collab - Muscle Black Fury\n₹9,999\n₹2,999\nPay₹1",
+      "tag": "A",
+      "x": 2506,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 459.0249938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2687.449951171875,
+      "y": 2485.22509765625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers\n4.9\nMustang® Official Collab - Stallion Nitro Black\n₹14,999\n₹4,999\no",
+      "tag": "A",
+      "x": 2816.75,
+      "y": 2077.800048828125,
+      "width": 292.75,
+      "height": 459.0249938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2998.199951171875,
+      "y": 2485.22509765625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "GAMING\nCHECK ALL THE PRODUCTS",
+      "tag": "A",
+      "x": 16,
+      "y": 2637.425048828125,
+      "width": 293.20001220703125,
+      "height": 390.9250183105469,
+      "visible": true
+    },
+    {
+      "text": "WORKOUT\nCHECK ALL THE PRODUCTS",
+      "tag": "A",
+      "x": 329.20001220703125,
+      "y": 2637.425048828125,
+      "width": 293.20001220703125,
+      "height": 390.9250183105469,
+      "visible": true
+    },
+    {
+      "text": "TRAVEL\nCHECK ALL THE PRODUCTS",
+      "tag": "A",
+      "x": 642.4000244140625,
+      "y": 2637.425048828125,
+      "width": 293.20001220703125,
+      "height": 390.9250183105469,
+      "visible": true
+    },
+    {
+      "text": "AUDIOPHILE\nCHECK ALL THE PRODUCTS",
+      "tag": "A",
+      "x": 955.6000366210938,
+      "y": 2637.425048828125,
+      "width": 293.20001220703125,
+      "height": 390.9250183105469,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.8\nMustang® Official Collab Stallion Ignite Gold | Prebook Pass\nAnodi",
+      "tag": "A",
+      "x": -601.5,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 446.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": -420.0500183105469,
+      "y": 3564.5,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.7\nMustang® Official Collab Turbo Black GT | Prebook Pass\n32 dB ANC\nG",
+      "tag": "A",
+      "x": -290.75,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 446.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": -109.30000305175781,
+      "y": 3564.5,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.7\nMustang® Official Collab Stallion Nitro Ice | Prebook Pass\nAMOLED\n",
+      "tag": "A",
+      "x": 20,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 446.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 201.4499969482422,
+      "y": 3564.5,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.8\nMustang® Official Collab Turbo Bronze 302 | Prebook Pass\n32 dB ANC",
+      "tag": "A",
+      "x": 330.75,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 446.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 512.2000122070312,
+      "y": 3564.5,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.8\nAmpVault V20 Pro V2 Prebook\n45W fast Charging\n20000mAh Powerbank,W",
+      "tag": "A",
+      "x": 641.5,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 428.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 822.9500122070312,
+      "y": 3546.300048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.7\nCoup Raven Black | Prebook Pass.\nPrebook @\n₹499\nADD",
+      "tag": "A",
+      "x": 952.25,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 408.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1133.7000732421875,
+      "y": 3526.300048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.8\nMustang® Official Collab Turbo Red Blaze | Prebook Pass\n32 dB ANC\n",
+      "tag": "A",
+      "x": 1263,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 446.3500061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1444.4500732421875,
+      "y": 3564.5,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.7\nCoup Hunter Green | Prebook Pass.\nPrebook @\n₹499\nADD",
+      "tag": "A",
+      "x": 1573.75,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 408.1499938964844,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1755.2000732421875,
+      "y": 3526.300048828125,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.7\nAstra\nMode Sync LEDs\nCombat gaming mode\n₹3,499\n₹1,299\nPay₹1now, re",
+      "tag": "A",
+      "x": 1884.5,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 470.82501220703125,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2065.949951171875,
+      "y": 3588.97509765625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Deals\n4.9\nRaven Emerald Green\nMetallic Finish\nApp Support\n70Hr\n₹4,999\n₹1,299",
+      "tag": "A",
+      "x": 2195.25,
+      "y": 3169.75,
+      "width": 292.75,
+      "height": 470.82501220703125,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2376.699951171875,
+      "y": 3588.97509765625,
+      "width": 100.5,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Turbo P2C Varun 45s hook 2 1 1mp4",
+      "tag": "A",
+      "x": 492.740478515625,
+      "y": 3803.775146484375,
+      "width": 279.20001220703125,
+      "height": 586.75,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab Turbo Red Blaze | Prebook Pass",
+      "tag": "A",
+      "x": 502.740478515625,
+      "y": 4335.92529296875,
+      "width": 330.699951171875,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Stallion Gold unboxing Final 1mp4",
+      "tag": "A",
+      "x": 787.7152709960938,
+      "y": 3834.800048828125,
+      "width": 279.199951171875,
+      "height": 524.7000122070312,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab Stallion Ignite Gold | Prebook Pass",
+      "tag": "A",
+      "x": 797.7152709960938,
+      "y": 4304.89990234375,
+      "width": 345.1624450683594,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Mustang stallion Nitro Icec 4 1mp4",
+      "tag": "A",
+      "x": 1082.718017578125,
+      "y": 3834.800048828125,
+      "width": 279.20001220703125,
+      "height": 524.7000122070312,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab Stallion Nitro Ice | Prebook Pass",
+      "tag": "A",
+      "x": 1092.718017578125,
+      "y": 4304.89990234375,
+      "width": 330.57501220703125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Stallion Wtch Montage Finall 1mp4",
+      "tag": "A",
+      "x": 1377.6927490234375,
+      "y": 3834.800048828125,
+      "width": 279.20001220703125,
+      "height": 524.7000122070312,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab Stallion Ignite Gold | Prebook Pass",
+      "tag": "A",
+      "x": 1387.6927490234375,
+      "y": 4304.89990234375,
+      "width": 345.1625061035156,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Sell to me Tenet Hook 4mp4",
+      "tag": "A",
+      "x": -97.23701477050781,
+      "y": 3834.800048828125,
+      "width": 279.20001220703125,
+      "height": 524.7000122070312,
+      "visible": true
+    },
+    {
+      "text": "Tenet Pro ANC Crimson Red",
+      "tag": "A",
+      "x": -87.23701477050781,
+      "y": 4304.89990234375,
+      "width": 164.08750915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Tanuj Influencer.mp4",
+      "tag": "A",
+      "x": 197.7656707763672,
+      "y": 3834.800048828125,
+      "width": 279.20001220703125,
+      "height": 524.7000122070312,
+      "visible": true
+    },
+    {
+      "text": "Saber",
+      "tag": "A",
+      "x": 207.7656707763672,
+      "y": 4304.89990234375,
+      "width": 34.587501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 4057.150146484375,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1174.800048828125,
+      "y": 4057.150146484375,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Back",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AUGUST 31, 2026\nHow to Raise a Warranty Registration with Goboult\n\nCongratulatio",
+      "tag": "A",
+      "x": 50,
+      "y": 5358.02490234375,
+      "width": 381.6000061035156,
+      "height": 396.57501220703125,
+      "visible": true
+    },
+    {
+      "text": "AUGUST 31, 2026\nHow to Raise a Query with Goboult\n\nGot a question, a product iss",
+      "tag": "A",
+      "x": 441.6000061035156,
+      "y": 5358.02490234375,
+      "width": 381.6000061035156,
+      "height": 396.57501220703125,
+      "visible": true
+    },
+    {
+      "text": "JUNE 11, 2026\nGoboult Bassbox Groove Q12: Portable Bluetooth Speaker Built for E",
+      "tag": "A",
+      "x": 833.2000122070312,
+      "y": 5358.02490234375,
+      "width": 381.6000061035156,
+      "height": 396.57501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 924.4000244140625,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1215.5999755859375,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1506.800048828125,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1798,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2089.199951171875,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2380.400146484375,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2671.60009765625,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2962.800048828125,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3254,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3545.199951171875,
+      "y": 5896.42529296875,
+      "width": 279.6000061035156,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Deals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log in",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 187.78750610351562,
+      "y": 6316.42529296875,
+      "width": 132.1125030517578,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "True Wireless",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6079.125,
+      "width": 72.70000457763672,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "DashCam",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6096.72509765625,
+      "width": 54.28750228881836,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6119.3251953125,
+      "width": 82.875,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Neckbands",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6141.92529296875,
+      "width": 62.400001525878906,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6164.52490234375,
+      "width": 70.0875015258789,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6187.125,
+      "width": 50.75,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smartwatch Straps",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6209.72509765625,
+      "width": 103.45000457763672,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Accessories",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6232.3251953125,
+      "width": 66.125,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Audiophile",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 6079.125,
+      "width": 57.73749923706055,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Workout",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 6096.72509765625,
+      "width": 45.875,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Travel",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 6119.3251953125,
+      "width": 31.899999618530273,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Gaming",
+      "tag": "A",
+      "x": 743.0375366210938,
+      "y": 6141.92529296875,
+      "width": 42.79999923706055,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Warranty Registration",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 6079.125,
+      "width": 116.73750305175781,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Track Service Request Status",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 6096.72509765625,
+      "width": 157.72500610351562,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Customer support",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 6119.3251953125,
+      "width": 98.2249984741211,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 995.4125366210938,
+      "y": 6141.92529296875,
+      "width": 63.04999923706055,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6311.8251953125,
+      "width": 50.85000228881836,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6329.42529296875,
+      "width": 42.51250076293945,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 490.6750183105469,
+      "y": 6352.02490234375,
+      "width": 30.61250114440918,
+      "height": 21.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bulk Order",
+      "tag": "A",
+      "x": 869.2250366210938,
+      "y": 6311.8251953125,
+      "width": 57.400001525878906,
+      "height": 16.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 509.0500183105469,
+      "y": 6470.42529296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 570.7250366210938,
+      "y": 6470.42529296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "YouTube",
+      "tag": "A",
+      "x": 632.4000244140625,
+      "y": 6470.42529296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "YouTube",
+      "tag": "A",
+      "x": 694.0750122070312,
+      "y": 6470.42529296875,
+      "width": 61.67499923706055,
+      "height": 61,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions**",
+      "tag": "A",
+      "x": 452.1750183105469,
+      "y": 6531.42529296875,
+      "width": 109.3499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 570.3250122070312,
+      "y": 6531.42529296875,
+      "width": 68.8375015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Site map",
+      "tag": "A",
+      "x": 647.9625244140625,
+      "y": 6531.42529296875,
+      "width": 43.875,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "E-Waste Management",
+      "tag": "A",
+      "x": 700.6375122070312,
+      "y": 6531.42529296875,
+      "width": 111.9749984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "GOBOULT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": -8748.2001953125,
+      "y": 35.63750076293945,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Mustang® Official Collab - Racer Apex Blue",
+      "tag": "A",
+      "x": -9006.2001953125,
+      "y": 141.0749969482422,
+      "width": 214,
+      "height": 37.900001525878906,
+      "visible": true
+    },
+    {
+      "text": "-",
+      "tag": "BUTTON",
+      "x": -9005.400390625,
+      "y": 243.1750030517578,
+      "width": 28,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": -8925.400390625,
+      "y": 243.1750030517578,
+      "width": 28,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Checkout",
+      "tag": "BUTTON",
+      "x": -9150.2001953125,
+      "y": 641,
+      "width": 432,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1204.800048828125,
+      "y": 588,
+      "width": 60,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Go to UK store",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "STAY IN THIS STORE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Other Countries/Regions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONFIRM",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CANCEL",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

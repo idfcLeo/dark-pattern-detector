@@ -1,0 +1,45 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.licious.in/q/cart",
+  "timestamp": "20260911_144747",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 18,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Change Slot",
+      "tag": "BUTTON",
+      "x": 1158.050048828125,
+      "y": 141.60000610351562,
+      "width": 105.1500015258789,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add Address",
+      "tag": "BUTTON",
+      "x": 16,
+      "y": 656,
+      "width": 1248,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "OK, Got it!",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.lifestylestores.com/in/en/newCheckout",
+  "timestamp": "20260911_153914",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "Call 080-65011555",
+      "tag": "A",
+      "x": 1049.2249755859375,
+      "y": 8,
+      "width": 102.7750015258789,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Home Delivery\n\n(Get your product delivered to your home)",
+      "tag": "BUTTON",
+      "x": 200.3874969482422,
+      "y": 161.40000915527344,
+      "width": 266.25,
+      "height": 65.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Pick from nearby store\n\n(Collect your order from a store of your choice)",
+      "tag": "BUTTON",
+      "x": 474.2375183105469,
+      "y": 161.40000915527344,
+      "width": 281.4375,
+      "height": 65.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "Add new address",
+      "tag": "BUTTON",
+      "x": 610.25,
+      "y": 252.1999969482422,
+      "width": 125.42500305175781,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO PAYMENT",
+      "tag": "BUTTON",
+      "x": 515.6749877929688,
+      "y": 361,
+      "width": 214,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "A",
+      "x": 876.5750122070312,
+      "y": 179.02500915527344,
+      "width": 42.525001525878906,
+      "height": 21.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Details",
+      "tag": "BUTTON",
+      "x": 1007.1875,
+      "y": 281.8374938964844,
+      "width": 64,
+      "height": 36.5,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 774.3875122070312,
+      "y": 543.9500122070312,
+      "width": 73.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 858.8375244140625,
+      "y": 543.9500122070312,
+      "width": 70.23750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 940.0875244140625,
+      "y": 543.9500122070312,
+      "width": 104.6500015258789,
+      "height": 18,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://thelabellife.com/",
+  "timestamp": "20260901_171738",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": -99999,
+      "y": 0,
+      "width": 150.3625030517578,
+      "height": 54.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "DRESS WITH INTENT, EXPRESS WITH CONFIDENCE",
+      "tag": "A",
+      "x": -322.7310485839844,
+      "y": 10,
+      "width": 1189.5999755859375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "NEW SEASON, NEW ARRIVALS",
+      "tag": "A",
+      "x": 866.8689575195312,
+      "y": 10,
+      "width": 1189.5999755859375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "AN EMBROIDERED TOTE FREE ON NEW ARRIVALS OVER ₹3500",
+      "tag": "A",
+      "x": 2056.468994140625,
+      "y": 10,
+      "width": 1189.5999755859375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1229.5999755859375,
+      "y": 4,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TOPS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DRESSES & JUMPSUITS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BOTTOMS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OUTERWEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "COORD SETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BESTSELLERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WORKWEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WEEKEND",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "THE LABEL ESSENTIALS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL THINGS SUMMER",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MONOCHROME MAGIC",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DATE NIGHT EDIT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OCCASIONWEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WINTER ESSENTIALS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PRINT PARADE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "#THELABELLUXE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UP TO 60% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW ON SALE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "COSY ESSENTIALS ON SALE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LOGIN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WISHLIST",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ORDER TRACKING",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VISIT OUR STORE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONTACT US",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Search",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW",
+      "tag": "A",
+      "x": 30,
+      "y": 44,
+      "width": 62.54999923706055,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "CLOTHING",
+      "tag": "A",
+      "x": 92.55000305175781,
+      "y": 44,
+      "width": 104.8499984741211,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 137,
+      "width": 63.23749923706055,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 176.1999969482422,
+      "width": 33.54999923706055,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 215.40000915527344,
+      "width": 146.91250610351562,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 254.60000610351562,
+      "width": 62.525001525878906,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 293.8000183105469,
+      "width": 83.51250457763672,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 333,
+      "width": 80.23750305175781,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "COLLECTIONS",
+      "tag": "A",
+      "x": 197.40000915527344,
+      "y": 44,
+      "width": 137.10000610351562,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 137,
+      "width": 91.5250015258789,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 176.1999969482422,
+      "width": 80.42500305175781,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 215.40000915527344,
+      "width": 66.36250305175781,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 254.60000610351562,
+      "width": 152.41250610351562,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 293.8000183105469,
+      "width": 137.15000915527344,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 333,
+      "width": 135.0625,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 372.20001220703125,
+      "width": 105.4749984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 411.3999938964844,
+      "width": 104.7249984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 450.6000061035156,
+      "width": 134.53750610351562,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 489.8000183105469,
+      "width": 90.3125,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 529,
+      "width": 110.2874984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "SALE",
+      "tag": "A",
+      "x": 334.5,
+      "y": 44,
+      "width": 64.61250305175781,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 137,
+      "width": 90.7249984741211,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 176.1999969482422,
+      "width": 89.1500015258789,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 215.40000915527344,
+      "width": 174.1875,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "More",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "More",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 434.8000183105469,
+      "y": 44,
+      "width": 400,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "SEARCH",
+      "tag": "BUTTON",
+      "x": 929.0875244140625,
+      "y": 77,
+      "width": 68.32500457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "WISHLIST",
+      "tag": "A",
+      "x": 1017.4125366210938,
+      "y": 74.20000457763672,
+      "width": 85.4625015258789,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1122.875,
+      "y": 65.0250015258789,
+      "width": 50.38750076293945,
+      "height": 43.95000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1105.2625732421875,
+      "y": 219.02500915527344,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 809.2625122070312,
+      "y": 267.0249938964844,
+      "width": 328,
+      "height": 47.98749923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1095.2625732421875,
+      "y": 364.2124938964844,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 809.2625122070312,
+      "y": 455.01251220703125,
+      "width": 162.0500030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 979.3125,
+      "y": 455.01251220703125,
+      "width": 157.9499969482422,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "CART\nTOTAL ITEMS IN CART: 0",
+      "tag": "BUTTON",
+      "x": 1193.2625732421875,
+      "y": 77,
+      "width": 44.337501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log in",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue shopping",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "A NEW PALETTE\n\nMost-loved silhouettes for the win!\n\nSHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 1269.5999755859375,
+      "height": 714.1500244140625,
+      "visible": true
+    },
+    {
+      "text": "A NEW PALETTEMost-loved silhouettes for the win!SHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MUST-HAVE SHIRTS\n\nSHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 714.1500244140625,
+      "width": 634.7999877929688,
+      "height": 902.8250122070312,
+      "visible": true
+    },
+    {
+      "text": "NEED-NOW DRESSES\n\nSHOP NOW",
+      "tag": "A",
+      "x": 634.7999877929688,
+      "y": 714.1500244140625,
+      "width": 634.7999877929688,
+      "height": 902.8250122070312,
+      "visible": true
+    },
+    {
+      "text": "MUST-HAVE SHIRTSSHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEED-NOW DRESSESSHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BESTSELLERS, RESTOCKED\n\nTwo pieces, endless ways to wear and make them your own.",
+      "tag": "A",
+      "x": 0,
+      "y": 1616.9749755859375,
+      "width": 1269.5999755859375,
+      "height": 793.5,
+      "visible": true
+    },
+    {
+      "text": "BESTSELLERS, RESTOCKEDTwo pieces, endless ways to wear and make them your own.SH",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FIND YOUR MATCH\n\nSHOP COORDS",
+      "tag": "A",
+      "x": 0,
+      "y": 2410.47509765625,
+      "width": 634.7999877929688,
+      "height": 902.7625122070312,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 634.7999877929688,
+      "y": 2410.47509765625,
+      "width": 634.7999877929688,
+      "height": 902.7625122070312,
+      "visible": true
+    },
+    {
+      "text": "FIND YOUR MATCHSHOP COORDS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LIGHT KNITS\n\nSnug favourites perfect for all occasions.\n\nSHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 3313.237548828125,
+      "width": 1269.5999755859375,
+      "height": 793.5,
+      "visible": true
+    },
+    {
+      "text": "LIGHT KNITSSnug favourites perfect for all occasions.SHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 448,
+      "y": 4334.73779296875,
+      "width": 42,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 4257.1376953125,
+      "width": 84.4375,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 4302.73779296875,
+      "width": 87.70000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 4348.33740234375,
+      "width": 70.48750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 647.5125122070312,
+      "y": 4393.9375,
+      "width": 59.45000076293945,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 4257.1376953125,
+      "width": 32.53750228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 4302.73779296875,
+      "width": 67.8499984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 4348.33740234375,
+      "width": 190.1999969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 4393.9375,
+      "width": 147.5124969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 850.625,
+      "y": 4439.53759765625,
+      "width": 103.4124984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 4257.1376953125,
+      "width": 98.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 4302.73779296875,
+      "width": 70.76250457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 4348.33740234375,
+      "width": 78.80000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 4393.9375,
+      "width": 90.11250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.8250732421875,
+      "y": 4439.53759765625,
+      "width": 92.70000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "The Label Life",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powered by Shopify",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms and Policies",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Refund policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms of service",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shipping policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Abstract Print Belted Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Azure Brooch Detail Pleated Top",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Azure Twist Front Midi Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beige High Waisted Pleated Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View all",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1150.5999755859375,
+      "y": 581,
+      "width": 39,
+      "height": 39,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1165.5999755859375,
+      "y": 616.6875,
+      "width": 56,
+      "height": 55.3125,
+      "visible": true
+    }
+  ]
+}

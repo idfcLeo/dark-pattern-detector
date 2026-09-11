@@ -1,0 +1,4896 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.bluestone.com/jewellery/rings.html",
+  "timestamp": "20260901_171256",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bs-logo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AabcTap to view account details",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Charm",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Band",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL RINGS (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST RINGS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Couple Bands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Engagement",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cluster",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Adjustable",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stackable",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chevron",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eternity",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cocktail",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thumb",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plain Gold",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Office Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gemstone",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Multi-Finger",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mangalsutra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Religious",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navaratna",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL EARRINGS (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST EARRINGS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Studs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Drops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hoops and Huggies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Danglers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sui Dhaga",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jhumka",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chandbali",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Multi Pierced",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ear Climber",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chandeliers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Front Back",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navaratna",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL PENDANTS (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST PENDANTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Alphabet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fashion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cluster",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Locket",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Multiwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Religious",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navaratna",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL BANGLES (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST BANGLES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL BRACELETS (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST BRACELETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Toggle",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oval",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Round",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Twister",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eternity",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Link",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chain",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Geometric",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Charm",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Adjustable",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tennis",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Id",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Station",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cuff",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL NECKLACES (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST NECKLACES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pendant",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Princess",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Adjustable",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Y",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Collar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Layer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Choker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Long",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL MANGALSUTRA (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST MANGALSUTRA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tanmaniya",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Necklace",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bracelet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ring",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nose Ring",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nose Pin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nose Screw",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chain",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brooch",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Charms",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL MEN JEWELLERY (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST MEN JEWELLERY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kada",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bracelet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chain",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pendant",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cufflinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL KIDS JEWELLERY (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST KIDS JEWELLERY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pendant",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bracelet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nazariya",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Necklace",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Up To 70% Off On Making Charges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Flat 10% Off On Preset Solitaires",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anniversary",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Birthday",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Engagement",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wedding",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Below 10k",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Between 10k-20k",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Between 20k-30k",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Between 30k-40k",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Between 40k-50k",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "50,000 and above",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For HER",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For HIM",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For SISTER",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For BROTHER",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For MOTHER",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For FATHER",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Cards",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store Gift Cards",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "10 + 1 Monthly Plan",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "10 + 1 Monthly Plan",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL DIAMOND JEWELLERY (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST DIAMOND JEWELLERY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pendants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bangles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bracelets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Necklaces",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mangalsutra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watch Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL PLAIN GOLD JEWELLERY (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST PLAIN GOLD JEWELLERY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pendants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bangles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bracelets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Necklaces",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mangalsutra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chains",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watch Accessory",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL GEMSTONE JEWELLERY (By Popularity)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST GEMSTONE JEWELLERY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pendants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bangles and Bracelets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Necklaces",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mangalsutra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL PLATINUM JEWELLERY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LATEST PLATINUM JEWELLERY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pendants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chains",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Preset Solitaire Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Preset Solitaire Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Preset Solitaire Pendants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Make your own Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Make your own Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Make your own Pendants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lakshmi Gold Coins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0.5 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0.75 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "5 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "10 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "20 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "50 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "5 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "10 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "20 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "50 gram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Locate Our Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Recently Viewed",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Video Call Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jewellery Guide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chat",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Call",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 30,
+      "y": -92,
+      "width": 279.9624938964844,
+      "height": 51.47500228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 334.76251220703125,
+      "y": -75.26250457763672,
+      "width": 38,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Recently viewed",
+      "tag": "A",
+      "x": 699.9249877929688,
+      "y": -86.76250457763672,
+      "width": 107.82500457763672,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Video call cart",
+      "tag": "A",
+      "x": 808.75,
+      "y": -86.76250457763672,
+      "width": 97.70000457763672,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Find a store",
+      "tag": "A",
+      "x": 907.4500122070312,
+      "y": -86.76250457763672,
+      "width": 84.5999984741211,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 993.0499877929688,
+      "y": -86.76250457763672,
+      "width": 65.9124984741211,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 1059.9625244140625,
+      "y": -86.76250457763672,
+      "width": 58,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "BUTTON",
+      "x": 1118.9625244140625,
+      "y": -86.76250457763672,
+      "width": 56.86249923706055,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "More",
+      "tag": "BUTTON",
+      "x": 1184.8250732421875,
+      "y": -86.76250457763672,
+      "width": 49.97500228881836,
+      "height": 41,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 28,
+      "y": -91.7249984741211,
+      "width": 51,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "Watch Jewellery",
+      "tag": "A",
+      "x": 249.4499969482422,
+      "y": -31.725000381469727,
+      "width": 121.48750305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 370.9375,
+      "y": -31.725000381469727,
+      "width": 52.29999923706055,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 423.2375183105469,
+      "y": -31.725000381469727,
+      "width": 70,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Pendants",
+      "tag": "A",
+      "x": 493.2375183105469,
+      "y": -31.725000381469727,
+      "width": 76.55000305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Solitaires",
+      "tag": "A",
+      "x": 569.7875366210938,
+      "y": -31.725000381469727,
+      "width": 77.17500305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "All Jewellery",
+      "tag": "A",
+      "x": 646.9625244140625,
+      "y": -31.725000381469727,
+      "width": 97.17500305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Coins",
+      "tag": "A",
+      "x": 1127.6375732421875,
+      "y": -31.725000381469727,
+      "width": 51.36249923706055,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1179,
+      "y": -31.725000381469727,
+      "width": 55.79999923706055,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "HOME",
+      "tag": "A",
+      "x": 32,
+      "y": 32.275001525878906,
+      "width": 38.212501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "JEWELLERY",
+      "tag": "A",
+      "x": 90.25,
+      "y": 32.275001525878906,
+      "width": 72.375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 18,
+      "y": 62.275001525878906,
+      "width": 1228.800048828125,
+      "height": 106,
+      "visible": true
+    },
+    {
+      "text": "ALL",
+      "tag": "BUTTON",
+      "x": 16,
+      "y": 262.2749938964844,
+      "width": 55.0625,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "DESIGNS IN STORE",
+      "tag": "BUTTON",
+      "x": 79.0625,
+      "y": 262.2749938964844,
+      "width": 149.9499969482422,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "PINCODE",
+      "tag": "BUTTON",
+      "x": 1001.1124877929688,
+      "y": 263.875,
+      "width": 103.6875,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "POPULAR",
+      "tag": "BUTTON",
+      "x": 1112.800048828125,
+      "y": 263.07501220703125,
+      "width": 136,
+      "height": 33.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Rings\n×",
+      "tag": "A",
+      "x": 109.9124984741211,
+      "y": 317.4750061035156,
+      "width": 67.4000015258789,
+      "height": 33.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Jewellery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gold Jewellery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vanki Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Navaratna Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Engagement Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diamond Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Platinum Couple Bands Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stackable Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Platinum Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men's Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Couple Band Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rs 10000 To Rs 20000 (46)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 464.4750061035156,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Rs 20000 To Rs 30000 (118)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 494.3500061035156,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Rs 30000 To Rs 40000 (164)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 524.2250366210938,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Rs 40000 To Rs 50000 (249)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 554.1000366210938,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Rs 50000 And Above (2172)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 583.9750366210938,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Earrings (3289)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 662.1500244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Rings (2749)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 692.0250244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Pendants (1219)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 721.9000244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Necklaces (914)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 751.7750244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Bangles (654)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 781.6500244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Bracelets (503)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 811.5250244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 23 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 843.4000244140625,
+      "width": 56.63750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Gold (2015)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 914.9000244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Plain Gold/platinum (494)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 944.7750244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Rose Gold (447)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 974.6500244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "White Gold (193)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1004.5250244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Platinum (94)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1034.4000244140625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Women (2246)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1112.5750732421875,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Men (503)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1142.4500732421875,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Unisex (17)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1172.3250732421875,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Offers (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1250.5,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "0% Making Charge (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1280.375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "18k (2206)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1358.550048828125,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "22k (301)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1388.425048828125,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "14k (148)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1418.300048828125,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Diamond (1667)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1496.4749755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Diamond And Gemstone (392)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1526.3499755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Gemstone (183)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1556.2249755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Ruby (128)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1586.0999755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Sapphire (119)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1615.9749755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Emerald (73)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1645.8499755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 18 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1677.7249755859375,
+      "width": 56.63750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Akshaya Tritiya (2416)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1749.2249755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Weekend (2309)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1779.0999755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Romance (2093)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1808.9749755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Everyday (1679)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1838.8499755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Workwear (1601)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1868.7249755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Everyday Wear (1595)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1898.5999755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 33 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 1930.4749755859375,
+      "width": 56.63750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Multistone (1850)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2001.9749755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Single Stone (224)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2031.8499755859375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Three Stone (60)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2061.72509765625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Five Stone (34)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2091.60009765625,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Band (720)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2169.775146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Light Weight Jewellery (645)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2199.650146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Couple Band (305)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2229.525146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Cocktail (102)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2259.400146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Stackable (84)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2289.275146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Chevron (67)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2319.150146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 19 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2351.025146484375,
+      "width": 56.63750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Classic (1709)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2422.525146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Fashion (1675)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2452.400146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Fusion (887)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2482.275146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Valentine Designers Pick (836)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2512.150146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Gold Showstoppers (347)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2542.025146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Modern (242)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2571.900146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 37 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2603.775146484375,
+      "width": 56.63750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "White (2081)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2675.275146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Red (133)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2705.150146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Blue (117)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2735.025146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Green (85)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2764.900146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Pink (56)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2794.775146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Purple (44)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2824.650146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 4 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2856.525146484375,
+      "width": 49.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Capricorn (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2928.025146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Gemini (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2957.900146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Sagittarius (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 2987.775146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Aquarius (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3017.650146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Libra (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3047.525146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Virgo (1)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3077.400146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 3 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3109.275146484375,
+      "width": 49.4375,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Round (702)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3180.775146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Pear (118)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3210.650146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Marquise (108)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3240.525146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Princess (104)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3270.400146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Baguette (88)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3300.275146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Oval (45)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3330.150146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 10 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3362.025146484375,
+      "width": 56.63750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "A La Mode Collection (15)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3433.525146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Aadya Collection (2)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3463.400146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Ain Collection (3)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3493.275146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Amour Collection (3)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3523.150146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Ani Collection (7)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3553.025146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "Antra Collection (8)",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3582.900146484375,
+      "width": 236.40000915527344,
+      "height": 25.875,
+      "visible": true
+    },
+    {
+      "text": "+ 91 more",
+      "tag": "BUTTON",
+      "x": 32.79999923706055,
+      "y": 3614.775146484375,
+      "width": 56.63750076293945,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 310.8000183105469,
+      "y": 388.6750183105469,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 572.7999877929688,
+      "y": 388.6750183105469,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 302.8000183105469,
+      "y": 380.6750183105469,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 446.2375183105469,
+      "y": 640.5750122070312,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Odalia Ring",
+      "tag": "A",
+      "x": 314.8000183105469,
+      "y": 694.6749877929688,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 630.4000244140625,
+      "y": 388.6750183105469,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 892.4000244140625,
+      "y": 388.6750183105469,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 622.4000244140625,
+      "y": 380.6750183105469,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 765.8375244140625,
+      "y": 640.5750122070312,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Osla Ring",
+      "tag": "A",
+      "x": 634.4000244140625,
+      "y": 694.6749877929688,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 941.2000122070312,
+      "y": 379.875,
+      "width": 307.6000061035156,
+      "height": 398.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 310.8000183105469,
+      "y": 799.6749877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 572.7999877929688,
+      "y": 799.6749877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 302.8000183105469,
+      "y": 791.6749877929688,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 446.2375183105469,
+      "y": 1051.5750732421875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Numa Chevron Ring",
+      "tag": "A",
+      "x": 314.8000183105469,
+      "y": 1105.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 630.4000244140625,
+      "y": 799.6749877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 892.4000244140625,
+      "y": 799.6749877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 622.4000244140625,
+      "y": 791.6749877929688,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 765.8375244140625,
+      "y": 1051.5750732421875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Nouf Vanki Ring",
+      "tag": "A",
+      "x": 634.4000244140625,
+      "y": 1105.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 950,
+      "y": 799.6749877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1212,
+      "y": 799.6749877929688,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 942,
+      "y": 791.6749877929688,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 1085.4375,
+      "y": 1051.5750732421875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Haily Ring",
+      "tag": "A",
+      "x": 954,
+      "y": 1105.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Get Direction",
+      "tag": "A",
+      "x": 326,
+      "y": 1336.7750244140625,
+      "width": 118.45000457763672,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 310.8000183105469,
+      "y": 1485.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 572.7999877929688,
+      "y": 1485.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 302.8000183105469,
+      "y": 1477.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 446.2375183105469,
+      "y": 1737.5750732421875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Aretha Ring",
+      "tag": "A",
+      "x": 314.8000183105469,
+      "y": 1791.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 630.4000244140625,
+      "y": 1485.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 892.4000244140625,
+      "y": 1485.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 622.4000244140625,
+      "y": 1477.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 765.8375244140625,
+      "y": 1737.5750732421875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Fenmore Band for Him",
+      "tag": "A",
+      "x": 634.4000244140625,
+      "y": 1791.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 950,
+      "y": 1485.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1212,
+      "y": 1485.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 942,
+      "y": 1477.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 1085.4375,
+      "y": 1737.5750732421875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Vogue Statement Ring",
+      "tag": "A",
+      "x": 954,
+      "y": 1791.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 310.8000183105469,
+      "y": 1896.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 572.7999877929688,
+      "y": 1896.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 302.8000183105469,
+      "y": 1888.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 446.2375183105469,
+      "y": 2148.574951171875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Imogen Ring",
+      "tag": "A",
+      "x": 314.8000183105469,
+      "y": 2202.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 630.4000244140625,
+      "y": 1896.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 892.4000244140625,
+      "y": 1896.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 622.4000244140625,
+      "y": 1888.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 765.8375244140625,
+      "y": 2148.574951171875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Aubade Stackable Ring",
+      "tag": "A",
+      "x": 634.4000244140625,
+      "y": 2202.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 950,
+      "y": 1896.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1212,
+      "y": 1896.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 942,
+      "y": 1888.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 1085.4375,
+      "y": 2148.574951171875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Dinella Ring",
+      "tag": "A",
+      "x": 954,
+      "y": 2202.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 310.8000183105469,
+      "y": 2307.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 572.7999877929688,
+      "y": 2307.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 302.8000183105469,
+      "y": 2299.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 446.2375183105469,
+      "y": 2559.574951171875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Elite Ring",
+      "tag": "A",
+      "x": 314.8000183105469,
+      "y": 2613.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 630.4000244140625,
+      "y": 2307.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 892.4000244140625,
+      "y": 2307.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 622.4000244140625,
+      "y": 2299.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 765.8375244140625,
+      "y": 2559.574951171875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Markus Band For Him",
+      "tag": "A",
+      "x": 634.4000244140625,
+      "y": 2613.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 950,
+      "y": 2307.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1212,
+      "y": 2307.675048828125,
+      "width": 28,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 942,
+      "y": 2299.675048828125,
+      "width": 306,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "BOOK VIDEO CALL",
+      "tag": "BUTTON",
+      "x": 1085.4375,
+      "y": 2559.574951171875,
+      "width": 150.5625,
+      "height": 34.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "The Rayla Ring",
+      "tag": "A",
+      "x": 954,
+      "y": 2613.675048828125,
+      "width": 282,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ViewView Details",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pincode",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sort",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Filter",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "wedding band",
+      "tag": "A",
+      "x": 260.26251220703125,
+      "y": 4707.875,
+      "width": 100.20000457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "dailywear jewellery",
+      "tag": "A",
+      "x": 373.6750183105469,
+      "y": 4829.875,
+      "width": 134.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "officewear jewellery",
+      "tag": "A",
+      "x": 542.9249877929688,
+      "y": 4829.875,
+      "width": 138.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Cocktail rings",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 4978.875,
+      "width": 92.875,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "engagement rings",
+      "tag": "A",
+      "x": 380.7250061035156,
+      "y": 5209.875,
+      "width": 125.7750015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Toi et Moi ring",
+      "tag": "A",
+      "x": 501.375,
+      "y": 5235.375,
+      "width": 97.07500457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Couple Bands",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 5338.875,
+      "width": 96.0374984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "rings with religious motifs",
+      "tag": "A",
+      "x": 317.3999938964844,
+      "y": 5544.375,
+      "width": 177.4499969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Religious rings",
+      "tag": "A",
+      "x": 793.125,
+      "y": 5544.375,
+      "width": 101,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Navratna Collection",
+      "tag": "A",
+      "x": 939.0875244140625,
+      "y": 5544.375,
+      "width": 136.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "eternity ring",
+      "tag": "A",
+      "x": 72.5374984741211,
+      "y": 5724.375,
+      "width": 83.375,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "eternity band",
+      "tag": "A",
+      "x": 196.46250915527344,
+      "y": 5724.375,
+      "width": 92.3125,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Cluster Rings",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 5878.875,
+      "width": 91.7750015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "diamond cluster ring",
+      "tag": "A",
+      "x": 902.7625122070312,
+      "y": 5878.875,
+      "width": 141.5749969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "30 DAY MONEY BACK",
+      "tag": "A",
+      "x": 163.40000915527344,
+      "y": 6139.0751953125,
+      "width": 304.6625061035156,
+      "height": 89.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "CERTIFIED JEWELLERY",
+      "tag": "A",
+      "x": 480.0625,
+      "y": 6139.0751953125,
+      "width": 304.6625061035156,
+      "height": 89.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "LIFETIME EXCHANGE",
+      "tag": "A",
+      "x": 796.7250366210938,
+      "y": 6139.0751953125,
+      "width": 304.6750183105469,
+      "height": 89.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1200.800048828125,
+      "y": 614,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "TOP",
+      "tag": "BUTTON",
+      "x": 1232.800048828125,
+      "y": 336,
+      "width": 32,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 30,
+      "y": 6331.875,
+      "width": 71.23750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "tag": "A",
+      "x": 30,
+      "y": 6355.875,
+      "width": 180.5625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1800-419-0066 (9 am-10 pm)",
+      "tag": "A",
+      "x": 30,
+      "y": 6379.875,
+      "width": 196.83750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "cs@bluestone.com (9 am-10 pm)",
+      "tag": "A",
+      "x": 30,
+      "y": 6403.875,
+      "width": 212.78750610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 30,
+      "y": 6487.875,
+      "width": 71.23750305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 30,
+      "y": 6511.875,
+      "width": 27.98750114440918,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1800-419-0066",
+      "tag": "A",
+      "x": 54,
+      "y": 6532.67529296875,
+      "width": 104.38750457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "cs@bluestone.com",
+      "tag": "A",
+      "x": 54,
+      "y": 6552.67529296875,
+      "width": 120.3499984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Who we are?",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6331.875,
+      "width": 85.9124984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Investor Relations",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6355.875,
+      "width": 115.4124984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Design Philosophy",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6379.875,
+      "width": 119.5374984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "30-Day Returns",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6463.875,
+      "width": 103.0374984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lifetime Exchange & Buy back",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6487.875,
+      "width": 194.60000610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6511.875,
+      "width": 89.05000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6535.875,
+      "width": 124.42500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fraud Warning Disclaimer",
+      "tag": "A",
+      "x": 311.5874938964844,
+      "y": 6559.875,
+      "width": 169.08750915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Why Buy From Us?",
+      "tag": "A",
+      "x": 593.1875,
+      "y": 6331.875,
+      "width": 123.45000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Our Certifications",
+      "tag": "A",
+      "x": 593.1875,
+      "y": 6355.875,
+      "width": 112.6875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Press Room",
+      "tag": "A",
+      "x": 593.1875,
+      "y": 6379.875,
+      "width": 76.95000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "x": 593.1875,
+      "y": 6403.875,
+      "width": 80.61250305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Corporate Gifting",
+      "tag": "A",
+      "x": 593.1875,
+      "y": 6427.875,
+      "width": 110.9124984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 874.7875366210938,
+      "y": 6360.67529296875,
+      "width": 120,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1006.7875366210938,
+      "y": 6360.67529296875,
+      "width": 120,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "SUBSCRIBE",
+      "tag": "BUTTON",
+      "x": 1118.2125244140625,
+      "y": 6476.67529296875,
+      "width": 116.57500457763672,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 126.8499984741211,
+      "y": 6651.47509765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 166.85000610351562,
+      "y": 6651.47509765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 206.85000610351562,
+      "y": 6651.47509765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 246.85000610351562,
+      "y": 6651.47509765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 286.8500061035156,
+      "y": 6651.47509765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Rings",
+      "tag": "A",
+      "x": 30,
+      "y": 6811.875,
+      "width": 36.61249923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 86.8375015258789,
+      "y": 6811.875,
+      "width": 53.61249923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mangalsutra",
+      "tag": "A",
+      "x": 160.6750030517578,
+      "y": 6811.875,
+      "width": 82.125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mangalsutra Bracelets",
+      "tag": "A",
+      "x": 263.0249938964844,
+      "y": 6811.875,
+      "width": 145.91250610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bangles",
+      "tag": "A",
+      "x": 429.1625061035156,
+      "y": 6811.875,
+      "width": 52.462501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bracelets",
+      "tag": "A",
+      "x": 501.8500061035156,
+      "y": 6811.875,
+      "width": 60.13750076293945,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Pendants",
+      "tag": "A",
+      "x": 582.2125244140625,
+      "y": 6811.875,
+      "width": 61.47500228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Necklaces",
+      "tag": "A",
+      "x": 663.9125366210938,
+      "y": 6811.875,
+      "width": 65.30000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Couple Bands",
+      "tag": "A",
+      "x": 749.4375,
+      "y": 6811.875,
+      "width": 89.63750457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Coins",
+      "tag": "A",
+      "x": 859.2999877929688,
+      "y": 6811.875,
+      "width": 69.17500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Chains",
+      "tag": "A",
+      "x": 948.7000122070312,
+      "y": 6811.875,
+      "width": 44.66250228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Watch Jewellery",
+      "tag": "A",
+      "x": 1013.5875244140625,
+      "y": 6811.875,
+      "width": 105.8375015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Nose Pin",
+      "tag": "A",
+      "x": 1139.6500244140625,
+      "y": 6811.875,
+      "width": 57.32500076293945,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Dailywear Rings",
+      "tag": "A",
+      "x": 30,
+      "y": 6835.875,
+      "width": 106.5625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Dailywear Bracelets",
+      "tag": "A",
+      "x": 156.78750610351562,
+      "y": 6835.875,
+      "width": 130.0749969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Jewellery",
+      "tag": "A",
+      "x": 30,
+      "y": 6960.67529296875,
+      "width": 92.6624984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Rings",
+      "tag": "A",
+      "x": 142.8874969482422,
+      "y": 6960.67529296875,
+      "width": 70.2249984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Earrings",
+      "tag": "A",
+      "x": 233.33750915527344,
+      "y": 6960.67529296875,
+      "width": 87.2249984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Pendants",
+      "tag": "A",
+      "x": 340.7875061035156,
+      "y": 6960.67529296875,
+      "width": 95.0999984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Necklaces",
+      "tag": "A",
+      "x": 456.1125183105469,
+      "y": 6960.67529296875,
+      "width": 98.9124984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Mangalsutras",
+      "tag": "A",
+      "x": 575.25,
+      "y": 6960.67529296875,
+      "width": 122.6875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Bangles",
+      "tag": "A",
+      "x": 718.1625366210938,
+      "y": 6960.67529296875,
+      "width": 86.07500457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women Gold Rings",
+      "tag": "A",
+      "x": 824.4625244140625,
+      "y": 6960.67529296875,
+      "width": 124.73750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men's Gold Earrings",
+      "tag": "A",
+      "x": 969.4249877929688,
+      "y": 6960.67529296875,
+      "width": 128.75,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Chains for Men",
+      "tag": "A",
+      "x": 30,
+      "y": 6984.67529296875,
+      "width": 131.03750610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Dailywear Gold Earrings",
+      "tag": "A",
+      "x": 181.2624969482422,
+      "y": 6984.67529296875,
+      "width": 157.1750030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Dailywear Gold Bangles",
+      "tag": "A",
+      "x": 358.6625061035156,
+      "y": 6984.67529296875,
+      "width": 156.02500915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Jewellery",
+      "tag": "A",
+      "x": 30,
+      "y": 7109.47509765625,
+      "width": 121.7750015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Rings",
+      "tag": "A",
+      "x": 172,
+      "y": 7109.47509765625,
+      "width": 99.3499984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Earrings",
+      "tag": "A",
+      "x": 291.57501220703125,
+      "y": 7109.47509765625,
+      "width": 116.3499984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Pendants",
+      "tag": "A",
+      "x": 428.1499938964844,
+      "y": 7109.47509765625,
+      "width": 124.2125015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Necklaces",
+      "tag": "A",
+      "x": 572.5875244140625,
+      "y": 7109.47509765625,
+      "width": 128.03750610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Mangalsutras",
+      "tag": "A",
+      "x": 720.8500366210938,
+      "y": 7109.47509765625,
+      "width": 151.8125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Bangles",
+      "tag": "A",
+      "x": 892.8875122070312,
+      "y": 7109.47509765625,
+      "width": 115.20000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Bracelets",
+      "tag": "A",
+      "x": 1028.3125,
+      "y": 7109.47509765625,
+      "width": 122.875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women Diamond Rings",
+      "tag": "A",
+      "x": 30,
+      "y": 7133.47509765625,
+      "width": 153.85000610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men's Diamond Earrings",
+      "tag": "A",
+      "x": 204.0749969482422,
+      "y": 7133.47509765625,
+      "width": 157.875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men's Diamond Rings",
+      "tag": "A",
+      "x": 382.1750183105469,
+      "y": 7133.47509765625,
+      "width": 140.875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men's Diamond Braclets",
+      "tag": "A",
+      "x": 543.2750244140625,
+      "y": 7133.47509765625,
+      "width": 156.91250610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men's Jewellery",
+      "tag": "A",
+      "x": 30,
+      "y": 7258.27490234375,
+      "width": 100.5625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Rings for Men",
+      "tag": "A",
+      "x": 150.78750610351562,
+      "y": 7258.27490234375,
+      "width": 89.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Earrings for Men",
+      "tag": "A",
+      "x": 260.375,
+      "y": 7258.27490234375,
+      "width": 106.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men's Kada",
+      "tag": "A",
+      "x": 386.9624938964844,
+      "y": 7258.27490234375,
+      "width": 75.5999984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Cufflinks for Men",
+      "tag": "A",
+      "x": 482.7875061035156,
+      "y": 7258.27490234375,
+      "width": 108.4000015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery For Women",
+      "tag": "A",
+      "x": 30,
+      "y": 7383.0751953125,
+      "width": 137.875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Rings for Women",
+      "tag": "A",
+      "x": 188.10000610351562,
+      "y": 7383.0751953125,
+      "width": 112.38750457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Earrings for Women",
+      "tag": "A",
+      "x": 320.7124938964844,
+      "y": 7383.0751953125,
+      "width": 129.375,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bangles for Women",
+      "tag": "A",
+      "x": 470.3125,
+      "y": 7383.0751953125,
+      "width": 128.2375030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Pendants for Women",
+      "tag": "A",
+      "x": 618.7750244140625,
+      "y": 7383.0751953125,
+      "width": 137.25,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bracelets for Women",
+      "tag": "A",
+      "x": 776.25,
+      "y": 7383.0751953125,
+      "width": 135.90000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Necklaces for Women",
+      "tag": "A",
+      "x": 932.375,
+      "y": 7383.0751953125,
+      "width": 141.0749969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Engagement Ring",
+      "tag": "A",
+      "x": 30,
+      "y": 7507.875,
+      "width": 115.67500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Engagement Ring For Women",
+      "tag": "A",
+      "x": 165.90000915527344,
+      "y": 7507.875,
+      "width": 194.5124969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Engagement Ring For Men",
+      "tag": "A",
+      "x": 380.63751220703125,
+      "y": 7507.875,
+      "width": 171.4875030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Engagement Rings for Women",
+      "tag": "A",
+      "x": 572.3500366210938,
+      "y": 7507.875,
+      "width": 232,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gold Engagement Rings for Men",
+      "tag": "A",
+      "x": 824.5750122070312,
+      "y": 7507.875,
+      "width": 208.9875030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Engagement Rings",
+      "tag": "A",
+      "x": 30,
+      "y": 7531.875,
+      "width": 185.35000610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diamond Engagement Rings for Women",
+      "tag": "A",
+      "x": 235.5749969482422,
+      "y": 7531.875,
+      "width": 261.125,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Gifts for Anniversary",
+      "tag": "A",
+      "x": 516.9249877929688,
+      "y": 7531.875,
+      "width": 195.6999969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Gifts for Wedding",
+      "tag": "A",
+      "x": 732.8500366210938,
+      "y": 7531.875,
+      "width": 176.5625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Bangalore",
+      "tag": "A",
+      "x": 30,
+      "y": 7656.67529296875,
+      "width": 181.7624969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Mumbai",
+      "tag": "A",
+      "x": 231.9875030517578,
+      "y": 7656.67529296875,
+      "width": 167.375,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Delhi",
+      "tag": "A",
+      "x": 419.5874938964844,
+      "y": 7656.67529296875,
+      "width": 147.8000030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Hyderabad",
+      "tag": "A",
+      "x": 587.6124877929688,
+      "y": 7656.67529296875,
+      "width": 187.5500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Chennai",
+      "tag": "A",
+      "x": 795.3875122070312,
+      "y": 7656.67529296875,
+      "width": 168.40000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Gurugram",
+      "tag": "A",
+      "x": 984.0125122070312,
+      "y": 7656.67529296875,
+      "width": 180.47500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Pune",
+      "tag": "A",
+      "x": 30,
+      "y": 7680.67529296875,
+      "width": 147.78750610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Navi Mumbai",
+      "tag": "A",
+      "x": 198.0124969482422,
+      "y": 7680.67529296875,
+      "width": 200.58750915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Thane",
+      "tag": "A",
+      "x": 418.82501220703125,
+      "y": 7680.67529296875,
+      "width": 155.7375030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Noida",
+      "tag": "A",
+      "x": 594.7875366210938,
+      "y": 7680.67529296875,
+      "width": 153.4499969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Kolkata",
+      "tag": "A",
+      "x": 768.4625244140625,
+      "y": 7680.67529296875,
+      "width": 163.75,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Jewellery Shop in Ahmedabad",
+      "tag": "A",
+      "x": 952.4375,
+      "y": 7680.67529296875,
+      "width": 195.2624969482422,
+      "height": 20,
+      "visible": true
+    }
+  ]
+}

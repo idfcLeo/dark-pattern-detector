@@ -1,0 +1,576 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.dmart.in/",
+  "timestamp": "20260901_164610",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Logo",
+      "tag": "A",
+      "x": 27.325000762939453,
+      "y": 7.5,
+      "width": 122,
+      "height": 49,
+      "visible": true
+    },
+    {
+      "text": "SEARCH",
+      "tag": "BUTTON",
+      "x": 823.4000244140625,
+      "y": 11,
+      "width": 81.5999984741211,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1103.1624755859375,
+      "y": 9,
+      "width": 46,
+      "height": 46,
+      "visible": true
+    },
+    {
+      "text": "0\n₹0",
+      "tag": "BUTTON",
+      "x": 1181.4500732421875,
+      "y": 11,
+      "width": 64.4000015258789,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "DMart Grocery",
+      "tag": "A",
+      "x": 232,
+      "y": 76.5999984741211,
+      "width": 134.5500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ready To Cook",
+      "tag": "A",
+      "x": 374.5500183105469,
+      "y": 76.5999984741211,
+      "width": 135.3000030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Beverages",
+      "tag": "A",
+      "x": 517.8500366210938,
+      "y": 76.5999984741211,
+      "width": 106.70000457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Biscuits & Cookies",
+      "tag": "A",
+      "x": 632.5499877929688,
+      "y": 76.5999984741211,
+      "width": 156.27500915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bath & Body",
+      "tag": "A",
+      "x": 796.8250122070312,
+      "y": 76.5999984741211,
+      "width": 119.82500457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Detergent & Fabric Care",
+      "tag": "A",
+      "x": 924.6500244140625,
+      "y": 76.5999984741211,
+      "width": 195.08750915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Cleaners",
+      "tag": "A",
+      "x": 1127.737548828125,
+      "y": 76.5999984741211,
+      "width": 94.9749984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 350.76251220703125,
+      "width": 1272,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1272,
+      "y": 350.76251220703125,
+      "width": 1272,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2544,
+      "y": 350.76251220703125,
+      "width": 1272,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 196.8000030517578,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 344.8000183105469,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 492.8000183105469,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 640.7999877929688,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 788.7999877929688,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 936.7999877929688,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1084.800048828125,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1232.800048828125,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1380.800048828125,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1528.800048828125,
+      "y": 461.9624938964844,
+      "width": 100,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1185.5999755859375,
+      "y": 489.76251220703125,
+      "width": 37.60000228881836,
+      "height": 65.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 691.1625366210938,
+      "width": 383.4624938964844,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 696.1625366210938,
+      "width": 383.4624938964844,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 444.26251220703125,
+      "y": 691.1625366210938,
+      "width": 189.22500610351562,
+      "height": 5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4874877929688,
+      "y": 691.1625366210938,
+      "width": 189.2375030517578,
+      "height": 5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 839.7250366210938,
+      "y": 691.1625366210938,
+      "width": 383.4750061035156,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 938.125,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 342.3999938964844,
+      "y": 938.125,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 636,
+      "y": 938.125,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 929.6000366210938,
+      "y": 938.125,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 1057.3250732421875,
+      "width": 383.4624938964844,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 444.26251220703125,
+      "y": 1057.3250732421875,
+      "width": 189.22500610351562,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4874877929688,
+      "y": 1057.3250732421875,
+      "width": 189.2375030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 444.26251220703125,
+      "y": 1062.3250732421875,
+      "width": 189.22500610351562,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 638.4874877929688,
+      "y": 1062.3250732421875,
+      "width": 189.2375030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 839.7250366210938,
+      "y": 1057.3250732421875,
+      "width": 383.4750061035156,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48.79999923706055,
+      "y": 1304.2874755859375,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 342.3999938964844,
+      "y": 1304.2874755859375,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 636,
+      "y": 1304.2874755859375,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 929.6000366210938,
+      "y": 1304.2874755859375,
+      "width": 293.6000061035156,
+      "height": 5.599999904632568,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 44,
+      "y": 1465.487548828125,
+      "width": 154,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 198,
+      "y": 1465.487548828125,
+      "width": 154,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 636,
+      "y": 1411.6875,
+      "width": 35.5625,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 636,
+      "y": 1447.6875,
+      "width": 92.45000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pricing, Delivery, Return and Refund Policy",
+      "tag": "A",
+      "x": 636,
+      "y": 1483.6875,
+      "width": 283.9125061035156,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 636,
+      "y": 1519.6875,
+      "width": 144.6999969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Disclaimer",
+      "tag": "A",
+      "x": 636,
+      "y": 1555.6875,
+      "width": 70.1500015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 930,
+      "y": 1447.6875,
+      "width": 62.337501525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Join Us",
+      "tag": "A",
+      "x": 930,
+      "y": 1483.6875,
+      "width": 46.66250228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pickup Points",
+      "tag": "A",
+      "x": 930,
+      "y": 1519.6875,
+      "width": 90.30000305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    }
+  ]
+}

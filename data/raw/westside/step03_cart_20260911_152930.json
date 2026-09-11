@@ -1,0 +1,207 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://checkout.westside.com/checkouts/cn/hWNGhhxPGBHc4sDaWUs5GWKS/en-in?_cs=3.AMPS&_r=AQAB-F6zahE6aQIPkPuaDU8YN7B2RkKoGLK9SIo1bq20Tpc&_s=0f2ba7ca-315f-444b-8d96-7d4a723c36c3&_y=e53ed89f-a0c5-4a39-b8fb-6c3fa044b23b",
+  "timestamp": "20260911_152930",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": -1,
+      "y": -301,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Navigate to Online Store",
+      "tag": "A",
+      "x": 142.40000915527344,
+      "y": -280,
+      "width": 150,
+      "height": 43.22500228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1098.4000244140625,
+      "y": -270.38751220703125,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Navigate to Online Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 627.6000366210938,
+      "y": -153.21250915527344,
+      "width": 14,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 552.7999877929688,
+      "y": 230.65000915527344,
+      "width": 18,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "+18",
+      "tag": "BUTTON",
+      "x": 599.5750122070312,
+      "y": 572.3500366210938,
+      "width": 27.225000381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "+11",
+      "tag": "BUTTON",
+      "x": 599.5750122070312,
+      "y": 690.75,
+      "width": 27.225000381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "+10",
+      "tag": "BUTTON",
+      "x": 599.5750122070312,
+      "y": 757.3500366210938,
+      "width": 27.225000381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Add discount",
+      "tag": "BUTTON",
+      "x": 141.40000915527344,
+      "y": 993.3500366210938,
+      "width": 121.25,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Pay now\n₹1,598.00",
+      "tag": "BUTTON",
+      "x": 142.40000915527344,
+      "y": 1008.3500366210938,
+      "width": 499.20001220703125,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Submit",
+      "tag": "BUTTON",
+      "x": 141.40000915527344,
+      "y": -176.97500610351562,
+      "width": 43.78750228881836,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Return Policy",
+      "tag": "BUTTON",
+      "x": 142.40000915527344,
+      "y": 1119.9500732421875,
+      "width": 80.125,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "BUTTON",
+      "x": 236.52500915527344,
+      "y": 1119.9500732421875,
+      "width": 83.4625015258789,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Terms of service",
+      "tag": "BUTTON",
+      "x": 333.9875183105469,
+      "y": 1119.9500732421875,
+      "width": 98.42500305175781,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Navigate to Online Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apply",
+      "tag": "BUTTON",
+      "x": 1058.550048828125,
+      "y": 212.8000030517578,
+      "width": 57.04999923706055,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "Submit",
+      "tag": "BUTTON",
+      "x": 721.4000244140625,
+      "y": 205,
+      "width": 43.78750228881836,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Back to finalize order",
+      "tag": "BUTTON",
+      "x": 721.4000244140625,
+      "y": 267.6000061035156,
+      "width": 170.9250030517578,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Refresh Page",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}
