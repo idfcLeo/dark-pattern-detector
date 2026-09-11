@@ -1,0 +1,78 @@
+{
+  "lr": {
+    "binary": {
+      "accuracy": 0.9695378151260504,
+      "f1": 0.9386892177589852,
+      "precision": 0.9736842105263158,
+      "recall": 0.9061224489795918,
+      "best_params": {
+        "C": 9.620868868612016
+      }
+    },
+    "multiclass": {
+      "accuracy": 0.9552845528455285,
+      "f1": 0.9492506794800086,
+      "precision": 0.9460873041012413,
+      "recall": 0.9552845528455285,
+      "best_params": {
+        "C": 9.84701178376419
+      }
+    }
+  },
+  "rf": {
+    "binary": {
+      "accuracy": 0.9464285714285714,
+      "f1": 0.8843537414965986,
+      "precision": 0.9948979591836735,
+      "recall": 0.7959183673469388,
+      "best_params": {
+        "max_depth": 32,
+        "n_estimators": 375,
+        "min_samples_split": 18,
+        "min_samples_leaf": 1
+      }
+    },
+    "multiclass": {
+      "accuracy": 0.943089430894309,
+      "f1": 0.9364381374283871,
+      "precision": 0.9333686987896271,
+      "recall": 0.943089430894309,
+      "best_params": {
+        "max_depth": 25,
+        "n_estimators": 397,
+        "min_samples_split": 4,
+        "min_samples_leaf": 1
+      }
+    }
+  },
+  "lgbm": {
+    "binary": {
+      "accuracy": 0.9653361344537815,
+      "f1": 0.9305263157894736,
+      "precision": 0.9608695652173913,
+      "recall": 0.9020408163265307,
+      "best_params": {
+        "num_leaves": 114,
+        "learning_rate": 0.19204390093057344,
+        "n_estimators": 428,
+        "min_child_samples": 5,
+        "reg_alpha": 1.5608313335330488e-05,
+        "reg_lambda": 2.6471933302096664
+      }
+    },
+    "multiclass": {
+      "accuracy": 0.9471544715447154,
+      "f1": 0.9473887759710931,
+      "precision": 0.9479091271243976,
+      "recall": 0.9471544715447154,
+      "best_params": {
+        "num_leaves": 16,
+        "learning_rate": 0.245130447653924,
+        "n_estimators": 137,
+        "min_child_samples": 5,
+        "reg_alpha": 0.0007351923919545029,
+        "reg_lambda": 5.388316416562367e-07
+      }
+    }
+  }
+}
