@@ -1,0 +1,72 @@
+{
+  "step": 8,
+  "label": "cancel_step",
+  "url": "https://blinkit.com/account/delete-account",
+  "timestamp": "20260810_115630",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 178,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "!\nSearch \"milk\"\nSearch \"chips\"",
+      "tag": "A",
+      "x": 499,
+      "y": 19.200000762939453,
+      "width": 458,
+      "height": 47.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "My Addresses",
+      "tag": "A",
+      "x": 143,
+      "y": 195.40000915527344,
+      "width": 258,
+      "height": 53,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 143,
+      "y": 248.40000915527344,
+      "width": 258,
+      "height": 53.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "My Prescriptions",
+      "tag": "A",
+      "x": 143,
+      "y": 302.20001220703125,
+      "width": 258,
+      "height": 54.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "E-Gift Cards",
+      "tag": "A",
+      "x": 143,
+      "y": 356.8000183105469,
+      "width": 258,
+      "height": 54.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Account privacy",
+      "tag": "A",
+      "x": 143,
+      "y": 411.3999938964844,
+      "width": 258,
+      "height": 54.60000228881836,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.bewakoof.com/checkout",
+  "timestamp": "20260812_204831",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 160,
+      "y": 19.774999618530273,
+      "width": 150,
+      "height": 20.450000762939453,
+      "visible": true
+    },
+    {
+      "text": "PAY ₹1234",
+      "tag": "BUTTON",
+      "x": 320.5,
+      "y": 566.6375122070312,
+      "width": 401.5,
+      "height": 44,
+      "visible": true
+    }
+  ]
+}

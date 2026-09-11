@@ -1,0 +1,378 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://payments.jio.com/JopWebApp/?paramx1=1ojvgdTbrNczD3OllgXCGg==&paramx2=dHJ1ZQ==&paramx3=SklPR1JPQ0VSSUVT&paramx4=dHJ1ZQ==",
+  "timestamp": "20260810_114554",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Verify & pay ₹169.00",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 1004,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Okay",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 841,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 774,
+      "y": 142.8000030517578,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 774,
+      "y": 218.40000915527344,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 466,
+      "y": 444,
+      "width": 348,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 466,
+      "y": 378.3999938964844,
+      "width": 348,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 614.4000244140625,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 548.7999877929688,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Yes, proceed",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 844,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Cancel",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 909.6000366210938,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 876,
+      "y": 408.8000183105469,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 614.4000244140625,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 548.7999877929688,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Pay ₹169.00",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 942,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 876,
+      "y": 408.8000183105469,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 614.4000244140625,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 548.7999877929688,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Place Order",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 940,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Pay ₹169.00",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 969,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 876,
+      "y": 474.3999938964844,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 614.4000244140625,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 876,
+      "y": 474.3999938964844,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 614.4000244140625,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 876,
+      "y": 460.8000183105469,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 614.4000244140625,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 380,
+      "y": 548.7999877929688,
+      "width": 520,
+      "height": 49.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 893.5,
+      "y": 732,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Done",
+      "tag": "BUTTON",
+      "x": 354.5,
+      "y": 720,
+      "width": 571,
+      "height": 49.60000228881836,
+      "visible": true
+    }
+  ]
+}

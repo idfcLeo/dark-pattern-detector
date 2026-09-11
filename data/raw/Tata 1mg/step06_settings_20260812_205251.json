@@ -1,0 +1,1053 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://www.1mg.com/profile",
+  "timestamp": "20260812_205251",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 14,
+      "width": 115.375,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "MEDICINES",
+      "tag": "A",
+      "x": 131.375,
+      "y": 0,
+      "width": 91.86250305175781,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "LAB TESTS",
+      "tag": "A",
+      "x": 223.2375030517578,
+      "y": 0,
+      "width": 76.1624984741211,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CONSULT DOCTORS",
+      "tag": "A",
+      "x": 299.3999938964844,
+      "y": 0,
+      "width": 132.91250610351562,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CANCER CARE",
+      "tag": "A",
+      "x": 432.3125,
+      "y": 0,
+      "width": 100.80000305175781,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "AYURVEDA",
+      "tag": "A",
+      "x": 533.1124877929688,
+      "y": 0,
+      "width": 91.5875015258789,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "PARTNERSHIPS",
+      "tag": "A",
+      "x": 624.7000122070312,
+      "y": 0,
+      "width": 119.5625,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CORPORATES",
+      "tag": "A",
+      "x": 744.2625122070312,
+      "y": 0,
+      "width": 109.0250015258789,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CARE PLAN\nSAVE MORE",
+      "tag": "A",
+      "x": 853.2875366210938,
+      "y": 0,
+      "width": 145.25,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "View Profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Previously Ordered ItemsNEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rate your Recent PurchasesNEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Lab Tests",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Consultations",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Health RecordsNEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Manage Payments",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Care PlanSAVE MORE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NeuCoins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1068.8875732421875,
+      "y": 21.5,
+      "width": 42,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 1146.8875732421875,
+      "y": 21,
+      "width": 18.337499618530273,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO CART",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Need Help?",
+      "tag": "A",
+      "x": 1201.2249755859375,
+      "y": 12,
+      "width": 62.775001525878906,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MEDICINES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LAB TESTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DOCTORS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CANCER CARE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Quick order",
+      "tag": "A",
+      "x": 1153.6375732421875,
+      "y": 73,
+      "width": 94.36250305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Quick order",
+      "tag": "BUTTON",
+      "x": 1153.6375732421875,
+      "y": 73,
+      "width": 94.36250305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "All Diseases",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medicines by Therapeutic Class",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care",
+      "tag": "A",
+      "x": 256.2375183105469,
+      "y": 138,
+      "width": 56.10000228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Hair Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shampoos & Conditioners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Serums",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Creams & Masks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Colour",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Growth Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Essential Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fitness & Health",
+      "tag": "A",
+      "x": 358.3374938964844,
+      "y": 138,
+      "width": 93.98750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Plant Protein",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mass Gainers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pre/Post Workout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches & Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fat Burners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 498.32501220703125,
+      "y": 138,
+      "width": 94.3499984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Lubricants & Massage Gels",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Performance Enhancers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oral Contraceptives",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamins & Nutrition",
+      "tag": "A",
+      "x": 638.6749877929688,
+      "y": 138,
+      "width": 117.30000305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Omega & Fish Oil & DHA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fish Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cod Liver Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Flax Seed Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair & Skin Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Calcium",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin B",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin D",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supports & Braces",
+      "tag": "A",
+      "x": 801.9750366210938,
+      "y": 138,
+      "width": 108.8125,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Back & Abdomen Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ankle, Foot & Leg Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Immunity Boosters",
+      "tag": "A",
+      "x": 956.7875366210938,
+      "y": 138,
+      "width": 111.5999984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Chyawanprash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Antioxidant Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ayurvedic Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbal Tea",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy",
+      "tag": "A",
+      "x": 1114.3875732421875,
+      "y": 138,
+      "width": 78.6624984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Homeopathy Diabetes Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Health",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Piles and Fissures",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fungal Infection",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Obesity",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Care",
+      "tag": "A",
+      "x": 605.4375,
+      "y": 180,
+      "width": 51.125,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Pet Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 686.5125122070312,
+      "y": 323.8000183105469,
+      "width": 26.149999618530273,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 686.5125122070312,
+      "y": 404.8000183105469,
+      "width": 26.149999618530273,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 683.875,
+      "y": 485.8000183105469,
+      "width": 28.787500381469727,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "My NeuCoins\nYou have 0 NeuCoins in your wallet",
+      "tag": "A",
+      "x": 756.6625366210938,
+      "y": 258.8000183105469,
+      "width": 334.6625061035156,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 78,
+      "y": 849.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 78,
+      "y": 885.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Press Coverage",
+      "tag": "A",
+      "x": 78,
+      "y": 921.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 78,
+      "y": 957.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Business Partnership",
+      "tag": "A",
+      "x": 78,
+      "y": 993.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Become a Health Partner",
+      "tag": "A",
+      "x": 78,
+      "y": 1029.4000244140625,
+      "width": 170.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Corporate Governance",
+      "tag": "A",
+      "x": 78,
+      "y": 1089.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 849.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 885.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 921.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Return Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 957.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "IP Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 993.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 1029.4000244140625,
+      "width": 170.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Fake Jobs and Fraud Disclaimer",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 1089.4000244140625,
+      "width": 170.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Order Medicines",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 849.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Book Lab Tests",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 885.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Consult a Doctor",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 921.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Ayurveda Articles",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 957.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Hindi Articles",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 993.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Care Plan",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 1029.4000244140625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 649.9874877929688,
+      "y": 885.4000244140625,
+      "width": 18.975000381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 696.9625244140625,
+      "y": 885.4000244140625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 743.9249877929688,
+      "y": 885.4000244140625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 790.8875122070312,
+      "y": 885.4000244140625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 837.8500366210938,
+      "y": 885.4000244140625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.8125,
+      "y": 885.4000244140625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 985.7750244140625,
+      "y": 861.4000244140625,
+      "width": 216.22500610351562,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 985.7750244140625,
+      "y": 917.4000244140625,
+      "width": 216.22500610351562,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Know more about Tata 1mg",
+      "tag": "BUTTON",
+      "x": 72,
+      "y": 1641.4000244140625,
+      "width": 1136,
+      "height": 25.600000381469727,
+      "visible": true
+    }
+  ]
+}

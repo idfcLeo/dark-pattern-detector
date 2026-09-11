@@ -1,0 +1,126 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://www.jiomart.com/profile",
+  "timestamp": "20260810_114606",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1088,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1136,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 1184,
+      "y": 8,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1240,
+      "y": 10,
+      "width": 40,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "My Profile",
+      "tag": "A",
+      "x": 24,
+      "y": 292,
+      "width": 327,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "My List",
+      "tag": "A",
+      "x": 24,
+      "y": 352,
+      "width": 327,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "JioMart Wallet\n₹0.00",
+      "tag": "A",
+      "x": 24,
+      "y": 480.8000183105469,
+      "width": 327,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Guide",
+      "tag": "A",
+      "x": 24,
+      "y": 669.6000366210938,
+      "width": 327,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Coupons store",
+      "tag": "A",
+      "x": 24,
+      "y": 854.4000244140625,
+      "width": 327,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "About JioMart",
+      "tag": "A",
+      "x": 24,
+      "y": 966.4000244140625,
+      "width": 327,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Legal Information",
+      "tag": "A",
+      "x": 24,
+      "y": 1022.4000244140625,
+      "width": 327,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powered by Kaily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

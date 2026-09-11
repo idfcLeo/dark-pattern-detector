@@ -1,0 +1,2682 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.clovia.com/",
+  "timestamp": "20260812_203410",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ok Got it",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BECOME AN AFFILIATE",
+      "tag": "A",
+      "x": 874.6375122070312,
+      "y": 3.6000001430511475,
+      "width": 103.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "OUR STORES",
+      "tag": "A",
+      "x": 993.6749877929688,
+      "y": 3.6000001430511475,
+      "width": 59.587501525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 428.95001220703125,
+      "y": 20.075000762939453,
+      "width": 171.97500610351562,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1167.2125244140625,
+      "y": 33.0625,
+      "width": 15.787500381469727,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "BRAS",
+      "tag": "A",
+      "x": 15,
+      "y": 71.0625,
+      "width": 49.78750228881836,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "T-Shirt Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Full Figure Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Detachable Straps/Multiway",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Minimizer Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Balconette",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Push Up Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bralette",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Front open",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Strapless Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bra & Panty Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plus Size Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Backless Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Seamless Bras",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Non-padded",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Padded",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lightly padded",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spacer Cup",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wire",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Non-Wire",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Underwire Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Demi Cup",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Full Cup",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fabric",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cotton",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lace",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Polyamide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bridal Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexy Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BondedNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nursing/ Feeding Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Animal Print",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Floral Print",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Polka Print",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Printed",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Solid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4 Bras @899",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3 Bras @ 1099",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2 Bras @ 1199",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PANTIES",
+      "tag": "A",
+      "x": 64.7874984741211,
+      "y": 71.0625,
+      "width": 66.125,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Hipsters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bikini",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thongs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Boy shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Boyleg",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Waist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "High waist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Low waist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mid waist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cotton",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lace",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Polyamide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Modal",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Coverage",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Full",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Low",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medium",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Menstrual PantiesNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bridal",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maternity",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tummy Tucker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Seamless",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Collection",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Floral Print",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Printed",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Solid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4 Panties @599",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3 Panties @ 599",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3 Panties @ 999",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Panties Combo PacksNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SLEEP",
+      "tag": "A",
+      "x": 130.91250610351562,
+      "y": 71.0625,
+      "width": 51.5,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Nightsuits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nighties",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Babydolls",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Top And Shorts Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Top And Pyjama Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nighty and Robe Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fabric",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cotton",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lace",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Satin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Velour/Velvet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rayon",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Camisoles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sleep Tees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bottoms",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pyjamas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Joggers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Graphic",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Owl Print",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Button Down",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Striped",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Printed",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Animal Print",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Floral",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Theme",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Disney",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Looney Tunes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stranger Things",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Squid Game",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sleeveless",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Full Sleeves",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3/4 Sleeves",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Short Sleeves",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ACTIVE",
+      "tag": "A",
+      "x": 182.41250610351562,
+      "y": 71.0625,
+      "width": 61.07500076293945,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Sports Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "High Impact",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medium Impact",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Low Impact",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Active T-Shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Crop Top",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Active Jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tights and Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Active Shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cycling Shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gym Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dance & Zumba",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aerobics",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Yoga",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Running & Walking",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cycling",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Co-ords",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SHAPERS",
+      "tag": "A",
+      "x": 243.4875030517578,
+      "y": 71.0625,
+      "width": 70.88750457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Saree Shapewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tummy Tucker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BodysuitNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thigh Shaper",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4 BRAS @899",
+      "tag": "A",
+      "x": 314.375,
+      "y": 71.0625,
+      "width": 98.5999984741211,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "3 BRAS @1099",
+      "tag": "A",
+      "x": 412.9750061035156,
+      "y": 71.0625,
+      "width": 101.9124984741211,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "4 PANTIES @599",
+      "tag": "A",
+      "x": 514.8875122070312,
+      "y": 71.0625,
+      "width": 114.88750457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "MEN'S",
+      "tag": "A",
+      "x": 629.7750244140625,
+      "y": 71.0625,
+      "width": 76.88750457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Briefs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Trunks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vests",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Boxer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bottom",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SocksNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4 Innerwear at 599",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3 Innerwear at 599",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "EXCLUSIVE",
+      "tag": "A",
+      "x": 706.6625366210938,
+      "y": 71.0625,
+      "width": 103.42500305175781,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Bras",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Panties",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nightwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Active",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shapewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ACCESSORIES",
+      "tag": "A",
+      "x": 810.0875244140625,
+      "y": 71.0625,
+      "width": 99.75,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Stockings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bra Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MENSTRUAL CARE",
+      "tag": "A",
+      "x": 909.8375244140625,
+      "y": 71.0625,
+      "width": 121.13750457763672,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Menstrual PantiesNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sanitary Pads",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0",
+      "tag": "A",
+      "x": 1182.800048828125,
+      "y": 77.0625,
+      "width": 35,
+      "height": 31,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 110,
+      "width": 1264.800048828125,
+      "height": 537.1749877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1264.800048828125,
+      "y": 110,
+      "width": 1264.800048828125,
+      "height": 537.1749877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2529.60009765625,
+      "y": 110,
+      "width": 1264.800048828125,
+      "height": 537.1749877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3794.400146484375,
+      "y": 110,
+      "width": 1264.800048828125,
+      "height": 537.1749877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5059.2001953125,
+      "y": 110,
+      "width": 1264.800048828125,
+      "height": 537.1749877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6324,
+      "y": 110,
+      "width": 1264.800048828125,
+      "height": 537.1749877929688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20,
+      "y": 667.1749877929688,
+      "width": 1224.800048828125,
+      "height": 117.375,
+      "visible": true
+    },
+    {
+      "text": "wide range of bras,",
+      "tag": "A",
+      "x": 654.7000122070312,
+      "y": 1075.75,
+      "width": 143.4375,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SHOP NOW",
+      "tag": "A",
+      "x": 70,
+      "y": 1431.0999755859375,
+      "width": 86.11250305175781,
+      "height": 32.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Push-Up Bras:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "T-Shrit Bra:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bralettes:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Non-Padded Bra:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Balconette Bra:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Full Figure Bras:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Strapless Bra:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "panty",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hipster Panties:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bikini Panties:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thongs:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Boyshorts:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bridal Lingerie:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Babydoll:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maternity Bras:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maternity Panties:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maternity Nightwear:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beginner’s Bra:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports Bra:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tights:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Active Tees:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Active Shorts:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nighties:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tops & Pyjamas:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shorts:",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shapewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "exclusive in-store range",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bra size calculator",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sleepwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "swimwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SHOP NOW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Go to bag",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Go to Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bras",
+      "tag": "A",
+      "x": 30,
+      "y": 1621.9000244140625,
+      "width": 28.399999618530273,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Panties",
+      "tag": "A",
+      "x": 75.6624984741211,
+      "y": 1621.9000244140625,
+      "width": 47.41250228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Nightwear",
+      "tag": "A",
+      "x": 140.33750915527344,
+      "y": 1621.9000244140625,
+      "width": 66.5374984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Activewear",
+      "tag": "A",
+      "x": 224.1374969482422,
+      "y": 1621.9000244140625,
+      "width": 72.30000305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Shapewear",
+      "tag": "A",
+      "x": 313.70001220703125,
+      "y": 1621.9000244140625,
+      "width": 73.95000457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sports Bra",
+      "tag": "A",
+      "x": 404.9125061035156,
+      "y": 1621.9000244140625,
+      "width": 66.1875,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bra Panty Sets",
+      "tag": "A",
+      "x": 488.3625183105469,
+      "y": 1621.9000244140625,
+      "width": 92.45000457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bra For Girls",
+      "tag": "A",
+      "x": 598.0750122070312,
+      "y": 1621.9000244140625,
+      "width": 76.42500305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sexy Bra",
+      "tag": "A",
+      "x": 691.7625122070312,
+      "y": 1621.9000244140625,
+      "width": 54.32500076293945,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bridal Bra",
+      "tag": "A",
+      "x": 763.3500366210938,
+      "y": 1621.9000244140625,
+      "width": 61.875,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Padded Bra",
+      "tag": "A",
+      "x": 842.4874877929688,
+      "y": 1621.9000244140625,
+      "width": 75.82500457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Push Up Bra",
+      "tag": "A",
+      "x": 935.5750122070312,
+      "y": 1621.9000244140625,
+      "width": 77.07500457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Strapless Bra",
+      "tag": "A",
+      "x": 1029.9124755859375,
+      "y": 1621.9000244140625,
+      "width": 84.70000457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bralette",
+      "tag": "A",
+      "x": 1131.875,
+      "y": 1621.9000244140625,
+      "width": 50.400001525878906,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Backless Bra",
+      "tag": "A",
+      "x": 30,
+      "y": 1642.9000244140625,
+      "width": 81.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "T-Shirt Bra",
+      "tag": "A",
+      "x": 128.5124969482422,
+      "y": 1642.9000244140625,
+      "width": 68.01250457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bra Size Calculator",
+      "tag": "A",
+      "x": 213.78750610351562,
+      "y": 1642.9000244140625,
+      "width": 121.4749984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Girls Panties",
+      "tag": "A",
+      "x": 352.5249938964844,
+      "y": 1642.9000244140625,
+      "width": 79.0374984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Hipster Panties",
+      "tag": "A",
+      "x": 448.82501220703125,
+      "y": 1642.9000244140625,
+      "width": 96.30000305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Thongs",
+      "tag": "A",
+      "x": 562.3875122070312,
+      "y": 1642.9000244140625,
+      "width": 47.57500076293945,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bikini Panties",
+      "tag": "A",
+      "x": 627.2250366210938,
+      "y": 1642.9000244140625,
+      "width": 83.4625015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Night Dress",
+      "tag": "A",
+      "x": 727.9500122070312,
+      "y": 1642.9000244140625,
+      "width": 73.32500457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Night Suit for Women",
+      "tag": "A",
+      "x": 818.5375366210938,
+      "y": 1642.9000244140625,
+      "width": 136.6999969482422,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Loungewear",
+      "tag": "A",
+      "x": 972.5,
+      "y": 1642.9000244140625,
+      "width": 79.7874984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Pajamas",
+      "tag": "A",
+      "x": 1069.550048828125,
+      "y": 1642.9000244140625,
+      "width": 57.29999923706055,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Camisole",
+      "tag": "A",
+      "x": 1144.112548828125,
+      "y": 1642.9000244140625,
+      "width": 61.78750228881836,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Nightgown",
+      "tag": "A",
+      "x": 30,
+      "y": 1663.9000244140625,
+      "width": 70.2750015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Cotton Night Dress",
+      "tag": "A",
+      "x": 117.5374984741211,
+      "y": 1663.9000244140625,
+      "width": 121.26250457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Babydoll",
+      "tag": "A",
+      "x": 256.0625,
+      "y": 1663.9000244140625,
+      "width": 56.375,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sexy Night Dress",
+      "tag": "A",
+      "x": 329.70001220703125,
+      "y": 1663.9000244140625,
+      "width": 106.0374984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bridal Nightwear",
+      "tag": "A",
+      "x": 453,
+      "y": 1663.9000244140625,
+      "width": 106.80000305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Gym Wear",
+      "tag": "A",
+      "x": 577.0625,
+      "y": 1663.9000244140625,
+      "width": 68.6875,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Yoga Pants",
+      "tag": "A",
+      "x": 663.0125122070312,
+      "y": 1663.9000244140625,
+      "width": 73.11250305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sports T Shirts",
+      "tag": "A",
+      "x": 753.3875122070312,
+      "y": 1663.9000244140625,
+      "width": 90.5999984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Tights",
+      "tag": "A",
+      "x": 861.25,
+      "y": 1663.9000244140625,
+      "width": 38.86249923706055,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Track Pants for Women",
+      "tag": "A",
+      "x": 917.375,
+      "y": 1663.9000244140625,
+      "width": 150.0500030517578,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sexy Lingerie",
+      "tag": "A",
+      "x": 1084.6875,
+      "y": 1663.9000244140625,
+      "width": 82.80000305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Lingerie Sets",
+      "tag": "A",
+      "x": 25,
+      "y": 1663.9000244140625,
+      "width": 1209.8499755859375,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Honeymoon Lingerie",
+      "tag": "A",
+      "x": 69.4749984741211,
+      "y": 1684.9000244140625,
+      "width": 132.9250030517578,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Swimwear",
+      "tag": "A",
+      "x": 219.66250610351562,
+      "y": 1684.9000244140625,
+      "width": 67.23750305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bikini",
+      "tag": "A",
+      "x": 304.1625061035156,
+      "y": 1684.9000244140625,
+      "width": 32.587501525878906,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sanitary Napkin",
+      "tag": "A",
+      "x": 354.01251220703125,
+      "y": 1684.9000244140625,
+      "width": 102.0250015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Types of Bras",
+      "tag": "A",
+      "x": 473.3000183105469,
+      "y": 1684.9000244140625,
+      "width": 85.92500305175781,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bra Size Chart",
+      "tag": "A",
+      "x": 576.4874877929688,
+      "y": 1684.9000244140625,
+      "width": 90.0875015258789,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Panty Size Chart",
+      "tag": "A",
+      "x": 683.8375244140625,
+      "y": 1684.9000244140625,
+      "width": 105.1624984741211,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bras",
+      "tag": "A",
+      "x": 25,
+      "y": 1802.5,
+      "width": 242.9499969482422,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Panties",
+      "tag": "A",
+      "x": 25,
+      "y": 1829.5,
+      "width": 242.9499969482422,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Nightwear",
+      "tag": "A",
+      "x": 25,
+      "y": 1856.5,
+      "width": 242.9499969482422,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Activewear",
+      "tag": "A",
+      "x": 25,
+      "y": 1883.5,
+      "width": 242.9499969482422,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Magazine",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1802.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "CloviaCurveTMFit Test",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1829.5,
+      "width": 228.375,
+      "height": 25.325000762939453,
+      "visible": true
+    },
+    {
+      "text": "Bra Size Calculator",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1860.8250732421875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Bra For Your Dress",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1887.8250732421875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Shop By Sizes",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1914.8250732421875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Shop By Colors",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1941.8250732421875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Save For Later",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1968.8250732421875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Become an Affiliate",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 1995.8250732421875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Sales and Service",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 2022.8250732421875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Own A Franchisee",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 2049.824951171875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Clovia Store Locator",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 2076.824951171875,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Clovia Responsible Disclosure Policy",
+      "tag": "A",
+      "x": 292.95001220703125,
+      "y": 2103.824951171875,
+      "width": 228.375,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1802.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1829.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Shipping Policy",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1856.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1883.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1910.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Trade Enquiries",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1937.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Return & Exchange Policy",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1964.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Track your order",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 1991.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Discreet Packaging",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 2018.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Gentlemen's Guide",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 2045.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Refer & Earn",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 2072.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "My Bag",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 2099.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 2126.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 2153.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Clovia Coupons",
+      "tag": "A",
+      "x": 531.3250122070312,
+      "y": 2180.5,
+      "width": 228.375,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "SUBSCRIBE",
+      "tag": "BUTTON",
+      "x": 803.8624877929688,
+      "y": 1851.7000732421875,
+      "width": 303.70001220703125,
+      "height": 35.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 866.7125244140625,
+      "y": 1895.0999755859375,
+      "width": 34,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 902.7125244140625,
+      "y": 1895.0999755859375,
+      "width": 34,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 938.7125244140625,
+      "y": 1895.0999755859375,
+      "width": 34,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 974.7125244140625,
+      "y": 1895.0999755859375,
+      "width": 34,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1010.7125244140625,
+      "y": 1895.0999755859375,
+      "width": 34,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 851.7125244140625,
+      "y": 1939.0999755859375,
+      "width": 99,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 960.7125244140625,
+      "y": 1939.0999755859375,
+      "width": 99,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 869.7125244140625,
+      "y": 1984.0999755859375,
+      "width": 172,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "+91 813 090 9028",
+      "tag": "A",
+      "x": 469.0500183105469,
+      "y": 2320.97509765625,
+      "width": 149.7375030517578,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "care@clovia.com",
+      "tag": "A",
+      "x": 469.0500183105469,
+      "y": 2351.962646484375,
+      "width": 160.28750610351562,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Submit Feedback",
+      "tag": "A",
+      "x": 469.0500183105469,
+      "y": 2376.962646484375,
+      "width": 130.5625,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 357.3999938964844,
+      "y": 304.21875,
+      "width": 550,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 550.4125366210938,
+      "y": 458.8187561035156,
+      "width": 86.88750457763672,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 654.75,
+      "y": 458.8187561035156,
+      "width": 92,
+      "height": 18.399999618530273,
+      "visible": true
+    }
+  ]
+}

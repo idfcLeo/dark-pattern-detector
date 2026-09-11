@@ -1,0 +1,135 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.healthkart.com/cart/Cart.action",
+  "timestamp": "20260812_205823",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 5,
+      "width": 210,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Change",
+      "tag": "BUTTON",
+      "x": 648.5125122070312,
+      "y": -126.4000015258789,
+      "width": 64.88750457763672,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 50.79999923706055,
+      "y": 201.8000030517578,
+      "width": 104,
+      "height": 104,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 694.2000122070312,
+      "y": 201.8000030517578,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Qty: 1",
+      "tag": "BUTTON",
+      "x": 649.4750366210938,
+      "y": 253.8000030517578,
+      "width": 64.7249984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "1 Amazing Coupon Inside",
+      "tag": "BUTTON",
+      "x": 816,
+      "y": -100.4000015258789,
+      "width": 178.03750610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Click here to claim",
+      "tag": "BUTTON",
+      "x": 882.7250366210938,
+      "y": -53.60000228881836,
+      "width": 99.05000305175781,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 772,
+      "y": 167.1999969482422,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1194,
+      "y": 167.1999969482422,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 913.2000122070312,
+      "y": 272.20001220703125,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1096.4000244140625,
+      "y": 272.20001220703125,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1279.5999755859375,
+      "y": 272.20001220703125,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1462.800048828125,
+      "y": 272.20001220703125,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Proceed to Pay",
+      "tag": "BUTTON",
+      "x": 993,
+      "y": 638.6000366210938,
+      "width": 225.8000030517578,
+      "height": 44,
+      "visible": true
+    }
+  ]
+}

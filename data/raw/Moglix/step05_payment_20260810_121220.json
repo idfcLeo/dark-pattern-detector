@@ -1,0 +1,18 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.moglix.com/checkout/payment",
+  "timestamp": "20260810_121220",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "PAY\n\n₹1,158.35",
+      "tag": "BUTTON",
+      "x": 689.2250366210938,
+      "y": 644.6000366210938,
+      "width": 185.77500915527344,
+      "height": 60,
+      "visible": true
+    }
+  ]
+}

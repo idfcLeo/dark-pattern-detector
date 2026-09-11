@@ -1,0 +1,369 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.thesouledstore.com/",
+  "timestamp": "20260812_210508",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 100.48750305175781,
+      "y": 20.950000762939453,
+      "width": 39.5,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 174.2375030517578,
+      "y": 20.950000762939453,
+      "width": 69.45000457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SNEAKERS",
+      "tag": "A",
+      "x": 268.6875,
+      "y": 20.950000762939453,
+      "width": 93.1875,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 587.4874877929688,
+      "y": 4.5,
+      "width": 85,
+      "height": 65,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1149.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1199.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 277.75,
+      "width": 1280,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 70,
+      "width": 630,
+      "height": 437,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 630,
+      "y": 70,
+      "width": 630,
+      "height": 437,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 85,
+      "y": 786.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 85,
+      "y": 819.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Returns & Refunds",
+      "tag": "A",
+      "x": 85,
+      "y": 852.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 85,
+      "y": 885.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 85,
+      "y": 918.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 367.5,
+      "y": 786.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Investor Relation",
+      "tag": "A",
+      "x": 367.5,
+      "y": 819.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 367.5,
+      "y": 852.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 367.5,
+      "y": 885.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Community Initiatives",
+      "tag": "A",
+      "x": 367.5,
+      "y": 918.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "T&C",
+      "tag": "A",
+      "x": 650,
+      "y": 786.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 650,
+      "y": 819.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 650,
+      "y": 852.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Get Notified",
+      "tag": "A",
+      "x": 650,
+      "y": 885.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 650,
+      "y": 918.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 932.5,
+      "y": 786.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 932.5,
+      "y": 786.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 932.5,
+      "y": 819.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 932.5,
+      "y": 819.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 932.5,
+      "y": 852.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 932.5,
+      "y": 852.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 932.5,
+      "y": 885.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 932.5,
+      "y": 885.0375366210938,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "View More",
+      "tag": "BUTTON",
+      "x": 932.5,
+      "y": 918.0375366210938,
+      "width": 68.1500015258789,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 499.8625183105469,
+      "y": 1057.0374755859375,
+      "width": 126,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 641.8624877929688,
+      "y": 1057.0374755859375,
+      "width": 126,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1032,
+      "y": 1133.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1074,
+      "y": 1133.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1116,
+      "y": 1133.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1158,
+      "y": 1133.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "WHO WE ARE",
+      "tag": "A",
+      "x": 101.80000305175781,
+      "y": 1204.0374755859375,
+      "width": 1076.4000244140625,
+      "height": 16.5,
+      "visible": true
+    }
+  ]
+}

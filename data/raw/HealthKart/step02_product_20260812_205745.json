@@ -1,0 +1,5616 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.healthkart.com/whey-protein?navKey=SCT-snt-pt-wp&cache=1",
+  "timestamp": "20260812_205745",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 24.25,
+      "width": 210,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "UHi, User",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HK Cash0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0",
+      "tag": "A",
+      "x": 1191,
+      "y": 8.012499809265137,
+      "width": 28,
+      "height": 71.0374984741211,
+      "visible": true
+    },
+    {
+      "text": "Proceed to Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop By Category",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 103.5,
+      "width": 189.6750030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Shop By Category",
+      "tag": "BUTTON",
+      "x": 49.79999923706055,
+      "y": 103.5,
+      "width": 189.6750030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Best Sellers",
+      "tag": "A",
+      "x": 254.47500610351562,
+      "y": 96.80000305175781,
+      "width": 136.8625030517578,
+      "height": 53,
+      "visible": true
+    },
+    {
+      "text": "Sport Nutrition",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Whey Protein",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Whey Protein Isolate",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Creatine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Yeast Protein",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pre Workout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BCAA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mass Gainer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Raw Whey Proteins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plant Proteins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Nutrition",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Collagen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Glutathione",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Multivitamins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fish Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Biotin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DHT Blocker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Calcium",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin D",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Food & Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Peanut Butter",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Muesli",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Meal Replacement",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apple Cider Vinegar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Protein Bars",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Protein Shakes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nutrition for Children",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brands",
+      "tag": "A",
+      "x": 391.3374938964844,
+      "y": 97.80000305175781,
+      "width": 96.67500305175781,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "Offer Zone",
+      "tag": "A",
+      "x": 488.01251220703125,
+      "y": 97.80000305175781,
+      "width": 124.3375015258789,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "Upto 60% Off",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Upto 55% Off",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Starts @949",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 612.3500366210938,
+      "y": 96.80000305175781,
+      "width": 94.75,
+      "height": 53,
+      "visible": true
+    },
+    {
+      "text": "Gift Card",
+      "tag": "A",
+      "x": 707.1000366210938,
+      "y": 97.80000305175781,
+      "width": 110.63750457763672,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "Email us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store locator",
+      "tag": "A",
+      "x": 991.5375366210938,
+      "y": 97.30000305175781,
+      "width": 143.33750915527344,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 173,
+      "width": 32.5,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sports Nutrition",
+      "tag": "A",
+      "x": 95.9000015258789,
+      "y": 172.5,
+      "width": 98.0625,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Proteins",
+      "tag": "A",
+      "x": 207.5625,
+      "y": 172.5,
+      "width": 57.900001525878906,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Best Seller",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bestseller",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 282.8999938964844,
+      "width": 208.40000915527344,
+      "height": 34.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "By Brand",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 359.5,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "TrueBasics\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 447.1000061035156,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze\n80",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 486.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "ON\n18",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 525.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Nutrition\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 565.2999877929688,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Myprotein\n11",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 604.7000122070312,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "MuscleTech\n23",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 644.1000366210938,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "RiteBite",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 697.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Dymatize\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 717.7000122070312,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Six Pack Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 771.1000366210938,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Zenith Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 805.2999877929688,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "SSN",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 839.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Domin8r Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 873.7000122070312,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "GAT",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 907.9000244140625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Labrada\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 928.1000366210938,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "MusclePharm",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 981.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Ronnie Coleman\n7",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1001.7000122070312,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "BPI Sports",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1055.0999755859375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Protein Scoop",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1089.300048828125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "MuscleXP",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1123.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "FB Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1157.7000732421875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Matrix Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1191.9000244140625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Healthfarm\n6",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1212.0999755859375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Allmax",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1265.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Mutant",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1299.7000732421875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Natures Velvet",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1333.9000244140625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Pure Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1368.0999755859375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Yogabar\n7",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1388.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "ProSupps\n5",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1427.7000732421875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Vigour Fuel",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1481.0999755859375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "XLR8",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1515.300048828125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Gaspari Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1549.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "BigBang Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1583.7000732421875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "GAIA",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1617.9000244140625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Nutrition Planet\n13",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1638.0999755859375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Absolute Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1691.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Fast & Up",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1725.7000732421875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "GNC\n62",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1745.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Muscle Trail\n50",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1785.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Nakpro\n45",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1824.7000732421875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "AS-IT-IS Nutrition\n44",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1864.0999755859375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Fuel One\n34",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1903.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Myfitness By Paradise\n29",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1942.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Physic Nutrition\n24",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1982.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Avvatar\n21",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2021.7000732421875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "NATURALTEIN\n21",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2061.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Tara Nutraceuticals\n18",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2100.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Nutrabay\n15",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2139.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Muscle Garage\n14",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2179.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Muscle Performance\n14",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2218.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "One Science\n14",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2258.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Getmymettle\n13",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2297.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Musclemend\n8",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2336.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "BeastLife\n7",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2376.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Nutrela\n7",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2415.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "QNT\n7",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2455.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Rule One\n7",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2494.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Helixlabz\n6",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2533.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Muscle Military\n6",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2573.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Vitaminnica\n6",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2612.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Flex Wheeler Nutrition\n5",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2652.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Ketones\n5",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2691.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Osoaa\n5",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2730.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Pole Nutrition\n5",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2770.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "The Whole Truth\n5",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2809.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Dexter Jackson\n4",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2849.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "PSVM Whey\n4",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2888.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "V-SHAPE SUPPS\n4",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2927.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "White Wolf\n4",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2967.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Apex Vitals\n3",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3006.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Kapiva\n3",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3046.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Muscle Leb\n3",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3085.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Olimp\n3",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3124.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "PRO360\n3",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3164.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "PVL\n3",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3203.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Scitron\n3",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3243.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Dennis James\n2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3282.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Denzour Nutrition\n2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3321.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Calibar\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3361.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "DR. HARLE\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3400.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "HealthER\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3440.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Kevin Levrone\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3479.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "MB Fuel One\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3518.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Ryse\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3558.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Twik Health\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3597.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Wild Buck\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3637.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "13 Lives",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3690.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Adreno Nutraceuticals",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3724.699951171875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Alpino",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3758.900146484375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Americanz Muscles",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3793.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Ammo Labz",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3827.300048828125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Athlab",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3861.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "BTN Sports",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3895.699951171875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Big Flex",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3929.900146484375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Big Wolf Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3964.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Bio Leafage",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3998.300048828125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Biox",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4032.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "BodyFirst",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4066.699951171875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Bolt",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4100.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Bulk",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4135.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Can",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4169.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Cawells",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4203.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Core Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4237.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Corebolics",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4271.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "CrazyNutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4306.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Devil's Roar",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4340.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Divine Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4374.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Dr. Morepen",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4408.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Dragon Pharma",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4442.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Exalt Supps",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4477.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Fitspire",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4511.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Fitup Life",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4545.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Foodstrong",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4579.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Gamepro Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4613.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Genetic Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4648.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Ghost",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4682.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Gibbon Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4716.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Gladiator Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4750.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "HF Series",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4784.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "HFN",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4819.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "HRX AGame",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4853.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Health Oxide",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4887.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "HealthXP",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4921.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "HealthifyMe",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4955.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Healthvit Fitness",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 4990.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "HealthyHey Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5024.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "HealthyHey Sports",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5058.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Hi Volt",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5092.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "I Am Love",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5126.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "IN2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5161.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "IRON LIFTERS",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5195.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Klr.Fit",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5229.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Lactonova",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5263.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Leopard Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5297.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Livestamin",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5332.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Love Organics",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5366.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "MB Pro One",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5400.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Masculn",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5434.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Maxn",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5468.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "MightyX",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5503.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Muscle & Strength",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5537.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Muscle Epitome",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5571.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "MuscleMonk",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5605.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "MyFitFuel",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5639.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "NEED",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5674.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Naturyz",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5708.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Neulife",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5742.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Nortech Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5776.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Nutra On",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5810.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "NutraBio",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5845.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Nutracology",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5879.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Nutristar",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5913.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "One Rep More",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5947.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Patanjali",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 5981.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Pro Nutrition & Fitness",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6016.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "ProFoods",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6050.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Proathlix",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6084.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Proquest",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6118.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Pumpd",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6152.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Reformulate",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6187.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Repfuel Sports",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6221.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Ripped Up Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6255.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "SCI MX Nutritions",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6289.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Scitec Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6323.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Sinew Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6358.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Spartan Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6392.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Steadfast Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6426.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Strong Nation",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6460.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Supply6",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6494.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "TMG PRO",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6529.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Wellbeing Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6563.30029296875,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Xtreme Force Nutrition",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6597.5,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "YouWeFit",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6631.7001953125,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "YourWhey",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6665.89990234375,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Zeelab",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6700.10009765625,
+      "width": 208.40000915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "TrueBasics\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6720.30029296875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze\n80",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6759.7001953125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "ON\n18",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 6799.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Discount",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 685.9000244140625,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 235.6999969482422,
+      "y": 689.9000244140625,
+      "width": 28.1875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "20% And Above",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 719.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "40% And Above",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 759.2999877929688,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "60% And Above",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 798.7000122070312,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Ratings",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 858.9000244140625,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 235.6999969482422,
+      "y": 862.9000244140625,
+      "width": 28.1875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "4 Ratings & Above",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 892.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "3 Ratings & Above",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 932.2999877929688,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "2 Ratings & Above",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 971.7000122070312,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "1 Ratings & Above",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1011.1000366210938,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Price",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 1071.300048828125,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "2000 And Below105",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1105.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "2,001-4,000282",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1144.7000732421875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "4,001-6,000140",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1184.0999755859375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "6,001-8,000135",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1223.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "8,001-10,00017",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1262.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "10001 And Above41",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1302.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Lifestage",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 1344.0999755859375,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Adult\n720",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1378.0999755859375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Gender",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 1438.300048828125,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Men\n717",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1472.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Women\n613",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1511.7000732421875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Price Per Kg (Rs/Kg)",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 1571.9000244140625,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "2099 And Below\n86",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1605.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "2099-2419\n29",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1645.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "2419-2739\n63",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1684.7000732421875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "2739-3059\n52",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1724.0999755859375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "3059-3379\n26",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1763.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "3379-3699\n51",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1802.9000244140625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "3699.1 And Above\n84",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1842.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Brand Origin",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 1844.7000732421875,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Indian\n621",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1878.7000732421875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "International\n106",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 1918.0999755859375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Weight Bucket (Lb)",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 1978.300048828125,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "3 And Below\n349",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2012.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "3-6\n262",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2051.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "6.1 And Above\n35",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2091.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Goal",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 2151.300048828125,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Boost Energy\n57",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2185.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Enhances Workout Performance\n15",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2224.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Increases Stamina\n2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2264.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Lean Muscle Mass\n29",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2303.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Meal Replacement\n2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2342.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Muscle Building\n625",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2382.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Muscle Recovery\n596",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2421.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Weight Loss\n2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2461.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Flavour Base",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 2424.10009765625,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Banana\n6",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2511.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Cafe Mocha\n14",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2551.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Chocochino\n2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2590.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Chocolate\n303",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2629.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Cookies And Cream\n33",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2669.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Fruit Punch\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2708.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Kesar Badam Pista\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2748.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Mango\n51",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2787.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Orange\n4",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2826.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Others\n235",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2866.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Rose\n2",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2905.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Strawberry\n32",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2945.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Vanilla\n57",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2984.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Watermelon\n1",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3023.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Protein Per Serving Bucket (G)",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 2750.5,
+      "width": 165.10000610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "21 And Below\n37",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2808.5,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "21-25\n410",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2847.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "25-29\n99",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2887.300048828125,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "29.1 And Above\n45",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 2926.699951171875,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Vegetarian/Non-Vegetarian",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 2986.900146484375,
+      "width": 165.10000610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Vegetarian\n720",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3044.900146484375,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Stock Availability",
+      "tag": "A",
+      "x": 70.5999984741211,
+      "y": 3105.10009765625,
+      "width": 165.10000610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Exclude Sold Out",
+      "tag": "A",
+      "x": 60.60000228881836,
+      "y": 3139.10009765625,
+      "width": 208.40000915527344,
+      "height": 39.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 518.1500244140625,
+      "width": 121,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "46.3k Reviews",
+      "tag": "A",
+      "x": 481.2375183105469,
+      "y": 518.9500122070312,
+      "width": 90.375,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "View More",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 614.5499877929688,
+      "width": 86.86250305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 736.1500244140625,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Performance Whey- 2.2 lb Rich Chocolate",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 1010.9500122070312,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹3,999",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 1086.9500732421875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹3,879\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 1146.9500732421875,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 1197.9500732421875,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 1251.550048828125,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 736.1500244140625,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Ronnie Coleman Pro-Antium Whey Protein- 2 lb Double Chocolate",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 1010.9500122070312,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹3,199\n₹3,799\n15% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 1086.9500732421875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹3,103\nfor Premium Member",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 1122.9500732421875,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 1197.9500732421875,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 1251.550048828125,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 736.1500244140625,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Gold 100% Whey- 2.2 lb Double Rich Chocolate",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 1010.9500122070312,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹4,599\n₹5,699\n19% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 1086.9500732421875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹4,461\nfor Premium Member",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 1146.9500732421875,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 1197.9500732421875,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 1251.550048828125,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 1337.3499755859375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Whey PR- 2.2 lb Molten Chocolate Cake",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 1612.1500244140625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹3,949\n₹4,999\n21% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 1688.1500244140625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹3,831\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 1748.1500244140625,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 1799.1500244140625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 1852.75,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 1337.3499755859375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "ON (Optimum Nutrition) Gold Standard 100% Whey Protein- 3.74 lb Double Rich Choc",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 1612.1500244140625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,799\n₹8,799\n11% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 1688.1500244140625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 1748.1500244140625,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 1765.1500244140625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 1818.75,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 1337.3499755859375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleTech NitroTech Whey Protein- 3.8 lb Milk Chocolate",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 1612.1500244140625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,699\n₹8,999\n14% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 1688.1500244140625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 1724.1500244140625,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 1799.1500244140625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 1852.75,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 1938.550048828125,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Performance Whey- 4.4 lb Rich Chocolate",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 2213.35009765625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,799\n₹9,699\n19% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 2289.35009765625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹7,565\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 2349.35009765625,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 2400.35009765625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 2453.949951171875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 1938.550048828125,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Whey PR- 4.4 lb Molten Chocolate Cake",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 2213.35009765625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,599\n₹9,699\n21% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 2289.35009765625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹7,371\nfor Premium Member",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 2349.35009765625,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 2400.35009765625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 2453.949951171875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 1938.550048828125,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "GNC Pro Performance Power Protein- 4 lb Double Rich Chocolate",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 2213.35009765625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹4,099\n₹9,499\n56% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 2289.35009765625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹3,894\nfor Premium Member",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 2325.35009765625,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 2400.35009765625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 2453.949951171875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 2539.75,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Fuel One Whey Protein Powder- 4.4 lb Chocolate",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 2814.550048828125,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹4,199\n₹5,799\n27% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 2890.550048828125,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹4,073\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 2926.550048828125,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 2977.550048828125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 3031.150146484375,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 2539.75,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Ronnie Coleman Pro-Antium Whey Protein- 5 lb Double Chocolate",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 2814.550048828125,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,499\n₹9,199\n18% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 2890.550048828125,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹7,274\nfor Premium Member",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 2926.550048828125,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 2977.550048828125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 3031.150146484375,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 2539.75,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Fuel One Whey Max- 2.2 lb Chocolate (Pouch)",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 2814.550048828125,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹2,599\n₹3,399\n23% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 2890.550048828125,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹2,521\nfor Premium Member",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 2926.550048828125,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 2977.550048828125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 3031.150146484375,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 3116.949951171875,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Performance Whey- 4.4 lb Chocolate Hazelnut",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 3391.75,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,799",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 3467.75,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹7,565\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 3527.75,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 3578.75,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 3632.35009765625,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 3116.949951171875,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "One Science Nitra Whey Tiger Combo Pack- 4 lb Chocolate Brownie with Daily Multi",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 3391.75,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹6,529\n₹8,999\n27% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 3467.75,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹6,203\nfor Premium Member",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 3503.75,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 3578.75,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 3632.35009765625,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 3116.949951171875,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Performance Whey- 8.8 lb Rich Chocolate",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 3391.75,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹14,799\n₹18,999\n22% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 3467.75,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹14,355\nfor Premium Member",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 3527.75,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 3578.75,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 3632.35009765625,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 3718.150146484375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "GNC Pro Performance Power Protein- 2 lb Double Rich Chocolate",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 3992.949951171875,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹2,199\n₹4,999\n56% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 4068.949951171875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹2,089\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 4104.9501953125,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 4179.9501953125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 4233.55029296875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 3718.150146484375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Fuel One Whey Max- 2.2 lb Chocolate Hazelnut",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 3992.949951171875,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹2,599\n₹3,399\n23% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 4068.949951171875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹2,521\nfor Premium Member",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 4104.9501953125,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 4179.9501953125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 4233.55029296875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 3718.150146484375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Whey PR- 2.2 lb Chocolate Fudge",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 3992.949951171875,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹3,949\n₹4,999\n21% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 4068.949951171875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹3,831\nfor Premium Member",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 4128.9501953125,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 4179.9501953125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 4233.55029296875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 4319.35009765625,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Fuel One Whey Protein Powder- 2.2 lb Rich Chocolate",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 4594.14990234375,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹2,199\n₹2,699\n18% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 4670.14990234375,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹2,133\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 4706.14990234375,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 4781.14990234375,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 4834.75,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 4319.35009765625,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Performance Whey- 4.4 lb Kesar Thandai",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 4594.14990234375,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,799\n₹9,699\n19% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 4670.14990234375,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹7,565\nfor Premium Member",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 4730.14990234375,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 4781.14990234375,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 4834.75,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 4319.35009765625,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "AS-IT-IS Nutrition ATOM Whey Protein with Enzymes- 4.4 lb Double Rich Chocolate",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 4594.14990234375,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹6,475\n₹10,445\n38% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 4670.14990234375,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 4706.14990234375,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 4781.14990234375,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 4834.75,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 4920.55029296875,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Performance Whey- 4.4 lb Blue Tokai Coffee",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 5195.35009765625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹7,799\n₹9,699\n19% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 5271.35009765625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹7,565\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 5331.35009765625,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 5382.35009765625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 5435.9501953125,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 4920.55029296875,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Whey PR- 8.8 lb Chocolate Fudge",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 5195.35009765625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹14,699\n₹18,999\n22% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 5271.35009765625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹14,258\nfor Premium Member",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 5331.35009765625,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 5382.35009765625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 5435.9501953125,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 4920.55029296875,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "ON (Optimum Nutrition) Gold Standard 100% Whey Protein- 2 lb Double Rich Chocola",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 5195.35009765625,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹4,269\n₹5,079\n15% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 5271.35009765625,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 5307.35009765625,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 5382.35009765625,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 5435.9501953125,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 5521.75,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Dymatize Elite Whey Protein- 5 lb Rich Chocolate",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 5796.55029296875,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹11,799\n₹13,999\n15% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 5872.55029296875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 5932.55029296875,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 5949.55029296875,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 6003.14990234375,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 5521.75,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "MuscleTech NitroTech Whey Protein- 2 lb Milk Chocolate",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 5796.55029296875,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹4,399\n₹4,799\n8% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 5872.55029296875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 5908.55029296875,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 5949.55029296875,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 6003.14990234375,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 5521.75,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "ON (Optimum Nutrition) Gold Standard 100% Whey Protein- 5 lb Double Rich Chocola",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 5796.55029296875,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹9,849\n₹14,469\n31% off",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 5872.55029296875,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 5908.55029296875,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 5949.55029296875,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 6003.14990234375,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 6088.9501953125,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "One Science Nitra Whey Tiger Combo Pack- 4 lb Ice Coffee with Daily Multivitamin",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 6363.75,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹6,529\n₹8,999\n27% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 6439.75,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹6,203\nfor Premium Member",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 6475.75,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 6526.75,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 6580.35009765625,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 6088.9501953125,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Avvatar Alpha Whey- 2.2 lb Belgian Chocolate",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 6363.75,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹2,669",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 6439.75,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 6475.75,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 6526.75,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 6580.35009765625,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 6088.9501953125,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "One Science 100% Premium Whey Protein- 1 lb Chocolate Charge",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 6363.75,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹1,799",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 6439.75,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "₹1,709\nfor Premium Member",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 6475.75,
+      "width": 253.3625030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 6526.75,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 6580.35009765625,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 324.8000183105469,
+      "y": 6666.14990234375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Avvatar 100% Performance Whey- 2.2 lb Malai Kulfi",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 6940.9501953125,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹3,419\n₹3,559\n3% off",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 7016.9501953125,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 340.6000061035156,
+      "y": 7052.9501953125,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 7069.9501953125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 340.6000061035156,
+      "y": 7123.55029296875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 629.7625122070312,
+      "y": 6666.14990234375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "ON (Optimum Nutrition) Gold Standard 100% Whey Protein- 1 lb Double Rich Chocola",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 6940.9501953125,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹2,309\n₹2,759\n16% off",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 7016.9501953125,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 645.5625,
+      "y": 7052.9501953125,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 7069.9501953125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 645.5625,
+      "y": 7123.55029296875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add to Wishlist",
+      "tag": "A",
+      "x": 934.7250366210938,
+      "y": 6666.14990234375,
+      "width": 284.9624938964844,
+      "height": 233,
+      "visible": true
+    },
+    {
+      "text": "Avvatar Alpha Whey- 4.4 lb Belgian Chocolate",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 6940.9501953125,
+      "width": 253.3625030517578,
+      "height": 70,
+      "visible": true
+    },
+    {
+      "text": "₹5,159",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 7016.9501953125,
+      "width": 253.3625030517578,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 950.5250244140625,
+      "y": 7052.9501953125,
+      "width": 253.3625030517578,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 7069.9501953125,
+      "width": 253.3625030517578,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy Now",
+      "tag": "BUTTON",
+      "x": 950.5250244140625,
+      "y": 7123.55029296875,
+      "width": 253.3625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 623.2999877929688,
+      "y": 7239.35009765625,
+      "width": 40,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 671.2999877929688,
+      "y": 7239.85009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 711.2999877929688,
+      "y": 7239.85009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "...",
+      "tag": "A",
+      "x": 751.2999877929688,
+      "y": 7239.85009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "29",
+      "tag": "A",
+      "x": 791.2999877929688,
+      "y": 7239.85009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "30",
+      "tag": "A",
+      "x": 831.2999877929688,
+      "y": 7239.85009765625,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 871.2999877929688,
+      "y": 7239.35009765625,
+      "width": 40,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "isolate whey protein",
+      "tag": "A",
+      "x": 415.7124938964844,
+      "y": 7472.35009765625,
+      "width": 109.76250457763672,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "BCAA",
+      "tag": "A",
+      "x": 423.5500183105469,
+      "y": 8385.3505859375,
+      "width": 30.950000762939453,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "electrolytes",
+      "tag": "A",
+      "x": 692.6875,
+      "y": 8582.3505859375,
+      "width": 61.72500228881836,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "creatine monohydrate",
+      "tag": "A",
+      "x": 642.1500244140625,
+      "y": 10300.3505859375,
+      "width": 116.4124984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "pre workout supplement",
+      "tag": "A",
+      "x": 797.5499877929688,
+      "y": 10517.3505859375,
+      "width": 129.41250610351562,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Ronnie Coleman Pro-Antium Whey Protein, 2 lb Double Chocolate",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11120.9501953125,
+      "width": 403.63751220703125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Performance Whey, 2.2 lb Rich Chocolate",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11161.75,
+      "width": 394.9125061035156,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "ON (Optimum Nutrition) Gold Standard 100% Whey Protein, 3.74 lb Double Rich Choc",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11202.5498046875,
+      "width": 411.3374938964844,
+      "height": 36.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Whey PR, 2.2 lb Molten Chocolate Cake",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11263.3505859375,
+      "width": 382.9875183105469,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "MuscleTech NitroTech Whey Protein, 3.8 lb Milk Chocolate",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11304.150390625,
+      "width": 361.8500061035156,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze Biozyme Gold 100% Whey, 2.2 lb Double Rich Chocolate",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11344.9501953125,
+      "width": 427.13751220703125,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Fuel One Whey Max, 2.2 lb Chocolate (Pouch)",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11385.75,
+      "width": 281.8500061035156,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "GNC Pro Performance Power Protein, 4 lb Double Rich Chocolate",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11426.5498046875,
+      "width": 401.9624938964844,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "One Science Nitra Whey Tiger Combo Pack, 4 lb Chocolate Brownie with Daily Multi",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11467.3505859375,
+      "width": 445.26251220703125,
+      "height": 36.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Dymatize Elite Whey Protein, 5 lb Rich Chocolate",
+      "tag": "A",
+      "x": 177.60000610351562,
+      "y": 11528.150390625,
+      "width": 299.7875061035156,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 1124.3875732421875,
+      "y": 11851.150390625,
+      "width": 95.4124984741211,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Whey protein",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12006.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Whey protein isolate",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12038.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Whey protein concentrate",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12070.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein powder",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12102.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Mass gainer",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12134.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Weight gainer",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12166.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Creatine supplement",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12198.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "EAA supplements",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12230.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Pre workout supplements",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12262.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Multivitamin tablets",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12006.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best multivitamin for men",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12038.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best multivitamin for women",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12070.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best multivitamin for seniors",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12102.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Omega 3",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12134.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Biotin tablets",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12166.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C tablets",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12198.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vitamin D3 & calcium",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12230.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Collagen supplements",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12262.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ashwagandha Tablets",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12006.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Ayurvedic Shilajit",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12038.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Giloy Tulsi Juice",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12070.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Brahmi Capsules",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12102.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Amla Juice for Hair & Skin",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12134.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Organic Safed Musli Powder",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12166.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Milk Thistle",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12198.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C Face Serum",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12230.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Biotin Hair Shampoo",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 12006.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair Growth Serum",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 12038.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Collagen Face Cleanser",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 12070.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Personal Hygiene",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 12102.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair Nourish Oil",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 12134.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair Mask",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 12166.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Best Personal Care Products",
+      "tag": "A",
+      "x": 759.9750366210938,
+      "y": 12198.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "BMI Calculator",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12006.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "FAQs & Help",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12038.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12070.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12102.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12134.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Delivery Policies",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12166.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Returns Policy",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12198.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12230.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Track Your Order",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12262.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 996.7000122070312,
+      "y": 12294.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12382.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Refer & Earn",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12414.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Loyalty Rewards",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12446.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "HK Cash",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12478.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "HealthKart Coupons",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12510.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Authenticity Guaranteed",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12542.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Locate Your Nearest Store",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12574.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12606.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Brand Directory",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12638.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sell On HealthKart",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12670.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Blogs & Videos",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12702.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein peanut butter",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12382.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Oats",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12414.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Muesli",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12446.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein Bar",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12478.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Apple cider vinegar",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12510.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Shakes",
+      "tag": "A",
+      "x": 286.5249938964844,
+      "y": 12542.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "MuscleBlaze",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12382.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "HK Vitals",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12414.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "TrueBasics",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12446.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gritzo",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12478.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "bGREEN",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12510.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "MB Z Verse",
+      "tag": "A",
+      "x": 523.25,
+      "y": 12542.650390625,
+      "width": 212.72500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 215.25,
+      "y": 12770.25,
+      "width": 12,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 243.25,
+      "y": 12770.75,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 283.25,
+      "y": 12770.25,
+      "width": 23,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 322.25,
+      "y": 12770.25,
+      "width": 22,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 360.25,
+      "y": 12770.75,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 400.25,
+      "y": 12770.75,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 12816.25,
+      "width": 120,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 185.8000030517578,
+      "y": 12816.25,
+      "width": 120,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Protein powder for beginners",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 13055.650390625,
+      "width": 180.4250030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Protein powder for women",
+      "tag": "A",
+      "x": 242.22500610351562,
+      "y": 13055.650390625,
+      "width": 164.9499969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Vegan & plant protein powder",
+      "tag": "A",
+      "x": 419.1750183105469,
+      "y": 13055.650390625,
+      "width": 183.0625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Soy based protein",
+      "tag": "A",
+      "x": 614.2374877929688,
+      "y": 13055.650390625,
+      "width": 111.38750457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Weight loss tablets",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 13135.650390625,
+      "width": 118.67500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Heart health & cholesterol",
+      "tag": "A",
+      "x": 180.47500610351562,
+      "y": 13135.650390625,
+      "width": 161.35000610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bone & joint health",
+      "tag": "A",
+      "x": 353.82501220703125,
+      "y": 13135.650390625,
+      "width": 116.48750305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Hair fall control & regrowth",
+      "tag": "A",
+      "x": 482.3125,
+      "y": 13135.650390625,
+      "width": 166.5749969482422,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Skin glow & anti-ageing",
+      "tag": "A",
+      "x": 660.8875122070312,
+      "y": 13135.650390625,
+      "width": 144.5500030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Immunity booster supplements",
+      "tag": "A",
+      "x": 817.4375,
+      "y": 13135.650390625,
+      "width": 193.91250610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Kids nutrition supplements",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 13215.650390625,
+      "width": 166.875,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Women’s health supplements",
+      "tag": "A",
+      "x": 228.6750030517578,
+      "y": 13215.650390625,
+      "width": 182.47500610351562,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Men’s health & performance",
+      "tag": "A",
+      "x": 423.1499938964844,
+      "y": 13215.650390625,
+      "width": 173.77500915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sports & athlete nutrition",
+      "tag": "A",
+      "x": 608.9249877929688,
+      "y": 13215.650390625,
+      "width": 154.8000030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diabetes‑friendly nutrition",
+      "tag": "A",
+      "x": 775.7250366210938,
+      "y": 13215.650390625,
+      "width": 160.83750915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Accessories",
+      "tag": "A",
+      "x": 49.79999923706055,
+      "y": 13295.650390625,
+      "width": 108.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 170.16250610351562,
+      "y": 13295.650390625,
+      "width": 95.42500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Essentials",
+      "tag": "A",
+      "x": 277.5874938964844,
+      "y": 13295.650390625,
+      "width": 95.7125015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Yoga Mats",
+      "tag": "A",
+      "x": 385.3000183105469,
+      "y": 13295.650390625,
+      "width": 66.55000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Bags",
+      "tag": "A",
+      "x": 463.8500061035156,
+      "y": 13295.650390625,
+      "width": 63.337501525878906,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Gym Wear",
+      "tag": "A",
+      "x": 539.1875,
+      "y": 13295.650390625,
+      "width": 63.91250228881836,
+      "height": 20,
+      "visible": true
+    }
+  ]
+}

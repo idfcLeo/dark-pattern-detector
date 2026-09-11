@@ -1,0 +1,198 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://www.zepto.com/account/support/38bee25f-4897-44ec-b898-57b7821c9733/details/bbea8464-9f8e-4fb6-8cb6-32078bf065eb?order-related-faq=false",
+  "timestamp": "20260810_115933",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20.80000114440918,
+      "y": 29.80000114440918,
+      "width": 90,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Home - 21, 21, 42, Pocket 2, Dwarka Sector 9, Dwarka, New Delhi, Delhi, 110077, ",
+      "tag": "BUTTON",
+      "x": 122.80000305175781,
+      "y": 44.79999923706055,
+      "width": 256,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Search for\n“apple juice”",
+      "tag": "A",
+      "x": 390.8000183105469,
+      "y": 22,
+      "width": 765.3125,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 1168.112548828125,
+      "y": 22.80000114440918,
+      "width": 38.25,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Cart\n1",
+      "tag": "BUTTON",
+      "x": 1218.362548828125,
+      "y": 22.80000114440918,
+      "width": 25.637500762939453,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Zepto Cash & Gift Card",
+      "tag": "A",
+      "x": 86.0374984741211,
+      "y": 266.3999938964844,
+      "width": 334.8999938964844,
+      "height": 31.274999618530273,
+      "visible": true
+    },
+    {
+      "text": "Add Balance",
+      "tag": "A",
+      "x": 303.9250183105469,
+      "y": 317.6750183105469,
+      "width": 117.01250457763672,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 110.2125015258789,
+      "y": 379.6750183105469,
+      "width": 308.7250061035156,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Customer Support",
+      "tag": "A",
+      "x": 110.2125015258789,
+      "y": 439.6750183105469,
+      "width": 308.7250061035156,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Saved Addresses",
+      "tag": "A",
+      "x": 110.2125015258789,
+      "y": 499.6750183105469,
+      "width": 308.7250061035156,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 110.2125015258789,
+      "y": 559.6749877929688,
+      "width": 308.7250061035156,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Log Out",
+      "tag": "BUTTON",
+      "x": 197.4875030517578,
+      "y": 635.6749877929688,
+      "width": 112,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 208.4875030517578,
+      "y": 707.6749877929688,
+      "width": 90,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 451.7375183105469,
+      "y": 138.40000915527344,
+      "width": 28,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 768.3125,
+      "y": 365.8999938964844,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 835.3125,
+      "y": 365.8999938964844,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "Log Out",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

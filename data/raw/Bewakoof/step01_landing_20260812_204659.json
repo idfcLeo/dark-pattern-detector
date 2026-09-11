@@ -1,0 +1,90 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.bewakoof.com/",
+  "timestamp": "20260812_204659",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 160,
+      "y": 47.17499923706055,
+      "width": 150,
+      "height": 20.450000762939453,
+      "visible": true
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 350,
+      "y": 44.900001525878906,
+      "width": 34.125,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 400.125,
+      "y": 44.900001525878906,
+      "width": 61.35000228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "ACCESSORIES",
+      "tag": "A",
+      "x": 477.4750061035156,
+      "y": 44.900001525878906,
+      "width": 101.26250457763672,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "LOGIN",
+      "tag": "A",
+      "x": 1008.0375366210938,
+      "y": 45.400001525878906,
+      "width": 39.962501525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1064,
+      "y": 45.400001525878906,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "MEN",
+      "tag": "BUTTON",
+      "x": 424,
+      "y": 567.2000122070312,
+      "width": 196,
+      "height": 54,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "BUTTON",
+      "x": 660,
+      "y": 567.2000122070312,
+      "width": 196,
+      "height": 54,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,927 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.thesouledstore.com/search?q=shirts",
+  "timestamp": "20260812_210640",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 100.48750305175781,
+      "y": 17.600000381469727,
+      "width": 39.5,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 174.2375030517578,
+      "y": 17.600000381469727,
+      "width": 69.45000457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SNEAKERS",
+      "tag": "A",
+      "x": 268.6875,
+      "y": 17.600000381469727,
+      "width": 93.1875,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 587.4874877929688,
+      "y": 4.5,
+      "width": 85,
+      "height": 65,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1049.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1099.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Saved Address",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TSS Money",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TSS Points",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1149.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1199.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 275,
+      "y": 93.80000305175781,
+      "width": 30.23750114440918,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Apply",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cotton Linen: Sky Blue\nCotton Linen Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 269,
+      "y": 241.52500915527344,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Pearl White\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 523,
+      "y": 241.52500915527344,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Striped Sienna\nCotton Linen Shirts\n₹ 1799",
+      "tag": "A",
+      "x": 777,
+      "y": 241.52500915527344,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Soft Pink\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 1031,
+      "y": 241.52500915527344,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Ocean Blue\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 269,
+      "y": 656.7250366210938,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Light Green\nCotton Linen Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 523,
+      "y": 656.7250366210938,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Red\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 777,
+      "y": 656.7250366210938,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Russet Brown\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 1031,
+      "y": 656.7250366210938,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Desert Dusk\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 269,
+      "y": 1071.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Lobster Bisque\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 523,
+      "y": 1071.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Dark Topaz (Plaid)\nMen Relaxed Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 777,
+      "y": 1071.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Solids: Olive Green\nMen Utility Shirts\n₹ 1799",
+      "tag": "A",
+      "x": 1031,
+      "y": 1071.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Coral Peach\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 269,
+      "y": 1487.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Plaid Shirt: Skyfall\nMen Utility Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 523,
+      "y": 1487.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Coastal Vibe\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 777,
+      "y": 1487.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Textured Shirt: Black\nMen Textured Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 1031,
+      "y": 1487.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Vikings: Knarr\nMen Relaxed Shirts\n₹ 2099",
+      "tag": "A",
+      "x": 269,
+      "y": 1902.3250732421875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Berry\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 523,
+      "y": 1902.3250732421875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Bold Black\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 777,
+      "y": 1902.3250732421875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Plaid Shirt: Cobalt\nMen Relaxed Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 1031,
+      "y": 1902.3250732421875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Spider-Man: Crimson Fade\nOversized Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 269,
+      "y": 2317.525146484375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Relaxed Shirt: Edge\nMen Checks And Stripes Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 523,
+      "y": 2317.525146484375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen Stripes: Azure\nCotton Linen Shirts\n₹ 1799",
+      "tag": "A",
+      "x": 777,
+      "y": 2317.525146484375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen Stripes: Coastal\nCotton Linen Shirts\n₹ 1699₹ 1799₹ 100 OFF",
+      "tag": "A",
+      "x": 1031,
+      "y": 2317.525146484375,
+      "width": 234,
+      "height": 391.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen Checks: Blue Sails\nCotton Linen Shirts\n₹ 1899",
+      "tag": "A",
+      "x": 269,
+      "y": 2734.324951171875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Solids: Off White\nMen Utility Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 523,
+      "y": 2734.324951171875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Kung Fu Panda: Tibet\nOversized Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 777,
+      "y": 2734.324951171875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Satin Shirt: State Of Mind\nOversized Shirts\n₹ 1799",
+      "tag": "A",
+      "x": 1031,
+      "y": 2734.324951171875,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "TSS Originals: Tennis Green\nMen Checks And Stripes Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 269,
+      "y": 3149.525146484375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Textured Shirt: Mulberry\nMen Textured Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 523,
+      "y": 3149.525146484375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Solids: Navy\nMen Utility Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 777,
+      "y": 3149.525146484375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Oxford Shirt: Soft Pink\nMen Boxy Fit Shirts\n₹ 1299",
+      "tag": "A",
+      "x": 1031,
+      "y": 3149.525146484375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Spider-Man: Baseball 62\nBaseball Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 269,
+      "y": 3564.72509765625,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Textured Shirt: Atlantic\nMen Textured Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 523,
+      "y": 3564.72509765625,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Textured Shirt: Alpine\nMen Relaxed Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 777,
+      "y": 3564.72509765625,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Tibetan Tales: Zigsa\nMen Shackets\n₹ 2299",
+      "tag": "A",
+      "x": 1031,
+      "y": 3564.72509765625,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "TSS Originals: 4 Souls\nHoliday Shirts\n₹ 1399",
+      "tag": "A",
+      "x": 269,
+      "y": 3979.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Doctor Strange: Eye of Horus\nOversized Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 523,
+      "y": 3979.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Oversized Shirt: Celestial Chaos\nOversized Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 777,
+      "y": 3979.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Ivy Green\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 1031,
+      "y": 3979.925048828125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Poplin Shirt: Clover\nMen Relaxed Shirts\n₹ 1399",
+      "tag": "A",
+      "x": 269,
+      "y": 4395.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen Stripes: Meadow\nCotton Linen Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 523,
+      "y": 4395.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Casual Shirt: Vintage Greens\nHoliday Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 777,
+      "y": 4395.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Rosewood\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 1031,
+      "y": 4395.125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Beige\nCotton Linen Shirts\n₹ 1599",
+      "tag": "A",
+      "x": 269,
+      "y": 4810.3251953125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Jacquard Shirt: Heritage\nOversized Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 523,
+      "y": 4810.3251953125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Oversized Shirt: Horses\nOversized Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 777,
+      "y": 4810.3251953125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Venom: Pure Destruction\nHoliday Shirts\n₹ 1699",
+      "tag": "A",
+      "x": 1031,
+      "y": 4810.3251953125,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Hawaiian Tribes\nCotton Linen Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 269,
+      "y": 5225.52490234375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Solids: Green Grove\nMen Solid Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 523,
+      "y": 5225.52490234375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Overshirt: Flow\nOvershirts\n₹ 2399",
+      "tag": "A",
+      "x": 777,
+      "y": 5225.52490234375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Batman: I Am The Knight\nOversized Shirts\n₹ 1499",
+      "tag": "A",
+      "x": 1031,
+      "y": 5225.52490234375,
+      "width": 234,
+      "height": 390.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 85,
+      "y": 5861.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 85,
+      "y": 5894.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Returns & Refunds",
+      "tag": "A",
+      "x": 85,
+      "y": 5927.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 85,
+      "y": 5960.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 85,
+      "y": 5993.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 367.5,
+      "y": 5861.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Investor Relation",
+      "tag": "A",
+      "x": 367.5,
+      "y": 5894.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 367.5,
+      "y": 5927.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 367.5,
+      "y": 5960.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Community Initiatives",
+      "tag": "A",
+      "x": 367.5,
+      "y": 5993.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "T&C",
+      "tag": "A",
+      "x": 650,
+      "y": 5861.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 650,
+      "y": 5894.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 650,
+      "y": 5927.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Get Notified",
+      "tag": "A",
+      "x": 650,
+      "y": 5960.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 650,
+      "y": 5993.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5861.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5861.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5894.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5894.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5927.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5927.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5960.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 932.5,
+      "y": 5960.7626953125,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "View More",
+      "tag": "BUTTON",
+      "x": 932.5,
+      "y": 5993.7626953125,
+      "width": 68.1500015258789,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 499.8625183105469,
+      "y": 6132.7626953125,
+      "width": 126,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 641.8624877929688,
+      "y": 6132.7626953125,
+      "width": 126,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1032,
+      "y": 6208.7626953125,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1074,
+      "y": 6208.7626953125,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1116,
+      "y": 6208.7626953125,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1158,
+      "y": 6208.7626953125,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "WHO WE ARE",
+      "tag": "A",
+      "x": 101.80000305175781,
+      "y": 6279.7626953125,
+      "width": 1076.4000244140625,
+      "height": 16.5,
+      "visible": true
+    }
+  ]
+}

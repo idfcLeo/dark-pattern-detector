@@ -1,0 +1,243 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.moglix.com/checkout",
+  "timestamp": "20260810_121211",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "CHANGE DELIVERY ADDRESS",
+      "tag": "BUTTON",
+      "x": 667.9500122070312,
+      "y": 85.80000305175781,
+      "width": 206.25,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable S..",
+      "tag": "A",
+      "x": 157.8000030517578,
+      "y": 408.3999938964844,
+      "width": 329.63751220703125,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO PAY\n₹11,645.00\n₹11,412.30",
+      "tag": "BUTTON",
+      "x": 640,
+      "y": 554.2000122070312,
+      "width": 230,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable Stand with Wooden Grai",
+      "tag": "A",
+      "x": 46.79999923706055,
+      "y": 940.8375244140625,
+      "width": 155.91250610351562,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable Stand with WhiteTable ",
+      "tag": "A",
+      "x": 251.8000030517578,
+      "y": 940.8375244140625,
+      "width": 155.3625030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x750mm Dual Motor 3 Stage Motorized Height Adjustable Desk w",
+      "tag": "A",
+      "x": 456.8000183105469,
+      "y": 940.8375244140625,
+      "width": 155.3874969482422,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1150x750mm Steel & Iron White Rectangular Folding Cafe Table Sta",
+      "tag": "A",
+      "x": 661.7999877929688,
+      "y": 940.8375244140625,
+      "width": 146.8249969482422,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x600mm Dual Motor 3 Stage Motorized Height Adjustable Desk w",
+      "tag": "A",
+      "x": 866.7999877929688,
+      "y": 940.8375244140625,
+      "width": 155.3874969482422,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Klass Ergonomic 1200x550mm Dual Motor 3 Stage Motorized White Height Adjustable ",
+      "tag": "A",
+      "x": 1071.800048828125,
+      "y": 940.8375244140625,
+      "width": 153.3000030517578,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy Finish Dark Brown Rectangular TV Unit Table, AF-",
+      "tag": "A",
+      "x": 1276.800048828125,
+      "y": 940.8375244140625,
+      "width": 154.0625,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Glossy Finish Beige & Brown Cube Center Table, AF-154 .",
+      "tag": "A",
+      "x": 1481.800048828125,
+      "y": 940.8375244140625,
+      "width": 154.0625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Solid Sheesham Wood Glossy Finish Brown Tallboy Side End Table, ",
+      "tag": "A",
+      "x": 1686.800048828125,
+      "y": 940.8375244140625,
+      "width": 153.8249969482422,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angel Furniture Rosewood Natural Finish Beige & Brown Rectangular Center Table, ",
+      "tag": "A",
+      "x": 1891.800048828125,
+      "y": 940.8375244140625,
+      "width": 156.41250610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "APPLY",
+      "tag": "BUTTON",
+      "x": 1151,
+      "y": 537,
+      "width": 99,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "APPLY",
+      "tag": "BUTTON",
+      "x": 922.4000244140625,
+      "y": 696.2000122070312,
+      "width": 325.20001220703125,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "PAY NOW",
+      "tag": "BUTTON",
+      "x": 415,
+      "y": 494.3999938964844,
+      "width": 450,
+      "height": 50,
+      "visible": true
+    }
+  ]
+}

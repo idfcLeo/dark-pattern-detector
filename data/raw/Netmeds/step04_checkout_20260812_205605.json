@@ -1,0 +1,81 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://www.netmeds.com/cart/checkout?cart_id=6a7c9055615c68c0872886c0&address_id=6a7c907a9950e1a8eadc1461&billing_address_id=6a7c907a9950e1a8eadc1461",
+  "timestamp": "20260812_205605",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 33,
+      "y": 13.5,
+      "width": 187,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 741.3375244140625,
+      "y": 225.0749969482422,
+      "width": 87.98750305175781,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60.79999923706055,
+      "y": 417.6000061035156,
+      "width": 32,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Paracetamol 500mg Tablet 10'S",
+      "tag": "A",
+      "x": 100.80000305175781,
+      "y": 404.8000183105469,
+      "width": 174.8625030517578,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Make Payment",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Make Payment",
+      "tag": "BUTTON",
+      "x": 845.3250122070312,
+      "y": 514.7999877929688,
+      "width": 378.6625061035156,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powered by Kaily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

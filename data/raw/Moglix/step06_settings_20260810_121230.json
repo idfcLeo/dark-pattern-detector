@@ -1,0 +1,495 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://www.moglix.com/dashboard",
+  "timestamp": "20260810_121230",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 993.3875122070312,
+      "y": 24.100000381469727,
+      "width": 84.1624984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 1127.550048828125,
+      "y": 12.300000190734863,
+      "width": 31,
+      "height": 40.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1230,
+      "y": 20.899999618530273,
+      "width": 20,
+      "height": 23.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 15,
+      "y": 75,
+      "width": 32.01250076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "My Address",
+      "tag": "A",
+      "x": 35,
+      "y": 292,
+      "width": 205,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 35,
+      "y": 346.8000183105469,
+      "width": 205,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My RFQ's",
+      "tag": "A",
+      "x": 35,
+      "y": 401.6000061035156,
+      "width": 205,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Business Details",
+      "tag": "A",
+      "x": 35,
+      "y": 456.3999938964844,
+      "width": 205,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Wishlist",
+      "tag": "A",
+      "x": 35,
+      "y": 511.20001220703125,
+      "width": 205,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "EDIT NAME",
+      "tag": "BUTTON",
+      "x": 1116.4000244140625,
+      "y": 200,
+      "width": 117,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD EMAIL",
+      "tag": "BUTTON",
+      "x": 1115.625,
+      "y": 270.8000183105469,
+      "width": 117.7750015258789,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "DELETE",
+      "tag": "BUTTON",
+      "x": 971.2625122070312,
+      "y": 600.2000122070312,
+      "width": 135.2375030517578,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "EDIT",
+      "tag": "BUTTON",
+      "x": 1121.5,
+      "y": 600.2000122070312,
+      "width": 111.9000015258789,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "+91 9999049135",
+      "tag": "A",
+      "x": 1030,
+      "y": 1038.5999755859375,
+      "width": 235,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 30,
+      "y": 1183.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 30,
+      "y": 1209.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 30,
+      "y": 1235.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "x": 30,
+      "y": 1261.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 30,
+      "y": 1287.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Articles",
+      "tag": "A",
+      "x": 30,
+      "y": 1313.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 280,
+      "y": 1183.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Track My Order",
+      "tag": "A",
+      "x": 280,
+      "y": 1209.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Buying Guide",
+      "tag": "A",
+      "x": 280,
+      "y": 1235.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Order Tracking",
+      "tag": "A",
+      "x": 530,
+      "y": 1183.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Cancellation and Return",
+      "tag": "A",
+      "x": 530,
+      "y": 1209.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Refund",
+      "tag": "A",
+      "x": 530,
+      "y": 1235.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Payment Option",
+      "tag": "A",
+      "x": 530,
+      "y": 1261.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Popular Searches",
+      "tag": "A",
+      "x": 780,
+      "y": 1183.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Best Deals",
+      "tag": "A",
+      "x": 780,
+      "y": 1209.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Online Assist",
+      "tag": "A",
+      "x": 780,
+      "y": 1235.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Industry Store",
+      "tag": "A",
+      "x": 780,
+      "y": 1261.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Top Buying Requirement",
+      "tag": "A",
+      "x": 780,
+      "y": 1287.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Bulk Enquiry",
+      "tag": "A",
+      "x": 1030,
+      "y": 1183.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Moglix Business",
+      "tag": "A",
+      "x": 1030,
+      "y": 1209.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Supplier Central",
+      "tag": "A",
+      "x": 1030,
+      "y": 1235.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Credlix",
+      "tag": "A",
+      "x": 1030,
+      "y": 1261.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "DigiMRO",
+      "tag": "A",
+      "x": 1030,
+      "y": 1287.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Zoglix",
+      "tag": "A",
+      "x": 1030,
+      "y": 1313.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "TenderShark",
+      "tag": "A",
+      "x": 1030,
+      "y": 1339.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ad Sales Solution",
+      "tag": "A",
+      "x": 1030,
+      "y": 1365.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Cognilix",
+      "tag": "A",
+      "x": 1030,
+      "y": 1391.2000732421875,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 30,
+      "y": 1457.2000732421875,
+      "width": 137,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 167,
+      "y": 1457.2000732421875,
+      "width": 123,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "care@moglix.com",
+      "tag": "A",
+      "x": 446.6750183105469,
+      "y": 1457.2000732421875,
+      "width": 386.6625061035156,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1008,
+      "y": 1459.4000244140625,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1050,
+      "y": 1459.4000244140625,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1092,
+      "y": 1459.4000244140625,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1134,
+      "y": 1459.4000244140625,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1176,
+      "y": 1459.4000244140625,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1218,
+      "y": 1459.4000244140625,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 30,
+      "y": 1555.800048828125,
+      "width": 74.0250015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Copyright",
+      "tag": "A",
+      "x": 110.48750305175781,
+      "y": 1555.800048828125,
+      "width": 51.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 171.6374969482422,
+      "y": 1555.800048828125,
+      "width": 78.0250015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Compliance",
+      "tag": "A",
+      "x": 256.125,
+      "y": 1555.800048828125,
+      "width": 63.375,
+      "height": 13.600000381469727,
+      "visible": true
+    }
+  ]
+}

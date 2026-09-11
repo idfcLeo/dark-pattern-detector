@@ -1,0 +1,1782 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://www.1mg.com/search/all?name=paracetamol",
+  "timestamp": "20260812_205135",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 14,
+      "width": 115.375,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "MEDICINES",
+      "tag": "A",
+      "x": 131.375,
+      "y": 0,
+      "width": 91.86250305175781,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "LAB TESTS",
+      "tag": "A",
+      "x": 223.2375030517578,
+      "y": 0,
+      "width": 76.1624984741211,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CONSULT DOCTORS",
+      "tag": "A",
+      "x": 299.3999938964844,
+      "y": 0,
+      "width": 132.91250610351562,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CANCER CARE",
+      "tag": "A",
+      "x": 432.3125,
+      "y": 0,
+      "width": 100.80000305175781,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "AYURVEDA",
+      "tag": "A",
+      "x": 533.1124877929688,
+      "y": 0,
+      "width": 91.5875015258789,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "PARTNERSHIPS",
+      "tag": "A",
+      "x": 624.7000122070312,
+      "y": 0,
+      "width": 119.5625,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CORPORATES",
+      "tag": "A",
+      "x": 744.2625122070312,
+      "y": 0,
+      "width": 109.0250015258789,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CARE PLAN\nSAVE MORE",
+      "tag": "A",
+      "x": 853.2875366210938,
+      "y": 0,
+      "width": 145.25,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "View Profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Previously Ordered ItemsNEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rate your Recent PurchasesNEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Lab Tests",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Consultations",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Health RecordsNEW",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Manage Payments",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Care PlanSAVE MORE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1mg Cash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1068.8875732421875,
+      "y": 21.5,
+      "width": 42,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1146.8875732421875,
+      "y": 21,
+      "width": 18.337499618530273,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO CART",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Need Help?",
+      "tag": "A",
+      "x": 1201.2249755859375,
+      "y": 12,
+      "width": 62.775001525878906,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MEDICINES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LAB TESTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DOCTORS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CANCER CARE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Quick order",
+      "tag": "A",
+      "x": 1153.6375732421875,
+      "y": 73,
+      "width": 94.36250305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Quick order",
+      "tag": "BUTTON",
+      "x": 1153.6375732421875,
+      "y": 73,
+      "width": 94.36250305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "All Diseases",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medicines by Therapeutic Class",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care",
+      "tag": "A",
+      "x": 222.6750030517578,
+      "y": 130,
+      "width": 56.10000228881836,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Hair Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shampoos & Conditioners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Serums",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Creams & Masks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Colour",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Growth Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Essential Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fitness & Health",
+      "tag": "A",
+      "x": 318.7749938964844,
+      "y": 130,
+      "width": 93.98750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Plant Protein",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mass Gainers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pre/Post Workout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches & Rings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fat Burners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 452.76251220703125,
+      "y": 130,
+      "width": 94.3499984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Lubricants & Massage Gels",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Performance Enhancers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oral Contraceptives",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamins & Nutrition",
+      "tag": "A",
+      "x": 587.1124877929688,
+      "y": 130,
+      "width": 117.30000305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Omega & Fish Oil & DHA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fish Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cod Liver Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Flax Seed Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair & Skin Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Calcium",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin B",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin D",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supports & Braces",
+      "tag": "A",
+      "x": 744.4125366210938,
+      "y": 130,
+      "width": 108.8125,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Back & Abdomen Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ankle, Foot & Leg Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Immunity Boosters",
+      "tag": "A",
+      "x": 893.2250366210938,
+      "y": 130,
+      "width": 111.5999984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Chyawanprash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Antioxidant Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ayurvedic Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbal Tea",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy",
+      "tag": "A",
+      "x": 1044.8250732421875,
+      "y": 130,
+      "width": 78.6624984741211,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Homeopathy Diabetes Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Health",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Piles and Fissures",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fungal Infection",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Obesity",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Warts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Care",
+      "tag": "A",
+      "x": 1163.487548828125,
+      "y": 130,
+      "width": 51.125,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Pet Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pet Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 265.32501220703125,
+      "y": 213,
+      "width": 36,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Paracetamol\nParacetamol is used for pain relief and fever. It is used to relieve",
+      "tag": "A",
+      "x": 265.32501220703125,
+      "y": 323.6000061035156,
+      "width": 378.6625061035156,
+      "height": 122,
+      "visible": true
+    },
+    {
+      "text": "pain relief",
+      "tag": "A",
+      "x": 428.1000061035156,
+      "y": 366.6000061035156,
+      "width": 59.087501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "fever",
+      "tag": "A",
+      "x": 517.0125122070312,
+      "y": 366.6000061035156,
+      "width": 30.537500381469727,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Aceclofenac + Paracetamol + Serratiopeptidase\nAceclofenac+Paracetamol+Serratiope",
+      "tag": "A",
+      "x": 655.9874877929688,
+      "y": 323.6000061035156,
+      "width": 378.6625061035156,
+      "height": 122,
+      "visible": true
+    },
+    {
+      "text": "pain relief",
+      "tag": "A",
+      "x": 673.9874877929688,
+      "y": 384.6000061035156,
+      "width": 59.087501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Aceclofenac + Paracetamol\nAceclofenac+Paracetamol is used for pain relief.",
+      "tag": "A",
+      "x": 1046.6500244140625,
+      "y": 323.6000061035156,
+      "width": 378.6625061035156,
+      "height": 122,
+      "visible": true
+    },
+    {
+      "text": "pain relief",
+      "tag": "A",
+      "x": 1292.0750732421875,
+      "y": 383.1000061035156,
+      "width": 59.087501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Ibuprofen + Paracetamol\nIbuprofen+Paracetamol is used for pain relief and fever.",
+      "tag": "A",
+      "x": 1437.3125,
+      "y": 323.6000061035156,
+      "width": 378.6625061035156,
+      "height": 122,
+      "visible": true
+    },
+    {
+      "text": "pain relief",
+      "tag": "A",
+      "x": 1665.2625732421875,
+      "y": 366.6000061035156,
+      "width": 59.087501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "fever",
+      "tag": "A",
+      "x": 1754.175048828125,
+      "y": 366.6000061035156,
+      "width": 30.537500381469727,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Tramadol + Paracetamol + Serratiopeptidase\nTramadol+Paracetamol+Serratiopeptidas",
+      "tag": "A",
+      "x": 1827.9749755859375,
+      "y": 323.6000061035156,
+      "width": 378.6625061035156,
+      "height": 122,
+      "visible": true
+    },
+    {
+      "text": "pain relief",
+      "tag": "A",
+      "x": 1845.9749755859375,
+      "y": 392.1000061035156,
+      "width": 59.087501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Chlorzoxazone + Diclofenac + Paracetamol\nChlorzoxazone+Diclofenac+Paracetamol is",
+      "tag": "A",
+      "x": 2218.637451171875,
+      "y": 323.6000061035156,
+      "width": 378.6625061035156,
+      "height": 122,
+      "visible": true
+    },
+    {
+      "text": "Nimesulide + Paracetamol\nNimesulide+Paracetamol is used for pain relief. It reli",
+      "tag": "A",
+      "x": 2609.300048828125,
+      "y": 323.6000061035156,
+      "width": 378.6625061035156,
+      "height": 122,
+      "visible": true
+    },
+    {
+      "text": "pain relief",
+      "tag": "A",
+      "x": 2845.074951171875,
+      "y": 366.6000061035156,
+      "width": 59.087501525878906,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Dolo 650 Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹29.6\nOriginal Price:\n₹32.",
+      "tag": "A",
+      "x": 280.125,
+      "y": 486.3999938964844,
+      "width": 183.0625,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 772.4000244140625,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Generic alternative\navailable with 24% savings!\n24% CHEAPER\nLeemol 650mg Tablet\n",
+      "tag": "A",
+      "x": 503.9875183105469,
+      "y": 465.6000061035156,
+      "width": 461.32501220703125,
+      "height": 371.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 745.4500122070312,
+      "y": 729.2000122070312,
+      "width": 187.8625030517578,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Crocin Advance 500mg Tablet\nstrip of 20 tablets\nDiscounted Price:\n₹19.3\nAdd to c",
+      "tag": "A",
+      "x": 1006.1124877929688,
+      "y": 486.3999938964844,
+      "width": 183.0625,
+      "height": 330,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1006.1124877929688,
+      "y": 772.4000244140625,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Ad\nBuscogast Plus Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹91\nAdd to cart",
+      "tag": "A",
+      "x": 280.125,
+      "y": 878,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 1134,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "ParaCIP 500 Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹8.7\nOriginal Price:\n₹9",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 878,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 1134,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Calpol 650 + Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹30.2\nOriginal Price:\n",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 878,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 1134,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Crocin Baby Paracetamol Paediatric Drops | Flavour Peppermint\nbottle of 15 ml dr",
+      "tag": "A",
+      "x": 1014.1124877929688,
+      "y": 878,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1014.1124877929688,
+      "y": 1134,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Calpol 500 + Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹13.8\nOriginal Price:\n",
+      "tag": "A",
+      "x": 280.125,
+      "y": 1239.5999755859375,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 1495.5999755859375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Calpol 250mg Paediatric Oral Suspension Strawberry\nbottle of 60 ml oral suspensi",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 1239.5999755859375,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 1495.5999755859375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Crocin 650mg Tablet\nstrip of 15 tablets\nOriginal Price:\n₹32.13\nAdd to cart",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 1239.5999755859375,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 1495.5999755859375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Crocin 120 Paracetamol Paediatric Oral Suspension | Flavour Strawberry Oral Susp",
+      "tag": "A",
+      "x": 1014.1124877929688,
+      "y": 1239.5999755859375,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1014.1124877929688,
+      "y": 1495.5999755859375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Dolo 500 Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹12.8\nOriginal Price:\n₹14.",
+      "tag": "A",
+      "x": 280.125,
+      "y": 1601.2000732421875,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 1857.2000732421875,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Crocin 240 DS Suspension Mixed Fruit\nbottle of 60 ml suspension\n4.6\n(570)\nDiscou",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 1601.2000732421875,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 1857.2000732421875,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Pyrigesic 1000 Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹39.7\nOriginal Price",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 1601.2000732421875,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 1857.2000732421875,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Parafast 650mg Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹15.2\nOriginal Price",
+      "tag": "A",
+      "x": 1014.1124877929688,
+      "y": 1601.2000732421875,
+      "width": 183.0625,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1014.1124877929688,
+      "y": 1857.2000732421875,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "New Saridon Tablet | For Pain Relief | Provides Fast Headache Relief\nstrip of 10",
+      "tag": "A",
+      "x": 280.125,
+      "y": 1962.800048828125,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 2192.800048828125,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Leemol 650mg Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹22.4\nOriginal Price:\n",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 1962.800048828125,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 2192.800048828125,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "P 650 Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹19.2\nOriginal Price:\n₹21.42\n",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 1962.800048828125,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 2192.800048828125,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Zerodol-SP Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹130\nOriginal Price:\n₹13",
+      "tag": "A",
+      "x": 1014.1124877929688,
+      "y": 1962.800048828125,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1014.1124877929688,
+      "y": 2192.800048828125,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Calpol Paediatric Drops Peppermint\nbottle of 15 ml oral suspension\nDiscounted Pr",
+      "tag": "A",
+      "x": 280.125,
+      "y": 2298.400146484375,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 2528.400146484375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Lanol ER Tablet\nstrip of 10 tablet er\nDiscounted Price:\n₹18.8\nOriginal Price:\n₹2",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 2298.400146484375,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 2528.400146484375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Combiflam Tablet\nstrip of 20 tablets\nDiscounted Price:\n₹52.2\nOriginal Price:\n₹57",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 2298.400146484375,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 2528.400146484375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "P 250 Suspension\nbottle of 60 ml suspension\nDiscounted Price:\n₹38.3\nOriginal Pri",
+      "tag": "A",
+      "x": 1014.1124877929688,
+      "y": 2298.400146484375,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1014.1124877929688,
+      "y": 2528.400146484375,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Dolo 250 Oral Suspension\nbottle of 60 ml oral suspension\nDiscounted Price:\n₹39\nO",
+      "tag": "A",
+      "x": 280.125,
+      "y": 2634,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 2864,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "ParaCIP Suspension 60ml for Fever & Pain Management\nbottle of 60 ml oral suspens",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 2634,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 2864,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Kriam Pharma Ibuprofen & Paracetamol Tablet\nstrip of 20 tablets\nDiscounted Price",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 2634,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 2864,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Zerodol P Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹66.5\nOriginal Price:\n₹75",
+      "tag": "A",
+      "x": 1014.1124877929688,
+      "y": 2634,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1014.1124877929688,
+      "y": 2864,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Pyrigesic 650 Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹19.6\nOriginal Price:",
+      "tag": "A",
+      "x": 280.125,
+      "y": 2969.60009765625,
+      "width": 183.0625,
+      "height": 282,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 3207.60009765625,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "ParaCIP 650 Tablet\nstrip of 15 tablets\n4.6\n(159)\nDiscounted Price:\n₹23\nOriginal ",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 2969.60009765625,
+      "width": 183.0625,
+      "height": 282,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 3207.60009765625,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Kriam Pharma Paracetamol 650mg Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹28.",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 2969.60009765625,
+      "width": 183.0625,
+      "height": 282,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 3207.60009765625,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Calpol 120mg Suspension Strawberry\nbottle of 60 ml oral suspension\nDiscounted Pr",
+      "tag": "A",
+      "x": 1014.1124877929688,
+      "y": 2969.60009765625,
+      "width": 183.0625,
+      "height": 282,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 1014.1124877929688,
+      "y": 3207.60009765625,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "SINARest New Tablet\nstrip of 15 tablets\nDiscounted Price:\n₹124\nOriginal Price:\n₹",
+      "tag": "A",
+      "x": 280.125,
+      "y": 3313.199951171875,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 280.125,
+      "y": 3543.199951171875,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Kriam Pharma Paracetamol 500mg Tablet\nstrip of 10 tablets\nOriginal Price:\n₹9.66\n",
+      "tag": "A",
+      "x": 524.7875366210938,
+      "y": 3313.199951171875,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 524.7875366210938,
+      "y": 3543.199951171875,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "Welset 650 Tablet\nstrip of 10 tablets\nDiscounted Price:\n₹13.5\nOriginal Price:\n₹1",
+      "tag": "A",
+      "x": 769.4500122070312,
+      "y": 3313.199951171875,
+      "width": 183.0625,
+      "height": 274,
+      "visible": true
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 769.4500122070312,
+      "y": 3543.199951171875,
+      "width": 183.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 493,
+      "y": 348,
+      "width": 294,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 78,
+      "y": 3931.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 78,
+      "y": 3967.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Press Coverage",
+      "tag": "A",
+      "x": 78,
+      "y": 4003.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 78,
+      "y": 4039.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Business Partnership",
+      "tag": "A",
+      "x": 78,
+      "y": 4075.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Become a Health Partner",
+      "tag": "A",
+      "x": 78,
+      "y": 4111.60009765625,
+      "width": 170.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Corporate Governance",
+      "tag": "A",
+      "x": 78,
+      "y": 4171.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 3931.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 3967.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 4003.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Return Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 4039.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "IP Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 4075.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Grievance Redressal Policy",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 4111.60009765625,
+      "width": 170.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Fake Jobs and Fraud Disclaimer",
+      "tag": "A",
+      "x": 268.6625061035156,
+      "y": 4171.60009765625,
+      "width": 170.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Order Medicines",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 3931.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Book Lab Tests",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 3967.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Consult a Doctor",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 4003.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Ayurveda Articles",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 4039.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Hindi Articles",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 4075.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Care Plan",
+      "tag": "A",
+      "x": 459.32501220703125,
+      "y": 4111.60009765625,
+      "width": 170.66250610351562,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 649.9874877929688,
+      "y": 3967.60009765625,
+      "width": 18.975000381469727,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 696.9625244140625,
+      "y": 3967.60009765625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 743.9249877929688,
+      "y": 3967.60009765625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 790.8875122070312,
+      "y": 3967.60009765625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 837.8500366210938,
+      "y": 3967.60009765625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884.8125,
+      "y": 3967.60009765625,
+      "width": 18.962499618530273,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 985.7750244140625,
+      "y": 3943.60009765625,
+      "width": 216.22500610351562,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 985.7750244140625,
+      "y": 3999.60009765625,
+      "width": 216.22500610351562,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "Know more about Tata 1mg",
+      "tag": "BUTTON",
+      "x": 72,
+      "y": 4627.60009765625,
+      "width": 1136,
+      "height": 25.600000381469727,
+      "visible": true
+    }
+  ]
+}

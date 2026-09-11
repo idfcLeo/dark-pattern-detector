@@ -1,0 +1,14 @@
+Register
+Full Name*
+
+
+Email Id*
+
+
+Your Mobile No.*
+
++91
+
+OTP will be sent on this mobile no for verification
+
+GET OTP

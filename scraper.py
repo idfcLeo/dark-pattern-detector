@@ -98,8 +98,24 @@ if __name__ == "__main__":
 
         #"ajio": "https://www.ajio.com/",
         #"nykaa": "https://www.nykaa.com/",
-        "urbanladder": "https://www.urbanladder.com/",
-
+        #"urbanladder": "https://www.urbanladder.com/",
+        #'JioMart': "https://www.jiomart.com/",
+        #'Blinkit' : "https://blinkit.com/",
+        #'Zepto' : "https://www.zepto.com/",
+        #'PharmEasy' : "https://pharmeasy.in/",
+        #'Lenskart' : "https://www.lenskart.com/",
+        #'Moglix': "https://www.moglix.com/",
+        #'shopclues':'https://www.shopclues.com/',
+        #"Purplle": "https://www.purplle.com/",
+        #"Zivame": "https://www.zivame.com/",
+        #"Clovia": "https://www.clovia.com/",
+        #"LimeRoad": "https://www.limeroad.com/",
+        #"Bewakoof": "https://www.bewakoof.com/",
+        #"Tata 1mg": "https://www.1mg.com/",
+        #"Netmeds": "https://www.netmeds.com/",
+        #"HealthKart": "https://www.healthkart.com/",
+        #"Techjockey": "https://www.techjockey.com/",
+        "The Souled Store": "https://www.thesouledstore.com/",
 
     }
     for name, url in sites.items():
