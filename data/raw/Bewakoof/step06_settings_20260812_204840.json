@@ -1,0 +1,1188 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://www.bewakoof.com/myaccount",
+  "timestamp": "20260812_204840",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 160,
+      "y": 19.774999618530273,
+      "width": 150,
+      "height": 20.450000762939453,
+      "visible": true
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 350,
+      "y": 17.5,
+      "width": 34.125,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 400.125,
+      "y": 17.5,
+      "width": 61.35000228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "ACCESSORIES",
+      "tag": "A",
+      "x": 477.4750061035156,
+      "y": 17.5,
+      "width": 101.26250457763672,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1064,
+      "y": 18,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Overview",
+      "tag": "A",
+      "x": 50.79999923706055,
+      "y": 117.80000305175781,
+      "width": 241.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 50.79999923706055,
+      "y": 190.60000610351562,
+      "width": 241.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Payments",
+      "tag": "A",
+      "x": 50.79999923706055,
+      "y": 263.3999938964844,
+      "width": 241.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Wallet",
+      "tag": "A",
+      "x": 50.79999923706055,
+      "y": 336.20001220703125,
+      "width": 241.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Addresses",
+      "tag": "A",
+      "x": 50.79999923706055,
+      "y": 409,
+      "width": 241.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Profile",
+      "tag": "A",
+      "x": 50.79999923706055,
+      "y": 481.8000183105469,
+      "width": 241.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 86.80000305175781,
+      "y": 554.6000366210938,
+      "width": 58.22500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "EDIT PROFILE",
+      "tag": "BUTTON",
+      "x": 381.8000183105469,
+      "y": 260,
+      "width": 839.4000244140625,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "EDIT",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Orders\nView, Modify And Track Orders",
+      "tag": "BUTTON",
+      "x": 403.32501220703125,
+      "y": 389.6000061035156,
+      "width": 182.35000610351562,
+      "height": 84,
+      "visible": true
+    },
+    {
+      "text": "My Payments\nView And Modify Payment Methods",
+      "tag": "BUTTON",
+      "x": 693.6875,
+      "y": 389.6000061035156,
+      "width": 215.6125030517578,
+      "height": 84,
+      "visible": true
+    },
+    {
+      "text": "My Wallet\nBewakoof Wallet History And Redeemed Gift Cards",
+      "tag": "BUTTON",
+      "x": 987.7999877929688,
+      "y": 381.6000061035156,
+      "width": 241.40000915527344,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "My Addresses\nEdit, Add Or Remove Addresses",
+      "tag": "BUTTON",
+      "x": 399.38751220703125,
+      "y": 555.2000122070312,
+      "width": 190.22500610351562,
+      "height": 84,
+      "visible": true
+    },
+    {
+      "text": "My Profile\nEdit Personal Info And Change Password",
+      "tag": "BUTTON",
+      "x": 680.7999877929688,
+      "y": 547.2000122070312,
+      "width": 241.40000915527344,
+      "height": 100,
+      "visible": true
+    },
+    {
+      "text": "Help & Support\nReach Out To Us",
+      "tag": "BUTTON",
+      "x": 1053.5374755859375,
+      "y": 555.2000122070312,
+      "width": 109.92500305175781,
+      "height": 84,
+      "visible": true
+    },
+    {
+      "text": "Our Story\nOur Story",
+      "tag": "BUTTON",
+      "x": 460.1125183105469,
+      "y": 712.7999877929688,
+      "width": 68.7750015258789,
+      "height": 84,
+      "visible": true
+    },
+    {
+      "text": "Fanbook\nFanbook",
+      "tag": "BUTTON",
+      "x": 769.8250122070312,
+      "y": 712.7999877929688,
+      "width": 63.337501525878906,
+      "height": 84,
+      "visible": true
+    },
+    {
+      "text": "DOWNLOAD THE APP",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 32,
+      "y": 912.6000366210938,
+      "width": 1216,
+      "height": 25.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 32,
+      "y": 1002.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 32,
+      "y": 1028.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Return Order",
+      "tag": "A",
+      "x": 32,
+      "y": 1054.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cancel Order",
+      "tag": "A",
+      "x": 32,
+      "y": 1080.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 340,
+      "y": 1002.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 340,
+      "y": 1028.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 340,
+      "y": 1054.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "We are Hiring",
+      "tag": "A",
+      "x": 340,
+      "y": 1080.5,
+      "width": 292,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "4.7M People like this",
+      "tag": "A",
+      "x": 648,
+      "y": 1002.5,
+      "width": 292,
+      "height": 21.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "1M People like this",
+      "tag": "A",
+      "x": 648,
+      "y": 1039.7000732421875,
+      "width": 292,
+      "height": 21.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 648,
+      "y": 1076.9000244140625,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 676,
+      "y": 1076.9000244140625,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 704,
+      "y": 1076.9000244140625,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 732,
+      "y": 1076.9000244140625,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 760,
+      "y": 1076.9000244140625,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "SUBSCRIBE",
+      "tag": "BUTTON",
+      "x": 1087.4000244140625,
+      "y": 1006.5,
+      "width": 116.80000305175781,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "15 Days Return Policy*",
+      "tag": "A",
+      "x": 32,
+      "y": 1122.5,
+      "width": 304,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Cash On Delivery*",
+      "tag": "A",
+      "x": 32,
+      "y": 1156.5,
+      "width": 304,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336,
+      "y": 1162.5,
+      "width": 104,
+      "height": 30.875,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 452,
+      "y": 1162.5,
+      "width": 104,
+      "height": 30.875,
+      "visible": true
+    },
+    {
+      "text": "Top Wear",
+      "tag": "A",
+      "x": 32,
+      "y": 1288.9749755859375,
+      "width": 374.1625061035156,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Men's New Arrivals",
+      "tag": "A",
+      "x": 32,
+      "y": 1314.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1339.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Hoodies & Sweatshirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1363.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Oversized T-Shirts for Men",
+      "tag": "A",
+      "x": 32,
+      "y": 1388.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Long Sleeve T-shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1412.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's White T-shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1437.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Crew Neck T-shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1461.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Half Sleeve T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1486.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Printed T-shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1510.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Plain T-shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1535.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Plus Size T-shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1559.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Vests",
+      "tag": "A",
+      "x": 32,
+      "y": 1584.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Polo T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1608.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Plus Size Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1633.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Sweaters",
+      "tag": "A",
+      "x": 32,
+      "y": 1657.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Jackets",
+      "tag": "A",
+      "x": 32,
+      "y": 1682.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Combo T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1706.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1731.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Nightwear",
+      "tag": "A",
+      "x": 32,
+      "y": 1755.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Innerwear",
+      "tag": "A",
+      "x": 32,
+      "y": 1780.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Black Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 1804.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Bottom Wear",
+      "tag": "A",
+      "x": 32,
+      "y": 1839.4749755859375,
+      "width": 374.1625061035156,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Men's Pajamas",
+      "tag": "A",
+      "x": 32,
+      "y": 1865.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Boxer Shorts",
+      "tag": "A",
+      "x": 32,
+      "y": 1889.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Shorts",
+      "tag": "A",
+      "x": 32,
+      "y": 1914.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Jogger",
+      "tag": "A",
+      "x": 32,
+      "y": 1938.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Cargo Joggers",
+      "tag": "A",
+      "x": 32,
+      "y": 1963.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Old Money Outfits",
+      "tag": "A",
+      "x": 32,
+      "y": 1987.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Track Pants",
+      "tag": "A",
+      "x": 32,
+      "y": 2012.4749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Jeans",
+      "tag": "A",
+      "x": 32,
+      "y": 2036.9749755859375,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Sweatpants",
+      "tag": "A",
+      "x": 32,
+      "y": 2061.47509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Trousers & Pants",
+      "tag": "A",
+      "x": 32,
+      "y": 2085.97509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Flip Flops",
+      "tag": "A",
+      "x": 32,
+      "y": 2158.47509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Men's Sliders",
+      "tag": "A",
+      "x": 32,
+      "y": 2182.97509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Marvel T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 2207.47509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Disney T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 2231.97509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Avengers T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 2256.47509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Star Wars T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 2280.97509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Batman T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 2305.47509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Superman T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 2329.97509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Joker T-Shirts",
+      "tag": "A",
+      "x": 32,
+      "y": 2354.47509765625,
+      "width": 374.1625061035156,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Top Wear",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1288.9749755859375,
+      "width": 374.1499938964844,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Women's New Arrivals",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1314.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's T-Shirts",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1339.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Fashion Tops",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1363.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Loose T-shirts",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1388.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Tank Tops",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1412.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Hoodies & Sweatshirts",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1437.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Dresses",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1461.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's 3/4 Sleeve T-Shirts",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1486.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Kurtis",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1510.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Combo T-Shirts",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1535.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Nightwear",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1559.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Plus Size Store",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1584.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Bottom Wear",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1618.9749755859375,
+      "width": 374.1499938964844,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Women's Co-ord Sets",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1644.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Pajamas",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1669.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Boxer Shorts",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1693.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Jeans",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1718.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Wide Leg Jeans",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1742.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Jeggings",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1767.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Joggers",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1791.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Trousers & Pants",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1816.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Cargo Pants",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1840.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Track Pants",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1865.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Shorts",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1889.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "BAGS",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1924.4749755859375,
+      "width": 374.1499938964844,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Laptop Bags",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1950.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Small Backpacks",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 1974.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Slides",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 2047.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Women's Flip Flops",
+      "tag": "A",
+      "x": 406.1625061035156,
+      "y": 2071.97509765625,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Apple",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1278.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Realme",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1303.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Samsung",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1327.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Xiaomi",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1352.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Oneplus",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1376.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Vivo",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1401.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Oppo",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1425.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Poco",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1450.4749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "Anime Mobile Covers",
+      "tag": "A",
+      "x": 780.3125,
+      "y": 1474.9749755859375,
+      "width": 374.1499938964844,
+      "height": 16.5,
+      "visible": true
+    },
+    {
+      "text": "FANBOOK",
+      "tag": "A",
+      "x": 1154.4625244140625,
+      "y": 1238.9749755859375,
+      "width": 93.5374984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "OFFERS",
+      "tag": "A",
+      "x": 1154.4625244140625,
+      "y": 1278.9749755859375,
+      "width": 93.5374984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "SITEMAP",
+      "tag": "A",
+      "x": 1154.4625244140625,
+      "y": 1318.9749755859375,
+      "width": 93.5374984741211,
+      "height": 24,
+      "visible": true
+    }
+  ]
+}

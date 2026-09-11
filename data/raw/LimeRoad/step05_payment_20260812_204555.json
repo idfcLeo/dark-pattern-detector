@@ -1,0 +1,5472 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://www.limeroad.com/checkout_os/index/f9909448d3b55255f981d770c03cb0a413930865?a=1&overlay=true&src_id=fromsearch__0",
+  "timestamp": "20260812_204555",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Team",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Connect",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Site Directory",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Top searches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Customer care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Disclaimer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Scrapbook",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Limeroad Android App",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Limeroad iOS App",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Limeroad Seller App",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Backpacks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tops for girls",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women Footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lehenga",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wall Clocks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plus Size Dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blouse Designs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Canvas Shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jeans for men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Casual shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Crop Tops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shorts For Men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wall Decor",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Designer Salwar suits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cotton Sarees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Palazzo Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Handbags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shoes for Men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kurtis",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maxi dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sarees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Formal Shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jeans for Girls.",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wall Stickers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "T shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Night Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Long Kurtis",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Western Dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexy Prom Dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loafers for men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sling Bags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pumps",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Long skirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mochi shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Puma Shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home Decor",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oriflame",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wallets for Men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bed Sheets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Woodland",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watches for Men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Yepme",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dress Material",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Catwalk",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Mehndi Designs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indian hairstyles for long hair",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Latest lehenga designs for wedding",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indian wedding dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indian bridal hairstyles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beauty tips for hair",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nail art for short nails",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best wedding gowns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New designs in wedding cards",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "A Casual College girl’s Monday to Friday",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 36,
+      "y": 19,
+      "width": 160,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kids",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kurta kurtis",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sarees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethnic Co Ord Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lehengas And Blouse",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethnic Dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "skirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Leggings, Salwar & Churidaar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shawls & Dupattas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tapered Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Woolen Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Unstitched & Semi Stitched Suits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Winter Wear Accessories Combo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "western wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jeans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jeggings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tunics",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "trousers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Co Ord Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jumpsuits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kaftans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shrugs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cargos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "joggers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sweaters & Sweatshirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jackets, Blazers & Coats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mufflers,Gloves & Caps",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stoles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports & Activewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Swim Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tights",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "track pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports Bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "lingerie & sleepwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bra",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Panties",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "lingerie sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sleepwear & Loungewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shape Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Camisoles & Thermals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Western Wear Pluss Size",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Co Ords",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jewellery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "imitation jewellery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "earrings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Necklace & Pendants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rings, Bangles & Bracelets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "flats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "heels",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "flip flops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sport Shoes & Sneakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "boots",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bluetooth Speaker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earbuds",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bluethooth Neckband",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3Buddy Fashion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anubhutte",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aurelia",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Azira",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baggit",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clovia",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cottinfab",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Drape and Dazzle",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Globus",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hive91",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Miss Chase",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Miss Chase A",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MELON - By PlusS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mojilaa",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moomaya",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oxolloxo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Readiprint",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SOCH",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Styli",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Trendif",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vaamsi",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VAIRAGEE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vibhagyaa",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VredeVogel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "W",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "top wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Co Ord Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "formal shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Polo T Shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Suits & Blazers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oversized T Shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bottom wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cargos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual trousers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "formal trousers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jeans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "joggers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shorts & Three Fourth",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic wear sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic bottom wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kurtas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nehru Jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Waist Coat",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sports wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "track pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "track suits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plus Size",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bottom wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Inner Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "top wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "formal shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jutis and mojaris",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sports shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Slippers & Sandals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "winter wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "gloves",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shawls & Mufflers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sweaters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sweatshirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "thermals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Accessories Combos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "caps and hats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cufflinks & Bracelets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lapel Pins & Brooch",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "handkerchiefs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones & Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "socks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ties & Pocket Squares",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "innerwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "boxers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "briefs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "vests",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bluetooth Speaker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Earbuds",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bluethooth Neckband",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Linaria",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Xee",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ketch",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "RIGO",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SHOWOFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Duke",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FTX",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dollar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "veera paridhaan",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MERRIMENT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Classic Polo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CAMEY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jompers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "GETGOLF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UNIBERRY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BLISS BOYS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CHKOKKO",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CINOCCI",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "KEPA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OGEN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UG Fashion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIDA LOCA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XYRIS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "boys",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bottom wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sweater & Sweatshirt",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Coats & Jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Innerwear & Nightwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "twin sets & dungrees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Suit Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shop by age",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0-2 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2-6 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "6-12 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "12-16 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "winter wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sweatshirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sweater & Cardigans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jackets & Coats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "girls",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "dresses & frocks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tees & tops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bottom wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sweater,Sweatshirts & Cardigans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Coats & Jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "twin sets & jump suits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Innerwear & Nightwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "leggings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Party Gowns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Girls Panty",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shop by age",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0-2 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2-6 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "6-12 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "12-16 Years",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sandals & Floaters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sports shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "formal shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "socks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cap",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sunglasses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bag",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bed & bath",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bedsheet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mat",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blanket",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Curtain",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "infants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Onesizes & Rompers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Frocks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Twin Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diaper",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eavan",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Under Fourteen Only",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BEING NAUGHTY",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fashion Dream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MoMaa",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Polka Tots",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "U.S. Polo Assn. Kids",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TALES & STORIES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NeuVin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "infants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kids",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pre Teen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Teen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bed Linen & Furnishing",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bed sheet sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "quilts & comforters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "blankets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bed covers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pillow covers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "curtains",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bath",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "towels",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bath mats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shower curtains",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brands",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bella Casa",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cortina",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "offers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "vmart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Scrapbook",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "search",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tcart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "logout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return Replacement",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LR Credits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Settings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Activity History",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Scrapbooks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "customer support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "about us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "team",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "faq",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "terms of use",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "privacy policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "return policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "contact us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "disclaimer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign in with email",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 6.800000190734863,
+      "y": -65.20000457763672,
+      "width": 36,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "shirts for men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shirts for boys",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shirts for women",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shirts for men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "formal shirts for men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirt for kids",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts for boys",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirt for women",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women Shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "V-Mart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anand Sarees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -300,
+      "y": 13,
+      "width": 110.95000457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Activity History",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Scrapbooks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return Replacement",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LR Credits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Settings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kids Carnival",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shop",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kurta kurtis",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Woollen Kurtas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sarees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Suits & Dress Materials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "blouses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "dupattas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "lehengas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "leggings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "churidars & salwars",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "skirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "palazzos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tapered Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shararas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Petticoats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "skirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethnic Dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethnic Gowns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethnic Shrugs & Jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cloaks & Abaya",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tunics",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jumpsuits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Capes & Shrugs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jeans & jeggings",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "skirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "palazzos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "capris",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "trousers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "trackpants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "lingerie & sleepwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sandals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ballerina",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kolhapuri",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jutis and mojaris",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pumps",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "wedges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sandals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sports shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sneakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "loafers and mocassins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "slippers and flipflops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "boots",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sweatshirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blazers & Coats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pullovers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cardigans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Woollen Kurtas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stoles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Capes & Shrugs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shawls",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ponchos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mufflers, Caps & Gloves",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thermal & Innerwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "fashion jewellery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "imitation jewellery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bath and body",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "fragrances",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "hair",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "skin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "make up",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sunglasses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "caps and hats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "belts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Polo T Shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "formal shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "suits and blazers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jeans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual trousers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "formal trousers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "joggers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kurtas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic wear sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nehru Jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethnic Bottomwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "briefs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "boxers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "vests",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shorts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "track pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "track suits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Swim Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "casual shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "derby shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "oxfords",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "brogues",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "monk straps",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "slip ons",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sports shoes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sandals and floaters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "slippers and flip flops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "mules",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "clogs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "jutis and mojaris",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "backpacks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "laptop bags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "messenger bags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "travel bags",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "eyewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ties",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bow ties",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bracelets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "deodorants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "gift sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "perfumes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "belts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "wallets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "socks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "hair care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bath body",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cufflinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "caps and hats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "handkerchiefs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pocket squares",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Headphones",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Speakers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "analog watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "digital watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smart Watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "chronograph watches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "watch combos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "view all",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Casual Jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "biker jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "quilted jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bomber jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "denim jackets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Suits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "blazers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sweatshirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shrugs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pullovers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "cardigans",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "mufflers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "thermals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "baby boy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "baby girl",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "baby boy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "baby girl",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "t-shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shirts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bottom wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kurtas & kurta sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "winter wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "night wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "twin sets & dungrees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "innerwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "dresses & frocks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tees & tops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bottom wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "winterwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "twin sets & jump suits",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "nightwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnicwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "boys footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "girls footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bedsheets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pillows & pillow covers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "blankets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "quilts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "mats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "wall decor",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "curtains",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bed sheet sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "quilts & comforters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "blankets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bed covers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "pillow covers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "sofa covers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "diwan sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "towels",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bath mats",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shower curtains",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "decor",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "bean bag cover",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "wall shelves",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "wooden furniture",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "household accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "home improvement",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "kitchen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "customer support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign in with email",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "about us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "team",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "careers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "faq",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "terms of use",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "privacy policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "return policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "contact us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "disclaimer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "EDIT CART",
+      "tag": "A",
+      "x": 28,
+      "y": 742.7999877929688,
+      "width": 520,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 435.1499938964844,
+      "y": 902.7999877929688,
+      "width": 64.3499984741211,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Review Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Review Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Review Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Review Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Review Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

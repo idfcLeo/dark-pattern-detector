@@ -1,0 +1,81 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.bewakoof.com/cart",
+  "timestamp": "20260812_204758",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 160,
+      "y": 19.774999618530273,
+      "width": 150,
+      "height": 20.450000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 767.1000366210938,
+      "y": 224.60000610351562,
+      "width": 16,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Size : M",
+      "tag": "BUTTON",
+      "x": 165.83750915527344,
+      "y": 337.38751220703125,
+      "width": 78.95000457763672,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Qty : 1",
+      "tag": "BUTTON",
+      "x": 252.78750610351562,
+      "y": 337.38751220703125,
+      "width": 69.3375015258789,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Add Item",
+      "tag": "BUTTON",
+      "x": 1150.4625244140625,
+      "y": 257.70001220703125,
+      "width": 88.7249984741211,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "PROCEED",
+      "tag": "BUTTON",
+      "x": 840.7125244140625,
+      "y": 500.3000183105469,
+      "width": 396.4750061035156,
+      "height": 40,
+      "visible": true
+    }
+  ]
+}

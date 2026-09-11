@@ -1,0 +1,963 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.1mg.com/",
+  "timestamp": "20260812_204920",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 14,
+      "width": 115.2750015258789,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "MEDICINES",
+      "tag": "A",
+      "x": 131.27500915527344,
+      "y": 0,
+      "width": 91.86250305175781,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "LAB TESTS",
+      "tag": "A",
+      "x": 223.1374969482422,
+      "y": 0,
+      "width": 75.25,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CONSULT DOCTORS",
+      "tag": "A",
+      "x": 298.38751220703125,
+      "y": 0,
+      "width": 131.3125,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CANCER CARE",
+      "tag": "A",
+      "x": 429.70001220703125,
+      "y": 0,
+      "width": 99.5875015258789,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "AYURVEDA",
+      "tag": "A",
+      "x": 529.2875366210938,
+      "y": 0,
+      "width": 91.5875015258789,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "PARTNERSHIPS",
+      "tag": "A",
+      "x": 620.875,
+      "y": 0,
+      "width": 119.5625,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CORPORATES",
+      "tag": "A",
+      "x": 740.4375,
+      "y": 0,
+      "width": 109.0250015258789,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "CARE PLAN",
+      "tag": "A",
+      "x": 849.4625244140625,
+      "y": 0,
+      "width": 80.88750457763672,
+      "height": 64,
+      "visible": true
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1077.9625244140625,
+      "y": 21.5,
+      "width": 42,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1155.9625244140625,
+      "y": 21,
+      "width": 16.287500381469727,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO CART",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Need Help?",
+      "tag": "A",
+      "x": 1208.25,
+      "y": 12,
+      "width": 55.75,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MEDICINES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LAB TESTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DOCTORS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CANCER CARE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Quick order",
+      "tag": "A",
+      "x": 1153.6375732421875,
+      "y": 73,
+      "width": 94.36250305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Quick order",
+      "tag": "BUTTON",
+      "x": 1153.6375732421875,
+      "y": 73,
+      "width": 94.36250305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 300.2375183105469,
+      "y": 343.38751220703125,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 332.2375183105469,
+      "y": 343.38751220703125,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 528.2374877929688,
+      "y": 343.38751220703125,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 852.4750366210938,
+      "y": 157.8000030517578,
+      "width": 427.51251220703125,
+      "height": 177.58750915527344,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72,
+      "y": 501.38751220703125,
+      "width": 1136,
+      "height": 106.5,
+      "visible": true
+    },
+    {
+      "text": "Diabetes",
+      "tag": "A",
+      "x": 72,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Heart Care",
+      "tag": "A",
+      "x": 218,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Stomach Care",
+      "tag": "A",
+      "x": 364,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Liver Care",
+      "tag": "A",
+      "x": 510,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Bone, Joint & Muscle Care",
+      "tag": "A",
+      "x": 656,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Kidney Care",
+      "tag": "A",
+      "x": 802,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Derma Care",
+      "tag": "A",
+      "x": 948,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Respiratory Care",
+      "tag": "A",
+      "x": 1094,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Eye Care",
+      "tag": "A",
+      "x": 1240,
+      "y": 727.3875122070312,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "A",
+      "x": 1131.7125244140625,
+      "y": 956.9874877929688,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "BUTTON",
+      "x": 1131.7125244140625,
+      "y": 956.9874877929688,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Comprehensive Gold Full Body Checkup\nTata 1mg Labs\nSAFE\n₹2499\n₹4998\n50% off",
+      "tag": "A",
+      "x": 72,
+      "y": 1022.9874877929688,
+      "width": 285,
+      "height": 138,
+      "visible": true
+    },
+    {
+      "text": "Good Health Silver Package\nTata 1mg Labs\nSAFE\n₹749\n₹1498\n50% off",
+      "tag": "A",
+      "x": 373,
+      "y": 1022.9874877929688,
+      "width": 285,
+      "height": 138,
+      "visible": true
+    },
+    {
+      "text": "Comprehensive Silver Full Body Checkup\nTata 1mg Labs\nSAFE\n₹1999\n₹3998\n50% off",
+      "tag": "A",
+      "x": 674,
+      "y": 1022.9874877929688,
+      "width": 285,
+      "height": 138,
+      "visible": true
+    },
+    {
+      "text": "Comprehensive Platinum Full Body Checkup\nTata 1mg Labs\nSAFE\n₹3999\n₹7998\n50% off",
+      "tag": "A",
+      "x": 975,
+      "y": 1022.9874877929688,
+      "width": 285,
+      "height": 138,
+      "visible": true
+    },
+    {
+      "text": "Good Health Platinum Package\nTata 1mg Labs\nSAFE\n₹1499\n₹2998\n50% off",
+      "tag": "A",
+      "x": 1276,
+      "y": 1022.9874877929688,
+      "width": 285,
+      "height": 138,
+      "visible": true
+    },
+    {
+      "text": "Good Health Gold Package\nTata 1mg Labs\nSAFE\n₹999\n₹1998\n50% off",
+      "tag": "A",
+      "x": 1577,
+      "y": 1022.9874877929688,
+      "width": 285,
+      "height": 138,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "A",
+      "x": 1131.7125244140625,
+      "y": 1200.987548828125,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "BUTTON",
+      "x": 1131.7125244140625,
+      "y": 1200.987548828125,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 218,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 364,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 510,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 656,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 802,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 948,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1094,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1240,
+      "y": 1266.987548828125,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 218,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 364,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 510,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 656,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 802,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 948,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1094,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1240,
+      "y": 1518.5875244140625,
+      "width": 130,
+      "height": 145.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "A",
+      "x": 1131.7125244140625,
+      "y": 1704.1875,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "BUTTON",
+      "x": 1131.7125244140625,
+      "y": 1704.1875,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Lipid Profile\nContains 8 tests\nTata 1mg Labs\nSAFE\n₹399",
+      "tag": "A",
+      "x": 72,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "CBC (Complete Blood Count)\nContains 21 tests\nTata 1mg Labs\nSAFE\n₹319\n₹350\n9% off",
+      "tag": "A",
+      "x": 373,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "Thyroid Profile Total (T3, T4 & TSH)\nContains 3 tests\nTata 1mg Labs\nSAFE\n₹490\n₹5",
+      "tag": "A",
+      "x": 674,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "Lipid Profile, Non Fasting\nContains 8 tests\nTata 1mg Labs\nSAFE\n₹399\n₹699\n43% off",
+      "tag": "A",
+      "x": 975,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "Coronavirus Covid-19 Test- RT-PCR (COVID- RT PCR )\nContains 1 test\nTata 1mg Labs",
+      "tag": "A",
+      "x": 1276,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "LFT (Liver Function Test)\nContains 11 tests\nTata 1mg Labs\nSAFE\n₹399\n₹710\n44% off",
+      "tag": "A",
+      "x": 1577,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "KFT with Electrolytes (Kidney Function Test with Electrolytes)\nContains 8 tests\n",
+      "tag": "A",
+      "x": 1878,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "Vitamin B12 (Vit B12)\nContains 1 test\nTata 1mg Labs\nSAFE\n₹680\n₹1200\n43% off",
+      "tag": "A",
+      "x": 2179,
+      "y": 1770.1875,
+      "width": 285,
+      "height": 160,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "A",
+      "x": 1131.7125244140625,
+      "y": 1978.1875,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "See all",
+      "tag": "BUTTON",
+      "x": 1131.7125244140625,
+      "y": 1978.1875,
+      "width": 76.2874984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Unienzyme Digestive Enzymes for Indigestion, Acidity, Gastric, Bloat Liquid Pine",
+      "tag": "A",
+      "x": 72,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes\nbottle ",
+      "tag": "A",
+      "x": 264,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Cofsils Gargle\nbottle of 100 ml Gargle\n4.3\n(223)\nGet by 12am, Tomorrow\nDiscounte",
+      "tag": "A",
+      "x": 456,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Eloway Aloe Vera Moisturizing Gel\nbox of 100 gm Gel\n4.5\n(6)\nGet by Fri, 14 Aug\nD",
+      "tag": "A",
+      "x": 648,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Easylax L Oral Solution Lemon Sugar Free\nbottle of 200 ml Oral Solution\nGet by 1",
+      "tag": "A",
+      "x": 840,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Omnigel Pain Relief from Sprain, Injury, Back Pain, Muscle Pain, Body Pain, Knee",
+      "tag": "A",
+      "x": 1032,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Combo Pack of Tata 1mg Hot Water Bag & Tata 1mg Pain Relief Gel (75gm)\ncombo pac",
+      "tag": "A",
+      "x": 1224,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Calcium 500mg & Vita",
+      "tag": "A",
+      "x": 1416,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Pain Relief Gel for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata 1m",
+      "tag": "A",
+      "x": 1608,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Gemsoline Soft Gelatin Capsule from Medley for Bone, Joint and Muscle Care\nstrip",
+      "tag": "A",
+      "x": 1800,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Medicated First Aid ",
+      "tag": "A",
+      "x": 1992,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Prega News Advance Pregnancy Rapid Single-Step Test Kit\nbox of 1 Test Kit\n3.8\n(3",
+      "tag": "A",
+      "x": 2184,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Combo Pack of Tata 1mg Pain Relief Spray (100gm) & Tata 1mg Pain Relief Gel (75g",
+      "tag": "A",
+      "x": 2376,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Clocip Anti-Fungal Dusting Powder | For Skin Infections, Itching, Rashes\nbottle ",
+      "tag": "A",
+      "x": 2568,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Cipcal D3 (Cholecalciferol) Granules for Bone, Joint and Muscle Health\nsachet of",
+      "tag": "A",
+      "x": 2760,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Combo Pack of Tata 1mg Elbow Support Large & Tata 1mg Pain Relief Spray (100gm)\n",
+      "tag": "A",
+      "x": 2952,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Pain Relief Spray for Lower Back Pain, Joint Pain, Neck Pain & Sprain | by Tata ",
+      "tag": "A",
+      "x": 3144,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Tugain Twins 5 Solution for Hair Growth(60ml Each)\nKit of 2 bottles\nGet by 12am,",
+      "tag": "A",
+      "x": 3336,
+      "y": 2036.1875,
+      "width": 180,
+      "height": 313.6000061035156,
+      "visible": true
+    },
+    {
+      "text": "Best offers",
+      "tag": "A",
+      "x": 72,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Vitamins & Supplements",
+      "tag": "A",
+      "x": 218,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Nutritional Drinks",
+      "tag": "A",
+      "x": 364,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Skin Care",
+      "tag": "A",
+      "x": 510,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Hair Care",
+      "tag": "A",
+      "x": 656,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 802,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Ayurveda Products",
+      "tag": "A",
+      "x": 948,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Pain Relief",
+      "tag": "A",
+      "x": 1094,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Homeopathy",
+      "tag": "A",
+      "x": 1240,
+      "y": 2447.78759765625,
+      "width": 130,
+      "height": 189.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "Get a Call to Order Medicines",
+      "tag": "BUTTON",
+      "x": 869.6000366210938,
+      "y": 667,
+      "width": 259.3500061035156,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1176.9500732421875,
+      "y": 677,
+      "width": 23.05000114440918,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 810.6625366210938,
+      "y": 339.5,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    }
+  ]
+}

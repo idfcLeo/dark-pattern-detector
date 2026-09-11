@@ -1,0 +1,432 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://pharmeasy.in/account/profile?src=header",
+  "timestamp": "20260810_120235",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 15,
+      "width": 165,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Order Medicines",
+      "tag": "A",
+      "x": 210,
+      "y": 86.5,
+      "width": 123.8375015258789,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Healthcare Products",
+      "tag": "A",
+      "x": 358.8374938964844,
+      "y": 86.5,
+      "width": 151.7375030517578,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Lab Tests",
+      "tag": "A",
+      "x": 535.5750122070312,
+      "y": 86.5,
+      "width": 69.9124984741211,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "RTPCR",
+      "tag": "A",
+      "x": 630.4874877929688,
+      "y": 86.5,
+      "width": 48.36249923706055,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1005.5625,
+      "y": 85,
+      "width": 75.4625015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 1055.362548828125,
+      "y": 119,
+      "width": 244,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Save for Later",
+      "tag": "A",
+      "x": 1055.362548828125,
+      "y": 169,
+      "width": 244,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Medical Records",
+      "tag": "A",
+      "x": 1055.362548828125,
+      "y": 219,
+      "width": 244,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "My Profile",
+      "tag": "A",
+      "x": 1055.362548828125,
+      "y": 269,
+      "width": 244,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Wallet",
+      "tag": "A",
+      "x": 1055.362548828125,
+      "y": 319,
+      "width": 244,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Refer & Earn",
+      "tag": "A",
+      "x": 1055.362548828125,
+      "y": 369,
+      "width": 244,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Log Out",
+      "tag": "A",
+      "x": 1055.362548828125,
+      "y": 469,
+      "width": 244,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "A",
+      "x": 1204.8250732421875,
+      "y": 85,
+      "width": 60.17499923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 128,
+      "y": 153,
+      "width": 34,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Account",
+      "tag": "A",
+      "x": 162,
+      "y": 153,
+      "width": 69.23750305175781,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 231.2375030517578,
+      "y": 153,
+      "width": 60.25,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "SAVE",
+      "tag": "BUTTON",
+      "x": 1008,
+      "y": 570,
+      "width": 112,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 885.5625,
+      "y": 1282.2000732421875,
+      "width": 38.48749923706055,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Google Play",
+      "tag": "A",
+      "x": 239,
+      "y": 1523.9500732421875,
+      "width": 175,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "App Store",
+      "tag": "A",
+      "x": 434,
+      "y": 1523.9500732421875,
+      "width": 175,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 128,
+      "y": 1715.75,
+      "width": 68.5,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 128,
+      "y": 1749.75,
+      "width": 57.650001525878906,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 128,
+      "y": 1783.75,
+      "width": 32.85000228881836,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Partner with PharmEasy",
+      "tag": "A",
+      "x": 128,
+      "y": 1817.75,
+      "width": 179.5749969482422,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sell at PharmEasy",
+      "tag": "A",
+      "x": 128,
+      "y": 1851.75,
+      "width": 131.97500610351562,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Order Medicine",
+      "tag": "A",
+      "x": 128,
+      "y": 1935.75,
+      "width": 116.20000457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Healthcare Products",
+      "tag": "A",
+      "x": 128,
+      "y": 1969.75,
+      "width": 151.7375030517578,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lab Tests",
+      "tag": "A",
+      "x": 128,
+      "y": 2003.75,
+      "width": 69.9124984741211,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Find Nearest Collection Centre",
+      "tag": "A",
+      "x": 128,
+      "y": 2037.75,
+      "width": 226.8000030517578,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Browse All Medicines",
+      "tag": "A",
+      "x": 384.3374938964844,
+      "y": 1715.75,
+      "width": 157.52500915527344,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Browse All Molecules",
+      "tag": "A",
+      "x": 384.3374938964844,
+      "y": 1749.75,
+      "width": 157.375,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Browse All Cities",
+      "tag": "A",
+      "x": 384.3374938964844,
+      "y": 1783.75,
+      "width": 122.5999984741211,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Browse All Stores",
+      "tag": "A",
+      "x": 384.3374938964844,
+      "y": 1817.75,
+      "width": 129.3874969482422,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 384.3374938964844,
+      "y": 1851.75,
+      "width": 38.48749923706055,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1715.75,
+      "width": 108.8125,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1749.75,
+      "width": 100.0374984741211,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Vulnerability Disclosure Policy",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1783.75,
+      "width": 222.3000030517578,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1817.75,
+      "width": 163.96250915527344,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Declaration on Dark Pattern",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1851.75,
+      "width": 208.4250030517578,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Customer Support Policy",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1885.75,
+      "width": 184.6875,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Return Policy",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1919.75,
+      "width": 97.92500305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Smartbuy Policy",
+      "tag": "A",
+      "x": 640.6625366210938,
+      "y": 1953.75,
+      "width": 119.6624984741211,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 917,
+      "y": 1719.9500732421875,
+      "width": 40,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 982,
+      "y": 1719.9500732421875,
+      "width": 40,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1047,
+      "y": 1719.9500732421875,
+      "width": 40,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1112,
+      "y": 1719.9500732421875,
+      "width": 40,
+      "height": 44,
+      "visible": true
+    }
+  ]
+}

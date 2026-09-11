@@ -1,0 +1,54 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.moglix.com/checkout",
+  "timestamp": "20260810_121133",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "+ ADD DELIVERY ADDRESS",
+      "tag": "BUTTON",
+      "x": 625.7625122070312,
+      "y": 90.80000305175781,
+      "width": 248.4375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Klass Ergonomic 700-1150mm Black Manual Height Adjustable S..",
+      "tag": "A",
+      "x": 157.8000030517578,
+      "y": 342.6000061035156,
+      "width": 329.63751220703125,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "PROCEED TO PAY\n\n₹11,645.00",
+      "tag": "BUTTON",
+      "x": 650,
+      "y": 488.3999938964844,
+      "width": 230,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "APPLY",
+      "tag": "BUTTON",
+      "x": 1151,
+      "y": 537,
+      "width": 99,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "APPLY",
+      "tag": "BUTTON",
+      "x": 922.4000244140625,
+      "y": 696.2000122070312,
+      "width": 325.20001220703125,
+      "height": 35,
+      "visible": true
+    }
+  ]
+}

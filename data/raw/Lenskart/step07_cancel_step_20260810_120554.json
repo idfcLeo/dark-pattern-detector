@@ -1,0 +1,882 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://www.lenskart.com/profile/edit",
+  "timestamp": "20260810_120554",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 8,
+      "y": 8,
+      "width": 151.10000610351562,
+      "height": 38.85000228881836,
+      "visible": true
+    },
+    {
+      "text": "Corporate",
+      "tag": "A",
+      "x": 36,
+      "y": 16,
+      "width": 56.462501525878906,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "StoreLocator",
+      "tag": "A",
+      "x": 92.4625015258789,
+      "y": 16,
+      "width": 77.4000015258789,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Singapore",
+      "tag": "A",
+      "x": 169.8625030517578,
+      "y": 16,
+      "width": 63.45000076293945,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "UAE",
+      "tag": "A",
+      "x": 233.3125,
+      "y": 16,
+      "width": 33.25,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "John Jacobs",
+      "tag": "A",
+      "x": 266.5625,
+      "y": 16,
+      "width": 71.3125,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Aqualens",
+      "tag": "A",
+      "x": 337.875,
+      "y": 16,
+      "width": 57.78750228881836,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Cobrowsing",
+      "tag": "A",
+      "x": 395.6625061035156,
+      "y": 16,
+      "width": 72.5999984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Engineering Blog",
+      "tag": "A",
+      "x": 468.26251220703125,
+      "y": 16,
+      "width": 94.9124984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "Partner With Us",
+      "tag": "A",
+      "x": 563.1749877929688,
+      "y": 16,
+      "width": 86.0999984741211,
+      "height": 14.27500057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 50,
+      "y": 43.5625,
+      "width": 49,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "EYEGLASSES",
+      "tag": "A",
+      "x": 124,
+      "y": 38.5625,
+      "width": 78.4749984741211,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SUNGLASSES",
+      "tag": "A",
+      "x": 214.47500610351562,
+      "y": 38.5625,
+      "width": 81.55000305175781,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CONTACTS",
+      "tag": "A",
+      "x": 308.0249938964844,
+      "y": 38.5625,
+      "width": 67.32500457763672,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SPECIAL POWER",
+      "tag": "A",
+      "x": 387.3500061035156,
+      "y": 38.5625,
+      "width": 99.4625015258789,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "STORES",
+      "tag": "A",
+      "x": 498.8125,
+      "y": 38.5625,
+      "width": 48,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Locate a Store",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TRY @ HOME",
+      "tag": "A",
+      "x": 558.8125,
+      "y": 38.5625,
+      "width": 76.0250015258789,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Book appointment",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1082.800048828125,
+      "y": 56.5625,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1130.800048828125,
+      "y": 56.5625,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 596.4000244140625,
+      "y": 122.20000457763672,
+      "width": 72,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Update Profile",
+      "tag": "BUTTON",
+      "x": 232.40000915527344,
+      "y": 666.2000122070312,
+      "width": 800,
+      "height": 57.60000228881836,
+      "visible": true
+    }
+  ]
+}

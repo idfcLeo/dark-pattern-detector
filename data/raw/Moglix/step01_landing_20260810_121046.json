@@ -1,0 +1,7047 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.moglix.com/",
+  "timestamp": "20260810_121046",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Explore Moglix Business",
+      "tag": "A",
+      "x": 918.3375244140625,
+      "y": 5,
+      "width": 203.3125,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "RESEND OTP",
+      "tag": "BUTTON",
+      "x": 849.0499877929688,
+      "y": 344.8999938964844,
+      "width": 91.0250015258789,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "A",
+      "x": 783.1625366210938,
+      "y": 567.5,
+      "width": 74.4749984741211,
+      "height": 11.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 869.875,
+      "y": 567.5,
+      "width": 62.23749923706055,
+      "height": 11.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "UPDATE",
+      "tag": "BUTTON",
+      "x": 773.6749877929688,
+      "y": 397.5,
+      "width": 86.5250015258789,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 993.3875122070312,
+      "y": 64.0999984741211,
+      "width": 84.1624984741211,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1127.550048828125,
+      "y": 52.29999923706055,
+      "width": 31,
+      "height": 40.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1230,
+      "y": 60.900001525878906,
+      "width": 20,
+      "height": 23.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1208.0125732421875,
+      "y": 143,
+      "width": 35,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "Mogli Express",
+      "tag": "A",
+      "x": 1192.0250244140625,
+      "y": 158.1999969482422,
+      "width": 66.9749984741211,
+      "height": 30.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -3735,
+      "y": 223.1999969482422,
+      "width": 1250,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2485,
+      "y": 223.1999969482422,
+      "width": 1250,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1235,
+      "y": 223.1999969482422,
+      "width": 1250,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 223.1999969482422,
+      "width": 1250,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1265,
+      "y": 223.1999969482422,
+      "width": 1250,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2515,
+      "y": 223.1999969482422,
+      "width": 1250,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3765,
+      "y": 223.1999969482422,
+      "width": 1250,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 30,
+      "y": 356.20001220703125,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1216,
+      "y": 356.20001220703125,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 592.2000122070312,
+      "width": 301.5,
+      "height": 111,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 331.5,
+      "y": 592.2000122070312,
+      "width": 301.5,
+      "height": 111,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 648,
+      "y": 592.2000122070312,
+      "width": 301.5,
+      "height": 111,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 964.5,
+      "y": 592.2000122070312,
+      "width": 301.5,
+      "height": 111,
+      "visible": true
+    },
+    {
+      "text": "UPDATE",
+      "tag": "BUTTON",
+      "x": 1166.9500732421875,
+      "y": 753.2000122070312,
+      "width": 83.05000305175781,
+      "height": 27.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1735,
+      "y": 913.2000122070312,
+      "width": 86.88750457763672,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1750,
+      "y": 973.2000122070312,
+      "width": 56.88750076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Abbott FreeStyle Libre 2 Plus 1�L Glucometer Sensor",
+      "tag": "A",
+      "x": 31.80000114440918,
+      "y": 1367.8375244140625,
+      "width": 150.97500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAB 1 Sqmm Single Core Red FR PVC CCS Copper Insulated House Wire, Length: 91 m ",
+      "tag": "A",
+      "x": 236.8000030517578,
+      "y": 1367.8375244140625,
+      "width": 153.2624969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dr. Morepen Gluco One BG-03 50 Pcs Glucometer Strips Box",
+      "tag": "A",
+      "x": 441.8000183105469,
+      "y": 1367.8375244140625,
+      "width": 147.85000610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aplus 12 Litre Hand Operating Milking Machine, C12",
+      "tag": "A",
+      "x": 646.7999877929688,
+      "y": 1367.8375244140625,
+      "width": 122.9749984741211,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eureka Forbes Quick Clean DX 1200W 2 Litre Red Vacuum Cleaner with Accessories, ",
+      "tag": "A",
+      "x": 851.7999877929688,
+      "y": 1367.8375244140625,
+      "width": 152.52500915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Longway Luminair 28W 5 Star Smoked Brown Anti-Dust Decorative BLDC Ceiling Fan w",
+      "tag": "A",
+      "x": 1056.800048828125,
+      "y": 1367.8375244140625,
+      "width": 154.8625030517578,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Walkers 1200W 26mm Rotary Hammer Drill Machine with 5 Bits, 13mm Chuck & Gloves,",
+      "tag": "A",
+      "x": 1261.800048828125,
+      "y": 1367.8375244140625,
+      "width": 147.0500030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zokasa Rio Pro 50W 2400rpm 1 Star Black Anti-Dust Pedestal Fan, Sweep: 400 mm ..",
+      "tag": "A",
+      "x": 1466.800048828125,
+      "y": 1367.8375244140625,
+      "width": 148.625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CabONE 1.5 Sqmm Red FR PVC Multi Strand Electrical Wire, CabONE013, Length: 90m ",
+      "tag": "A",
+      "x": 1671.800048828125,
+      "y": 1367.8375244140625,
+      "width": 153.28750610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Prestige Stainless Steel 304 Single Bowl Kitchen Sink 24x18x10 inch Chrome Handm",
+      "tag": "A",
+      "x": 1876.800048828125,
+      "y": 1367.8375244140625,
+      "width": 152.52500915527344,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Power Pixel 20MP 8K UHD Four Lens 4G Sim PTZ Solar Camera with Four Views, PIR, ",
+      "tag": "A",
+      "x": 2081.800048828125,
+      "y": 1367.8375244140625,
+      "width": 153.8000030517578,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cybernautt V4K 4MP Dual Lens Full HD Smart Wi-Fi Camera with Colour Night Vision",
+      "tag": "A",
+      "x": 2286.800048828125,
+      "y": 1367.8375244140625,
+      "width": 154.83750915527344,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Havells Joy Ultra 1HP Copper Single Phase Self Priming Monoblock Pump ...",
+      "tag": "A",
+      "x": 2491.800048828125,
+      "y": 1367.8375244140625,
+      "width": 147.0625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Unison 18 inch Mild Steel Frame Wheel Type Push Mower",
+      "tag": "A",
+      "x": 2696.800048828125,
+      "y": 1367.8375244140625,
+      "width": 153.8125,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iffco 1 Litre Seaweed Based Bio-Stimulant Sagarika Liquid for Organic Farming ..",
+      "tag": "A",
+      "x": 2901.800048828125,
+      "y": 1367.8375244140625,
+      "width": 140.85000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sameer 1.5HP Monoblock Force Water Pump with 1 Year Warranty, Total Head: 115 ft",
+      "tag": "A",
+      "x": 3106.800048828125,
+      "y": 1367.8375244140625,
+      "width": 149.65000915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Imported 6.5HP 3 inch 196cc 4 Stroke Agriculture Petrol Water Pump Set, SI-PE-17",
+      "tag": "A",
+      "x": 3311.800048828125,
+      "y": 1367.8375244140625,
+      "width": 149.4250030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Balwaan Krishi PW-350 1800W 120-150bar Pressure Washer MTAK-EN-BR-6035 ...",
+      "tag": "A",
+      "x": 3516.800048828125,
+      "y": 1367.8375244140625,
+      "width": 154.03750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fastgear Marc Stainless Steel Silver Chrome Finish 2 Way Bib Tap, FG1200 ...",
+      "tag": "A",
+      "x": 3721.800048828125,
+      "y": 1367.8375244140625,
+      "width": 150.9499969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 1665.112548828125,
+      "width": 406.625,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 1738.7125244140625,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 1738.7125244140625,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "FAB",
+      "tag": "A",
+      "x": 50,
+      "y": 1895.5125732421875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "CabONE",
+      "tag": "A",
+      "x": 145,
+      "y": 1895.5125732421875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Fabgold",
+      "tag": "A",
+      "x": 240,
+      "y": 1895.5125732421875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Vrinda Cab",
+      "tag": "A",
+      "x": 335,
+      "y": 1895.5125732421875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "House Wires\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 1969.1375732421875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Stabilizers\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 1969.1375732421875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Batteries\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 1969.1375732421875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Multicore Cables\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 1969.1375732421875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "FAB 1 Sqmm Single Core Red FR PVC CCS Copper Insulated House Wire, Length: 91 m ",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 2305.150146484375,
+      "width": 153.2624969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAB 2.5 Sqmm Single Core Red FR PVC CCS Copper Insulated House Wire, Length: 91 ",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 2305.150146484375,
+      "width": 153.2624969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Amptek 12V 4.5Ah Black Sealed Rechargeable SMF Industrial Battery, AT12-4.5 ...",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 2305.150146484375,
+      "width": 154.8625030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Microtek Pearl EM 4160 Plus 160-285V AC Voltage Stabilizer for Upto 1.5 Ton AC, ",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 2305.150146484375,
+      "width": 149.40000915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Silcon Gold MS01 3+1 2.5m 220W Plastic White Extension Board",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 2305.150146484375,
+      "width": 156.3874969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Silcon Gold 4+1 2.5m 220W Plastic White Extension Board",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 2305.150146484375,
+      "width": 135.375,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dewon Electric 32A 10kA Double Pole MCB, CB2001032C",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 2305.150146484375,
+      "width": 150.97500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kamal Agrotech 63 Amp Porcelain & Brass Kitkat Fuses (Pack of 3) ...",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 2305.150146484375,
+      "width": 152.5,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Schneider Electric Harmony XB5 1 NO Black 2 Position Stay Put Non-Illuminated Se",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 2305.150146484375,
+      "width": 137.71250915527344,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Schneider Electric Easy Harmony XB2 22mm Green 1NO Flush Type Spring Return Push",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 2305.150146484375,
+      "width": 147.85000610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dewon Electric Steel Grey 6 Way Single Pole Neutral Double Door Single Phase MCB",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 2305.150146484375,
+      "width": 154.3249969482422,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dewon Electric Dual Steel White 2/4 Way Single Pole Neutral Double Door Single P",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 2305.150146484375,
+      "width": 148.625,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Schneider Electric Harmony 2CO 5A 24VAC Power Relay with LED, RXM2LB2B7 ...",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 2305.150146484375,
+      "width": 155.3625030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dehmy EOCR-SS-60N-440 5-60A 415V AC Motor Protection Relay with Adjustable Load ",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 2305.150146484375,
+      "width": 147.03750610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dewon Electric 63A Four Pole MCB Type Changeover",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 2305.150146484375,
+      "width": 154.0749969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dewon Electric 40A Double Pole MCB Type Changeover",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 2305.150146484375,
+      "width": 151.4875030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Luminous Zelio+ 1100 Pure Sine Wave Inverter & RC 25000 200Ah Tubular Battery Co",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 2305.150146484375,
+      "width": 153.5500030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Luminous Hercules 1500 1400VA 12V Single Battery Pure Sine Wave Inverter for Hom",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 2305.150146484375,
+      "width": 154.875,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zebronics MLS750 600VA Black Micro Load UPS",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 2305.150146484375,
+      "width": 151.5,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Luminous LB600PRO 360W 230VAC Simulated Sine Wave Home Inverter UPS ...",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 2305.150146484375,
+      "width": 136.9375,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 2500.112548828125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 2500.112548828125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Longway",
+      "tag": "A",
+      "x": 50,
+      "y": 2656.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Activa",
+      "tag": "A",
+      "x": 145,
+      "y": 2656.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "DigiSmart",
+      "tag": "A",
+      "x": 240,
+      "y": 2656.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "HM",
+      "tag": "A",
+      "x": 335,
+      "y": 2656.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Ceiling Fans\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 2730.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Pedestal Fans\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 2730.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Storage Geysers\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 2730.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Instant Geysers\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 2730.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Longway Luminair 28W 5 Star Smoked Brown Anti-Dust Decorative BLDC Ceiling Fan w",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 3066.550048828125,
+      "width": 154.8625030517578,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Longway Zephyr 28W 3 Blade 5 Star Ultra High Speed Silver Blue BLDC Ceiling Fan ",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 3066.550048828125,
+      "width": 156.40000915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Longway 25L Grey Water Storage Geyser with Free Installation Kit, Superb ...",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 3066.550048828125,
+      "width": 152.7624969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Longway 10L Grey Instant Water Geyser, Superb",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 3066.550048828125,
+      "width": 148.875,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Longway Super Pro 750W ABS Plastic Black & Gray Mixer Grinder with 4 Jars ...",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 3066.550048828125,
+      "width": 150.96250915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Triva Remix Pro750 500W Stainless Steel Sky Blue Copper Armature Motor Mixer Gri",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 3066.550048828125,
+      "width": 147.0749969482422,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HM 1500W Metal Black Powder Coated Mini Hotplated Manual Induction Cooktop ...",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 3066.550048828125,
+      "width": 146.27500915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kemajuan 2200W Glass Black & Silver Infrared Cooktop with Touch Control Panel, F",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 3066.550048828125,
+      "width": 153.83750915527344,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Longway Kestro 1500W 1.5 Litre Stainless Steel Electric Kettle ...",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 3066.550048828125,
+      "width": 150.1875,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zokasa Plancha 1000W Black & Golden Heavy Weight Dry Iron",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 3066.550048828125,
+      "width": 154.0749969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DigiSmart Lancer 1150W Plastic Black Light Weight Dry Iron with 1 Year Warranty ",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 3066.550048828125,
+      "width": 155.3625030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Samsung 32 inch 1366x768p HD Smart LED TV, UA32H4520",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 3066.550048828125,
+      "width": 148.6374969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LG UA831C 50 inch 3840x2160p 4K UHD Black Commercial LCD TV with Google Cast, Ne",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 3066.550048828125,
+      "width": 155.6374969482422,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Crompton ACGC-Ginie Neo 130W 10L White & Light Blue Personal Air Cooler with 4-W",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 3066.550048828125,
+      "width": 154.08750915527344,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Novamax Rambo-150 150 Litre 8550CMH ABS Grey Honeycomb Copper Motor Tower Air Co",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 3066.550048828125,
+      "width": 152.53750610351562,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Crompton Insta Comfy 800W Double Rod Room Heater",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 3066.550048828125,
+      "width": 155.6374969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gestor Blaze 2000W ABS White Noiseless Copper Motor Fan Room Heater ...",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 3066.550048828125,
+      "width": 154.85000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 3261.512451171875,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 3261.512451171875,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Hillgrove",
+      "tag": "A",
+      "x": 50,
+      "y": 3418.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Jakmister",
+      "tag": "A",
+      "x": 145,
+      "y": 3418.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Walkers",
+      "tag": "A",
+      "x": 240,
+      "y": 3418.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Imported",
+      "tag": "A",
+      "x": 335,
+      "y": 3418.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Demolition Hammers\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 3491.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Angle Grinders\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 3491.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Rotary Hammers\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 3491.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Air Blowers\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 3491.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Walkers 1200W 26mm Rotary Hammer Drill Machine with 5 Bits, 13mm Chuck & Gloves,",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 3827.949951171875,
+      "width": 147.0500030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove 1200W Demolition Hammer Concrete Breaker with 2 Bits, HGCM934 ...",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 3827.949951171875,
+      "width": 150.1875,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove 5 Pcs 1.5Ah 12V Portable Cordless Power Drill Driver Kit, HGCM1379M1 .",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 3827.949951171875,
+      "width": 154.08750915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove 35 Pcs 1.5Ah 20V Cordless Drill Driver Kit, HGCM1381M2 ...",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 3827.949951171875,
+      "width": 154.8125,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove 4 inch 850W Copper Winding Hand Angle Grinder with 10 Pcs Wheel, HGCM1",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 3827.949951171875,
+      "width": 151.75,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove HGANG4B1M2 100mm Metal Angle Grinder, HG0187",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 3827.949951171875,
+      "width": 154.0500030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jakmister 18000rpm 950W Silver Unbreakable Heavy Duty Air Blower with Vacuum Suc",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 3827.949951171875,
+      "width": 155.6374969482422,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove 700W 13mm Power Drill Machine with 9 Pcs Drill Bits, HGCM1162 ...",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 3827.949951171875,
+      "width": 155.60000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove 500W 2600rpm Variable Speed Rotation Drill Machine with 5 Pcs Wood Dri",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 3827.949951171875,
+      "width": 154.0749969482422,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove 2200W 5 inch Stone Cutting Machine with Wheel, HGCM1425M1 ...",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 3827.949951171875,
+      "width": 155.65000915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Endico 1400W 12500rpm Fiber Wood Cutter, SLOK-T30",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 3827.949951171875,
+      "width": 153.03750610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Imported 355mm 2200W 3800rpm Heavy Duty Chop Saw, AB-KT-20223913 ...",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 3827.949951171875,
+      "width": 154.0749969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hillgrove HGCM100 1050W 12000rpm Saw Cutting Machine Set",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 3827.949951171875,
+      "width": 146.3125,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XDLB Chrome Hand Drill to Bench Drill Stand, DS08",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 3827.949951171875,
+      "width": 155.6125030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Endico 8mm Router Adapter, 1180001698",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 3827.949951171875,
+      "width": 132.875,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Walkers 800W Angle Grinder, 500W 10mm Drill Machine, 5 Pcs Wheel & 5 Pcs Drill B",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 3827.949951171875,
+      "width": 147.0500030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "XLNT 5Ah 2200rpm Cordless Drill, Angle Grinder, Impact Wrench, Rotary Hammer Pow",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 3827.949951171875,
+      "width": 151.47500610351562,
+      "height": 153.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Endico 1000W 27000rpm Fiber Wood Working Router Machine, CARPER ...",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 3827.949951171875,
+      "width": 153.03750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Turtle Gold ST-811A 1850W 6-12mm 23000rpm Electric Router",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 3827.949951171875,
+      "width": 125.2874984741211,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 4022.91259765625,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 4022.91259765625,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Dr. Morepen",
+      "tag": "A",
+      "x": 50,
+      "y": 4179.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Abbott",
+      "tag": "A",
+      "x": 145,
+      "y": 4179.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Accu-Chek",
+      "tag": "A",
+      "x": 240,
+      "y": 4179.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Tynor",
+      "tag": "A",
+      "x": 335,
+      "y": 4179.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Glucometers\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 4253.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Test Strips & Accessories\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 4253.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Blood Pressure Monitors\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 4253.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Medical Beds\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 4253.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Abbott FreeStyle Libre 2 Plus 1�L Glucometer Sensor",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 4589.35009765625,
+      "width": 150.97500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dr. Morepen Gluco One BG-03 50 Pcs Glucometer Strips Box",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 4589.35009765625,
+      "width": 147.85000610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dr. Morepen 50 Pcs Gluco One BG-03 Multicolor Blood Glucose Test Strips Set (Pac",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 4589.35009765625,
+      "width": 154.85000610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BD Ultra-Fine III 4mm 32G Pen Needle (Pack of 50)",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 4589.35009765625,
+      "width": 150.1999969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ST Attendant Bed with Mattress, ST005",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 4589.35009765625,
+      "width": 138.28750610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Welltrust Healthcare Two Section Examination Table, WSH-1293",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 4589.35009765625,
+      "width": 155.1125030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tynor Coccyx Cushion Seat, Size: Universal",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 4589.35009765625,
+      "width": 140.0625,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tynor Walker Boot, Size: XL",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 4589.35009765625,
+      "width": 153.53750610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HealthSense Toner-Pro HM 210 ABS Electric Handheld Full Body Massager for Pain R",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 4589.35009765625,
+      "width": 153.3000030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tynor Electric Ortho Heating Gel Bag, I96UBZ",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 4589.35009765625,
+      "width": 123.7125015258789,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3M Tegaderm HP 8526IN, Size: 10x12cm (Pack of 50)",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 4589.35009765625,
+      "width": 147.08750915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thadhani 5000 Series Orange Plastic First Aid Kit Box",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 4589.35009765625,
+      "width": 152.5,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spox 100mA X-Ray Hand Switch with 5.5 m PU Cable",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 4589.35009765625,
+      "width": 148.625,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Flamingo Flamicrepe 10cmx4m Cotton Crepe Bandage",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 4589.35009765625,
+      "width": 154.0625,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Axon K-86 Beige ITE Hearing Aid",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 4589.35009765625,
+      "width": 130.7375030517578,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Axon F16 Black Professional Machine Sound Amplifier Hearing Aid ...",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 4589.35009765625,
+      "width": 150.97500610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tynor Rigid Steel Frame Commode Chair, L35UJZ, Size: Universal ...",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 4589.35009765625,
+      "width": 150.9499969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medsor Impex 120kg Stainless Steel & ABS Green Folding Sturdy Commode Chair, MIC",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 4589.35009765625,
+      "width": 150.97500610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hoffen 180kg Black Electronic Digital Personal Bathroom Weight Machine for Body ",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 4589.35009765625,
+      "width": 156.16250610351562,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Venus 180kg Tempered Glass Black Electronic Digital Body Weight Machine with LCD",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 4589.35009765625,
+      "width": 153.27500915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 4784.3125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 4784.3125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "JK Steel",
+      "tag": "A",
+      "x": 50,
+      "y": 4941.11279296875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "ArmaDuro",
+      "tag": "A",
+      "x": 145,
+      "y": 4941.11279296875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Hillson",
+      "tag": "A",
+      "x": 240,
+      "y": 4941.11279296875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Fuel",
+      "tag": "A",
+      "x": 335,
+      "y": 4941.11279296875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Safety Shoes\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 5014.73779296875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Safety Gloves\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 5014.73779296875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Raincoats\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 5014.73779296875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Safety Jackets\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 5014.73779296875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "JK Steel JKPI001BN Steel Toe Work Safety Shoes, Size: 8",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 5350.75,
+      "width": 152,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "JK Steel JKPI001BN Steel Toe Work Safety Shoes, Size: 9",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 5350.75,
+      "width": 152,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stockhawkers 10 inch Cotton White & Blue Safety Hand Gloves",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 5350.75,
+      "width": 140.0625,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tungsten Safety 13 Gauge 25g Polyster Liner Black Safety Gloves with PU Coated P",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 5350.75,
+      "width": 144.7375030517578,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jumbo 3XL Semi Nylon Blue Full Sleeves Rainsuit Set with Carry Pouch ...",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 5350.75,
+      "width": 145.77500915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gripwell Free Size Black Duck Look Raincoat",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 5350.75,
+      "width": 152.5,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tool Master Polyester Orange Netted Safety Jacket with 1 inch Reflecting Tape ..",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 5350.75,
+      "width": 149.4250030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Club Twenty One Workwear Hampton Cotton Black Safety Jacket, 4006, Size: XXL ...",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 5350.75,
+      "width": 148.125,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Safety One 4kg ABC Powder Type Fire Extinguisher with Wall Mount Hook ...",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 5350.75,
+      "width": 136.4250030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Safety One 6kg ABC Powder Type Fire Extinguisher with Wall Mount Hook ...",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 5350.75,
+      "width": 136.4250030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Karam Plastic Yellow Cradle Ratchet Type Safety Helmet, PN 521 ...",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 5350.75,
+      "width": 142.40000915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Udyogi Ultra 5000L HDPE White Plastic Slip Fit Safety Helmet",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 5350.75,
+      "width": 154.03750610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ladwa 750mm Red & Black PVC Traffic Safety Cone with 6m Chain & 6 Hooks (Pack of",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 5350.75,
+      "width": 155.3625030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kunplast 4 Pcs 50mm 2m Rubber Black & Yellow Speed Breaker Set with Heavy Duty L",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 5350.75,
+      "width": 147.6125030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3M Valved Dust/Mist Respirator Mask AS/NZS P1, 9004V (Pack of 10) ...",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 5350.75,
+      "width": 155.60000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mastership 3 Layer Nonwoven Fabric Green Disposable Surgical Mask (Pack of 100) ",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 5350.75,
+      "width": 151.7375030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Safe Dot Polypropylene Yellow & Blue Full Body Harness with Double Rope & Scaffo",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 5350.75,
+      "width": 154.35000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HEAPRO 50mtr 12mm Dia PP ROPE, HI-1900 PP-50",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 5350.75,
+      "width": 150.6875,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "India Loto ILP071 Multicolour Long Shackle Jacket Padlock with 3 Keys (Pack of 4",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 5350.75,
+      "width": 147.8625030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loto Lockout Tagout Pouch Kit, ILP-SK36",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 5350.75,
+      "width": 127.63750457763672,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 5545.71240234375,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 5545.71240234375,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Balwaan Krishi",
+      "tag": "A",
+      "x": 50,
+      "y": 5702.5126953125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Neptune",
+      "tag": "A",
+      "x": 145,
+      "y": 5702.5126953125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Imported",
+      "tag": "A",
+      "x": 240,
+      "y": 5702.5126953125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Greenleaf",
+      "tag": "A",
+      "x": 335,
+      "y": 5702.5126953125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Brush Cutters\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 5776.1376953125,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Battery Sprayers\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 5776.1376953125,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Chain Saws\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 5776.1376953125,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Agriculture Water Pump Sets\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 5776.1376953125,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Unison 18 inch Mild Steel Frame Wheel Type Push Mower",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 6112.14990234375,
+      "width": 153.8125,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tomahawk 12V 1.5Ah Cordless String Trimmer with Saw Blade & Rope Attachment for ",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 6112.14990234375,
+      "width": 152.47500610351562,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neptune 12V 8A 20 Litre Knapsack Battery Sprayer with 4 Pcs Nozzles & Telescopic",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 6112.14990234375,
+      "width": 152.5625,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Balwaan Krishi 18L 12V 8A Battery & Manual Knapsack Sprayer Pump MTAK-BA-SP-724 ",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 6112.14990234375,
+      "width": 154.8625030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jaiveer 6 inch 2Ah 4000rpm Cordless Chainsaw with Battery & Charger for Wood Cut",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 6112.14990234375,
+      "width": 151.7375030517578,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Imported 16 inch 2200W Mild Steel Corded Electric Chainsaw for Agriculture & Gar",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 6112.14990234375,
+      "width": 152.53750610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mecstroke MS-52-Top 52cc 2 Stroke Petrol Garden Tiller Cultivator Rotavator, MS8",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 6112.14990234375,
+      "width": 147.85000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vinspire 3HP 2 Stroke Heavy Duty Petrol Power Tiller",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 6112.14990234375,
+      "width": 156.40000915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Imported 6.5HP 3 inch 196cc 4 Stroke Agriculture Petrol Water Pump Set, SI-PE-17",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 6112.14990234375,
+      "width": 149.4250030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Balwaan Krishi WP-33R 7HP 4 Stroke 3inch Gasoline Water Pump Set, MTAK-EN-WA-497",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 6112.14990234375,
+      "width": 153.2624969482422,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spear 2 Stroke 63cc Post Hole Digger Earth Auger Machine with 4 inch Bit ...",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 6112.14990234375,
+      "width": 149.40000915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bharat Saarthi 52cc 2 Stroke 8 inch Heavy Duty Earth Auger Machine with Advance ",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 6112.14990234375,
+      "width": 146.0625,
+      "height": 153.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Balwaan Krishi S-1 4L Plastic White Agricultural Single Barrel Manual Seeder MTA",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 6112.14990234375,
+      "width": 154.0625,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neptune 12 Teeth Hand Operated Portable Seeder Machine, MS-12T ...",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 6112.14990234375,
+      "width": 147.6374969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Imported Heavy Duty Aluminium Carburetor for 168F & 170F Petrol Engine of 7 HP W",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 6112.14990234375,
+      "width": 156.3874969482422,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "KISTON KOREA Black Accelerator Wire with Switch for 63cc & 68cc Earth Auger, KEA",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 6112.14990234375,
+      "width": 154.10000610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mastership 4ft Stainless Steel Snake Catcher",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 6112.14990234375,
+      "width": 148.625,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SSWW 47 inch Stainless Steel Snake Catcher Hook, SSWW-02",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 6112.14990234375,
+      "width": 154.83750915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Imported 50m 8.5mm 5 Layer Plastic Yellow Heavy Duty HTP Spray Hose Pipe ...",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 6112.14990234375,
+      "width": 144.72500610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Neptune 10mm 5 Layers PVC High Pressure Water Spraying Pipe, Length: 100m ...",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 6112.14990234375,
+      "width": 153.3125,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 6307.11279296875,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 6307.11279296875,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Canon",
+      "tag": "A",
+      "x": 50,
+      "y": 6463.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Brother",
+      "tag": "A",
+      "x": 145,
+      "y": 6463.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "HP",
+      "tag": "A",
+      "x": 240,
+      "y": 6463.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Epson",
+      "tag": "A",
+      "x": 335,
+      "y": 6463.91259765625,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Ink Tank Printer\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 6537.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Laser Printer\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 6537.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Speakers\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 6537.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Currency Counting Machine\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 6537.53759765625,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Canon Pixma MG2570S Black All-in-One Colour Inkjet Printer with USB Connectivity",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 6873.55029296875,
+      "width": 154.0625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Epson EcoTank L8050 Single Function 6 Color Ink Tank Photo & ID Card Printer, Wi",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 6873.55029296875,
+      "width": 155.625,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vox V7171 7.1 Channel Black Home Theater Speaker System",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 6873.55029296875,
+      "width": 147.125,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "I Kall IK409 4.1 Channel Home Theatre Speaker System with USB/SD/FM Support & Re",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 6873.55029296875,
+      "width": 155.58750915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tvs Electronics CC 232 Classic+ Cash Counting Machine with UV, MG, MT, IR & DD D",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 6873.55029296875,
+      "width": 156.3874969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VMS Professional LM Deluxe Heavy Duty Hot & Cold Laminating Machine, 44179D ...",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 6873.55029296875,
+      "width": 155.625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pantum PG-208KEV Black Ink Cartridge for P2210, P2518, M6518 & M6559 Series ...",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 6873.55029296875,
+      "width": 152.5625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brother TN B021 Black Toner Cartridge",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 6873.55029296875,
+      "width": 142.9250030517578,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bitdefender Total Security with 1 Year for 1 User & Email Delivery ...",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 6873.55029296875,
+      "width": 154.8625030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "McAfee Antivirus with 1 Year for 1 PC & Email Delivery",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 6873.55029296875,
+      "width": 149.66250610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Casio HR-8RC-BK 12 Digit Mini Portable Printing Calculator",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 6873.55029296875,
+      "width": 135.375,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kangaro HDP-1320 Heavy Duty Punch",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 6873.55029296875,
+      "width": 122.1875,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AN 100 Pcs A5 White Sticker Paper Set for Laser, Copier, Inkjet Printer & Writin",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 6873.55029296875,
+      "width": 143.1750030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AN 50 Pcs A4 White Glossy Sticker Paper Set for Laser, Copier, Inkjet Printer & ",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 6873.55029296875,
+      "width": 155.625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bambu Lab A1 Combo 500mm/sec Multicolour 3D Printer & AMS Lite ...",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 6873.55029296875,
+      "width": 153.28750610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bambu Lab 1kg 1.75mm PLA Black 3D Printer Filament without Spool ...",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 6873.55029296875,
+      "width": 152.53750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Century 500 Sheets A4 75 GSM White Copier Paper, STAR-1",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 6873.55029296875,
+      "width": 150.16250610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Trident Royal Touch A4 80 GSM 500 Sheets White Copier Paper (Pack of 2) ...",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 6873.55029296875,
+      "width": 143.97500610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Longway Zappy 500mAh Plastic Black Rechargeable Mosquito Racket ...",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 6873.55029296875,
+      "width": 154.875,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Unomax Marcus 0.7mm Blue Ball Pen with Blue Body",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 6873.55029296875,
+      "width": 150.97500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Unomax Excella 0.7mm Blue Ball Pen with Rose Gold Body",
+      "tag": "A",
+      "x": 4151.80029296875,
+      "y": 6873.55029296875,
+      "width": 155.6374969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 7068.5126953125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 7068.5126953125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Cybernautt",
+      "tag": "A",
+      "x": 50,
+      "y": 7225.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Power Pixel",
+      "tag": "A",
+      "x": 145,
+      "y": 7225.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "ApnaCam",
+      "tag": "A",
+      "x": 240,
+      "y": 7225.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "CP Plus",
+      "tag": "A",
+      "x": 335,
+      "y": 7225.3125,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Smart WiFi Cameras\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 7298.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "SIM Cameras\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 7298.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Bullet Cameras\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 7298.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Network IP Cameras\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 7298.9375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Power Pixel 20MP 8K UHD Four Lens 4G Sim PTZ Solar Camera with Four Views, PIR, ",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 7634.9501953125,
+      "width": 153.8000030517578,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cybernautt V4K 4MP Dual Lens Full HD Smart Wi-Fi Camera with Colour Night Vision",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 7634.9501953125,
+      "width": 154.83750915527344,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ApnaCam Full HD 2MP Mini PTZ Smart WiFi Camera with 355 deg View, Color Night Vi",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 7634.9501953125,
+      "width": 152.78750610351562,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CP Plus CP-VTA-T2324-U Biometric Fingerprint Time & Attendance Machine ...",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 7634.9501953125,
+      "width": 153.53750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hikvision DS-KIS603-P IP Based Video Door Phone with 7 inch 1080p, Colourful TFT",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 7634.9501953125,
+      "width": 144.25,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hikvision 2.4 inch Value Series Face Recognition Terminal Access Control, DS-K1T",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 7634.9501953125,
+      "width": 154.0625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CP Plus 8 Channel 1080N Digital Video Recorder, CP-UVR-0801E1-IC2 ...",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 7634.9501953125,
+      "width": 137.5,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CP Plus 8 Channel Full HD Digital Video Recorder, CP-UVR-0801F1-IC2 ...",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 7634.9501953125,
+      "width": 144.4875030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dahua 8 Channel 1080P 5-in-1 Digital Video Recorder, DH-XVR4B08-I ...",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 7634.9501953125,
+      "width": 155.625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Godrej NX Pro Plus Digi+Bio 70 Litre Home Locker with Inbuilt I-buzz Alarm, Auto",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 7634.9501953125,
+      "width": 154.0749969482422,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Godrej NX Pro Plus Digi+Bio 15 Litre Home Locker with Inbuilt I-buzz Alarm, Auto",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 7634.9501953125,
+      "width": 154.0749969482422,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Godrej NX Pro 15L Safe Ebony Key Lock Home Locker",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 7634.9501953125,
+      "width": 150.46250915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AUSHA Real Time Magnetic Mini GPS Tracker, GF07",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 7634.9501953125,
+      "width": 133.8249969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tracky White Smart Location Tracker for Locate Bags, Pets, Wallets, Keys & Alzhe",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 7634.9501953125,
+      "width": 145.5124969482422,
+      "height": 153.1999969482422,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Onelap India Micro Plus GPS Tracking Device with 3 Years App Subscription & Sim ",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 7634.9501953125,
+      "width": 151.7375030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ahuja 15W Horn Speaker, SUH-15",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 7634.9501953125,
+      "width": 108.95000457763672,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MME 220V 200m Plastic Black Industrial Police Tone Siren",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 7634.9501953125,
+      "width": 153.28750610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AUSHA 90dB ABS Smart Smoke Detector with Wi-Fi & Bluetooth Connectivity, Mobile ",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 7634.9501953125,
+      "width": 156.41250610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Schneider Electric 3 Wire 110 deg Wall Mount PIR Occupancy Sensor, E84751MS3B_WE",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 7634.9501953125,
+      "width": 155.625,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eco Fire Mild Steel Fire Alarm Hooter",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 7634.9501953125,
+      "width": 145.4875030517578,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 7829.91259765625,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 7829.91259765625,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Aplus",
+      "tag": "A",
+      "x": 50,
+      "y": 7986.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Iffco",
+      "tag": "A",
+      "x": 145,
+      "y": 7986.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Sameer",
+      "tag": "A",
+      "x": 240,
+      "y": 7986.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Katyayani",
+      "tag": "A",
+      "x": 335,
+      "y": 7986.71240234375,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Milking Machines\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 8060.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Fertilizers\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 8060.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Egg Incubators\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 8060.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Insecticides & Pesticides\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 8060.33740234375,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Aplus 12 Litre Hand Operating Milking Machine, C12",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 8396.3505859375,
+      "width": 122.9749984741211,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aplus 15 Litre Hand Operating Milking Machine, C15",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 8396.3505859375,
+      "width": 122.9749984741211,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sameer 15 Litre Hand Operated Milking Machine, SM-15",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 8396.3505859375,
+      "width": 136.97500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sameer 12 Litre Hand Operated Milking Machine, SM-12",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 8396.3505859375,
+      "width": 136.97500610351562,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aplus 12 Litre Hand Operating Milking Machine, B12",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 8396.3505859375,
+      "width": 122.9749984741211,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iffco 1 Litre Seaweed Based Bio-Stimulant Sagarika Liquid for Organic Farming ..",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 8396.3505859375,
+      "width": 140.85000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iffco 5 Litre Seaweed Based Bio-Stimulant Sagarika Liquid for Organic Farming ..",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 8396.3505859375,
+      "width": 140.85000610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iffco 500ml Sagarika Natural Seaweed Extract & Humiffco Maximum Nourishment Thro",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 8396.3505859375,
+      "width": 154.8625030517578,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Katyayani 1kg Activated Humic & Fulvic Acid 98 Organic Fertilizer for Plants & H",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 8396.3505859375,
+      "width": 149.375,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iffco 500ml Nano Urea Plus & Nano DAP Liquid Fertilizer Combo ...",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 8396.3505859375,
+      "width": 154.6125030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "IFFCO TRIGUN 1000ml 3-in-1 Liquid Soil Borne Pathogen Management Bio Pesticide .",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 8396.3505859375,
+      "width": 151.75,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Alldrin TC 1 Litre Chlorpyriphos 20% EC Insecticides",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 8396.3505859375,
+      "width": 155.625,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "IFFCO NEERANJ 1kg Integrated Pest Management Bio Pesticide Gel ...",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 8396.3505859375,
+      "width": 137.6999969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Katyayani 1 Litre Paraquat Dichloride 24% SL Clearance Contact Herbicide, k-1294",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 8396.3505859375,
+      "width": 154.875,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shurbans 1 Litre Malathion 50% EC Malaonce Insecticide",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 8396.3505859375,
+      "width": 130.7375030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Only For Organic 50g Cauliflower Seeds",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 8396.3505859375,
+      "width": 133.83750915527344,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ugaoo 1.9g Flower Helichrysum Seeds, NUFSO045",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 8396.3505859375,
+      "width": 138.5,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ugaoo 1.5g Flower Zinnia Double Mix Seeds, NUFSO091",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 8396.3505859375,
+      "width": 126.05000305175781,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "IFFCO Urban Gardens 600mg Red Capsicum Vegetable Seeds",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 8396.3505859375,
+      "width": 152.5124969482422,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ugaoo 5g Vegetable Yellow Capsicum Seeds, NUVSO371",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 8396.3505859375,
+      "width": 153.5625,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 1168.625,
+      "y": 8591.3125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1168.625,
+      "y": 8591.3125,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Prestige",
+      "tag": "A",
+      "x": 50,
+      "y": 8748.1123046875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Fastgear",
+      "tag": "A",
+      "x": 145,
+      "y": 8748.1123046875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Senkiddpro",
+      "tag": "A",
+      "x": 240,
+      "y": 8748.1123046875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "IRIS",
+      "tag": "A",
+      "x": 335,
+      "y": 8748.1123046875,
+      "width": 80,
+      "height": 101.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Kitchen Sinks\nExplore Now",
+      "tag": "A",
+      "x": 468.5,
+      "y": 8821.7373046875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Bathroom Taps\nExplore Now",
+      "tag": "A",
+      "x": 670.125,
+      "y": 8821.7373046875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Angle Valve\nExplore Now",
+      "tag": "A",
+      "x": 871.75,
+      "y": 8821.7373046875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Wall Mixers\nExplore Now",
+      "tag": "A",
+      "x": 1073.375,
+      "y": 8821.7373046875,
+      "width": 161.625,
+      "height": 69.5999984741211,
+      "visible": true
+    },
+    {
+      "text": "Fastgear Marc Stainless Steel Silver Chrome Finish 2 Way Bib Tap, FG1200 ...",
+      "tag": "A",
+      "x": 51.79999923706055,
+      "y": 9157.75,
+      "width": 150.9499969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fastgear Triangle Stainless Steel Angle Wall Valve (Pack of 20) by Moglix ...",
+      "tag": "A",
+      "x": 256.8000183105469,
+      "y": 9157.75,
+      "width": 145.53750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Prestige Stainless Steel 304 Single Bowl Kitchen Sink 24x18x10 inch Chrome Handm",
+      "tag": "A",
+      "x": 461.8000183105469,
+      "y": 9157.75,
+      "width": 152.52500915527344,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Prestige 24x18x10 inch Stainless Steel 304 Silver Single Bowl Kitchen Sink ...",
+      "tag": "A",
+      "x": 666.7999877929688,
+      "y": 9157.75,
+      "width": 145.53750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fastgear 4x4 inch Stainless Steel Chrome Finish Overhead Shower with 12 inch Arm",
+      "tag": "A",
+      "x": 871.7999877929688,
+      "y": 9157.75,
+      "width": 154.08750915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fastgear 6X6 inch Stainless Steel Chrome Finish Overhead Shower with 15 inch Arm",
+      "tag": "A",
+      "x": 1076.800048828125,
+      "y": 9157.75,
+      "width": 154.08750915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fastgear 3 Pcs Stainless Steel Chrome Finish Angle Wall, Connection Pipe & Swan ",
+      "tag": "A",
+      "x": 1281.800048828125,
+      "y": 9157.75,
+      "width": 154.8625030517578,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Prestige Waterfall 3 Pcs Brass Chrome Finish 3 in 1 Wall Mixer, Head Shower & Ha",
+      "tag": "A",
+      "x": 1486.800048828125,
+      "y": 9157.75,
+      "width": 156.3874969482422,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Marcoware Stainless Steel 304 Satin Finish Silver Jet Spray Health Faucet Set ..",
+      "tag": "A",
+      "x": 1691.800048828125,
+      "y": 9157.75,
+      "width": 150.1999969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Elegant Casa 2156 42x34cm Polypropylene Soft-Closing D-Shape Ivory Commode Seat ",
+      "tag": "A",
+      "x": 1896.800048828125,
+      "y": 9157.75,
+      "width": 155.6374969482422,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sanjay Chilly 5x5 inch Stainless Steel 304 Silver Drain Jali, VG-S-125 ...",
+      "tag": "A",
+      "x": 2101.800048828125,
+      "y": 9157.75,
+      "width": 143.9250030517578,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Implemental 4x8 inch Stainless Steel Silver Kitchen Water Drain Grating ...",
+      "tag": "A",
+      "x": 2306.800048828125,
+      "y": 9157.75,
+      "width": 145.5124969482422,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sintex Loft 100L Water Tank, IWS 10-01",
+      "tag": "A",
+      "x": 2511.800048828125,
+      "y": 9157.75,
+      "width": 141.375,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sintex Loft 200L Water Tank, IWS 20-01",
+      "tag": "A",
+      "x": 2716.800048828125,
+      "y": 9157.75,
+      "width": 141.375,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fastgear 4 Pcs Stainless Steel Chrome Finish 2 Way Bib Tap, Health Faucet, Conne",
+      "tag": "A",
+      "x": 2921.800048828125,
+      "y": 9157.75,
+      "width": 154.85000610351562,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kamal Agrotech 3 inch PVC Black Non Return Valve with Flange for Agriculture & I",
+      "tag": "A",
+      "x": 3126.800048828125,
+      "y": 9157.75,
+      "width": 156.40000915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "RN 25mm Forged Brass 3 Way Nickel Plated Ball Valve, RNBV172025 ...",
+      "tag": "A",
+      "x": 3331.800048828125,
+      "y": 9157.75,
+      "width": 151.9875030517578,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Senkiddpro PVC White Centerset Installation Full Threaded Waste Coupling (Pack o",
+      "tag": "A",
+      "x": 3536.800048828125,
+      "y": 9157.75,
+      "width": 145.52500915527344,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fastgear Stainless Steel Chrome Finish Basin Jali",
+      "tag": "A",
+      "x": 3741.800048828125,
+      "y": 9157.75,
+      "width": 154.83750915527344,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Elegant Casa 3/4 inch Inlet Water Tank Water Filter",
+      "tag": "A",
+      "x": 3946.800048828125,
+      "y": 9157.75,
+      "width": 155.08750915527344,
+      "height": 55.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Elegant Casa Universal Replaceable Multi-Stage Water Tap Filter for Bathroom & K",
+      "tag": "A",
+      "x": 4151.80029296875,
+      "y": 9157.75,
+      "width": 152.53750610351562,
+      "height": 74.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "BUTTON",
+      "x": 1153.625,
+      "y": 9367.712890625,
+      "width": 96.375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Fujiyama Vikranta Pro 950 700VA 12V Modified Sine Wave rMPPT Solar Inverter for ",
+      "tag": "A",
+      "x": 46.79999923706055,
+      "y": 9620.75,
+      "width": 153.08750915527344,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama Vikranta Pro 1500 1100VA 12V Modified Sine Wave rMPPT Solar Inverter fo",
+      "tag": "A",
+      "x": 251.8000030517578,
+      "y": 9620.75,
+      "width": 151.46250915527344,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama Tejas 4000 3750VA 48V Pure Sine Wave Solar PCU for Home, Office & Shop ",
+      "tag": "A",
+      "x": 456.8000183105469,
+      "y": 9620.75,
+      "width": 156.1875,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama 40A 12/24VDC rMPPT Solar Management Unit with 3 Years Warranty, SOL1224",
+      "tag": "A",
+      "x": 661.7999877929688,
+      "y": 9620.75,
+      "width": 153.3125,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama Tejas 3300 3000VA 24V Pure Sine Wave Solar PCU for Home, Office & Shop ",
+      "tag": "A",
+      "x": 866.7999877929688,
+      "y": 9620.75,
+      "width": 156.1875,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama Vikranta Pro 1100 900VA 12V Modified Sine Wave rMPPT Solar Inverter for",
+      "tag": "A",
+      "x": 1071.800048828125,
+      "y": 9620.75,
+      "width": 151.46250915527344,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama Dhruva 15kVA 240V Pure Sine Wave Solar PCU for Home, Office & Shop with",
+      "tag": "A",
+      "x": 1276.800048828125,
+      "y": 9620.75,
+      "width": 151.22500610351562,
+      "height": 114,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama 50A 12/24VDC PWM Solar Management Unit with 3 Years Warranty, SOL1224-5",
+      "tag": "A",
+      "x": 1481.800048828125,
+      "y": 9620.75,
+      "width": 156.40000915527344,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fujiyama Tejas 5500 5000VA 48V Pure Sine Wave Solar PCU for Home, Office & Shop ",
+      "tag": "A",
+      "x": 1686.800048828125,
+      "y": 9620.75,
+      "width": 156.1875,
+      "height": 94.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LG 15kg Middle Black Front Loading Fully Automatic Washing Machine with AI Direc",
+      "tag": "A",
+      "x": 1891.800048828125,
+      "y": 9620.75,
+      "width": 148.60000610351562,
+      "height": 133.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "refrigerators",
+      "tag": "A",
+      "x": 764.6500244140625,
+      "y": 10049.3125,
+      "width": 64.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "fans",
+      "tag": "A",
+      "x": 945.4000244140625,
+      "y": 10049.3125,
+      "width": 22.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "cooktops",
+      "tag": "A",
+      "x": 161.7375030517578,
+      "y": 10067.3125,
+      "width": 48.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "drills",
+      "tag": "A",
+      "x": 786.0375366210938,
+      "y": 10105.3125,
+      "width": 24.67500114440918,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "grinders",
+      "tag": "A",
+      "x": 817.3875122070312,
+      "y": 10105.3125,
+      "width": 43.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "welding machines",
+      "tag": "A",
+      "x": 309.1625061035156,
+      "y": 10123.3125,
+      "width": 95.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "vices",
+      "tag": "A",
+      "x": 458.57501220703125,
+      "y": 10123.3125,
+      "width": 27.350000381469727,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "generators",
+      "tag": "A",
+      "x": 1139.6375732421875,
+      "y": 10161.3125,
+      "width": 57.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "solar inverters",
+      "tag": "A",
+      "x": 119.0250015258789,
+      "y": 10179.3125,
+      "width": 75.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "safety helmets",
+      "tag": "A",
+      "x": 888.125,
+      "y": 10217.3125,
+      "width": 77.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "traffic safety",
+      "tag": "A",
+      "x": 1106.2249755859375,
+      "y": 10217.3125,
+      "width": 63.587501525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "office chairs",
+      "tag": "A",
+      "x": 1061.3499755859375,
+      "y": 10255.3125,
+      "width": 63.8125,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "barcode scanners",
+      "tag": "A",
+      "x": 103.0374984741211,
+      "y": 10273.3125,
+      "width": 95.4000015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "bike helmets",
+      "tag": "A",
+      "x": 145.03750610351562,
+      "y": 10329.3125,
+      "width": 67.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "vehicle horns",
+      "tag": "A",
+      "x": 271.76251220703125,
+      "y": 10329.3125,
+      "width": 70.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "brush cutters",
+      "tag": "A",
+      "x": 559.2125244140625,
+      "y": 10385.3125,
+      "width": 69.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "grass trimmers",
+      "tag": "A",
+      "x": 635.2625122070312,
+      "y": 10385.3125,
+      "width": 79.3375015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "smartphones",
+      "tag": "A",
+      "x": 422.9125061035156,
+      "y": 10423.3125,
+      "width": 69.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "pumps and motors",
+      "tag": "A",
+      "x": 498.9624938964844,
+      "y": 10423.3125,
+      "width": 99.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "plumbing and bathroom fittings",
+      "tag": "A",
+      "x": 761.7625122070312,
+      "y": 10423.3125,
+      "width": 164.10000610351562,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Play Store",
+      "tag": "A",
+      "x": 617.0375366210938,
+      "y": 11224.5126953125,
+      "width": 55.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "App Store",
+      "tag": "A",
+      "x": 698.4375,
+      "y": 11224.5126953125,
+      "width": 53.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Safety Jackets",
+      "tag": "A",
+      "x": 30,
+      "y": 11417.3125,
+      "width": 78.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Respiratory Masks",
+      "tag": "A",
+      "x": 124.8375015258789,
+      "y": 11417.3125,
+      "width": 99.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hearing Protection",
+      "tag": "A",
+      "x": 241,
+      "y": 11417.3125,
+      "width": 99.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "3M Safety Goggles",
+      "tag": "A",
+      "x": 357.1875,
+      "y": 11417.3125,
+      "width": 102.0625,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Karam Safety Helmets",
+      "tag": "A",
+      "x": 30,
+      "y": 11417.3125,
+      "width": 518.75,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Liberty Safety Shoes",
+      "tag": "A",
+      "x": 90.8125,
+      "y": 11435.3125,
+      "width": 110.73750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Venus Safety Masks",
+      "tag": "A",
+      "x": 218.35000610351562,
+      "y": 11435.3125,
+      "width": 108.7249984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Makita Power Drills",
+      "tag": "A",
+      "x": 655,
+      "y": 11417.3125,
+      "width": 102.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Power Tool Kits",
+      "tag": "A",
+      "x": 774.4874877929688,
+      "y": 11417.3125,
+      "width": 82.48750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dewalt Angle Grinders",
+      "tag": "A",
+      "x": 873.7750244140625,
+      "y": 11417.3125,
+      "width": 119.4000015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cordless Power Tools",
+      "tag": "A",
+      "x": 1009.9750366210938,
+      "y": 11417.3125,
+      "width": 115.8375015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Stanley Power tools",
+      "tag": "A",
+      "x": 655,
+      "y": 11417.3125,
+      "width": 564.9874877929688,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bosch Power Tools",
+      "tag": "A",
+      "x": 697.1500244140625,
+      "y": 11435.3125,
+      "width": 101.8375015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LED Lights",
+      "tag": "A",
+      "x": 30,
+      "y": 11508.9130859375,
+      "width": 58.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LED Bulbs",
+      "tag": "A",
+      "x": 105.5,
+      "y": 11508.9130859375,
+      "width": 56.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Decorative Lights",
+      "tag": "A",
+      "x": 179,
+      "y": 11508.9130859375,
+      "width": 92.7249984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LED Flood Lights",
+      "tag": "A",
+      "x": 288.5249938964844,
+      "y": 11508.9130859375,
+      "width": 92.0625,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LED Batten Lights",
+      "tag": "A",
+      "x": 397.38751220703125,
+      "y": 11508.9130859375,
+      "width": 96.73750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LED Panel Lights",
+      "tag": "A",
+      "x": 30,
+      "y": 11508.9130859375,
+      "width": 538.2999877929688,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Crompton Lights",
+      "tag": "A",
+      "x": 78.82500457763672,
+      "y": 11526.9130859375,
+      "width": 88.05000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bajaj LED",
+      "tag": "A",
+      "x": 183.6750030517578,
+      "y": 11526.9130859375,
+      "width": 53.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Eveready LED Flashlights",
+      "tag": "A",
+      "x": 253.83750915527344,
+      "y": 11526.9130859375,
+      "width": 138.0749969482422,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Surya LED Bulbs",
+      "tag": "A",
+      "x": 408.7124938964844,
+      "y": 11526.9130859375,
+      "width": 91.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Polycab Wires",
+      "tag": "A",
+      "x": 655,
+      "y": 11508.9130859375,
+      "width": 76.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "GM Switches",
+      "tag": "A",
+      "x": 748.4874877929688,
+      "y": 11508.9130859375,
+      "width": 70.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Exide Batteries",
+      "tag": "A",
+      "x": 835.9750366210938,
+      "y": 11508.9130859375,
+      "width": 80.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Anchor Switches",
+      "tag": "A",
+      "x": 933.4874877929688,
+      "y": 11508.9130859375,
+      "width": 89.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Isolators",
+      "tag": "A",
+      "x": 1039.6624755859375,
+      "y": 11508.9130859375,
+      "width": 45.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "MCB Distribution Boards",
+      "tag": "A",
+      "x": 655,
+      "y": 11508.9130859375,
+      "width": 536.8500366210938,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Micro Drives",
+      "tag": "A",
+      "x": 709.8250122070312,
+      "y": 11526.9130859375,
+      "width": 66.67500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Laptop",
+      "tag": "A",
+      "x": 30,
+      "y": 11600.5126953125,
+      "width": 36.712501525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Toner Cartridges",
+      "tag": "A",
+      "x": 83.51250457763672,
+      "y": 11600.5126953125,
+      "width": 88.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shredders",
+      "tag": "A",
+      "x": 189.02500915527344,
+      "y": 11600.5126953125,
+      "width": 55.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lamination Machines",
+      "tag": "A",
+      "x": 261.20001220703125,
+      "y": 11600.5126953125,
+      "width": 113.4000015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Canon Printers",
+      "tag": "A",
+      "x": 391.3999938964844,
+      "y": 11600.5126953125,
+      "width": 80.05000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lenovo Laptops",
+      "tag": "A",
+      "x": 488.25,
+      "y": 11600.5126953125,
+      "width": 85.4124984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Casio Calculators",
+      "tag": "A",
+      "x": 30,
+      "y": 11600.5126953125,
+      "width": 591.1500244140625,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "JK Papers",
+      "tag": "A",
+      "x": 106.82500457763672,
+      "y": 11618.5126953125,
+      "width": 55.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Body Weighing Scales",
+      "tag": "A",
+      "x": 655,
+      "y": 11600.5126953125,
+      "width": 119.8499984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Braces, Splints & Supports",
+      "tag": "A",
+      "x": 791.6500244140625,
+      "y": 11600.5126953125,
+      "width": 142.7375030517578,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "First Aid & Wound Care",
+      "tag": "A",
+      "x": 951.1875,
+      "y": 11600.5126953125,
+      "width": 125.1624984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hot Water Bottles",
+      "tag": "A",
+      "x": 655,
+      "y": 11600.5126953125,
+      "width": 491.7250061035156,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Thermometers",
+      "tag": "A",
+      "x": 708.4874877929688,
+      "y": 11618.5126953125,
+      "width": 78.0250015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Stethoscopes",
+      "tag": "A",
+      "x": 803.3125,
+      "y": 11618.5126953125,
+      "width": 72.7249984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Waist & Abdomen Supports",
+      "tag": "A",
+      "x": 892.8375244140625,
+      "y": 11618.5126953125,
+      "width": 146.3000030517578,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Flamingo Medical Supplies",
+      "tag": "A",
+      "x": 1055.9375,
+      "y": 11618.5126953125,
+      "width": 143.41250610351562,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Oscilloscopes",
+      "tag": "A",
+      "x": 30,
+      "y": 11692.1123046875,
+      "width": 74.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pressure Gauges",
+      "tag": "A",
+      "x": 120.8375015258789,
+      "y": 11692.1123046875,
+      "width": 93.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Alcohol Breath Analyzers",
+      "tag": "A",
+      "x": 231.02500915527344,
+      "y": 11692.1123046875,
+      "width": 133.41250610351562,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Light Meters",
+      "tag": "A",
+      "x": 381.2375183105469,
+      "y": 11692.1123046875,
+      "width": 66.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "LCR Meters",
+      "tag": "A",
+      "x": 464.07501220703125,
+      "y": 11692.1123046875,
+      "width": 64.0250015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "IR Thermometers",
+      "tag": "A",
+      "x": 30,
+      "y": 11692.1123046875,
+      "width": 526.9000244140625,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Dial Indicators",
+      "tag": "A",
+      "x": 124.82500457763672,
+      "y": 11710.1123046875,
+      "width": 76.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Anemometers",
+      "tag": "A",
+      "x": 217.66250610351562,
+      "y": 11710.1123046875,
+      "width": 74.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Office Chairs",
+      "tag": "A",
+      "x": 655,
+      "y": 11692.1123046875,
+      "width": 69.13750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Office Décor",
+      "tag": "A",
+      "x": 740.9375,
+      "y": 11692.1123046875,
+      "width": 66.4749984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tables",
+      "tag": "A",
+      "x": 824.2125244140625,
+      "y": 11692.1123046875,
+      "width": 34.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Stools",
+      "tag": "A",
+      "x": 875.7000122070312,
+      "y": 11692.1123046875,
+      "width": 33.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cello Chairs",
+      "tag": "A",
+      "x": 925.8624877929688,
+      "y": 11692.1123046875,
+      "width": 65.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Geysers",
+      "tag": "A",
+      "x": 30,
+      "y": 11783.712890625,
+      "width": 44.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Induction Cooktops",
+      "tag": "A",
+      "x": 91.48750305175781,
+      "y": 11783.712890625,
+      "width": 102.73750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hand Blenders",
+      "tag": "A",
+      "x": 211.02500915527344,
+      "y": 11783.712890625,
+      "width": 79.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Electric Kettle",
+      "tag": "A",
+      "x": 307.2124938964844,
+      "y": 11783.712890625,
+      "width": 73.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mixer Grinders",
+      "tag": "A",
+      "x": 397.375,
+      "y": 11783.712890625,
+      "width": 78.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Microwave Ovens",
+      "tag": "A",
+      "x": 30,
+      "y": 11783.712890625,
+      "width": 520.2125244140625,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Water Purifiers",
+      "tag": "A",
+      "x": 81.48750305175781,
+      "y": 11801.712890625,
+      "width": 78.9124984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wall Fans",
+      "tag": "A",
+      "x": 177.1999969482422,
+      "y": 11801.712890625,
+      "width": 52.900001525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Chain saws",
+      "tag": "A",
+      "x": 655,
+      "y": 11783.712890625,
+      "width": 62.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Lawn Mowers",
+      "tag": "A",
+      "x": 733.8375244140625,
+      "y": 11783.712890625,
+      "width": 74.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Brush Cutters",
+      "tag": "A",
+      "x": 824.6749877929688,
+      "y": 11783.712890625,
+      "width": 73.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Earth Augers",
+      "tag": "A",
+      "x": 914.8375244140625,
+      "y": 11783.712890625,
+      "width": 69.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hedge Trimmers",
+      "tag": "A",
+      "x": 1001.0125122070312,
+      "y": 11783.712890625,
+      "width": 88.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sprayers",
+      "tag": "A",
+      "x": 1106.5,
+      "y": 11783.712890625,
+      "width": 48.025001525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pruning Secateur",
+      "tag": "A",
+      "x": 655,
+      "y": 11783.712890625,
+      "width": 557.6875,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pots & Planters",
+      "tag": "A",
+      "x": 719.8375244140625,
+      "y": 11801.712890625,
+      "width": 82.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hand Tool Kits",
+      "tag": "A",
+      "x": 30,
+      "y": 11875.3125,
+      "width": 77.1624984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pliers",
+      "tag": "A",
+      "x": 123.9625015258789,
+      "y": 11875.3125,
+      "width": 30.012500762939453,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wire Cutters",
+      "tag": "A",
+      "x": 170.77500915527344,
+      "y": 11875.3125,
+      "width": 66.67500305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Chisels",
+      "tag": "A",
+      "x": 254.25,
+      "y": 11875.3125,
+      "width": 39.35000228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hacksaw Blades",
+      "tag": "A",
+      "x": 310.3999938964844,
+      "y": 11875.3125,
+      "width": 88.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Socket Sets",
+      "tag": "A",
+      "x": 415.9125061035156,
+      "y": 11875.3125,
+      "width": 64.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Machine Vices",
+      "tag": "A",
+      "x": 30,
+      "y": 11875.3125,
+      "width": 512.1124877929688,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Taparia Hand Tools",
+      "tag": "A",
+      "x": 75.9375,
+      "y": 11893.3125,
+      "width": 102.51250457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mobile Phones",
+      "tag": "A",
+      "x": 655,
+      "y": 11875.3125,
+      "width": 79.38750457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Televisions",
+      "tag": "A",
+      "x": 751.1875,
+      "y": 11875.3125,
+      "width": 58.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Mobile Accessories",
+      "tag": "A",
+      "x": 826.6875,
+      "y": 11875.3125,
+      "width": 102.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Power Banks",
+      "tag": "A",
+      "x": 946.2000122070312,
+      "y": 11875.3125,
+      "width": 70.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tablets",
+      "tag": "A",
+      "x": 1033.7000732421875,
+      "y": 11875.3125,
+      "width": 38.025001525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Intex",
+      "tag": "A",
+      "x": 1088.5250244140625,
+      "y": 11875.3125,
+      "width": 26.024999618530273,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sandisk",
+      "tag": "A",
+      "x": 1131.3499755859375,
+      "y": 11875.3125,
+      "width": 42.70000076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Logitech",
+      "tag": "A",
+      "x": 1190.8499755859375,
+      "y": 11875.3125,
+      "width": 45.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Faucets",
+      "tag": "A",
+      "x": 30,
+      "y": 11966.9130859375,
+      "width": 42.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pipes & Fittings",
+      "tag": "A",
+      "x": 89.48750305175781,
+      "y": 11966.9130859375,
+      "width": 83.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Health Faucets",
+      "tag": "A",
+      "x": 189.66250610351562,
+      "y": 11966.9130859375,
+      "width": 80.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wash Basins",
+      "tag": "A",
+      "x": 287.1750183105469,
+      "y": 11966.9130859375,
+      "width": 69.5875015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kitchen Sinks",
+      "tag": "A",
+      "x": 373.5625,
+      "y": 11966.9130859375,
+      "width": 72.7125015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Floor Drains",
+      "tag": "A",
+      "x": 30,
+      "y": 11966.9130859375,
+      "width": 460.4250183105469,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Diverters",
+      "tag": "A",
+      "x": 81.48750305175781,
+      "y": 11984.9130859375,
+      "width": 48.01250076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Towel Racks",
+      "tag": "A",
+      "x": 146.3000030517578,
+      "y": 11984.9130859375,
+      "width": 67.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Aldrops",
+      "tag": "A",
+      "x": 655,
+      "y": 11966.9130859375,
+      "width": 40.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Locks",
+      "tag": "A",
+      "x": 712.4874877929688,
+      "y": 11966.9130859375,
+      "width": 31.350000381469727,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Door Stoppers",
+      "tag": "A",
+      "x": 760.6375122070312,
+      "y": 11966.9130859375,
+      "width": 77.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Door Handles",
+      "tag": "A",
+      "x": 854.8125,
+      "y": 11966.9130859375,
+      "width": 73.375,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pad Locks",
+      "tag": "A",
+      "x": 944.9874877929688,
+      "y": 11966.9130859375,
+      "width": 56.03750228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Plaza Door Locks",
+      "tag": "A",
+      "x": 1017.8250122070312,
+      "y": 11966.9130859375,
+      "width": 94.05000305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Godrej Locks",
+      "tag": "A",
+      "x": 1128.675048828125,
+      "y": 11966.9130859375,
+      "width": 70.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Link Locks",
+      "tag": "A",
+      "x": 655,
+      "y": 11966.9130859375,
+      "width": 583.2000122070312,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Car Washers",
+      "tag": "A",
+      "x": 30,
+      "y": 12058.5126953125,
+      "width": 69.57500457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Helmets",
+      "tag": "A",
+      "x": 116.375,
+      "y": 12058.5126953125,
+      "width": 44.01250076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bike Horns",
+      "tag": "A",
+      "x": 177.1875,
+      "y": 12058.5126953125,
+      "width": 58.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shock Absorber",
+      "tag": "A",
+      "x": 252.6750030517578,
+      "y": 12058.5126953125,
+      "width": 84.7249984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tail Lights",
+      "tag": "A",
+      "x": 354.20001220703125,
+      "y": 12058.5126953125,
+      "width": 53.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Car Accessories",
+      "tag": "A",
+      "x": 424.3625183105469,
+      "y": 12058.5126953125,
+      "width": 86.70000457763672,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Car Chargers",
+      "tag": "A",
+      "x": 30,
+      "y": 12058.5126953125,
+      "width": 517.2000122070312,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hydraulic Jacks",
+      "tag": "A",
+      "x": 96.1624984741211,
+      "y": 12076.5126953125,
+      "width": 84.0250015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Safes",
+      "tag": "A",
+      "x": 655,
+      "y": 12058.5126953125,
+      "width": 30.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "CCTV Cameras and Accessories",
+      "tag": "A",
+      "x": 702.4874877929688,
+      "y": 12058.5126953125,
+      "width": 175.40000915527344,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Security Alarms",
+      "tag": "A",
+      "x": 894.6875,
+      "y": 12058.5126953125,
+      "width": 83.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "GPS Trackers",
+      "tag": "A",
+      "x": 994.8500366210938,
+      "y": 12058.5126953125,
+      "width": 74.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hooters & Buzzers",
+      "tag": "A",
+      "x": 655,
+      "y": 12058.5126953125,
+      "width": 484.70001220703125,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sensors",
+      "tag": "A",
+      "x": 715.1500244140625,
+      "y": 12076.5126953125,
+      "width": 44.025001525878906,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "DVR",
+      "tag": "A",
+      "x": 775.9750366210938,
+      "y": 12076.5126953125,
+      "width": 25.337499618530273,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Access Control System",
+      "tag": "A",
+      "x": 818.1124877929688,
+      "y": 12076.5126953125,
+      "width": 124.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cutlery",
+      "tag": "A",
+      "x": 30,
+      "y": 12150.1123046875,
+      "width": 38.01250076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cups & Mugs",
+      "tag": "A",
+      "x": 84.8125,
+      "y": 12150.1123046875,
+      "width": 72.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pressure Cookers",
+      "tag": "A",
+      "x": 173.65000915527344,
+      "y": 12150.1123046875,
+      "width": 96.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bottles & Flasks",
+      "tag": "A",
+      "x": 286.4875183105469,
+      "y": 12150.1123046875,
+      "width": 86.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Milton",
+      "tag": "A",
+      "x": 389.32501220703125,
+      "y": 12150.1123046875,
+      "width": 32.01250076293945,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SM",
+      "tag": "A",
+      "x": 438.13751220703125,
+      "y": 12150.1123046875,
+      "width": 18,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wonderchef",
+      "tag": "A",
+      "x": 472.9375,
+      "y": 12150.1123046875,
+      "width": 64.48750305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Control Motor Starters",
+      "tag": "A",
+      "x": 655,
+      "y": 12150.1123046875,
+      "width": 118.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Booster Pumps",
+      "tag": "A",
+      "x": 789.8375244140625,
+      "y": 12150.1123046875,
+      "width": 82.0374984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shallow Well Pumps",
+      "tag": "A",
+      "x": 888.6749877929688,
+      "y": 12150.1123046875,
+      "width": 109.1624984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Gear Pumps",
+      "tag": "A",
+      "x": 1014.6375122070312,
+      "y": 12150.1123046875,
+      "width": 67.36250305175781,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kirloskar",
+      "tag": "A",
+      "x": 1098.800048828125,
+      "y": 12150.1123046875,
+      "width": 46.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sewage Pumps",
+      "tag": "A",
+      "x": 655,
+      "y": 12150.1123046875,
+      "width": 550.6625366210938,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "CRI Pumps",
+      "tag": "A",
+      "x": 709.1500244140625,
+      "y": 12168.1123046875,
+      "width": 61.35000228881836,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "+91 9999049135",
+      "tag": "A",
+      "x": 1030,
+      "y": 12361.712890625,
+      "width": 235,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 30,
+      "y": 12506.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 30,
+      "y": 12532.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 30,
+      "y": 12558.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Testimonials",
+      "tag": "A",
+      "x": 30,
+      "y": 12584.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 30,
+      "y": 12610.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Articles",
+      "tag": "A",
+      "x": 30,
+      "y": 12636.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 280,
+      "y": 12506.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Track My Order",
+      "tag": "A",
+      "x": 280,
+      "y": 12532.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Buying Guide",
+      "tag": "A",
+      "x": 280,
+      "y": 12558.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Order Tracking",
+      "tag": "A",
+      "x": 530,
+      "y": 12506.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Cancellation and Return",
+      "tag": "A",
+      "x": 530,
+      "y": 12532.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Refund",
+      "tag": "A",
+      "x": 530,
+      "y": 12558.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Payment Option",
+      "tag": "A",
+      "x": 530,
+      "y": 12584.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Popular Searches",
+      "tag": "A",
+      "x": 780,
+      "y": 12506.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Best Deals",
+      "tag": "A",
+      "x": 780,
+      "y": 12532.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Online Assist",
+      "tag": "A",
+      "x": 780,
+      "y": 12558.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Industry Store",
+      "tag": "A",
+      "x": 780,
+      "y": 12584.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Top Buying Requirement",
+      "tag": "A",
+      "x": 780,
+      "y": 12610.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Bulk Enquiry",
+      "tag": "A",
+      "x": 1030,
+      "y": 12506.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Moglix Business",
+      "tag": "A",
+      "x": 1030,
+      "y": 12532.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Supplier Central",
+      "tag": "A",
+      "x": 1030,
+      "y": 12558.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Credlix",
+      "tag": "A",
+      "x": 1030,
+      "y": 12584.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "DigiMRO",
+      "tag": "A",
+      "x": 1030,
+      "y": 12610.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Zoglix",
+      "tag": "A",
+      "x": 1030,
+      "y": 12636.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "TenderShark",
+      "tag": "A",
+      "x": 1030,
+      "y": 12662.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Ad Sales Solution",
+      "tag": "A",
+      "x": 1030,
+      "y": 12688.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Cognilix",
+      "tag": "A",
+      "x": 1030,
+      "y": 12714.3125,
+      "width": 220,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 30,
+      "y": 12780.3125,
+      "width": 137,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 167,
+      "y": 12780.3125,
+      "width": 123,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "care@moglix.com",
+      "tag": "A",
+      "x": 446.6750183105469,
+      "y": 12780.3125,
+      "width": 386.6625061035156,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1008,
+      "y": 12782.5126953125,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1050,
+      "y": 12782.5126953125,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1092,
+      "y": 12782.5126953125,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1134,
+      "y": 12782.5126953125,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1176,
+      "y": 12782.5126953125,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1218,
+      "y": 12782.5126953125,
+      "width": 32,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 30,
+      "y": 12878.9130859375,
+      "width": 74.0250015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Copyright",
+      "tag": "A",
+      "x": 110.48750305175781,
+      "y": 12878.9130859375,
+      "width": 51.36249923706055,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 171.6374969482422,
+      "y": 12878.9130859375,
+      "width": 78.0250015258789,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Compliance",
+      "tag": "A",
+      "x": 256.125,
+      "y": 12878.9130859375,
+      "width": 63.375,
+      "height": 13.600000381469727,
+      "visible": true
+    }
+  ]
+}

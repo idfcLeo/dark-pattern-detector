@@ -1,0 +1,36 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.firstcry.com/m/login?URL=https://www.firstcry.com/",
+  "timestamp": "20260810_113742",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Register Here",
+      "tag": "A",
+      "x": 650.9874877929688,
+      "y": 530.6000366210938,
+      "width": 84.7125015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 710.7875366210938,
+      "y": 689.2125244140625,
+      "width": 72.61250305175781,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 612.6375122070312,
+      "y": 707.2125244140625,
+      "width": 78.70000457763672,
+      "height": 15.199999809265137,
+      "visible": true
+    }
+  ]
+}

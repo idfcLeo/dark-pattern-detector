@@ -1,0 +1,1026 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.thesouledstore.com/cart",
+  "timestamp": "20260812_210702",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 100.48750305175781,
+      "y": 17.600000381469727,
+      "width": 39.5,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 174.2375030517578,
+      "y": 17.600000381469727,
+      "width": 69.45000457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SNEAKERS",
+      "tag": "A",
+      "x": 268.6875,
+      "y": 17.600000381469727,
+      "width": 93.1875,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 587.4874877929688,
+      "y": 4.5,
+      "width": 85,
+      "height": 65,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1049.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1099.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Saved Address",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TSS Money",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TSS Points",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1149.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 1199.9749755859375,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 125.80000305175781,
+      "y": 351.3999938964844,
+      "width": 154.1750030517578,
+      "height": 205.2375030517578,
+      "visible": true
+    },
+    {
+      "text": "Cotton Linen: Sky Blue",
+      "tag": "A",
+      "x": 299.9750061035156,
+      "y": 352.20001220703125,
+      "width": 138.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "REMOVE",
+      "tag": "BUTTON",
+      "x": 507.4250183105469,
+      "y": 569.4375,
+      "width": 113.8125,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "MOVE TO WISHLIST",
+      "tag": "BUTTON",
+      "x": 629.2374877929688,
+      "y": 569.4375,
+      "width": 173.28750610351562,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 100.80000305175781,
+      "y": 633.6375122070312,
+      "width": 160.4250030517578,
+      "height": 107,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 478.5500183105469,
+      "y": 701.3375244140625,
+      "width": 87.5625,
+      "height": 12,
+      "visible": true
+    },
+    {
+      "text": "REMOVE",
+      "tag": "BUTTON",
+      "x": 680.4874877929688,
+      "y": 820.9375,
+      "width": 112.01250457763672,
+      "height": 35.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "YOU MAY ALSO LIKE",
+      "tag": "BUTTON",
+      "x": 100.80000305175781,
+      "y": 974.2374877929688,
+      "width": 701.7250366210938,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Cosmic Trilogy: Men's Perfume Gift Set\n\n₹ 1099.00\n\nMen Perfumes",
+      "tag": "A",
+      "x": 103.80000305175781,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 103.80000305175781,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Batman: Rugged Logo\n\n₹ 999.00\n\nCaps",
+      "tag": "A",
+      "x": 353.8000183105469,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 353.8000183105469,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Harry Potter's Wand\n\n₹ 1499.00\n\nCollectibles",
+      "tag": "A",
+      "x": 603.7999877929688,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 603.7999877929688,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Morning Berry: Sweet Bloom\n\n₹ 1099.00\n\nWomen Perfumes",
+      "tag": "A",
+      "x": 853.7999877929688,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 853.7999877929688,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Collectibles: Spider-Man Mask\n\n₹ 499.00\n\nCollectibles",
+      "tag": "A",
+      "x": 1103.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 1103.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Spider-Man: Web Slinger\n\n₹ 1599.00\n\nMen Perfumes",
+      "tag": "A",
+      "x": 1353.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 1353.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Harry Potter: Gryffindor\n\n₹ 1699.00\n\nUmbrellas",
+      "tag": "A",
+      "x": 1603.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 1603.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Pokemon Bag Charm: Pikachu\n\n₹ 499.00\n\nCollectibles",
+      "tag": "A",
+      "x": 1853.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 1853.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ben 10: Dark Mandarin\n\n₹ 1499.00\n\nMen Perfumes",
+      "tag": "A",
+      "x": 2103.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 2103.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Harry Potter: Gryffindor\n\n₹ 1199.00\n\nCollectibles",
+      "tag": "A",
+      "x": 2353.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 2353.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hello Kitty: Kawaii Mischief\n\n₹ 999.00\n\nCaps",
+      "tag": "A",
+      "x": 2603.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 2603.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tropical Rouge: Women's Perfume Gift Set\n\n₹ 899.00\n\nWomen Perfumes",
+      "tag": "A",
+      "x": 2853.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 2853.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Spider-Man: Icon Luggage Tag\n\n₹ 399.00\n\nCollectibles",
+      "tag": "A",
+      "x": 3103.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 3103.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Batman: Shadow & Mist\n\n₹ 1199.00\n\nMen Perfumes",
+      "tag": "A",
+      "x": 3353.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 3353.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Naruto: Akatsuki Fridge Magnet\n\n₹ 399.00\n\nCollectibles",
+      "tag": "A",
+      "x": 3603.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 3603.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Stranger Things: Upside Down\n\n₹ 299.00\n\nSocks",
+      "tag": "A",
+      "x": 3853.800048828125,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 3853.800048828125,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Evil Twin: Floral Chaos\n\n₹ 1099.00\n\nWomen Perfumes",
+      "tag": "A",
+      "x": 4103.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 4103.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Elder Wand\n\n₹ 1299.00\n\nCollectibles",
+      "tag": "A",
+      "x": 4353.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 4353.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Coastal Luxe: Sea & Cedar\n\n₹ 1099.00\n\nMen Perfumes",
+      "tag": "A",
+      "x": 4603.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 4603.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ben 10: Omnitrix\n\n₹ 999.00\n\nCaps",
+      "tag": "A",
+      "x": 4853.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 4853.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Collectibles: Steel Batman\n\n₹ 599.00\n\nCollectibles",
+      "tag": "A",
+      "x": 5103.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 5103.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "House Of The Dragon: Fire & Blood\n\n₹ 1499.00\n\nMen Perfumes",
+      "tag": "A",
+      "x": 5353.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 5353.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Harry Potter: Hedwig Luggage Tag\n\n₹ 399.00\n\nCollectibles",
+      "tag": "A",
+      "x": 5603.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 5603.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Collectibles: Spider-Man\n\n₹ 399.00\n\nCollectibles",
+      "tag": "A",
+      "x": 5853.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 5853.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Minions: Holiday\n\n₹ 999.00\n\nCaps",
+      "tag": "A",
+      "x": 6103.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 6103.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Souled Socks: Baseball Teddy\n\n₹ 299.00\n\nSocks",
+      "tag": "A",
+      "x": 6353.80029296875,
+      "y": 1035.0374755859375,
+      "width": 220,
+      "height": 237.60000610351562,
+      "visible": true
+    },
+    {
+      "text": "ADD NOW",
+      "tag": "BUTTON",
+      "x": 6353.80029296875,
+      "y": 1276.6375732421875,
+      "width": 221.60000610351562,
+      "height": 26.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Apply Coupon",
+      "tag": "A",
+      "x": 879.125,
+      "y": 155.10000610351562,
+      "width": 300.0625,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "APPLY",
+      "tag": "BUTTON",
+      "x": 1053.737548828125,
+      "y": 198.5,
+      "width": 115.4375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Gift Voucher",
+      "tag": "A",
+      "x": 879.125,
+      "y": 198.3000030517578,
+      "width": 300.0625,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "APPLY",
+      "tag": "BUTTON",
+      "x": 1053.737548828125,
+      "y": 243,
+      "width": 115.4375,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "TSS Money / TSS Points",
+      "tag": "A",
+      "x": 879.125,
+      "y": 241.5,
+      "width": 300.0625,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "PLACE ORDER",
+      "tag": "BUTTON",
+      "x": 838.3250122070312,
+      "y": 527.2000122070312,
+      "width": 356.6625061035156,
+      "height": 50.5,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 85,
+      "y": 1007.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 85,
+      "y": 1040.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Returns & Refunds",
+      "tag": "A",
+      "x": 85,
+      "y": 1073.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 85,
+      "y": 1106.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 85,
+      "y": 1139.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 367.5,
+      "y": 1007.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Investor Relation",
+      "tag": "A",
+      "x": 367.5,
+      "y": 1040.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 367.5,
+      "y": 1073.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 367.5,
+      "y": 1106.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Community Initiatives",
+      "tag": "A",
+      "x": 367.5,
+      "y": 1139.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "T&C",
+      "tag": "A",
+      "x": 650,
+      "y": 1007.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 650,
+      "y": 1040.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 650,
+      "y": 1073.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Get Notified",
+      "tag": "A",
+      "x": 650,
+      "y": 1106.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 650,
+      "y": 1139.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1007.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1007.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1040.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1040.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1073.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1073.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1106.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 932.5,
+      "y": 1106.3375244140625,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "View More",
+      "tag": "BUTTON",
+      "x": 932.5,
+      "y": 1139.3375244140625,
+      "width": 68.1500015258789,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 499.8625183105469,
+      "y": 1278.3375244140625,
+      "width": 126,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 641.8624877929688,
+      "y": 1278.3375244140625,
+      "width": 126,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1032,
+      "y": 1354.3375244140625,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1074,
+      "y": 1354.3375244140625,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1116,
+      "y": 1354.3375244140625,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1158,
+      "y": 1354.3375244140625,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    }
+  ]
+}

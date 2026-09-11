@@ -1,0 +1,1665 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.techjockey.com/",
+  "timestamp": "20260812_205939",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2.4000000953674316,
+      "y": 19.80000114440918,
+      "width": 166.60000610351562,
+      "height": 27.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Compare",
+      "tag": "A",
+      "x": 416.1625061035156,
+      "y": 7.800000190734863,
+      "width": 81.01250457763672,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Ask Question",
+      "tag": "A",
+      "x": 497.1750183105469,
+      "y": 7.800000190734863,
+      "width": 107.375,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 604.5499877929688,
+      "y": 7.800000190734863,
+      "width": 52.28750228881836,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "BUTTON",
+      "x": 1080.8875732421875,
+      "y": 18,
+      "width": 93.5625,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "USA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UAE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1192.925048828125,
+      "y": 31,
+      "width": 18,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "My Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View all categories",
+      "tag": "A",
+      "x": 1078.3499755859375,
+      "y": 712,
+      "width": 169.0500030517578,
+      "height": 32.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "HR\nSoftware",
+      "tag": "A",
+      "x": -476.20001220703125,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Accounting\nSoftware",
+      "tag": "A",
+      "x": -229.40000915527344,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Video Editing\nSoftware",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Billing & Invoicing\nSoftware",
+      "tag": "A",
+      "x": 264.20001220703125,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Antivirus\nSoftware",
+      "tag": "A",
+      "x": 511,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "CRM\nSoftware",
+      "tag": "A",
+      "x": 757.7999877929688,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "School Management\nSoftware",
+      "tag": "A",
+      "x": 1004.6000366210938,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "POS\nSoftware",
+      "tag": "A",
+      "x": 1251.4000244140625,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Productivity\nSoftware",
+      "tag": "A",
+      "x": 1498.2000732421875,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Stock Market\nSoftware",
+      "tag": "A",
+      "x": 1745,
+      "y": 776.4000244140625,
+      "width": 232.8000030517578,
+      "height": 280,
+      "visible": true
+    },
+    {
+      "text": "Compare Software",
+      "tag": "A",
+      "x": 682.5499877929688,
+      "y": 1614.5999755859375,
+      "width": 497.6499938964844,
+      "height": 32.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Accounting Software",
+      "tag": "BUTTON",
+      "x": 193.65000915527344,
+      "y": 3427.60009765625,
+      "width": 171.15000915527344,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Antivirus Software",
+      "tag": "BUTTON",
+      "x": 368.2749938964844,
+      "y": 3427.60009765625,
+      "width": 155.40000915527344,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "HR Software",
+      "tag": "BUTTON",
+      "x": 527.1500244140625,
+      "y": 3427.60009765625,
+      "width": 118.51250457763672,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Plagarism Checker",
+      "tag": "BUTTON",
+      "x": 649.1375122070312,
+      "y": 3427.60009765625,
+      "width": 158.27500915527344,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "POS Software",
+      "tag": "BUTTON",
+      "x": 810.8875122070312,
+      "y": 3427.60009765625,
+      "width": 126.82500457763672,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "CRM Software",
+      "tag": "BUTTON",
+      "x": 941.1875,
+      "y": 3427.60009765625,
+      "width": 129.96250915527344,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Busy Accounting Software",
+      "tag": "A",
+      "x": 225.1999969482422,
+      "y": 3725.400146484375,
+      "width": 206.40000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Lead Accounting Plus",
+      "tag": "A",
+      "x": 529.2000122070312,
+      "y": 3725.400146484375,
+      "width": 206.40000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "OneFinOps",
+      "tag": "A",
+      "x": 833.2000122070312,
+      "y": 3725.400146484375,
+      "width": 206.40000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Kaspersky Antivirus",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Quick Heal AntiVirus Pro",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "K7 Ultimate Security Infiniti",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MyCo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zfour HRMS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Octane HRMS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plagiarism Checker X",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DrillBit Plagiarism Checker",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plagiarism Detector Pro",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VPOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SwilERP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Peddle Plus One ERP",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salesforce CRM",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Leadhooper",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kylas CRM",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 574.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 591.4620361328125,
+      "y": 4412.60009765625,
+      "width": 6.400000095367432,
+      "height": 6.400000095367432,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 608.2620239257812,
+      "y": 4411.39990234375,
+      "width": 8.800000190734863,
+      "height": 8.800000190734863,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 627.4620361328125,
+      "y": 4412.60009765625,
+      "width": 6.400000095367432,
+      "height": 6.400000095367432,
+      "visible": true
+    },
+    {
+      "text": "5",
+      "tag": "BUTTON",
+      "x": 646.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "6",
+      "tag": "BUTTON",
+      "x": 664.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "7",
+      "tag": "BUTTON",
+      "x": 682.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "8",
+      "tag": "BUTTON",
+      "x": 700.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "9",
+      "tag": "BUTTON",
+      "x": 718.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "10",
+      "tag": "BUTTON",
+      "x": 736.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "11",
+      "tag": "BUTTON",
+      "x": 754.6620483398438,
+      "y": 4413.80029296875,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Bitdefender Antivirus Plus",
+      "tag": "A",
+      "x": 225.1999969482422,
+      "y": 4831.60009765625,
+      "width": 206.40000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "K7 Antivirus Premium",
+      "tag": "A",
+      "x": 529.2000122070312,
+      "y": 4831.60009765625,
+      "width": 206.40000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Kaspersky Antivirus",
+      "tag": "A",
+      "x": 833.2000122070312,
+      "y": 4831.60009765625,
+      "width": 206.40000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "View all Offers",
+      "tag": "A",
+      "x": 565.2875366210938,
+      "y": 5052.60009765625,
+      "width": 134.21250915527344,
+      "height": 32.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Explore Solutions",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 5442,
+      "width": 164.66250610351562,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Top Trending Products",
+      "tag": "BUTTON",
+      "x": 455.0874938964844,
+      "y": 5819.39990234375,
+      "width": 181.875,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Top Selling Products",
+      "tag": "BUTTON",
+      "x": 640.4375,
+      "y": 5819.39990234375,
+      "width": 169.2624969482422,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Salesforce CRM",
+      "tag": "A",
+      "x": -697.9375,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "RPS Jewel Pro",
+      "tag": "A",
+      "x": -389.9375,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Hospilogix",
+      "tag": "A",
+      "x": -81.9375,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Quick Heal AntiVirus Pro",
+      "tag": "A",
+      "x": 226.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bitdefender Antivirus Plus",
+      "tag": "A",
+      "x": 534.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Kaspersky Antivirus",
+      "tag": "A",
+      "x": 842.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Wondershare Filmora",
+      "tag": "A",
+      "x": 1150.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "WappBlaster",
+      "tag": "A",
+      "x": 1458.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Mcafee Antivirus",
+      "tag": "A",
+      "x": 1766.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sembark",
+      "tag": "A",
+      "x": 2074.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Engage HRMS",
+      "tag": "A",
+      "x": 2382.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "HPE Networking Instant On Access Point AP22",
+      "tag": "A",
+      "x": 2690.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "GoGSTBill",
+      "tag": "A",
+      "x": 2998.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Keka HR",
+      "tag": "A",
+      "x": 3306.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Vyapar Billing Software",
+      "tag": "A",
+      "x": 3614.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Online Munim Jewellery Software",
+      "tag": "A",
+      "x": 3922.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smartflo - Cloud Telephony Solutions",
+      "tag": "A",
+      "x": 4230.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "LogMeIn Rescue (GoTo)",
+      "tag": "A",
+      "x": 4538.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Salesforce CRM",
+      "tag": "A",
+      "x": 4846.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "RPS Jewel Pro",
+      "tag": "A",
+      "x": 5154.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Hospilogix",
+      "tag": "A",
+      "x": 5462.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Quick Heal AntiVirus Pro",
+      "tag": "A",
+      "x": 5770.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Bitdefender Antivirus Plus",
+      "tag": "A",
+      "x": 6078.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Kaspersky Antivirus",
+      "tag": "A",
+      "x": 6386.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Wondershare Filmora",
+      "tag": "A",
+      "x": 6694.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "WappBlaster",
+      "tag": "A",
+      "x": 7002.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Mcafee Antivirus",
+      "tag": "A",
+      "x": 7310.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sembark",
+      "tag": "A",
+      "x": 7618.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Engage HRMS",
+      "tag": "A",
+      "x": 7926.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "HPE Networking Instant On Access Point AP22",
+      "tag": "A",
+      "x": 8234.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "GoGSTBill",
+      "tag": "A",
+      "x": 8542.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Keka HR",
+      "tag": "A",
+      "x": 8850.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Vyapar Billing Software",
+      "tag": "A",
+      "x": 9158.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Online Munim Jewellery Software",
+      "tag": "A",
+      "x": 9466.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Smartflo - Cloud Telephony Solutions",
+      "tag": "A",
+      "x": 9774.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "LogMeIn Rescue (GoTo)",
+      "tag": "A",
+      "x": 10082.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Salesforce CRM",
+      "tag": "A",
+      "x": 10390.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "RPS Jewel Pro",
+      "tag": "A",
+      "x": 10698.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Hospilogix",
+      "tag": "A",
+      "x": 11006.0625,
+      "y": 6120.2001953125,
+      "width": 204.6750030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 587,
+      "y": 6335.80029296875,
+      "width": 8.800000190734863,
+      "height": 8.800000190734863,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 606.2000122070312,
+      "y": 6337,
+      "width": 6.400000095367432,
+      "height": 6.400000095367432,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 625.4000244140625,
+      "y": 6338.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 643.4000244140625,
+      "y": 6338.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "5",
+      "tag": "BUTTON",
+      "x": 661.4000244140625,
+      "y": 6338.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "6",
+      "tag": "BUTTON",
+      "x": 679.4000244140625,
+      "y": 6338.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Kaspersky Antivirus",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Quick Heal Total Security",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HPE Networking Instant On Access Point AP22",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Talentpool Recruitment Software",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Busy Accounting Software",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Esarwa Automated Accounting",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vyapar Billing Software",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Adobe Creative Cloud for Enterprise",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Marg ERP 9+",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 574.6619873046875,
+      "y": 6791.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 591.4619750976562,
+      "y": 6790,
+      "width": 6.400000095367432,
+      "height": 6.400000095367432,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 608.2620239257812,
+      "y": 6788.80029296875,
+      "width": 8.800000190734863,
+      "height": 8.800000190734863,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 627.4620361328125,
+      "y": 6790,
+      "width": 6.400000095367432,
+      "height": 6.400000095367432,
+      "visible": true
+    },
+    {
+      "text": "5",
+      "tag": "BUTTON",
+      "x": 646.6620483398438,
+      "y": 6791.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "6",
+      "tag": "BUTTON",
+      "x": 664.6620483398438,
+      "y": 6791.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "7",
+      "tag": "BUTTON",
+      "x": 682.6620483398438,
+      "y": 6791.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "8",
+      "tag": "BUTTON",
+      "x": 700.6620483398438,
+      "y": 6791.2001953125,
+      "width": 4,
+      "height": 4,
+      "visible": true
+    },
+    {
+      "text": "Read all Articles",
+      "tag": "A",
+      "x": 1099.5374755859375,
+      "y": 7458.60009765625,
+      "width": 147.8625030517578,
+      "height": 32.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "15 Viral Chibi AI Prompts Everyone Obsessed with!",
+      "tag": "A",
+      "x": 37.400001525878906,
+      "y": 7743.92529296875,
+      "width": 234.52500915527344,
+      "height": 50.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "15+ Independence Day ChatGPT Prompts for Stunning AI Portraits",
+      "tag": "A",
+      "x": 350.8999938964844,
+      "y": 7743.92529296875,
+      "width": 234.52500915527344,
+      "height": 50.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Preemptive Cybersecurity Explained: How It Works and Why It Matte..",
+      "tag": "A",
+      "x": 664.4000244140625,
+      "y": 7743.92529296875,
+      "width": 234.52500915527344,
+      "height": 50.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "7 Best Construction Project ERP Software in 2026",
+      "tag": "A",
+      "x": 977.9000244140625,
+      "y": 7743.92529296875,
+      "width": 234.52500915527344,
+      "height": 50.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "View all News",
+      "tag": "A",
+      "x": 1118.3250732421875,
+      "y": 7947.3251953125,
+      "width": 129.0749969482422,
+      "height": 32.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Rishabh Pant Backs Former Zomato Executive’s Software Marketplace Techjockey",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 8011.72509765625,
+      "width": 291.8999938964844,
+      "height": 374.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Techjockey Introduces Techjockey Advantage to Simplify Startup Software Procurem",
+      "tag": "A",
+      "x": 339.3000183105469,
+      "y": 8011.72509765625,
+      "width": 439.0500183105469,
+      "height": 374.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Cybersecurity & AI Tools Searches Dominate During 2025's BFCM Sale",
+      "tag": "A",
+      "x": 808.3500366210938,
+      "y": 8011.72509765625,
+      "width": 439.0500183105469,
+      "height": 374.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "For Buyers",
+      "tag": "BUTTON",
+      "x": 523.8125,
+      "y": 8541.2373046875,
+      "width": 106.98750305175781,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "For Sellers",
+      "tag": "BUTTON",
+      "x": 634.2750244140625,
+      "y": 8541.2373046875,
+      "width": 106.7125015258789,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "What’s the process to buy software on Techjockey?",
+      "tag": "BUTTON",
+      "x": 182.40000915527344,
+      "y": 8630.0380859375,
+      "width": 938,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "Are the software genuine and licensed?",
+      "tag": "BUTTON",
+      "x": 182.40000915527344,
+      "y": 8692.837890625,
+      "width": 938,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "Can I request a personalized demo before purchase?",
+      "tag": "BUTTON",
+      "x": 182.40000915527344,
+      "y": 8755.6376953125,
+      "width": 938,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "What about after-sales support?",
+      "tag": "BUTTON",
+      "x": 182.40000915527344,
+      "y": 8818.4375,
+      "width": 938,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "Is Techjockey legit?",
+      "tag": "BUTTON",
+      "x": 182.40000915527344,
+      "y": 8881.2373046875,
+      "width": 938,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "How do I register as a seller on Techjockey?",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Can I list different pricing plans?",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Is there a review process before the product goes live?",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Can I only target Indian buyers or global users?",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Is there any product listing fee on Techjockey?",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Explore all Questions",
+      "tag": "A",
+      "x": 539.2999877929688,
+      "y": 9003.2373046875,
+      "width": 186.1999969482422,
+      "height": 32.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "See More",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 9365.4375,
+      "width": 1230,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Stock Market Software",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 9806.837890625,
+      "width": 141.5749969482422,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Retail Billing Software",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 9838.4375,
+      "width": 135.8625030517578,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Astrology Software",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 9870.0380859375,
+      "width": 118.80000305175781,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Plagiarism Checker",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 9901.6376953125,
+      "width": 120.5625,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "CRM Software",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 9933.2373046875,
+      "width": 89.36250305175781,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Accounting Software",
+      "tag": "A",
+      "x": 396.2749938964844,
+      "y": 9806.837890625,
+      "width": 130.1999969482422,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Video Editing Software",
+      "tag": "A",
+      "x": 396.2749938964844,
+      "y": 9838.4375,
+      "width": 141.1999969482422,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "HR Software",
+      "tag": "A",
+      "x": 396.2749938964844,
+      "y": 9870.0380859375,
+      "width": 78.01250457763672,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "CAD Software",
+      "tag": "A",
+      "x": 396.2749938964844,
+      "y": 9901.6376953125,
+      "width": 86.82500457763672,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Antivirus Software",
+      "tag": "A",
+      "x": 396.2749938964844,
+      "y": 9933.2373046875,
+      "width": 114.11250305175781,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 774.7625122070312,
+      "y": 9806.837890625,
+      "width": 57.0625,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 774.7625122070312,
+      "y": 9838.4375,
+      "width": 68.7125015258789,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 774.7625122070312,
+      "y": 9870.0380859375,
+      "width": 48.16250228881836,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 774.7625122070312,
+      "y": 9901.6376953125,
+      "width": 35.32500076293945,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Ask a Question",
+      "tag": "A",
+      "x": 774.7625122070312,
+      "y": 9933.2373046875,
+      "width": 93.7249984741211,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 774.7625122070312,
+      "y": 9964.837890625,
+      "width": 27.975000381469727,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Enterprise",
+      "tag": "A",
+      "x": 1140.425048828125,
+      "y": 9806.837890625,
+      "width": 63.10000228881836,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Advertise with us",
+      "tag": "A",
+      "x": 1140.425048828125,
+      "y": 9838.4375,
+      "width": 106.9749984741211,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write with us",
+      "tag": "A",
+      "x": 1140.425048828125,
+      "y": 9870.0380859375,
+      "width": 80.5374984741211,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Become a Seller",
+      "tag": "A",
+      "x": 1140.425048828125,
+      "y": 9901.6376953125,
+      "width": 100.4375,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 1140.425048828125,
+      "y": 9933.2373046875,
+      "width": 91.6875,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Hot Deals",
+      "tag": "A",
+      "x": 1140.425048828125,
+      "y": 9964.837890625,
+      "width": 82.36250305175781,
+      "height": 23.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 10144.4375,
+      "width": 117,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 147.15000915527344,
+      "y": 10144.4375,
+      "width": 117,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 276.8999938964844,
+      "y": 10151.4375,
+      "width": 41,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 503.6499938964844,
+      "y": 10134.4375,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 547.6500244140625,
+      "y": 10131.4375,
+      "width": 18,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 585.6500244140625,
+      "y": 10134.4375,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 629.6500244140625,
+      "y": 10134.4375,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 673.6500244140625,
+      "y": 10134.4375,
+      "width": 24,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 1148.3375244140625,
+      "y": 10128.0380859375,
+      "width": 94.26250457763672,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Refund",
+      "tag": "A",
+      "x": 17.399999618530273,
+      "y": 10253.4375,
+      "width": 137.2624969482422,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Terms of use",
+      "tag": "A",
+      "x": 178.08750915527344,
+      "y": 10253.4375,
+      "width": 81.51250457763672,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 283.0249938964844,
+      "y": 10253.4375,
+      "width": 45.23749923706055,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Help & Support",
+      "tag": "A",
+      "x": 971.0875244140625,
+      "y": 10253.4375,
+      "width": 93.73750305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Support@techjockey.com",
+      "tag": "A",
+      "x": 1088.25,
+      "y": 10253.4375,
+      "width": 159.15000915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    }
+  ]
+}

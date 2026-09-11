@@ -1,0 +1,8 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://pharmeasy.in/checkout/select-payment-method?src=cart",
+  "timestamp": "20260810_120122",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": []
+}

@@ -1,0 +1,2340 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.netmeds.com/cart/bag",
+  "timestamp": "20260812_205516",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 33,
+      "y": 13.5,
+      "width": 187,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1007.0125122070312,
+      "y": 26,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "A",
+      "x": 1079.0125732421875,
+      "y": 24,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "xyz abc",
+      "tag": "A",
+      "x": 1139.0125732421875,
+      "y": 24,
+      "width": 87.98750305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "All Categories",
+      "tag": "A",
+      "x": 33,
+      "y": 72,
+      "width": 114.17500305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "All Categories",
+      "tag": "A",
+      "x": 57,
+      "y": 82,
+      "width": 90.17500305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Medicine",
+      "tag": "A",
+      "x": 247.8125,
+      "y": 72,
+      "width": 82.4749984741211,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Medicine",
+      "tag": "A",
+      "x": 271.8125,
+      "y": 82,
+      "width": 58.47500228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Order Online",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medicines by Health Issues",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bacterial Infections",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cough & Cold",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dandruff",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diarrhoea",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Digestion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fever",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "High Cholesterol",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hypertension",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Malaria",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Muscle Spasm",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pain Reflief",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Medicines for Body Parts",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cardiac",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kidney",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liver",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nasal",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oral",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Urinary",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lab Tests",
+      "tag": "A",
+      "x": 430.9250183105469,
+      "y": 72,
+      "width": 85.76250457763672,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Lab Tests",
+      "tag": "A",
+      "x": 454.9250183105469,
+      "y": 82,
+      "width": 61.76250076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 617.3375244140625,
+      "y": 72,
+      "width": 68.73750305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 641.3375244140625,
+      "y": 82,
+      "width": 44.73749923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Fragrances",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mens Fragrances",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Womens Fragrances",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Unisex Fragrances",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Color",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Styling",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Tools & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Scalp Treatment",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men's Grooming",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Beard Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shaving",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Make-Up",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eyes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Make-Up Tools & Brushes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Makeup",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lips",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nails",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mom & Baby",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Bathtime",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Feminine Hygiene",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maternity Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bath & Shower",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bathing Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Personal Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hands & Feet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oral Health",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lip Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Personal Care Tools & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Senior Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aromatherapy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cleansers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Skin Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Masks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturizers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Toners & Serums",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tools & Appliances",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face/Skin Tools",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Styling Tools",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massage Tools",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wellness",
+      "tag": "A",
+      "x": 786.7125244140625,
+      "y": 72,
+      "width": 81.1624984741211,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Wellness",
+      "tag": "A",
+      "x": 810.7125244140625,
+      "y": 82,
+      "width": 57.16250228881836,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Ayush",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ayurvedic",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Unani",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Siddha",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fitness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Weight Management",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin And Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Specific",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nutrition Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home & Health",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Senior Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Personal care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hands & Feet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oral Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bath & Shower",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Personal Care Tools & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lip Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bathing Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Condoms",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massager/Vibrators",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Health Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lubricants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Intimate Tools & Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mom & Baby",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Feminine Hygiene",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maternity Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Bath Time",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sugar Substitutes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Management Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Care Ayurveda",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lancets & Test Strips",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Devices",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orthopaedics",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Measurements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Surgical Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Surgical",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Respiratory Supplies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Surgical Consumables",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "IV Infusion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Surgical Instrument",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dressing",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gi Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Urinary Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wound Treatment",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Treatments",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cough & Cold",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "First Aid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pain Relief Application",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Treatment",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smoking Cessation",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eyewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Glasses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Lenses (EW)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Veterinary",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Petcare",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Farm Animals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Corner",
+      "tag": "A",
+      "x": 968.5125122070312,
+      "y": 72,
+      "width": 114.17500305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Health Corner",
+      "tag": "A",
+      "x": 992.5125122070312,
+      "y": 82,
+      "width": 90.17500305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Health Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Hub",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blood Pressure Hub",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Winter Wellness Hub",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All About Cancers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corona Awareness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Selfcare Tools",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1183.3250732421875,
+      "y": 72,
+      "width": 63.67499923706055,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Offers",
+      "tag": "A",
+      "x": 1207.3250732421875,
+      "y": 82,
+      "width": 39.67499923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 52.79999923706055,
+      "y": 491.6000061035156,
+      "width": 100,
+      "height": 98.4000015258789,
+      "visible": true
+    },
+    {
+      "text": "Paracetamol 500mg Tablet 10'S\nStrip of 10 tablets\n₹6.76\n₹9.65\n30% OFF\nFriday, 14",
+      "tag": "A",
+      "x": 152.8000030517578,
+      "y": 491.6000061035156,
+      "width": 658.4000244140625,
+      "height": 84.9000015258789,
+      "visible": true
+    },
+    {
+      "text": "Paracetamol 500mg Tablet 10'S",
+      "tag": "A",
+      "x": 152.8000030517578,
+      "y": 491.6000061035156,
+      "width": 658.4000244140625,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Proceed",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Proceed",
+      "tag": "BUTTON",
+      "x": 840,
+      "y": 639.2000122070312,
+      "width": 400,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -5.599999904632568,
+      "y": 711.2000122070312,
+      "width": 430,
+      "height": 90,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 432.3999938964844,
+      "y": 711.2000122070312,
+      "width": 430,
+      "height": 90,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 870.4000244140625,
+      "y": 711.2000122070312,
+      "width": 430,
+      "height": 90,
+      "visible": true
+    },
+    {
+      "text": "Frequently Bought",
+      "tag": "BUTTON",
+      "x": 56,
+      "y": 861.2000122070312,
+      "width": 156.71250915527344,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "BUTTON",
+      "x": 220.71250915527344,
+      "y": 861.2000122070312,
+      "width": 106.45000457763672,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Homeopathy Sale",
+      "tag": "BUTTON",
+      "x": 335.1625061035156,
+      "y": 861.2000122070312,
+      "width": 149.66250610351562,
+      "height": 37.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "FreeStyle Libre 2 Plus Continous Glucose Monitoring System Sensor Device (Pack o",
+      "tag": "A",
+      "x": 64,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹7,707.00 ₹10,276.00\n25% OFF",
+      "tag": "A",
+      "x": 64,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 64,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 228,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "D Protin Chocolate Powder 500 gm",
+      "tag": "A",
+      "x": 228,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 228,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹534.64 ₹652.00\n18% OFF",
+      "tag": "A",
+      "x": 228,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 228,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 392,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "A TO Z NS PLUS Tablet 15's",
+      "tag": "A",
+      "x": 392,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 392,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹152.00 ₹190.00\n20% OFF",
+      "tag": "A",
+      "x": 392,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 392,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 556,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "Scalpe Plus Anti Dandruff Shampoo 75 ml",
+      "tag": "A",
+      "x": 556,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 556,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹292.74 ₹344.40\n15% OFF",
+      "tag": "A",
+      "x": 556,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 556,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 720,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "SEBAMED ANTI DANDRUFF Shampoo 200ml",
+      "tag": "A",
+      "x": 720,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 720,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹490.05 ₹605.00\n19% OFF",
+      "tag": "A",
+      "x": 720,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 720,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "Contour Plus Blood Glucose Test Strip 50's",
+      "tag": "A",
+      "x": 884,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 884,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹947.76 ₹1,077.00\n12% OFF",
+      "tag": "A",
+      "x": 884,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 884,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1048,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "Accu-Chek Guide Blood Glucose Test Strips 50's",
+      "tag": "A",
+      "x": 1048,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1048,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹1,289.14 ₹1,499.00\n14% OFF",
+      "tag": "A",
+      "x": 1048,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 1048,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1212,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "Patanjali Divya Medha Vati Extra Power Tablet 120's",
+      "tag": "A",
+      "x": 1212,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1212,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹212.47 ₹234.00\n9% OFF",
+      "tag": "A",
+      "x": 1212,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 1212,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1376,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "Dr. Morepen GlucoOne BG03 Blood Glucose Test Strips 25's",
+      "tag": "A",
+      "x": 1376,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1376,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹320.85 ₹465.00\n31% OFF",
+      "tag": "A",
+      "x": 1376,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 1376,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1540,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "ATOGLA BABY MOISTURIZING Lotion 400ml",
+      "tag": "A",
+      "x": 1540,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1540,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹981.54 ₹1,197.00\n18% OFF",
+      "tag": "A",
+      "x": 1540,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 1540,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1704,
+      "y": 914.7999877929688,
+      "width": 140,
+      "height": 140,
+      "visible": true
+    },
+    {
+      "text": "Dhootapapeshwar Rasarajeshwar Rasa Tablet 30's",
+      "tag": "A",
+      "x": 1704,
+      "y": 1054.800048828125,
+      "width": 140,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1704,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "₹1,754.40 ₹2,193.00\n20% OFF",
+      "tag": "A",
+      "x": 1704,
+      "y": 1102.800048828125,
+      "width": 140,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Delivery: 14 Aug",
+      "tag": "A",
+      "x": 1704,
+      "y": 1147.5999755859375,
+      "width": 140,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "COMPANY",
+      "tag": "A",
+      "x": 60,
+      "y": 1386,
+      "width": 82.13750457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "About Netmeds",
+      "tag": "A",
+      "x": 60,
+      "y": 1427.5999755859375,
+      "width": 115.0999984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Career",
+      "tag": "A",
+      "x": 60,
+      "y": 1461.2000732421875,
+      "width": 49.5625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 60,
+      "y": 1494.800048828125,
+      "width": 60.54999923706055,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "OUR POLICIES",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1386,
+      "width": 117.875,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1427.5999755859375,
+      "width": 144.02500915527344,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1461.2000732421875,
+      "width": 102.25,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Fees & Payments Policy",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1494.800048828125,
+      "width": 175.625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Shipping & Delivery Policy",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1528.4000244140625,
+      "width": 191.5749969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Return, Refund & Cancellation Policy",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1562,
+      "width": 140.0124969482422,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1621.2000732421875,
+      "width": 109.0999984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Caution Notice",
+      "tag": "A",
+      "x": 277.6000061035156,
+      "y": 1654.800048828125,
+      "width": 109.8499984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "SHOPPING",
+      "tag": "A",
+      "x": 495.20001220703125,
+      "y": 1386,
+      "width": 85.4749984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Medicines A To Z",
+      "tag": "A",
+      "x": 495.20001220703125,
+      "y": 1427.5999755859375,
+      "width": 126.61250305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Shop By Categories",
+      "tag": "A",
+      "x": 495.20001220703125,
+      "y": 1461.2000732421875,
+      "width": 146.7624969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Offers / Coupons",
+      "tag": "A",
+      "x": 495.20001220703125,
+      "y": 1494.800048828125,
+      "width": 126.8499984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 495.20001220703125,
+      "y": 1528.4000244140625,
+      "width": 39.57500076293945,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 495.20001220703125,
+      "y": 1562,
+      "width": 82.875,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "SOCIAL",
+      "tag": "A",
+      "x": 712.7999877929688,
+      "y": 1386,
+      "width": 60.91250228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 712.7999877929688,
+      "y": 1427.5999755859375,
+      "width": 72.70000457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Twitter",
+      "tag": "A",
+      "x": 712.7999877929688,
+      "y": 1461.2000732421875,
+      "width": 50.10000228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "LinkedIn",
+      "tag": "A",
+      "x": 712.7999877929688,
+      "y": 1494.800048828125,
+      "width": 62.8125,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Youtube",
+      "tag": "A",
+      "x": 712.7999877929688,
+      "y": 1528.4000244140625,
+      "width": 60.47500228881836,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 712.7999877929688,
+      "y": 1562,
+      "width": 74.05000305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1156,
+      "y": 1490.2000732421875,
+      "width": 64,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1194.4000244140625,
+      "y": 1727.5999755859375,
+      "width": 8,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1203.2000732421875,
+      "y": 1727.5999755859375,
+      "width": 8,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1212,
+      "y": 1727.5999755859375,
+      "width": 8,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Powered by Kaily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Play & Win",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

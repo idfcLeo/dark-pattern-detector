@@ -1,0 +1,81 @@
+{
+  "step": 9,
+  "label": "cancel_step",
+  "url": "https://blinkit.com/account/delete-account-feedback?reason=I%20don%27t%20want%20to%20use%20Blinkit%20anymore&subreason=Do%20you%20have%20any%20feedback%20for%20us?%20We%20would%20love%20to%20hear%20from%20you!%20(optional)",
+  "timestamp": "20260810_115635",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 178,
+      "height": 86,
+      "visible": true
+    },
+    {
+      "text": "!\nSearch \"sugar\"\nSearch \"butter\"",
+      "tag": "A",
+      "x": 499,
+      "y": 19.200000762939453,
+      "width": 458,
+      "height": 47.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "My Addresses",
+      "tag": "A",
+      "x": 143,
+      "y": 195.40000915527344,
+      "width": 258,
+      "height": 53,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 143,
+      "y": 248.40000915527344,
+      "width": 258,
+      "height": 53.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "My Prescriptions",
+      "tag": "A",
+      "x": 143,
+      "y": 302.20001220703125,
+      "width": 258,
+      "height": 54.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "E-Gift Cards",
+      "tag": "A",
+      "x": 143,
+      "y": 356.8000183105469,
+      "width": 258,
+      "height": 54.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Account privacy",
+      "tag": "A",
+      "x": 143,
+      "y": 411.3999938964844,
+      "width": 258,
+      "height": 54.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Delete my account",
+      "tag": "BUTTON",
+      "x": 591.2999877929688,
+      "y": 242.40000915527344,
+      "width": 355,
+      "height": 43.54999923706055,
+      "visible": true
+    }
+  ]
+}

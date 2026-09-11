@@ -1,0 +1,396 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.jiomart.com/",
+  "timestamp": "20260810_114251",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Smart Buys",
+      "tag": "A",
+      "x": 12,
+      "y": 56,
+      "width": 125.9000015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Hot Deals",
+      "tag": "A",
+      "x": 145.90000915527344,
+      "y": 56,
+      "width": 113.5374984741211,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 267.4375,
+      "y": 56,
+      "width": 121.375,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Explore All",
+      "tag": "A",
+      "x": 396.8125,
+      "y": 56,
+      "width": 118.7249984741211,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Fashion",
+      "tag": "A",
+      "x": 523.5375366210938,
+      "y": 56,
+      "width": 100.36250305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 631.9000244140625,
+      "y": 56,
+      "width": 86.36250305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Daily Needs",
+      "tag": "A",
+      "x": 726.2625122070312,
+      "y": 56,
+      "width": 129.3874969482422,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Groceries",
+      "tag": "A",
+      "x": 863.6500244140625,
+      "y": 56,
+      "width": 112.63750457763672,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Grocery",
+      "tag": "A",
+      "x": 0,
+      "y": 199.1999969482422,
+      "width": 58.29999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Electronics",
+      "tag": "A",
+      "x": 0,
+      "y": 239.1999969482422,
+      "width": 82.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fashion",
+      "tag": "A",
+      "x": 0,
+      "y": 279.20001220703125,
+      "width": 57.78750228881836,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 0,
+      "y": 319.20001220703125,
+      "width": 51.1875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Home & Kitchen",
+      "tag": "A",
+      "x": 0,
+      "y": 359.20001220703125,
+      "width": 119.17500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Premium Fruits",
+      "tag": "A",
+      "x": 0,
+      "y": 399.20001220703125,
+      "width": 112.0250015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Books",
+      "tag": "A",
+      "x": 0,
+      "y": 439.20001220703125,
+      "width": 46.775001525878906,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Furniture",
+      "tag": "A",
+      "x": 0,
+      "y": 479.20001220703125,
+      "width": 66.5374984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Fresh",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 199.1999969482422,
+      "width": 41.07500076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Biscuits Drinks & Packaged Foods",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 239.1999969482422,
+      "width": 202.9875030517578,
+      "height": 41.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Cooking Essentials",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 303.20001220703125,
+      "width": 140.875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 343.20001220703125,
+      "width": 103.5250015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Beauty",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 383.20001220703125,
+      "width": 51.1875,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 423.20001220703125,
+      "width": 43.73749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Kitchenware",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 463.20001220703125,
+      "width": 91.57500457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Tableware",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 503.20001220703125,
+      "width": 74.5999984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "School, Office & Stationery",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 543.2000122070312,
+      "width": 198.60000610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Disposables",
+      "tag": "A",
+      "x": 255.28750610351562,
+      "y": 583.2000122070312,
+      "width": 90.11250305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 199.1999969482422,
+      "width": 87.9375,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "My Orders",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 239.1999969482422,
+      "width": 76.7750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 279.20001220703125,
+      "width": 57.51250076293945,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Delivery Addresses",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 319.20001220703125,
+      "width": 141.22500610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "JioMart Wallet",
+      "tag": "A",
+      "x": 510.5874938964844,
+      "y": 359.20001220703125,
+      "width": 105.2750015258789,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 199.1999969482422,
+      "width": 68.38750457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 239.1999969482422,
+      "width": 31.287500381469727,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 279.20001220703125,
+      "width": 144.02500915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 319.20001220703125,
+      "width": 102.25,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "E-waste Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 359.20001220703125,
+      "width": 108.70000457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Cancellation & Return Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 399.20001220703125,
+      "width": 209.5,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shipping & Delivery Policy",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 439.20001220703125,
+      "width": 191.5749969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "AC Installation by resQ",
+      "tag": "A",
+      "x": 765.8875122070312,
+      "y": 479.20001220703125,
+      "width": 168.90000915527344,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "70003 70003",
+      "tag": "A",
+      "x": 1127.625,
+      "y": 191.1999969482422,
+      "width": 94.36250305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "1800 890 1222",
+      "tag": "A",
+      "x": 1079.7249755859375,
+      "y": 215.1999969482422,
+      "width": 107.92500305175781,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1021.1875,
+      "y": 452,
+      "width": 129.75,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1162.9375,
+      "y": 452,
+      "width": 117.0625,
+      "height": 44,
+      "visible": true
+    }
+  ]
+}

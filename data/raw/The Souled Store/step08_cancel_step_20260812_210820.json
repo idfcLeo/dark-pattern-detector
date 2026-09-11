@@ -1,0 +1,558 @@
+{
+  "step": 8,
+  "label": "cancel_step",
+  "url": "https://www.thesouledstore.com/profile",
+  "timestamp": "20260812_210820",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MEN",
+      "tag": "A",
+      "x": 100.2125015258789,
+      "y": 17.600000381469727,
+      "width": 39.5,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "WOMEN",
+      "tag": "A",
+      "x": 173.96250915527344,
+      "y": 17.600000381469727,
+      "width": 69.45000457763672,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "SNEAKERS",
+      "tag": "A",
+      "x": 268.4125061035156,
+      "y": 17.600000381469727,
+      "width": 93.1875,
+      "height": 25.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 579.9000244140625,
+      "y": 4.5,
+      "width": 85,
+      "height": 65,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1034.800048828125,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1084.800048828125,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Saved Address",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TSS Money",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TSS Points",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1134.800048828125,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 1184.800048828125,
+      "y": 4,
+      "width": 50,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "sbc None \nskmrdr1998@gmail.com\n(Member)",
+      "tag": "A",
+      "x": 92.4000015258789,
+      "y": -119.5999984741211,
+      "width": 232.5,
+      "height": 67.5,
+      "visible": true
+    },
+    {
+      "text": "Orders\n(Track your order here)",
+      "tag": "A",
+      "x": 93.20000457763672,
+      "y": -11.300000190734863,
+      "width": 240.90000915527344,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "Saved Address",
+      "tag": "A",
+      "x": 93.20000457763672,
+      "y": 59.10000228881836,
+      "width": 240.90000915527344,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 93.20000457763672,
+      "y": 107.9000015258789,
+      "width": 240.90000915527344,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "TSS Money(TSS Money Balance: ₹ 0.00)",
+      "tag": "A",
+      "x": 93.20000457763672,
+      "y": 156.6999969482422,
+      "width": 240.90000915527344,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "TSS Points(Active TSS Points: 0.00)",
+      "tag": "A",
+      "x": 93.20000457763672,
+      "y": 207.10000610351562,
+      "width": 240.90000915527344,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 93.20000457763672,
+      "y": 257.5,
+      "width": 240.90000915527344,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "My Membership",
+      "tag": "A",
+      "x": 93.20000457763672,
+      "y": 306.3000183105469,
+      "width": 240.90000915527344,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "DELETE MY ACCOUNT",
+      "tag": "BUTTON",
+      "x": 77.4000015258789,
+      "y": 382.5,
+      "width": 262.5,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "N0",
+      "tag": "BUTTON",
+      "x": 505.625,
+      "y": 366.20001220703125,
+      "width": 115.5,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "YES",
+      "tag": "BUTTON",
+      "x": 637.125,
+      "y": 366.20001220703125,
+      "width": 122.0374984741211,
+      "height": 38.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "LOGOUT",
+      "tag": "BUTTON",
+      "x": 77.4000015258789,
+      "y": 433.5,
+      "width": 262.5,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "SAVE",
+      "tag": "BUTTON",
+      "x": 716.3500366210938,
+      "y": 455.6000061035156,
+      "width": 134.60000610351562,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 77.4000015258789,
+      "y": 772.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 77.4000015258789,
+      "y": 805.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Returns & Refunds",
+      "tag": "A",
+      "x": 77.4000015258789,
+      "y": 838.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 77.4000015258789,
+      "y": 871.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 77.4000015258789,
+      "y": 904.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 359.8999938964844,
+      "y": 772.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Investor Relation",
+      "tag": "A",
+      "x": 359.8999938964844,
+      "y": 805.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 359.8999938964844,
+      "y": 838.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Gift Vouchers",
+      "tag": "A",
+      "x": 359.8999938964844,
+      "y": 871.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Community Initiatives",
+      "tag": "A",
+      "x": 359.8999938964844,
+      "y": 904.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "T&C",
+      "tag": "A",
+      "x": 642.4000244140625,
+      "y": 772.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 642.4000244140625,
+      "y": 805.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 642.4000244140625,
+      "y": 838.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Get Notified",
+      "tag": "A",
+      "x": 642.4000244140625,
+      "y": 871.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 642.4000244140625,
+      "y": 904.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 772.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Mumbai",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 772.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 805.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Pune",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 805.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 838.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Bangalore",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 838.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 871.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Ahmedabad",
+      "tag": "A",
+      "x": 924.9000244140625,
+      "y": 871.4375,
+      "width": 262.5,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "View More",
+      "tag": "BUTTON",
+      "x": 924.9000244140625,
+      "y": 904.4375,
+      "width": 68.1500015258789,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 393.0625,
+      "y": 1043.4375,
+      "width": 236.0749969482422,
+      "height": 23.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 645.1375122070312,
+      "y": 1043.4375,
+      "width": 226.60000610351562,
+      "height": 23.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1024.4000244140625,
+      "y": 1103.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1066.4000244140625,
+      "y": 1103.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1108.4000244140625,
+      "y": 1103.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1150.4000244140625,
+      "y": 1103.0374755859375,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "WHO WE ARE",
+      "tag": "A",
+      "x": 94.20000457763672,
+      "y": 1174.0374755859375,
+      "width": 1076.4000244140625,
+      "height": 16.5,
+      "visible": true
+    }
+  ]
+}

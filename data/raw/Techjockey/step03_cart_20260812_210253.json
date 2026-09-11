@@ -1,0 +1,1305 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://www.techjockey.com/search?keyword=video+editing+software",
+  "timestamp": "20260812_210253",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 10,
+      "y": -370.3000183105469,
+      "width": 146.5625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Compare",
+      "tag": "A",
+      "x": 423.76251220703125,
+      "y": -394,
+      "width": 81.01250457763672,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Ask Question",
+      "tag": "A",
+      "x": 504.7749938964844,
+      "y": -394,
+      "width": 107.375,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 612.1500244140625,
+      "y": -394,
+      "width": 52.28750228881836,
+      "height": 52,
+      "visible": true
+    },
+    {
+      "text": "India",
+      "tag": "BUTTON",
+      "x": 1067.5250244140625,
+      "y": -389,
+      "width": 95.5250015258789,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "USA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "UAE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1182.0250244140625,
+      "y": -383,
+      "width": 32,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Hi\n            Abc",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Signout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 10,
+      "y": -296,
+      "width": 32.29999923706055,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Cisco Webex",
+      "tag": "A",
+      "x": 131.125,
+      "y": -86.80000305175781,
+      "width": 104.01250457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 230.25,
+      "y": -6.900000095367432,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "12 more",
+      "tag": "A",
+      "x": 583.2625122070312,
+      "y": 135.90000915527344,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 127.13750457763672,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Videomagic",
+      "tag": "A",
+      "x": 132.9875030517578,
+      "y": 247.1999969482422,
+      "width": 96.1875,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 237.66250610351562,
+      "y": 327.1000061035156,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 451.3999938964844,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoMule",
+      "tag": "A",
+      "x": 142.8000030517578,
+      "y": 566.6000366210938,
+      "width": 86.86250305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 235.8000030517578,
+      "y": 593.2999877929688,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "49 more",
+      "tag": "A",
+      "x": 338.88751220703125,
+      "y": 747.2999877929688,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 745.7999877929688,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoSage",
+      "tag": "A",
+      "x": 142.8000030517578,
+      "y": 861,
+      "width": 87.26250457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 235.8000030517578,
+      "y": 887.7000122070312,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "2 more",
+      "tag": "A",
+      "x": 489.20001220703125,
+      "y": 1041.7000732421875,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 1038.5999755859375,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoPsalm",
+      "tag": "A",
+      "x": 142.8000030517578,
+      "y": 1153.800048828125,
+      "width": 97.375,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 235.8000030517578,
+      "y": 1180.5,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "7 more",
+      "tag": "A",
+      "x": 561.5499877929688,
+      "y": 1334.5,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 1331.4000244140625,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoCrypt",
+      "tag": "A",
+      "x": 134.5749969482422,
+      "y": 1446.5999755859375,
+      "width": 90.3499984741211,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 227.5749969482422,
+      "y": 1473.300048828125,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 172.58750915527344,
+      "y": 1520.300048828125,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "4 more",
+      "tag": "A",
+      "x": 445.1000061035156,
+      "y": 1663.0999755859375,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 1654.3375244140625,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoHunter",
+      "tag": "A",
+      "x": 142.8000030517578,
+      "y": 1774.4000244140625,
+      "width": 101.82500457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 235.8000030517578,
+      "y": 1801.0999755859375,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "10 more",
+      "tag": "A",
+      "x": 525.4625244140625,
+      "y": 1955.0999755859375,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 1952,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Videonetics",
+      "tag": "A",
+      "x": 133.03750610351562,
+      "y": 2067.199951171875,
+      "width": 95.8375015258789,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 226.03750610351562,
+      "y": 2093.900146484375,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 198.8249969482422,
+      "y": 2140.900146484375,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "35 more",
+      "tag": "A",
+      "x": 433.13751220703125,
+      "y": 2283.699951171875,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 2280.60009765625,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoCom",
+      "tag": "A",
+      "x": 142.8000030517578,
+      "y": 2395.800048828125,
+      "width": 84.07500457763672,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 235.8000030517578,
+      "y": 2422.5,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "8 more",
+      "tag": "A",
+      "x": 368.8500061035156,
+      "y": 2576.5,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 2573.400146484375,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Videoloft",
+      "tag": "A",
+      "x": 131.96250915527344,
+      "y": 2688.60009765625,
+      "width": 74,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 209.375,
+      "y": 2768.5,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "15 more",
+      "tag": "A",
+      "x": 539,
+      "y": 2911.300048828125,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 2902.53759765625,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoMeet",
+      "tag": "A",
+      "x": 133.8249969482422,
+      "y": 3022.60009765625,
+      "width": 87.8375015258789,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 183.0749969482422,
+      "y": 3102.5,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "6 more",
+      "tag": "A",
+      "x": 387.75,
+      "y": 3245.300048828125,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 3236.53759765625,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoMakerFX",
+      "tag": "A",
+      "x": 134.125,
+      "y": 3356.60009765625,
+      "width": 118.98750305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 227.125,
+      "y": 3383.300048828125,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 210.22500610351562,
+      "y": 3430.300048828125,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "2 more",
+      "tag": "A",
+      "x": 354.5500183105469,
+      "y": 3573.10009765625,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 3570,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoPad",
+      "tag": "A",
+      "x": 133.96250915527344,
+      "y": 3685.199951171875,
+      "width": 77.8125,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 207.46250915527344,
+      "y": 3765.10009765625,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "32 more",
+      "tag": "A",
+      "x": 396.1625061035156,
+      "y": 3907.900146484375,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 3906.400146484375,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Videobolt",
+      "tag": "A",
+      "x": 135.5625,
+      "y": 4021.60009765625,
+      "width": 77.6875,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 228.5625,
+      "y": 4048.300048828125,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 208.02500915527344,
+      "y": 4095.300048828125,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "1 more",
+      "tag": "A",
+      "x": 498.01251220703125,
+      "y": 4238.10009765625,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 4229.33740234375,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoStudio",
+      "tag": "A",
+      "x": 134.6374969482422,
+      "y": 4349.39990234375,
+      "width": 98.86250305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 193.85000610351562,
+      "y": 4429.30029296875,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "31 more",
+      "tag": "A",
+      "x": 347.4875183105469,
+      "y": 4572.10009765625,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 4563.33740234375,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Videoleap",
+      "tag": "A",
+      "x": 134.1875,
+      "y": 4683.39990234375,
+      "width": 80.7874984741211,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 227.1875,
+      "y": 4710.10009765625,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 220.65000915527344,
+      "y": 4757.10009765625,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "31 more",
+      "tag": "A",
+      "x": 445.82501220703125,
+      "y": 4899.89990234375,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 4891.1376953125,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "VideoScribe",
+      "tag": "A",
+      "x": 134.6750030517578,
+      "y": 5011.2001953125,
+      "width": 98.2125015258789,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 247.4875030517578,
+      "y": 5041.39990234375,
+      "width": 192,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 239.47500610351562,
+      "y": 5091.10009765625,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "8 more",
+      "tag": "A",
+      "x": 544.0125122070312,
+      "y": 5233.89990234375,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 5225.1376953125,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Wilcom EmbroideryStudio Editing",
+      "tag": "A",
+      "x": 133.7375030517578,
+      "y": 5345.2001953125,
+      "width": 270.51251220703125,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Write a Review",
+      "tag": "A",
+      "x": 226.7375030517578,
+      "y": 5371.89990234375,
+      "width": 192,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 202.1125030517578,
+      "y": 5418.89990234375,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "12 more",
+      "tag": "A",
+      "x": 453,
+      "y": 5561.7001953125,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 5552.9375,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Designs Videomaker",
+      "tag": "A",
+      "x": 142.8000030517578,
+      "y": 5673,
+      "width": 167.03750610351562,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 243.7624969482422,
+      "y": 5703.2001953125,
+      "width": 192,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "5 more",
+      "tag": "A",
+      "x": 52.79999923706055,
+      "y": 5896.2001953125,
+      "width": 68.76250457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 5873.2626953125,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Pelco VideoXpert",
+      "tag": "A",
+      "x": 132.1125030517578,
+      "y": 6007.5,
+      "width": 140.9250030517578,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "read more",
+      "tag": "A",
+      "x": 219.9875030517578,
+      "y": 6087.39990234375,
+      "width": 68.25,
+      "height": 18.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "35 more",
+      "tag": "A",
+      "x": 423.7124938964844,
+      "y": 6230.2001953125,
+      "width": 77.20000457763672,
+      "height": 22.5,
+      "visible": true
+    },
+    {
+      "text": "View Details",
+      "tag": "A",
+      "x": 780.0250244140625,
+      "y": 6227.10009765625,
+      "width": 118.7750015258789,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "A",
+      "x": 430.5,
+      "y": 6335.30029296875,
+      "width": 9,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "38",
+      "tag": "A",
+      "x": 496,
+      "y": 6335.30029296875,
+      "width": 17.98750114440918,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 535.3125,
+      "y": 6335.30029296875,
+      "width": 9.375,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Ask Question",
+      "tag": "A",
+      "x": 721.2000122070312,
+      "y": 6494.10009765625,
+      "width": 168.8000030517578,
+      "height": 46,
+      "visible": true
+    },
+    {
+      "text": "Ask Question",
+      "tag": "BUTTON",
+      "x": 721.2000122070312,
+      "y": 6494.10009765625,
+      "width": 168.8000030517578,
+      "height": 46,
+      "visible": true
+    },
+    {
+      "text": "Continue",
+      "tag": "A",
+      "x": 990.7999877929688,
+      "y": 156.1999969482422,
+      "width": 248.40000915527344,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "Submit",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "×",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Verify",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Grab a Deal",
+      "tag": "A",
+      "x": 991.6000366210938,
+      "y": 505.3999938964844,
+      "width": 246.8000030517578,
+      "height": 44.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Stock Market Software",
+      "tag": "A",
+      "x": 10,
+      "y": 6846.30029296875,
+      "width": 181.5749969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Retail Billing Software",
+      "tag": "A",
+      "x": 248.4250030517578,
+      "y": 6846.30029296875,
+      "width": 175.8625030517578,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Astrology Software",
+      "tag": "A",
+      "x": 486.8500061035156,
+      "y": 6846.30029296875,
+      "width": 158.8000030517578,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Plagiarism Checker",
+      "tag": "A",
+      "x": 10,
+      "y": 6875.10009765625,
+      "width": 160.5625,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Pharmacy Software",
+      "tag": "A",
+      "x": 248.4250030517578,
+      "y": 6875.10009765625,
+      "width": 162.15000915527344,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "HR Software",
+      "tag": "A",
+      "x": 486.8500061035156,
+      "y": 6875.10009765625,
+      "width": 118.01250457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Accounting Software",
+      "tag": "A",
+      "x": 10,
+      "y": 6903.89990234375,
+      "width": 170.1999969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Payment Gateway",
+      "tag": "A",
+      "x": 248.4250030517578,
+      "y": 6903.89990234375,
+      "width": 152.1999969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Data Recovery Software",
+      "tag": "A",
+      "x": 486.8500061035156,
+      "y": 6903.89990234375,
+      "width": 188.7375030517578,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Video Editing Software",
+      "tag": "A",
+      "x": 10,
+      "y": 6932.7001953125,
+      "width": 181.1999969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "About us",
+      "tag": "A",
+      "x": 799.4874877929688,
+      "y": 6846.30029296875,
+      "width": 95.70000457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 799.4874877929688,
+      "y": 6875.10009765625,
+      "width": 108.7125015258789,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 799.4874877929688,
+      "y": 6903.89990234375,
+      "width": 88.1624984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Press",
+      "tag": "A",
+      "x": 799.4874877929688,
+      "y": 6932.7001953125,
+      "width": 75.32500457763672,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 799.4874877929688,
+      "y": 6961.5,
+      "width": 67.9749984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Hot Deals",
+      "tag": "A",
+      "x": 799.4874877929688,
+      "y": 6990.30029296875,
+      "width": 126.36250305175781,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Advertise With Us",
+      "tag": "A",
+      "x": 1035.987548828125,
+      "y": 6846.30029296875,
+      "width": 150.2375030517578,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Write with us",
+      "tag": "A",
+      "x": 1035.987548828125,
+      "y": 6875.10009765625,
+      "width": 120.5374984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sell With Us",
+      "tag": "A",
+      "x": 1035.987548828125,
+      "y": 6903.89990234375,
+      "width": 113.9124984741211,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 1035.987548828125,
+      "y": 6932.7001953125,
+      "width": 131.6875,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 10.90000057220459,
+      "y": 7166.1875,
+      "width": 136.6999969482422,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 160.83750915527344,
+      "y": 7166.17529296875,
+      "width": 135.46250915527344,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 309.5500183105469,
+      "y": 7167.2001953125,
+      "width": 41,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 535.8875122070312,
+      "y": 7160.2001953125,
+      "width": 34,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 583.0875244140625,
+      "y": 7160.2001953125,
+      "width": 34,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 630.2875366210938,
+      "y": 7160.2001953125,
+      "width": 34,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 677.4874877929688,
+      "y": 7160.2001953125,
+      "width": 34,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 724.6875,
+      "y": 7160.2001953125,
+      "width": 34,
+      "height": 19.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 1139.7000732421875,
+      "y": 7140.5,
+      "width": 124.26250457763672,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Cancellation and Refund",
+      "tag": "A",
+      "x": 10,
+      "y": 7247.60009765625,
+      "width": 156.33750915527344,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Terms of use",
+      "tag": "A",
+      "x": 186.90000915527344,
+      "y": 7247.60009765625,
+      "width": 85.5625,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Privacy",
+      "tag": "A",
+      "x": 293.3500061035156,
+      "y": 7247.60009765625,
+      "width": 46.01250076293945,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Help & Support",
+      "tag": "A",
+      "x": 990.6749877929688,
+      "y": 7247.60009765625,
+      "width": 98.17500305175781,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Support@techjockey.com",
+      "tag": "A",
+      "x": 1109.6375732421875,
+      "y": 7247.60009765625,
+      "width": 160.3625030517578,
+      "height": 16.80000114440918,
+      "visible": true
+    }
+  ]
+}
