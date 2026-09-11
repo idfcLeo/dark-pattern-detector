@@ -1,39 +1,39 @@
-Training Report — 2026-09-11T16:03:39.069032
+Training Report — 2026-09-11T16:47:46.391114
 ============================================================
 
 BINARY MODEL (LR)
-  Best F1: 0.9387
+  Best F1: 0.9095
   Classification Report:
               precision    recall  f1-score   support
 
-           0       0.97      0.99      0.98       707
-           1       0.97      0.91      0.94       245
+           0       0.95      0.99      0.97       707
+           1       0.98      0.85      0.91       249
 
-    accuracy                           0.97       952
-   macro avg       0.97      0.95      0.96       952
-weighted avg       0.97      0.97      0.97       952
+    accuracy                           0.96       956
+   macro avg       0.97      0.92      0.94       956
+weighted avg       0.96      0.96      0.95       956
 
-  Domain [foreign]: F1=0.9846, Acc=0.9847, n=2356
-  Domain [indian]: F1=0.9895, Acc=0.9996, n=2404
-  Domain [combined]: F1=0.9848, Acc=0.9922, n=4760
+  Domain [foreign]: F1=0.9392, Acc=0.9423, n=2356
+  Domain [indian]: F1=0.8276, Acc=0.9917, n=2424
+  Domain [combined]: F1=0.9337, Acc=0.9674, n=4780
 
 MULTI-CLASS MODEL (LR)
-  Best F1 (weighted): 0.9493
+  Best F1 (weighted): 0.9374
   Classification Report:
               precision    recall  f1-score   support
 
-Misdirection       0.89      0.93      0.91        42
- Obstruction       1.00      0.67      0.80         6
+Misdirection       0.89      0.91      0.90        43
+ Obstruction       1.00      0.20      0.33         5
        Other       0.00      0.00      0.00         3
     Scarcity       1.00      0.98      0.99        86
-Social Proof       0.98      0.98      0.98        65
-     Urgency       0.90      1.00      0.95        44
+Social Proof       0.92      1.00      0.96        68
+     Urgency       0.96      1.00      0.98        45
 
-    accuracy                           0.96       246
-   macro avg       0.79      0.76      0.77       246
-weighted avg       0.95      0.96      0.95       246
+    accuracy                           0.95       250
+   macro avg       0.79      0.68      0.69       250
+weighted avg       0.94      0.95      0.94       250
 
   Rare categories merged to 'Other': ['Sneaking', 'Forced Action']
-  Domain [foreign]: F1=0.9897, Acc=0.9898, n=1178
-  Domain [indian]: F1=1.0000, Acc=1.0000, n=48
-  Domain [combined]: F1=0.9901, Acc=0.9902, n=1226
+  Domain [foreign]: F1=0.9593, Acc=0.9660, n=1178
+  Domain [indian]: F1=1.0000, Acc=1.0000, n=68
+  Domain [combined]: F1=0.9615, Acc=0.9679, n=1246
