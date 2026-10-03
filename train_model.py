@@ -20,11 +20,21 @@ import prepare_dataset
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import StratifiedKFold, cross_validate
+from sklearn.model_selection import StratifiedKFold, cross_validate, train_test_split
 from sklearn.metrics import (
-    classification_report, confusion_matrix, f1_score,
-    accuracy_score, precision_score, recall_score
+    classification_report,
+    confusion_matrix,
+    f1_score,
+    accuracy_score,
+    precision_score,
+    recall_score,
 )
+
+try:
+    import xgboost as xgb
+    HAS_XGBOOST = True
+except ImportError:
+    HAS_XGBOOST = False
 
 try:
     import lightgbm as lgb
@@ -40,6 +50,7 @@ except ImportError:
     HAS_OPTUNA = False
 
 warnings.filterwarnings("ignore")
+
 
 # -----------------------------------------------------------------------------
 # Configuration
@@ -65,14 +76,19 @@ TFIDF_MAX_FEATURES = 5000
 
 def load_dataset() -> pd.DataFrame:
     """Load the combined dataset and validate required columns."""
-    df = pd.read_csv(COMBINED_DATASET, sep="\t", encoding="utf-8")
+
+    df = pd.read_csv(
+        COMBINED_DATASET,
+        sep="\t",
+        encoding="utf-8"
+    )
 
     required = ["text", "label", "Pattern Category", "domain"]
     missing = [c for c in required if c not in df.columns]
+
     if missing:
         raise ValueError(f"Missing required columns: {missing}")
 
-    # Drop rows with missing text
     df = df.dropna(subset=["text"])
     df["text"] = df["text"].astype(str)
 
@@ -88,15 +104,27 @@ def handle_rare_categories(df: pd.DataFrame) -> pd.DataFrame:
     Merge rare categories (< RARE_CATEGORY_MIN_SAMPLES) into 'Other'.
     Only affects dark-pattern rows (label=1).
     """
+
     dark = df[df["label"] == 1]
+
     cat_counts = dark["Pattern Category"].value_counts()
 
-    rare = [cat for cat, count in cat_counts.items() if count < RARE_CATEGORY_MIN_SAMPLES]
+    rare = [
+        cat
+        for cat, count in cat_counts.items()
+        if count < RARE_CATEGORY_MIN_SAMPLES
+    ]
 
     if rare:
         print(f"\n  Merging rare categories into 'Other': {rare}")
-        print(f"    (each had < {RARE_CATEGORY_MIN_SAMPLES} samples)")
-        df.loc[df["Pattern Category"].isin(rare), "Pattern Category"] = "Other"
+        print(
+            f"    (each had < {RARE_CATEGORY_MIN_SAMPLES} samples)"
+        )
+
+        df.loc[
+            df["Pattern Category"].isin(rare),
+            "Pattern Category"
+        ] = "Other"
 
     return df
 
@@ -105,34 +133,159 @@ def handle_rare_categories(df: pd.DataFrame) -> pd.DataFrame:
 # Model Training with Optuna
 # -----------------------------------------------------------------------------
 
-def create_objective(X, y, model_type="lr", n_folds=N_FOLDS, scoring="f1_weighted"):
+def create_objective(
+    X,
+    y,
+    model_type="lr",
+    n_folds=N_FOLDS,
+    scoring="f1_weighted"
+):
     """Create an Optuna objective function for hyperparameter tuning."""
 
+    # XGBoost's sklearn API requires integer class labels (0..n-1).
+    # LR, RF, and LightGBM accept string labels natively.
+    if (
+        model_type == "xgb"
+        and HAS_XGBOOST
+        and not np.issubdtype(np.asarray(y).dtype, np.integer)
+    ):
+        from sklearn.preprocessing import LabelEncoder
+
+        encoder = LabelEncoder()
+        y = encoder.fit_transform(y)
+
     def objective(trial):
+
         if model_type == "lr":
-            C = trial.suggest_float("C", 1e-4, 10.0, log=True)
-            model = LogisticRegression(
-                C=C, max_iter=1000, random_state=RANDOM_STATE
+
+            C = trial.suggest_float(
+                "C",
+                1e-4,
+                10.0,
+                log=True
             )
-        elif model_type == "rf":
-            model = RandomForestClassifier(
-                max_depth=trial.suggest_int("max_depth", 2, 32),
-                n_estimators=trial.suggest_int("n_estimators", 50, 500),
-                min_samples_split=trial.suggest_int("min_samples_split", 2, 20),
-                min_samples_leaf=trial.suggest_int("min_samples_leaf", 1, 10),
+
+            model = LogisticRegression(
+                C=C,
+                max_iter=1000,
                 random_state=RANDOM_STATE
             )
+
+        elif model_type == "rf":
+
+            model = RandomForestClassifier(
+                max_depth=trial.suggest_int(
+                    "max_depth",
+                    2,
+                    32
+                ),
+                n_estimators=trial.suggest_int(
+                    "n_estimators",
+                    50,
+                    500
+                ),
+                min_samples_split=trial.suggest_int(
+                    "min_samples_split",
+                    2,
+                    20
+                ),
+                min_samples_leaf=trial.suggest_int(
+                    "min_samples_leaf",
+                    1,
+                    10
+                ),
+                random_state=RANDOM_STATE
+            )
+
         elif model_type == "lgbm" and HAS_LIGHTGBM:
+
             model = lgb.LGBMClassifier(
-                num_leaves=trial.suggest_int("num_leaves", 8, 128),
-                learning_rate=trial.suggest_float("learning_rate", 0.01, 0.3, log=True),
-                n_estimators=trial.suggest_int("n_estimators", 50, 500),
-                min_child_samples=trial.suggest_int("min_child_samples", 5, 50),
-                reg_alpha=trial.suggest_float("reg_alpha", 1e-8, 10.0, log=True),
-                reg_lambda=trial.suggest_float("reg_lambda", 1e-8, 10.0, log=True),
+                num_leaves=trial.suggest_int(
+                    "num_leaves",
+                    8,
+                    128
+                ),
+                learning_rate=trial.suggest_float(
+                    "learning_rate",
+                    0.01,
+                    0.3,
+                    log=True
+                ),
+                n_estimators=trial.suggest_int(
+                    "n_estimators",
+                    50,
+                    500
+                ),
+                min_child_samples=trial.suggest_int(
+                    "min_child_samples",
+                    5,
+                    50
+                ),
+                reg_alpha=trial.suggest_float(
+                    "reg_alpha",
+                    1e-8,
+                    10.0,
+                    log=True
+                ),
+                reg_lambda=trial.suggest_float(
+                    "reg_lambda",
+                    1e-8,
+                    10.0,
+                    log=True
+                ),
                 random_state=RANDOM_STATE,
                 verbose=-1
             )
+
+        elif model_type == "xgb" and HAS_XGBOOST:
+
+            model = xgb.XGBClassifier(
+                n_estimators=trial.suggest_int(
+                    "n_estimators",
+                    50,
+                    500
+                ),
+                max_depth=trial.suggest_int(
+                    "max_depth",
+                    2,
+                    12
+                ),
+                learning_rate=trial.suggest_float(
+                    "learning_rate",
+                    0.01,
+                    0.3,
+                    log=True
+                ),
+                subsample=trial.suggest_float(
+                    "subsample",
+                    0.5,
+                    1.0
+                ),
+                colsample_bytree=trial.suggest_float(
+                    "colsample_bytree",
+                    0.5,
+                    1.0
+                ),
+                min_child_weight=trial.suggest_int(
+                    "min_child_weight",
+                    1,
+                    10
+                ),
+                reg_alpha=trial.suggest_float(
+                    "reg_alpha",
+                    1e-8,
+                    10.0,
+                    log=True
+                ),
+                reg_lambda=trial.suggest_float(
+                    "reg_lambda",
+                    1e-8,
+                    10.0,
+                    log=True
+                ),
+                random_state=RANDOM_STATE,
+            )
+
         else:
             return 0.0
 
@@ -140,84 +293,309 @@ def create_objective(X, y, model_type="lr", n_folds=N_FOLDS, scoring="f1_weighte
         if isinstance(y[0], (int, np.integer)):
             min_class_count = int(np.bincount(y).min())
         else:
-            min_class_count = int(pd.Series(y).value_counts().min())
+            min_class_count = int(
+                pd.Series(y).value_counts().min()
+            )
+
         actual_folds = min(n_folds, min_class_count)
+
         if actual_folds < 2:
             actual_folds = 2
 
-        skf = StratifiedKFold(n_splits=actual_folds, shuffle=True, random_state=RANDOM_STATE)
+        skf = StratifiedKFold(
+            n_splits=actual_folds,
+            shuffle=True,
+            random_state=RANDOM_STATE
+        )
 
         try:
-            scores = cross_validate(model, X, y, cv=skf, scoring=scoring)
+
+            scores = cross_validate(
+                model,
+                X,
+                y,
+                cv=skf,
+                scoring=scoring
+            )
+
             return scores["test_score"].mean()
+
         except Exception as e:
+
             print(f"    Trial failed: {e}")
             return 0.0
 
     return objective
 
 
-def train_single_model(X_train, y_train, X_test, y_test, model_type, task_name):
-    """Train a single model with Optuna tuning, return best model + metrics."""
-    print(f"\n  Training {model_type.upper()} for {task_name}...")
+def train_single_model(
+    X_train,
+    y_train,
+    X_test,
+    y_test,
+    model_type,
+    task_name
+):
+    """Train a single model with Optuna tuning and return model + metrics."""
 
-    scoring = "f1" if len(np.unique(y_train)) == 2 else "f1_weighted"
+    print(
+        f"\n  Training {model_type.upper()} for {task_name}..."
+    )
+
+    scoring = (
+        "f1"
+        if len(np.unique(y_train)) == 2
+        else "f1_weighted"
+    )
+
+    # -------------------------------------------------------------------------
+    # Optuna Hyperparameter Tuning
+    # -------------------------------------------------------------------------
 
     if HAS_OPTUNA:
-        study = optuna.create_study(direction="maximize")
-        objective = create_objective(X_train, y_train, model_type=model_type, scoring=scoring)
-        study.optimize(objective, n_trials=N_OPTUNA_TRIALS, show_progress_bar=False)
+
+        study = optuna.create_study(
+            direction="maximize"
+        )
+
+        objective = create_objective(
+            X_train,
+            y_train,
+            model_type=model_type,
+            scoring=scoring
+        )
+
+        study.optimize(
+            objective,
+            n_trials=N_OPTUNA_TRIALS,
+            show_progress_bar=False
+        )
+
         best_params = study.best_params
         best_score = study.best_value
-        print(f"    Best CV {scoring}: {best_score:.4f}")
-        print(f"    Best params: {best_params}")
-    else:
-        best_params = {}
-        print("    (Optuna not available, using defaults)")
 
-    # Retrain on full training set with best params
-    if model_type == "lr":
-        model = LogisticRegression(
-            C=best_params.get("C", 1.0), max_iter=1000, random_state=RANDOM_STATE
+        print(
+            f"    Best CV {scoring}: {best_score:.4f}"
         )
+
+        print(
+            f"    Best params: {best_params}"
+        )
+
+    else:
+
+        best_params = {}
+
+        print(
+            "    (Optuna not available, using defaults)"
+        )
+
+    # -------------------------------------------------------------------------
+    # Build Final Model
+    # -------------------------------------------------------------------------
+
+    if model_type == "lr":
+
+        model = LogisticRegression(
+            C=best_params.get("C", 1.0),
+            max_iter=1000,
+            random_state=RANDOM_STATE
+        )
+
     elif model_type == "rf":
+
         model = RandomForestClassifier(
             max_depth=best_params.get("max_depth", 10),
             n_estimators=best_params.get("n_estimators", 200),
-            min_samples_split=best_params.get("min_samples_split", 5),
-            min_samples_leaf=best_params.get("min_samples_leaf", 2),
+            min_samples_split=best_params.get(
+                "min_samples_split",
+                5
+            ),
+            min_samples_leaf=best_params.get(
+                "min_samples_leaf",
+                2
+            ),
             random_state=RANDOM_STATE
         )
+
     elif model_type == "lgbm" and HAS_LIGHTGBM:
+
         model = lgb.LGBMClassifier(
-            num_leaves=best_params.get("num_leaves", 31),
-            learning_rate=best_params.get("learning_rate", 0.1),
-            n_estimators=best_params.get("n_estimators", 200),
-            min_child_samples=best_params.get("min_child_samples", 20),
-            reg_alpha=best_params.get("reg_alpha", 0.1),
-            reg_lambda=best_params.get("reg_lambda", 0.1),
+            num_leaves=best_params.get(
+                "num_leaves",
+                31
+            ),
+            learning_rate=best_params.get(
+                "learning_rate",
+                0.1
+            ),
+            n_estimators=best_params.get(
+                "n_estimators",
+                200
+            ),
+            min_child_samples=best_params.get(
+                "min_child_samples",
+                20
+            ),
+            reg_alpha=best_params.get(
+                "reg_alpha",
+                0.1
+            ),
+            reg_lambda=best_params.get(
+                "reg_lambda",
+                0.1
+            ),
             random_state=RANDOM_STATE,
             verbose=-1
         )
+
+    elif model_type == "xgb" and HAS_XGBOOST:
+
+        model = xgb.XGBClassifier(
+            n_estimators=best_params.get(
+                "n_estimators",
+                200
+            ),
+            max_depth=best_params.get(
+                "max_depth",
+                6
+            ),
+            learning_rate=best_params.get(
+                "learning_rate",
+                0.1
+            ),
+            subsample=best_params.get(
+                "subsample",
+                1.0
+            ),
+            colsample_bytree=best_params.get(
+                "colsample_bytree",
+                1.0
+            ),
+            min_child_weight=best_params.get(
+                "min_child_weight",
+                1
+            ),
+            reg_alpha=best_params.get(
+                "reg_alpha",
+                0.0
+            ),
+            reg_lambda=best_params.get(
+                "reg_lambda",
+                1.0
+            ),
+            random_state=RANDOM_STATE,
+        )
+
     else:
         return None, {}
 
-    model.fit(X_train, y_train)
+    # -------------------------------------------------------------------------
+    # XGBoost Label Encoding
+    # -------------------------------------------------------------------------
+
+    label_encoder = None
+    y_train_fit = y_train
+
+    if (
+        model_type == "xgb"
+        and HAS_XGBOOST
+        and not np.issubdtype(
+            np.asarray(y_train).dtype,
+            np.integer
+        )
+    ):
+        from sklearn.preprocessing import LabelEncoder
+
+        label_encoder = LabelEncoder()
+
+        y_train_fit = label_encoder.fit_transform(
+            y_train
+        )
+
+    # -------------------------------------------------------------------------
+    # Final Training
+    # -------------------------------------------------------------------------
+
+    model.fit(
+        X_train,
+        y_train_fit
+    )
+
+    # -------------------------------------------------------------------------
+    # Prediction
+    # -------------------------------------------------------------------------
+
     preds = model.predict(X_test)
 
+    if label_encoder is not None:
+        preds = label_encoder.inverse_transform(
+            preds
+        )
+
+    # -------------------------------------------------------------------------
     # Metrics
+    # -------------------------------------------------------------------------
+
     metrics = {
-        "accuracy": accuracy_score(y_test, preds),
-        "f1": f1_score(y_test, preds, average="weighted" if len(np.unique(y_train)) > 2 else "binary"),
-        "precision": precision_score(y_test, preds, average="weighted" if len(np.unique(y_train)) > 2 else "binary", zero_division=0),
-        "recall": recall_score(y_test, preds, average="weighted" if len(np.unique(y_train)) > 2 else "binary", zero_division=0),
-        "report": classification_report(y_test, preds, zero_division=0),
-        "confusion_matrix": confusion_matrix(y_test, preds).tolist(),
+        "accuracy": accuracy_score(
+            y_test,
+            preds
+        ),
+
+        "f1": f1_score(
+            y_test,
+            preds,
+            average=(
+                "weighted"
+                if len(np.unique(y_train)) > 2
+                else "binary"
+            )
+        ),
+
+        "precision": precision_score(
+            y_test,
+            preds,
+            average=(
+                "weighted"
+                if len(np.unique(y_train)) > 2
+                else "binary"
+            ),
+            zero_division=0
+        ),
+
+        "recall": recall_score(
+            y_test,
+            preds,
+            average=(
+                "weighted"
+                if len(np.unique(y_train)) > 2
+                else "binary"
+            ),
+            zero_division=0
+        ),
+
+        "report": classification_report(
+            y_test,
+            preds,
+            zero_division=0
+        ),
+
+        "confusion_matrix": confusion_matrix(
+            y_test,
+            preds
+        ).tolist(),
+
         "best_params": best_params,
     }
 
-    print(f"    Test accuracy: {metrics['accuracy']:.4f}")
-    print(f"    Test F1: {metrics['f1']:.4f}")
+    print(
+        f"    Test accuracy: {metrics['accuracy']:.4f}"
+    )
+
+    print(
+        f"    Test F1: {metrics['f1']:.4f}"
+    )
 
     return model, metrics
 
@@ -226,46 +604,122 @@ def train_single_model(X_train, y_train, X_test, y_test, model_type, task_name):
 # Domain-Separated Evaluation
 # -----------------------------------------------------------------------------
 
-def evaluate_by_domain(model, vectorizer, df, label_col, task_name):
+def evaluate_by_domain(
+    model,
+    vectorizer,
+    df,
+    label_col,
+    task_name
+):
     """
-    Evaluate model separately for foreign, Indian, and combined domains.
-    This is the domain-split evaluation the paper requires.
+    Evaluate model separately for foreign, Indian,
+    and combined domains.
     """
-    print(f"\n  {'-'*50}")
-    print(f"  Domain-separated evaluation: {task_name}")
-    print(f"  {'-'*50}")
+
+    print(f"\n  {'-' * 50}")
+    print(
+        f"  Domain-separated evaluation: {task_name}"
+    )
+    print(f"  {'-' * 50}")
 
     results = {}
 
-    for domain_name in ["foreign", "indian", "combined"]:
+    for domain_name in [
+        "foreign",
+        "indian",
+        "combined"
+    ]:
+
         if domain_name == "combined":
             subset = df
         else:
-            subset = df[df["domain"] == domain_name]
+            subset = df[
+                df["domain"] == domain_name
+            ]
 
         if len(subset) < 5:
-            print(f"    {domain_name}: too few samples ({len(subset)}), skipping")
+
+            print(
+                f"    {domain_name}: too few samples "
+                f"({len(subset)}), skipping"
+            )
+
             continue
 
-        X = vectorizer.transform(subset["text"])
+        X = vectorizer.transform(
+            subset["text"]
+        )
+
         y_true = subset[label_col].values
+
         y_pred = model.predict(X)
 
-        avg = "weighted" if len(np.unique(y_true)) > 2 else "binary"
+        avg = (
+            "weighted"
+            if len(np.unique(y_true)) > 2
+            else "binary"
+        )
+
         metrics = {
             "n_samples": len(subset),
-            "accuracy": float(accuracy_score(y_true, y_pred)),
-            "f1": float(f1_score(y_true, y_pred, average=avg, zero_division=0)),
-            "precision": float(precision_score(y_true, y_pred, average=avg, zero_division=0)),
-            "recall": float(recall_score(y_true, y_pred, average=avg, zero_division=0)),
+
+            "accuracy": float(
+                accuracy_score(
+                    y_true,
+                    y_pred
+                )
+            ),
+
+            "f1": float(
+                f1_score(
+                    y_true,
+                    y_pred,
+                    average=avg,
+                    zero_division=0
+                )
+            ),
+
+            "precision": float(
+                precision_score(
+                    y_true,
+                    y_pred,
+                    average=avg,
+                    zero_division=0
+                )
+            ),
+
+            "recall": float(
+                recall_score(
+                    y_true,
+                    y_pred,
+                    average=avg,
+                    zero_division=0
+                )
+            ),
         }
+
         results[domain_name] = metrics
 
-        print(f"\n    [{domain_name.upper()}] (n={metrics['n_samples']})")
-        print(f"      Accuracy:  {metrics['accuracy']:.4f}")
-        print(f"      F1:        {metrics['f1']:.4f}")
-        print(f"      Precision: {metrics['precision']:.4f}")
-        print(f"      Recall:    {metrics['recall']:.4f}")
+        print(
+            f"\n    [{domain_name.upper()}] "
+            f"(n={metrics['n_samples']})"
+        )
+
+        print(
+            f"      Accuracy:  {metrics['accuracy']:.4f}"
+        )
+
+        print(
+            f"      F1:        {metrics['f1']:.4f}"
+        )
+
+        print(
+            f"      Precision: {metrics['precision']:.4f}"
+        )
+
+        print(
+            f"      Recall:    {metrics['recall']:.4f}"
+        )
 
     return results
 
@@ -275,200 +729,482 @@ def evaluate_by_domain(model, vectorizer, df, label_col, task_name):
 # -----------------------------------------------------------------------------
 
 def main():
-    parser = argparse.ArgumentParser(description="Dark Pattern Model Training")
+
+    parser = argparse.ArgumentParser(
+        description="Dark Pattern Model Training"
+    )
+
     parser.add_argument(
         "--prepare",
         action="store_true",
-        help="Run data preparation pipeline (prepare_dataset.py) before training to update dataset from data/raw",
+        help=(
+            "Run data preparation pipeline "
+            "(prepare_dataset.py) before training "
+            "to update dataset from data/raw"
+        ),
     )
+
     args = parser.parse_args()
 
     print("=" * 60)
     print("DARK PATTERN MODEL TRAINING")
     print("=" * 60)
-    print(f"Timestamp: {datetime.now().isoformat()}")
 
-    MODELS_DIR.mkdir(parents=True, exist_ok=True)
+    print(
+        f"Timestamp: {datetime.now().isoformat()}"
+    )
 
-    if args.prepare or not COMBINED_DATASET.exists():
-        print("\n[INFO] Running data preparation pipeline on data/raw...")
+    MODELS_DIR.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    # -------------------------------------------------------------------------
+    # Data Preparation
+    # -------------------------------------------------------------------------
+
+    if (
+        args.prepare
+        or not COMBINED_DATASET.exists()
+    ):
+
+        print(
+            "\n[INFO] Running data preparation "
+            "pipeline on data/raw..."
+        )
+
         prepare_dataset.main()
-        print("\n[INFO] Data preparation complete. Proceeding to training...\n")
 
-    # Load data
+        print(
+            "\n[INFO] Data preparation complete. "
+            "Proceeding to training...\n"
+        )
+
     df = load_dataset()
 
     report_lines = []
-    report_lines.append(f"Training Report — {datetime.now().isoformat()}")
+
+    report_lines.append(
+        f"Training Report — {datetime.now().isoformat()}"
+    )
+
     report_lines.append("=" * 60)
 
-    # =======================================================================
+    # =========================================================================
     # BINARY MODEL
-    # =======================================================================
+    # =========================================================================
 
-    print(f"\n{'='*60}")
+    print(f"\n{'=' * 60}")
     print("BINARY MODEL (dark pattern vs. not)")
-    print(f"{'='*60}")
+    print(f"{'=' * 60}")
 
-    # Vectorize
-    binary_vectorizer = TfidfVectorizer(max_features=TFIDF_MAX_FEATURES, ngram_range=(1, 2))
-    X_all = binary_vectorizer.fit_transform(df["text"])
+    binary_vectorizer = TfidfVectorizer(
+        max_features=TFIDF_MAX_FEATURES,
+        ngram_range=(1, 2)
+    )
+
+    X_all = binary_vectorizer.fit_transform(
+        df["text"]
+    )
+
     y_binary = df["label"].values.astype(int)
 
-    # Train/test split (stratified, preserving domain distribution)
-    from sklearn.model_selection import train_test_split
     train_idx, test_idx = train_test_split(
-        np.arange(len(df)), test_size=0.2, random_state=RANDOM_STATE,
+        np.arange(len(df)),
+        test_size=0.2,
+        random_state=RANDOM_STATE,
         stratify=y_binary
     )
 
-    X_train, X_test = X_all[train_idx], X_all[test_idx]
-    y_train, y_test = y_binary[train_idx], y_binary[test_idx]
+    X_train = X_all[train_idx]
+    X_test = X_all[test_idx]
 
-    # Train models
-    model_types = ["lr", "rf"]
+    y_train = y_binary[train_idx]
+    y_test = y_binary[test_idx]
+
+    model_types = [
+        "lr",
+        "rf"
+    ]
+
     if HAS_LIGHTGBM:
         model_types.append("lgbm")
+
+    if HAS_XGBOOST:
+        model_types.append("xgb")
 
     best_binary_model = None
     best_binary_f1 = -1
     best_binary_type = None
+
     all_binary_metrics = {}
 
     for mt in model_types:
-        model, metrics = train_single_model(X_train, y_train, X_test, y_test, mt, "binary")
+
+        model, metrics = train_single_model(
+            X_train,
+            y_train,
+            X_test,
+            y_test,
+            mt,
+            "binary"
+        )
+
         if model is not None:
+
             all_binary_metrics[mt] = metrics
+
             if metrics["f1"] > best_binary_f1:
+
                 best_binary_f1 = metrics["f1"]
                 best_binary_model = model
                 best_binary_type = mt
 
     if best_binary_model is not None:
-        print(f"\n  Best binary model: {best_binary_type.upper()} (F1={best_binary_f1:.4f})")
-        print(f"\n  Classification Report:")
-        print(all_binary_metrics[best_binary_type]["report"])
 
-        # Save
-        joblib.dump(best_binary_model, MODELS_DIR / "binary_model.pkl")
-        joblib.dump(binary_vectorizer, MODELS_DIR / "binary_vectorizer.pkl")
-        print(f"  Saved: {MODELS_DIR / 'binary_model.pkl'}")
-
-        # Domain-separated evaluation
-        binary_domain_results = evaluate_by_domain(
-            best_binary_model, binary_vectorizer, df, "label", "Binary"
+        print(
+            f"\n  Best binary model: "
+            f"{best_binary_type.upper()} "
+            f"(F1={best_binary_f1:.4f})"
         )
 
-        report_lines.append(f"\nBINARY MODEL ({best_binary_type.upper()})")
-        report_lines.append(f"  Best F1: {best_binary_f1:.4f}")
-        report_lines.append(f"  Classification Report:\n{all_binary_metrics[best_binary_type]['report']}")
+        print(
+            "\n  Classification Report:"
+        )
+
+        print(
+            all_binary_metrics[
+                best_binary_type
+            ]["report"]
+        )
+
+        joblib.dump(
+            best_binary_model,
+            MODELS_DIR / "binary_model.pkl"
+        )
+
+        joblib.dump(
+            binary_vectorizer,
+            MODELS_DIR / "binary_vectorizer.pkl"
+        )
+
+        print(
+            f"  Saved: "
+            f"{MODELS_DIR / 'binary_model.pkl'}"
+        )
+
+        test_df = df.iloc[test_idx]
+
+        binary_domain_results = evaluate_by_domain(
+            best_binary_model,
+            binary_vectorizer,
+            test_df,
+            "label",
+            "Binary"
+        )
+
+        report_lines.append(
+            f"\nBINARY MODEL "
+            f"({best_binary_type.upper()})"
+        )
+
+        report_lines.append(
+            f"  Best F1: {best_binary_f1:.4f}"
+        )
+
+        report_lines.append(
+            "  Classification Report:\n"
+            f"{all_binary_metrics[best_binary_type]['report']}"
+        )
+
         for domain, metrics in binary_domain_results.items():
-            report_lines.append(f"  Domain [{domain}]: F1={metrics['f1']:.4f}, "
-                              f"Acc={metrics['accuracy']:.4f}, n={metrics['n_samples']}")
 
-    # =======================================================================
-    # MULTI-CLASS MODEL (on dark-pattern rows only)
-    # =======================================================================
+            report_lines.append(
+                f"  Domain [{domain}]: "
+                f"F1={metrics['f1']:.4f}, "
+                f"Acc={metrics['accuracy']:.4f}, "
+                f"n={metrics['n_samples']}"
+            )
 
-    print(f"\n{'='*60}")
-    print("MULTI-CLASS MODEL (category prediction, dark-pattern rows only)")
-    print(f"{'='*60}")
+    # =========================================================================
+    # MULTI-CLASS MODEL
+    # =========================================================================
 
-    dark_df = df[df["label"] == 1].copy()
-    dark_df = handle_rare_categories(dark_df)
+    print(f"\n{'=' * 60}")
 
-    # Check minimum class size for stratified CV
-    cat_counts = dark_df["Pattern Category"].value_counts()
-    print(f"\n  Category distribution (after rare-merge):")
+    print(
+        "MULTI-CLASS MODEL "
+        "(category prediction, dark-pattern rows only)"
+    )
+
+    print(f"{'=' * 60}")
+
+    dark_df = df[
+        df["label"] == 1
+    ].copy()
+
+    dark_df = handle_rare_categories(
+        dark_df
+    )
+
+    cat_counts = dark_df[
+        "Pattern Category"
+    ].value_counts()
+
+    print(
+        "\n  Category distribution "
+        "(after rare-merge):"
+    )
+
     for cat, count in cat_counts.items():
-        print(f"    {cat}: {count}")
 
-    # Categories with enough data
+        print(
+            f"    {cat}: {count}"
+        )
+
     min_count = cat_counts.min()
+
     if min_count < 2:
-        print(f"  WARNING: Category with only {min_count} sample(s) — may cause CV issues")
 
-    # Vectorize
-    mc_vectorizer = TfidfVectorizer(max_features=TFIDF_MAX_FEATURES, ngram_range=(1, 2))
-    X_dark = mc_vectorizer.fit_transform(dark_df["text"])
-    y_mc = dark_df["Pattern Category"].values
+        print(
+            f"  WARNING: Category with only "
+            f"{min_count} sample(s) — "
+            f"may cause CV issues"
+        )
 
-    # Train/test split
+    mc_vectorizer = TfidfVectorizer(
+        max_features=TFIDF_MAX_FEATURES,
+        ngram_range=(1, 2)
+    )
+
+    X_dark = mc_vectorizer.fit_transform(
+        dark_df["text"]
+    )
+
+    y_mc = dark_df[
+        "Pattern Category"
+    ].values
+
     train_idx_mc, test_idx_mc = train_test_split(
-        np.arange(len(dark_df)), test_size=0.2, random_state=RANDOM_STATE,
+        np.arange(len(dark_df)),
+        test_size=0.2,
+        random_state=RANDOM_STATE,
         stratify=y_mc
     )
 
-    X_train_mc, X_test_mc = X_dark[train_idx_mc], X_dark[test_idx_mc]
-    y_train_mc, y_test_mc = y_mc[train_idx_mc], y_mc[test_idx_mc]
+    X_train_mc = X_dark[
+        train_idx_mc
+    ]
+
+    X_test_mc = X_dark[
+        test_idx_mc
+    ]
+
+    y_train_mc = y_mc[
+        train_idx_mc
+    ]
+
+    y_test_mc = y_mc[
+        test_idx_mc
+    ]
 
     best_mc_model = None
     best_mc_f1 = -1
     best_mc_type = None
+
     all_mc_metrics = {}
 
     for mt in model_types:
-        model, metrics = train_single_model(X_train_mc, y_train_mc, X_test_mc, y_test_mc, mt, "multi-class")
+
+        model, metrics = train_single_model(
+            X_train_mc,
+            y_train_mc,
+            X_test_mc,
+            y_test_mc,
+            mt,
+            "multi-class"
+        )
+
         if model is not None:
+
             all_mc_metrics[mt] = metrics
+
             if metrics["f1"] > best_mc_f1:
+
                 best_mc_f1 = metrics["f1"]
                 best_mc_model = model
                 best_mc_type = mt
 
     if best_mc_model is not None:
-        print(f"\n  Best multi-class model: {best_mc_type.upper()} (F1={best_mc_f1:.4f})")
-        print(f"\n  Classification Report:")
-        print(all_mc_metrics[best_mc_type]["report"])
 
-        # Save
-        joblib.dump(best_mc_model, MODELS_DIR / "multiclass_model.pkl")
-        joblib.dump(mc_vectorizer, MODELS_DIR / "multiclass_vectorizer.pkl")
-        print(f"  Saved: {MODELS_DIR / 'multiclass_model.pkl'}")
-
-        # Domain-separated evaluation
-        mc_domain_results = evaluate_by_domain(
-            best_mc_model, mc_vectorizer, dark_df, "Pattern Category", "Multi-class"
+        print(
+            f"\n  Best multi-class model: "
+            f"{best_mc_type.upper()} "
+            f"(F1={best_mc_f1:.4f})"
         )
 
-        report_lines.append(f"\nMULTI-CLASS MODEL ({best_mc_type.upper()})")
-        report_lines.append(f"  Best F1 (weighted): {best_mc_f1:.4f}")
-        report_lines.append(f"  Classification Report:\n{all_mc_metrics[best_mc_type]['report']}")
-        report_lines.append(f"  Rare categories merged to 'Other': "
-                          f"{[cat for cat, count in df[df['label']==1]['Pattern Category'].value_counts().items() if count < RARE_CATEGORY_MIN_SAMPLES]}")
+        print(
+            "\n  Classification Report:"
+        )
+
+        print(
+            all_mc_metrics[
+                best_mc_type
+            ]["report"]
+        )
+
+        joblib.dump(
+            best_mc_model,
+            MODELS_DIR / "multiclass_model.pkl"
+        )
+
+        joblib.dump(
+            mc_vectorizer,
+            MODELS_DIR / "multiclass_vectorizer.pkl"
+        )
+
+        print(
+            f"  Saved: "
+            f"{MODELS_DIR / 'multiclass_model.pkl'}"
+        )
+
+        test_dark_df = dark_df.iloc[test_idx_mc]
+
+        mc_domain_results = evaluate_by_domain(
+            best_mc_model,
+            mc_vectorizer,
+            test_dark_df,
+            "Pattern Category",
+            "Multi-class"
+        )
+
+        report_lines.append(
+            f"\nMULTI-CLASS MODEL "
+            f"({best_mc_type.upper()})"
+        )
+
+        report_lines.append(
+            f"  Best F1 (weighted): "
+            f"{best_mc_f1:.4f}"
+        )
+
+        report_lines.append(
+            "  Classification Report:\n"
+            f"{all_mc_metrics[best_mc_type]['report']}"
+        )
+
+        rare_categories = [
+            cat
+            for cat, count in df[df["label"] == 1]["Pattern Category"].value_counts().items()
+            if count < RARE_CATEGORY_MIN_SAMPLES
+        ]
+
+        report_lines.append(
+            "  Rare categories merged to 'Other': "
+            f"{rare_categories}"
+        )
+        
+
         for domain, metrics in mc_domain_results.items():
-            report_lines.append(f"  Domain [{domain}]: F1={metrics['f1']:.4f}, "
-                              f"Acc={metrics['accuracy']:.4f}, n={metrics['n_samples']}")
 
-    # =======================================================================
-    # Save report
-    # =======================================================================
+            report_lines.append(
+                f"  Domain [{domain}]: "
+                f"F1={metrics['f1']:.4f}, "
+                f"Acc={metrics['accuracy']:.4f}, "
+                f"n={metrics['n_samples']}"
+            )
 
-    # Save all model comparison metrics
+    # =========================================================================
+    # Save Comparison
+    # =========================================================================
+
     comparison = {}
+
     for mt in model_types:
+
         comparison[mt] = {
-            "binary": {k: v for k, v in all_binary_metrics.get(mt, {}).items()
-                      if k not in ["report", "confusion_matrix"]}
-            if mt in all_binary_metrics else None,
-            "multiclass": {k: v for k, v in all_mc_metrics.get(mt, {}).items()
-                          if k not in ["report", "confusion_matrix"]}
-            if mt in all_mc_metrics else None,
+
+            "binary": (
+                {
+                    k: v
+                    for k, v in all_binary_metrics.get(
+                        mt,
+                        {}
+                    ).items()
+                    if k not in [
+                        "report",
+                        "confusion_matrix"
+                    ]
+                }
+                if mt in all_binary_metrics
+                else None
+            ),
+
+            "multiclass": (
+                {
+                    k: v
+                    for k, v in all_mc_metrics.get(
+                        mt,
+                        {}
+                    ).items()
+                    if k not in [
+                        "report",
+                        "confusion_matrix"
+                    ]
+                }
+                if mt in all_mc_metrics
+                else None
+            ),
         }
 
-    with open(MODELS_DIR / "model_comparison.json", "w") as f:
-        json.dump(comparison, f, indent=2, default=str)
+    with open(
+        MODELS_DIR / "model_comparison.json",
+        "w"
+    ) as f:
 
-    with open(REPORT_PATH, "w") as f:
-        f.write("\n".join(report_lines))
+        json.dump(
+            comparison,
+            f,
+            indent=2,
+            default=str
+        )
 
-    print(f"\n{'='*60}")
+    with open(
+        REPORT_PATH,
+        "w"
+    ) as f:
+
+        f.write(
+            "\n".join(report_lines)
+        )
+
+    # =========================================================================
+    # Completion
+    # =========================================================================
+
+    print(f"\n{'=' * 60}")
     print("TRAINING COMPLETE")
-    print(f"{'='*60}")
-    print(f"  Binary model:      {MODELS_DIR / 'binary_model.pkl'}")
-    print(f"  Multi-class model: {MODELS_DIR / 'multiclass_model.pkl'}")
-    print(f"  Report:            {REPORT_PATH}")
-    print(f"  Comparison:        {MODELS_DIR / 'model_comparison.json'}")
+    print(f"{'=' * 60}")
+
+    print(
+        f"  Binary model:      "
+        f"{MODELS_DIR / 'binary_model.pkl'}"
+    )
+
+    print(
+        f"  Multi-class model: "
+        f"{MODELS_DIR / 'multiclass_model.pkl'}"
+    )
+
+    print(
+        f"  Report:            "
+        f"{REPORT_PATH}"
+    )
+
+    print(
+        f"  Comparison:        "
+        f"{MODELS_DIR / 'model_comparison.json'}"
+    )
 
 
 if __name__ == "__main__":
