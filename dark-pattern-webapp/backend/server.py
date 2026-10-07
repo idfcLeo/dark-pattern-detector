@@ -10,10 +10,11 @@ Run with:
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from typing import List
+from typing import List, Optional
 import joblib
 import os
-from playwright.sync_api import sync_playwright
+import csv
+from pathlib import Path
 
 app = FastAPI(title="Dark Pattern Detector API")
 
@@ -30,26 +31,55 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MODEL_PATH = "baseline_model.pkl"
-VECTORIZER_PATH = "baseline_vectorizer.pkl"
+# Trained artifacts live in the main project (dark-pattern-detector/models).
+# Override with the DP_ROOT env var if the webapp is moved elsewhere.
+PROJECT_ROOT = Path(os.environ.get("DP_ROOT", Path(__file__).resolve().parents[2]))
+MODELS_DIR = PROJECT_ROOT / "models"
+CCPA_MAPPING = PROJECT_ROOT / "configs" / "ccpa_mapping.tsv"
 
 model = None
 vectorizer = None
+mc_model = None
+mc_vectorizer = None
+ccpa_map = {}  # mathur_category -> [{category, description}, ...]
 
 
 @app.on_event("startup")
 def load_model():
-    """Load the model once when the server starts, not on every request."""
-    global model, vectorizer
-    if not os.path.exists(MODEL_PATH) or not os.path.exists(VECTORIZER_PATH):
-        print(
-            f"WARNING: {MODEL_PATH} or {VECTORIZER_PATH} not found in this folder. "
-            f"Copy your trained .pkl files into backend/ before starting the server."
-        )
+    """Load models once when the server starts, not on every request."""
+    global model, vectorizer, mc_model, mc_vectorizer, ccpa_map
+    try:
+        model = joblib.load(MODELS_DIR / "binary_model.pkl")
+        vectorizer = joblib.load(MODELS_DIR / "binary_vectorizer.pkl")
+        print("Binary model and vectorizer loaded successfully.")
+    except Exception as e:
+        print(f"WARNING: could not load binary model from {MODELS_DIR}: {e}")
         return
-    model = joblib.load(MODEL_PATH)
-    vectorizer = joblib.load(VECTORIZER_PATH)
-    print("Model and vectorizer loaded successfully.")
+    try:
+        mc_model = joblib.load(MODELS_DIR / "multiclass_model.pkl")
+        mc_vectorizer = joblib.load(MODELS_DIR / "multiclass_vectorizer.pkl")
+        print("Multi-class model loaded successfully.")
+    except Exception as e:
+        print(f"WARNING: multi-class model unavailable, categories disabled: {e}")
+    if CCPA_MAPPING.exists():
+        with open(CCPA_MAPPING, encoding="utf-8", newline="") as f:
+            for row in csv.DictReader(f, delimiter="\t"):
+                ccpa_map.setdefault(row["mathur_category"], []).append(
+                    {"category": row["ccpa_category"], "description": row["ccpa_description"]}
+                )
+
+
+def categorize(texts: List[str]):
+    """Return (category, ccpa_list) per text; (None, []) if no multiclass model."""
+    if mc_model is None:
+        return [(None, [])] * len(texts)
+    cats = mc_model.predict(mc_vectorizer.transform(texts))
+    return [(str(c), ccpa_map.get(str(c), [])) for c in cats]
+
+
+class CcpaItem(BaseModel):
+    category: str
+    description: str
 
 
 class TextInput(BaseModel):
@@ -60,6 +90,8 @@ class PredictionResult(BaseModel):
     is_dark_pattern: bool
     confidence: float
     label: str
+    category: Optional[str] = None
+    ccpa: List[CcpaItem] = []
 
 
 @app.get("/")
@@ -94,10 +126,13 @@ def predict(input: TextInput):
     proba = model.predict_proba(vec)[0]
     confidence = float(max(proba))
 
+    category, ccpa = categorize([text])[0] if pred == 1 else (None, [])
     return PredictionResult(
         is_dark_pattern=bool(pred),
         confidence=round(confidence, 4),
         label="Dark Pattern" if pred == 1 else "Not Dark Pattern",
+        category=category,
+        ccpa=ccpa,
     )
 
 
@@ -109,6 +144,10 @@ def predict(input: TextInput):
 
 def scrape_page_chunks(url: str, max_chunks: int = 300) -> List[str]:
     """Return a deduplicated list of short visible text chunks from a page."""
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        raise HTTPException(status_code=500, detail="Playwright not installed. Run: pip install playwright && playwright install chromium")
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page(user_agent=(
@@ -149,6 +188,8 @@ class URLInput(BaseModel):
 class FlaggedChunk(BaseModel):
     text: str
     confidence: float
+    category: Optional[str] = None
+    ccpa: List[CcpaItem] = []
 
 
 class URLAnalysisResult(BaseModel):
@@ -180,9 +221,16 @@ def analyze_url(input: URLInput):
     preds = model.predict(vecs)
     probas = model.predict_proba(vecs)
 
+    idxs = [i for i in range(len(chunks)) if preds[i] == 1]
+    cats = categorize([chunks[i] for i in idxs]) if idxs else []
     flagged = [
-        FlaggedChunk(text=chunks[i], confidence=round(float(probas[i][1]), 3))
-        for i in range(len(chunks)) if preds[i] == 1
+        FlaggedChunk(
+            text=chunks[i],
+            confidence=round(float(probas[i][1]), 3),
+            category=cat,
+            ccpa=ccpa,
+        )
+        for i, (cat, ccpa) in zip(idxs, cats)
     ]
     flagged.sort(key=lambda c: -c.confidence)
 
