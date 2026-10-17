@@ -113,8 +113,8 @@ def predict(input: TextInput):
     if model is None or vectorizer is None:
         raise HTTPException(
             status_code=503,
-            detail="Model not loaded. Make sure baseline_model.pkl and "
-            "baseline_vectorizer.pkl are in the backend/ folder and restart the server.",
+            detail="Model not loaded. Run train_model.py so models/binary_model.pkl and "
+            "models/binary_vectorizer.pkl exist (or set DP_ROOT), then restart the server.",
         )
 
     text = input.text.strip()
@@ -205,8 +205,8 @@ def analyze_url(input: URLInput):
     if model is None or vectorizer is None:
         raise HTTPException(
             status_code=503,
-            detail="Model not loaded. Make sure baseline_model.pkl and "
-            "baseline_vectorizer.pkl are in the backend/ folder and restart the server.",
+            detail="Model not loaded. Run train_model.py so models/binary_model.pkl and "
+            "models/binary_vectorizer.pkl exist (or set DP_ROOT), then restart the server.",
         )
 
     url = input.url.strip()

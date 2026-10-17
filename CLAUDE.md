@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-Text-classification research project that detects e-commerce dark patterns (Mathur et al. taxonomy: Scarcity, Urgency, Social Proof, Misdirection, Obstruction, Sneaking, Forced Action) on Indian shopping sites, and maps them to India's CCPA 2023 dark-pattern guideline categories. It extends the `ec-darkpattern/` dataset (foreign sites, ground truth) with pseudo-labeled text scraped from Indian sites. All models are TF-IDF (1–2 grams, 5000 features) plus a classical classifier.
+Text-classification research project that detects e-commerce dark patterns (Mathur et al. taxonomy: Scarcity, Urgency, Social Proof, Misdirection, Obstruction, Sneaking, Forced Action) on Indian shopping sites, and maps them to India's CCPA 2023 dark-pattern guideline categories. It extends the `ec-darkpattern/` dataset (foreign sites, ground truth) with pseudo-labeled text scraped from Indian sites. Features are word 1–2-gram + char 2–5-gram TF-IDF (a `FeatureUnion`) feeding classical classifiers or ensembles of them.
 
 There is no test suite, linter, or build step. All scripts use paths relative to the repo root, so **run them from the repo root**.
 
@@ -18,8 +18,9 @@ python scraper.py
 # Rebuild data/processed/combined_dataset.tsv from data/raw/
 python prepare_dataset.py
 
-# Train binary + multiclass models (runs prepare_dataset first if --prepare or the dataset is missing)
-python train_model.py [--prepare]
+# Train binary + multiclass models (runs prepare_dataset first if --prepare or the dataset is missing).
+# Full run ≈ 15–20 min on CPU; --trials 0 skips Optuna (defaults) for a ~5 min smoke test.
+python train_model.py [--prepare] [--trials N]
 
 # Explainability / error analysis (require the saved model to be linear, i.e. have coef_)
 python explain_model.py          # global top features from LR coefficients
@@ -58,11 +59,18 @@ Commit and push regularly so no work is lost. This is standing authorization: yo
   4. Merge with `ec-darkpattern/dataset/dataset.tsv` (`domain="foreign"`), cap scraped benign rows at `MAX_BENIGN_RATIO`× original benign, then apply `data/manual_labels.tsv` overrides (exact text match → label + category).
   5. CCPA mapping from `configs/ccpa_mapping.tsv` (Indian rows only, first match per Mathur category).
 
-- **`train_model.py`** trains LR, RF, and optionally LightGBM/XGBoost for each task with Optuna CV tuning, picks the best by test F1, and saves `models/{binary,multiclass}_{model,vectorizer}.pkl`, `model_comparison.json`, and `training_report.txt`. Metrics are reported separately for foreign / indian / combined test subsets. Rare categories (< `RARE_CATEGORY_MIN_SAMPLES`) are merged to "Other" at training time, not in the dataset. XGBoost needs integer-encoded labels, which is handled inside the script.
+- **`train_model.py`** runs the same `train_task()` for both tasks. Candidates: LR, calibrated LinearSVC, RF, LightGBM, XGBoost (each Optuna-tuned with class weighting in the search space; RF/LGBM/XGB get a third of the trials and use median pruning), plus soft-voting and stacking ensembles of the top 3 by CV. Leakage rules the code depends on:
+  - TF-IDF is fit per CV fold on that fold's training part (`make_cv_folds`) and finally on the training split only, never on test rows.
+  - **Selection is by 5-fold CV on the training split** (binary: dark-class F1, multiclass: macro F1). Test metrics for every candidate are printed and saved but must not drive selection.
+  - The multiclass train/test sets are the dark rows of the binary split, so neither model ever trains on a test row.
+
+  Outputs: `models/{binary,multiclass}_{model,vectorizer,linear_model}.pkl`, `model_comparison.json`, `training_report.txt` (per-candidate CV vs. test table plus per-domain metrics). Saved models must stay plain sklearn objects because the web backend unpickles them without importing this repo. A winning XGBoost is wrapped in a one-member `VotingClassifier` so `predict()` returns the original labels. Rare categories (< `RARE_CATEGORY_MIN_SAMPLES`) are merged to "Other" at training time, not in the dataset.
 
 - **Split coupling:** `error_analysis_shap.py` rebuilds the binary test set with the same `test_size=0.2`, `random_state=42`, `stratify=label` split over `combined_dataset.tsv` after `dropna(subset=["text"])`. If you change how `train_model.py` loads or splits data, update `rebuild_test_set` to match, or the analysis will no longer run on held-out data.
 
-- **Linear-only explainability:** the SHAP and coefficient scripts use `shap.LinearExplainer` / `coef_` and skip (with a warning) if model selection saved a tree model.
+- **Explainability:** the SHAP and coefficient scripts load models through `explain_prediction.load_linear_model()`. If the deployed model isn't linear (an ensemble or SVC), it falls back to `{task}_linear_model.pkl` (the tuned LR on the same features) and says so. Feature names carry `word__` / `char__` prefixes from the `FeatureUnion`.
+
+- **Indian labels are pseudo-labels:** `data/manual_labels.tsv` is currently empty, so every `domain="indian"` row was labelled by the baseline LR. Indian-domain test scores therefore measure agreement with the baseline, not ground truth.
 
 - **Web app** (`dark-pattern-webapp/`): `server.py` loads models from `<repo>/models` and the CCPA mapping from `<repo>/configs` (override the root with the `DP_ROOT` env var). The `.pkl` files inside `backend/` and the webapp README's instructions to copy baseline pickles there are outdated. Endpoints: `GET /health`, `POST /predict` (single text), `POST /analyze-url` (headless Playwright loads the page, takes leaf-element text chunks of 3–300 chars, classifies each). The multiclass model and CCPA tags are only added for texts predicted as dark. The frontend hard-codes `API_URL = "http://127.0.0.1:8000"`.
 

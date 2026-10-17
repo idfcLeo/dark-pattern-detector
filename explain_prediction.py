@@ -18,6 +18,31 @@ BACKGROUND_SAMPLE_SIZE = 100
 TOP_N = 10
 
 
+def load_linear_model(prefix):
+    """
+    Load (model, vectorizer) for a task ("binary" / "multiclass") in a form
+    the linear explainers can use. If train_model.py selected an ensemble or
+    tree model, fall back to the tuned LogisticRegression it saved on the same
+    features ({prefix}_linear_model.pkl) and say so — the explanation is then
+    of that LR, not of the deployed model. Returns (None, vectorizer) if no
+    linear model is available.
+    """
+    model = joblib.load(MODELS_DIR / f"{prefix}_model.pkl")
+    vectorizer = joblib.load(MODELS_DIR / f"{prefix}_vectorizer.pkl")
+    if hasattr(model, "coef_"):
+        return model, vectorizer
+
+    linear_path = MODELS_DIR / f"{prefix}_linear_model.pkl"
+    if linear_path.exists():
+        print(f"[INFO] Deployed {prefix} model is a {type(model).__name__}; explaining "
+              f"the tuned LogisticRegression on the same features instead ({linear_path}).")
+        return joblib.load(linear_path), vectorizer
+
+    print(f"[WARN] {prefix} model is {type(model).__name__}, not linear, and no "
+          f"{linear_path.name} was found — skipping.")
+    return None, vectorizer
+
+
 def load_background(vectorizer, sample_size=BACKGROUND_SAMPLE_SIZE):
     """
     SHAP's LinearExplainer measures each word's contribution against a
@@ -91,11 +116,8 @@ def explain_multiclass(text, model, vectorizer, explainer, top_n=TOP_N):
 
 
 def main():
-    binary_model = joblib.load(MODELS_DIR / "binary_model.pkl")
-    binary_vectorizer = joblib.load(MODELS_DIR / "binary_vectorizer.pkl")
-
-    mc_model = joblib.load(MODELS_DIR / "multiclass_model.pkl")
-    mc_vectorizer = joblib.load(MODELS_DIR / "multiclass_vectorizer.pkl")
+    binary_model, binary_vectorizer = load_linear_model("binary")
+    mc_model, mc_vectorizer = load_linear_model("multiclass")
 
     sample_texts = [
         "Only 2 left in stock, order now!",
@@ -103,7 +125,7 @@ def main():
         "No thanks, I don't want to save money.",
     ]
 
-    if hasattr(binary_model, "coef_"):
+    if binary_model is not None:
         print("=" * 60)
         print("BINARY MODEL — LOCAL EXPLANATIONS")
         print("=" * 60)
@@ -112,10 +134,8 @@ def main():
         for text in sample_texts:
             print(f'\nText: "{text}"')
             explain_binary(text, binary_model, binary_vectorizer, explainer)
-    else:
-        print(f"[WARN] Binary model is {type(binary_model).__name__}, not linear — skipping.")
 
-    if hasattr(mc_model, "coef_"):
+    if mc_model is not None:
         print("\n" + "=" * 60)
         print("MULTI-CLASS MODEL — LOCAL EXPLANATIONS")
         print("=" * 60)
@@ -124,8 +144,6 @@ def main():
         for text in sample_texts:
             print(f'\nText: "{text}"')
             explain_multiclass(text, mc_model, mc_vectorizer, explainer)
-    else:
-        print(f"[WARN] Multi-class model is {type(mc_model).__name__}, not linear — skipping.")
 
 
 if __name__ == "__main__":

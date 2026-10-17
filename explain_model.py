@@ -11,13 +11,16 @@ import numpy as np
 from pathlib import Path
 from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 
+from explain_prediction import load_linear_model
+
 MODELS_DIR = Path("models")
 TOP_N = 20
 
 def _is_pure_stopword(feature_name, stopwords=ENGLISH_STOP_WORDS):
     """True if every word in this feature (unigram or bigram) is a stopword.
     A bigram like 'no thanks' is kept if at least one word carries meaning."""
-    return all(w in stopwords for w in feature_name.split())
+    # Strip the FeatureUnion prefix ("word__", "char__") before checking
+    return all(w in stopwords for w in feature_name.split("__", 1)[-1].split())
 
 def top_features_binary(model, vectorizer, top_n=TOP_N):
     """
@@ -75,29 +78,13 @@ def main():
     print("GLOBAL FEATURE IMPORTANCE (Logistic Regression coefficients)")
     print("=" * 60)
 
-    binary_model = joblib.load(MODELS_DIR / "binary_model.pkl")
-    binary_vectorizer = joblib.load(MODELS_DIR / "binary_vectorizer.pkl")
-
-    if not hasattr(binary_model, "coef_"):
-        print(
-            f"\n[WARN] Saved binary model is a {type(binary_model).__name__}, "
-            "not linear — coefficients unavailable. This method only "
-            "applies to LogisticRegression; a tree-based winner needs "
-            "SHAP's TreeExplainer instead."
-        )
-    else:
+    binary_model, binary_vectorizer = load_linear_model("binary")
+    if binary_model is not None:
         print("\nBINARY MODEL")
         top_features_binary(binary_model, binary_vectorizer)
 
-    mc_model = joblib.load(MODELS_DIR / "multiclass_model.pkl")
-    mc_vectorizer = joblib.load(MODELS_DIR / "multiclass_vectorizer.pkl")
-
-    if not hasattr(mc_model, "coef_"):
-        print(
-            f"\n[WARN] Saved multi-class model is a {type(mc_model).__name__}, "
-            "not linear — coefficients unavailable."
-        )
-    else:
+    mc_model, mc_vectorizer = load_linear_model("multiclass")
+    if mc_model is not None:
         print("\nMULTI-CLASS MODEL")
         top_features_multiclass(mc_model, mc_vectorizer)
 

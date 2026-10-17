@@ -16,7 +16,7 @@ import shap
 from pathlib import Path
 from sklearn.model_selection import train_test_split
 
-from explain_prediction import load_background  # reuse existing background logic
+from explain_prediction import load_background, load_linear_model  # reuse existing logic
 
 MODELS_DIR = Path("models")
 COMBINED_DATASET = Path("data/processed/combined_dataset.tsv")
@@ -68,11 +68,8 @@ def explain_one(text, model, vectorizer, explainer, top_n=TOP_N_WORDS):
 
 
 def main():
-    model = joblib.load(MODELS_DIR / "binary_model.pkl")
-    vectorizer = joblib.load(MODELS_DIR / "binary_vectorizer.pkl")
-
-    if not hasattr(model, "coef_"):
-        print(f"[WARN] Binary model is {type(model).__name__}, not linear — SHAP LinearExplainer doesn't apply. Stopping.")
+    model, vectorizer = load_linear_model("binary")
+    if model is None:
         return
 
     test_df, X_test, y_test = rebuild_test_set(vectorizer)

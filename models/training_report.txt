@@ -1,39 +1,59 @@
-Training Report � 2026-10-04T04:30:10.487898
+Training Report — 2026-10-17T18:54:05.189103
 ============================================================
 
-BINARY MODEL (LR)
-  Best F1: 0.9487
-  Classification Report:
+BINARY MODEL — selected: LR
+  Selection: 5-fold CV F1 (dark class) on training split (ensembles use top 3: ['LR', 'SVC', 'LGBM'])
+
+  model            CV   test F1   macroF1      acc
+  lr           0.9595    0.9491    0.9657   0.9738  <-- selected
+  voting       0.9577    0.9572    0.9712   0.9780
+  svc          0.9576    0.9533    0.9686   0.9759
+  stacking     0.9550    0.9535    0.9687   0.9759
+  lgbm         0.9465    0.9469    0.9643   0.9728
+  xgb          0.9351    0.9424    0.9614   0.9707
+  rf           0.9349    0.9280    0.9522   0.9644
+
+  Test classification report (LR):
               precision    recall  f1-score   support
 
-           0       0.97      0.99      0.98       707
-           1       0.97      0.93      0.95       249
+           0       0.98      0.99      0.98       707
+           1       0.96      0.94      0.95       249
 
     accuracy                           0.97       956
    macro avg       0.97      0.96      0.97       956
 weighted avg       0.97      0.97      0.97       956
 
-  Domain [foreign]: F1=0.9492, Acc=0.9501, n=461
-  Domain [indian]: F1=0.9412, Acc=0.9960, n=495
-  Domain [combined]: F1=0.9487, Acc=0.9738, n=956
+  Domain [foreign]: F1=0.9520, macroF1=0.9523, Acc=0.9523, n=461
+  Domain [indian]: F1=0.9091, macroF1=0.9530, Acc=0.9939, n=495
+  Domain [combined]: F1=0.9491, macroF1=0.9657, Acc=0.9738, n=956
 
-MULTI-CLASS MODEL (LR)
-  Best F1 (weighted): 0.9457
-  Classification Report:
+MULTI-CLASS MODEL — selected: SVC
+  Selection: 5-fold CV macro F1 on training split (ensembles use top 3: ['SVC', 'LR', 'RF'])
+
+  model            CV   test F1   macroF1      acc
+  svc          0.8629    0.9499    0.8674   0.9518  <-- selected
+  lr           0.8583    0.9501    0.8676   0.9518
+  stacking     0.8504    0.9648    0.8899   0.9639
+  voting       0.8363    0.9540    0.8710   0.9558
+  rf           0.8163    0.9106    0.8420   0.9116
+  xgb          0.8121    0.9338    0.7622   0.9398
+  lgbm         0.7839    0.9501    0.8706   0.9518
+
+  Test classification report (SVC):
               precision    recall  f1-score   support
 
-Misdirection       0.89      0.91      0.90        43
- Obstruction       1.00      0.60      0.75         5
-       Other       0.00      0.00      0.00         3
-    Scarcity       1.00      0.98      0.99        86
-Social Proof       0.97      0.99      0.98        68
-     Urgency       0.90      1.00      0.95        45
+Misdirection       0.95      0.87      0.91        45
+ Obstruction       0.83      1.00      0.91         5
+       Other       1.00      0.33      0.50         3
+    Scarcity       0.99      0.99      0.99        79
+Social Proof       0.97      0.99      0.98        67
+     Urgency       0.89      0.96      0.92        50
 
-    accuracy                           0.95       250
-   macro avg       0.79      0.74      0.76       250
-weighted avg       0.94      0.95      0.95       250
+    accuracy                           0.95       249
+   macro avg       0.94      0.86      0.87       249
+weighted avg       0.95      0.95      0.95       249
 
+  Domain [foreign]: F1=0.9460, macroF1=0.8633, Acc=0.9481, n=231
+  Domain [indian]: F1=1.0000, macroF1=1.0000, Acc=1.0000, n=18
+  Domain [combined]: F1=0.9499, macroF1=0.8674, Acc=0.9518, n=249
   Rare categories merged to 'Other': ['Sneaking', 'Forced Action']
-  Domain [foreign]: F1=0.9421, Acc=0.9487, n=234
-  Domain [indian]: F1=1.0000, Acc=1.0000, n=16
-  Domain [combined]: F1=0.9457, Acc=0.9520, n=250
