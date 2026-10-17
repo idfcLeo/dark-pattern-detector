@@ -8,6 +8,26 @@ Text-classification research project that detects e-commerce dark patterns (Math
 
 There is no test suite, linter, or build step. All scripts use paths relative to the repo root, so **run them from the repo root**.
 
+## Current phase (update as it changes)
+
+**Phase 2: human labelling for Indian data.** Paused 2026-10-17, waiting on the user.
+
+- Done:
+  - Phase 1: leakage-free ensemble training with CV-based selection. Multiclass macro F1 went from 0.76 to 0.84, binary F1 stayed at 0.949. Both winners are SVC.
+  - The 300-row gold set and `batch_01.tsv` have been generated, and the models were retrained without gold rows.
+- In progress (the user does this in their own terminal): `label gold`, then `label data/active_learning/batch_01.tsv`.
+- Next, once labels exist:
+  1. Run `python active_learning.py status`.
+  2. Run `python train_model.py --prepare` (about 17 min, run it in the background).
+  3. Report the gold-set result: selected model vs. baseline pseudo-labeller, weighted P/R/F1. This is the project's headline novelty result.
+  4. Commit, then `select` the next batch and repeat while the gold scores keep improving.
+- Later options discussed:
+  - Iterative self-training on `needs_review.tsv`.
+  - A context-aware hybrid model (text + `feat_*` + journey step), evaluated on the gold set.
+  - Inter-annotator agreement (a second labeller on about 50 gold rows, Cohen's kappa).
+
+Labelling perspective agreed with the user: judge the text as an ordinary Indian shopper would see it, and label the type of claim, not whether it's true (Mathur et al. convention). A plain discount or rating is `0`; a discount with a deadline is Urgency. When several patterns appear, pick the most manipulative one. Keep `unsure` under about 10%.
+
 ## Commands
 
 ```bash
