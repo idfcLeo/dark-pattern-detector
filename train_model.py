@@ -409,7 +409,98 @@ def train_task(task_df: pd.DataFrame, label_col: str, train_idx, test_idx,
     domain_results = evaluate_by_domain(candidates[best], vectorizer, test_df, label_col, n_classes)
 
     return {"best": best, "metric_name": metric_name, "results": results,
-            "domains": domain_results, "ensemble_members": top}
+            "domains": domain_results, "ensemble_members": top,
+            "model": candidates[best], "vectorizer": vectorizer}
+
+
+# -----------------------------------------------------------------------------
+# Gold Test Set (human-labelled Indian snippets, see active_learning.py)
+# -----------------------------------------------------------------------------
+
+def weighted_scores(y_true, y_pred, weights, average) -> dict:
+    """Metrics with inverse-sampling weights = estimates for the full scraped pool."""
+    kw = {"average": average, "zero_division": 0, "sample_weight": weights}
+    return {
+        "accuracy": float(accuracy_score(y_true, y_pred, sample_weight=weights)),
+        "precision": float(precision_score(y_true, y_pred, **kw)),
+        "recall": float(recall_score(y_true, y_pred, **kw)),
+        "f1": float(f1_score(y_true, y_pred, **kw)),
+    }
+
+
+def evaluate_gold(binary: dict, multiclass: dict, rare_categories: list) -> dict:
+    """
+    Score the selected models — and the baseline that produced the Indian
+    pseudo-labels — on the human-labelled gold set. Gold rows are never used
+    for training or selection.
+    """
+    if not prepare_dataset.GOLD_TEST_PATH.exists():
+        print(f"\n  No gold set ({prepare_dataset.GOLD_TEST_PATH}); "
+              "create one with: python active_learning.py gold")
+        return {}
+
+    gold = prepare_dataset.read_label_file(prepare_dataset.GOLD_TEST_PATH)
+    gold = gold[gold["label"].isin(["0", "1"])].copy()
+    if len(gold) == 0:
+        print("\n  Gold set has no labels yet: python active_learning.py label gold")
+        return {}
+
+    y = gold["label"].astype(int).values
+    w = gold["weight"].astype(float).values
+    print(f"\n  Gold set: {len(gold)} labelled ({y.sum()} dark). "
+          "Weighted = estimate for the whole scraped Indian pool.")
+
+    systems = {"selected": (binary["model"], binary["vectorizer"])}
+    if prepare_dataset.BASELINE_MODEL_PATH.exists():
+        systems["baseline (pseudo-labeller)"] = (joblib.load(prepare_dataset.BASELINE_MODEL_PATH),
+                                                 joblib.load(prepare_dataset.BASELINE_VECTORIZER_PATH))
+
+    results = {"n_labelled": int(len(gold)), "n_dark": int(y.sum()), "binary": {}}
+    for name, (model, vec) in systems.items():
+        pred = np.asarray(model.predict(vec.transform(gold["text"]))).astype(int)
+        results["binary"][name] = {
+            "weighted": weighted_scores(y, pred, w, "binary"),
+            "unweighted": weighted_scores(y, pred, None, "binary"),
+        }
+        m = results["binary"][name]["weighted"]
+        print(f"    BINARY {name:28s} weighted P={m['precision']:.3f} R={m['recall']:.3f} "
+              f"F1={m['f1']:.3f} acc={m['accuracy']:.3f}")
+
+    # Category accuracy on gold rows a human marked dark (same rare-merge as training)
+    dark = gold[gold["label"] == "1"].copy()
+    classes = set(multiclass["model"].classes_)
+    dark["Pattern Category"] = dark["Pattern Category"].where(
+        ~dark["Pattern Category"].isin(rare_categories) | ("Other" not in classes), "Other")
+    if len(dark):
+        pred = multiclass["model"].predict(multiclass["vectorizer"].transform(dark["text"]))
+        wd = dark["weight"].astype(float).values
+        results["multiclass"] = {
+            "n": int(len(dark)),
+            "weighted_accuracy": float(accuracy_score(dark["Pattern Category"], pred, sample_weight=wd)),
+            "macro_f1": float(f1_score(dark["Pattern Category"], pred, average="macro", zero_division=0)),
+            "report": classification_report(dark["Pattern Category"], pred, zero_division=0),
+        }
+        mc = results["multiclass"]
+        print(f"    MULTI-CLASS on {mc['n']} human-marked dark rows: "
+              f"weighted acc={mc['weighted_accuracy']:.3f} macroF1={mc['macro_f1']:.3f}")
+    return results
+
+
+def gold_report_section(gold: dict) -> list:
+    if not gold:
+        return ["\nGOLD TEST SET: not available yet (python active_learning.py gold, then label it)"]
+    lines = [f"\nGOLD TEST SET (human-labelled Indian snippets): n={gold['n_labelled']}, dark={gold['n_dark']}",
+             "  Binary, weighted by inverse sampling probability (estimate for the full scraped pool):",
+             f"  {'system':30s} {'P':>6s} {'R':>6s} {'F1':>6s} {'acc':>6s}   unweighted F1"]
+    for name, m in gold["binary"].items():
+        wt, uw = m["weighted"], m["unweighted"]
+        lines.append(f"  {name:30s} {wt['precision']:6.3f} {wt['recall']:6.3f} {wt['f1']:6.3f} "
+                     f"{wt['accuracy']:6.3f}   {uw['f1']:.3f}")
+    if "multiclass" in gold:
+        mc = gold["multiclass"]
+        lines.append(f"\n  Multi-class on {mc['n']} human-marked dark rows: weighted acc="
+                     f"{mc['weighted_accuracy']:.3f}, macroF1={mc['macro_f1']:.3f}\n{mc['report']}")
+    return lines
 
 
 def report_section(title: str, task: dict) -> list:
@@ -499,12 +590,21 @@ def main():
                             "Multi-class", "multiclass", args.trials)
 
     # =========================================================================
+    # GOLD TEST SET
+    # =========================================================================
+    print(f"\n{'=' * 60}")
+    print("GOLD TEST SET (human-labelled Indian snippets)")
+    print(f"{'=' * 60}")
+    gold = evaluate_gold(binary, multiclass, rare_categories)
+
+    # =========================================================================
     # Save Report + Comparison
     # =========================================================================
     report_lines = [f"Training Report — {datetime.now().isoformat()}", "=" * 60]
     report_lines += report_section("BINARY MODEL", binary)
     report_lines += report_section("MULTI-CLASS MODEL", multiclass)
     report_lines.append(f"  Rare categories merged to 'Other': {rare_categories}")
+    report_lines += gold_report_section(gold)
 
     comparison = {
         "protocol": {
@@ -524,6 +624,9 @@ def main():
                            for n, m in task["results"].items()},
             "domains": task["domains"],
         }
+    comparison["gold"] = {k: v for k, v in gold.items() if k != "multiclass"}
+    if "multiclass" in gold:
+        comparison["gold"]["multiclass"] = {k: v for k, v in gold["multiclass"].items() if k != "report"}
 
     with open(MODELS_DIR / "model_comparison.json", "w") as f:
         json.dump(comparison, f, indent=2, default=str)

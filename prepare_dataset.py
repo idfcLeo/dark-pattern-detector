@@ -34,6 +34,10 @@ BASELINE_VECTORIZER_PATH = Path("ec-darkpattern/baseline_vectorizer.pkl")
 MANUAL_LABELS_PATH = Path("data/manual_labels.tsv")
 CCPA_MAPPING_PATH = Path("configs/ccpa_mapping.tsv")
 
+# Human labelling (see active_learning.py)
+GOLD_TEST_PATH = Path("data/gold/indian_gold_test.tsv")   # held-out, never trained on
+ACTIVE_LEARNING_DIR = Path("data/active_learning")        # batch_NN.tsv, trained on
+
 OUTPUT_DIR = Path("data/processed")
 COMBINED_OUTPUT = OUTPUT_DIR / "combined_dataset.tsv"
 NEEDS_REVIEW_OUTPUT = OUTPUT_DIR / "needs_review.tsv"
@@ -380,25 +384,65 @@ def add_structural_features(df: pd.DataFrame) -> pd.DataFrame:
 # Stage 4 — Merge & Balance
 # ─────────────────────────────────────────────────────────────────────────────
 
+def read_label_file(path: Path) -> pd.DataFrame:
+    """Read a human-label TSV keeping blanks as '' (blank label = not labelled yet)."""
+    return pd.read_csv(path, sep="\t", encoding="utf-8", dtype=str, keep_default_na=False)
+
+
+def load_gold_texts() -> set:
+    """Texts in the held-out gold test set — excluded from all training data."""
+    if not GOLD_TEST_PATH.exists():
+        return set()
+    return set(read_label_file(GOLD_TEST_PATH)["text"])
+
+
+def load_human_labels() -> pd.DataFrame:
+    """
+    All human labels usable for training: manual_labels.tsv plus every labelled
+    row of data/active_learning/batch_*.tsv. Rows marked 'unsure' or still blank
+    are skipped; a later file wins when the same text was labelled twice.
+    """
+    paths = [MANUAL_LABELS_PATH] + sorted(ACTIVE_LEARNING_DIR.glob("batch_*.tsv"))
+    frames = [read_label_file(p) for p in paths if p.exists()]
+    if not frames:
+        return pd.DataFrame(columns=["text", "label", "Pattern Category", "site", "step_label"])
+
+    labels = pd.concat(frames, ignore_index=True)
+    for col, default in [("site", "manual"), ("step_label", "unknown")]:
+        if col not in labels.columns:
+            labels[col] = default
+        labels[col] = labels[col].replace("", default)
+
+    labels = labels[labels["label"].isin(["0", "1"])].copy()
+    labels["label"] = labels["label"].astype(int)
+    labels.loc[labels["label"] == 0, "Pattern Category"] = "Not Dark Pattern"
+    labels = labels.drop_duplicates(subset=["text"], keep="last")
+    return labels[["text", "label", "Pattern Category", "site", "step_label"]]
+
+
 def apply_manual_overrides(df: pd.DataFrame) -> pd.DataFrame:
-    """Apply manual label corrections from manual_labels.tsv."""
-    if not MANUAL_LABELS_PATH.exists():
+    """
+    Apply human labels: rows already in the dataset get their pseudo-label
+    replaced; human-labelled texts not in it (e.g. from needs_review) are added
+    as domain='indian', source_type='human', confidence 1.0.
+    """
+    labels = load_human_labels()
+    if len(labels) == 0:
         return df
 
-    overrides = pd.read_csv(MANUAL_LABELS_PATH, sep="\t", encoding="utf-8")
-    if len(overrides) == 0:
-        return df
+    label_map = labels.set_index("text")
+    present = df["text"].isin(label_map.index)
+    df.loc[present, "label"] = df.loc[present, "text"].map(label_map["label"])
+    df.loc[present, "Pattern Category"] = df.loc[present, "text"].map(label_map["Pattern Category"])
+    df.loc[present, "confidence"] = 1.0
 
-    print(f"  Applying {len(overrides)} manual label overrides")
-    override_map = dict(zip(overrides["text"], zip(overrides["label"], overrides["Pattern Category"])))
+    new_rows = labels[~labels["text"].isin(df["text"])].copy()
+    new_rows["domain"] = "indian"
+    new_rows["confidence"] = 1.0
+    new_rows["source_type"] = "human"
 
-    for idx, row in df.iterrows():
-        if row["text"] in override_map:
-            label, cat = override_map[row["text"]]
-            df.at[idx, "label"] = label
-            df.at[idx, "Pattern Category"] = cat
-
-    return df
+    print(f"  Human labels: {present.sum()} overrides of pseudo-labels, {len(new_rows)} new rows added")
+    return pd.concat([df, new_rows], ignore_index=True)
 
 
 def merge_and_balance(scraped_accepted: pd.DataFrame) -> pd.DataFrame:
@@ -453,8 +497,16 @@ def merge_and_balance(scraped_accepted: pd.DataFrame) -> pd.DataFrame:
     # Merge
     combined = pd.concat([original_aligned, scraped_balanced], ignore_index=True)
 
-    # Apply manual overrides
+    # Apply human labels (after balancing, so they are never capped away)
     combined = apply_manual_overrides(combined)
+
+    # Gold test texts never enter training, whatever source they came from
+    gold_texts = load_gold_texts()
+    if gold_texts:
+        in_gold = combined["text"].isin(gold_texts)
+        if in_gold.any():
+            print(f"  Dropping {in_gold.sum()} rows that are in the gold test set")
+        combined = combined[~in_gold].reset_index(drop=True)
 
     print(f"\n  Final dataset:")
     print(f"    Total rows: {len(combined)}")
@@ -532,6 +584,12 @@ def main():
         print("No scraped data found. Exiting.")
         return
 
+    # Held-out gold texts are neither pseudo-labelled nor offered for review
+    gold_texts = load_gold_texts()
+    if gold_texts:
+        scraped_df = scraped_df[~scraped_df["text"].isin(gold_texts)].reset_index(drop=True)
+        print(f"  Excluded {len(gold_texts)} gold test texts from the scraped pool")
+
     # Stage 2: Pseudo-label
     accepted_df, review_df = pseudo_label(scraped_df)
 
@@ -576,6 +634,8 @@ def main():
     stats.append(f"Final combined rows: {len(combined)}")
     stats.append(f"  - Foreign (original): {(combined['domain'] == 'foreign').sum()}")
     stats.append(f"  - Indian (scraped): {(combined['domain'] == 'indian').sum()}")
+    stats.append(f"  - Human-labelled Indian rows: {combined['text'].isin(load_human_labels()['text']).sum()}")
+    stats.append(f"Gold test texts held out: {len(gold_texts)}")
     stats.append(f"Label balance: {dict(combined['label'].value_counts())}")
     stats.append(f"Category balance: {dict(combined['Pattern Category'].value_counts())}")
     if rare_cats:

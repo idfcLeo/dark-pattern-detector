@@ -22,6 +22,12 @@ python prepare_dataset.py
 # Full run ≈ 15–20 min on CPU; --trials 0 skips Optuna (defaults) for a ~5 min smoke test.
 python train_model.py [--prepare] [--trials N]
 
+# Human labelling (interactive — the user runs `label` themselves; never fill labels in for them)
+python active_learning.py gold                 # one-time stratified held-out gold test set
+python active_learning.py label gold           # or: label data/active_learning/batch_NN.tsv
+python active_learning.py select [--n 100]     # next active-learning batch from needs_review.tsv
+python active_learning.py status
+
 # Explainability / error analysis (require the saved model to be linear, i.e. have coef_)
 python explain_model.py          # global top features from LR coefficients
 python explain_prediction.py     # per-text SHAP explanations on sample strings
@@ -34,6 +40,21 @@ uvicorn server:app --reload      # http://127.0.0.1:8000; then open frontend/ind
 ```
 
 Optional training deps are detected at import time: `xgboost`, `lightgbm`, `optuna` (without Optuna, models train with default hyperparameters). SHAP scripts need `shap`. There is no top-level requirements file.
+
+## Coding & learning instructions
+
+The user is learning while building this project. Whenever you make changes, briefly explain:
+
+- **WHAT:** what you changed or implemented.
+- **WHY:** why the change was necessary and the reasoning behind your approach.
+- **HOW:** how it works, including the relevant logic, functions, files, or technologies.
+- **LEARNING:** the key concept the user should understand from this change.
+
+Keep explanations concise, beginner-friendly, and technically accurate. Explain reasoning in terms of the problem, alternatives, and trade-offs.
+
+Follow best practices, respect the existing project architecture, and avoid unnecessary changes. Never modify code without explaining the intended change. If something is unclear, ask before making risky assumptions.
+
+**Goal:** help the user build working software while gradually improving their understanding of coding, system design, and problem-solving. Treat every code change as a small learning opportunity.
 
 ## Git workflow
 
@@ -70,7 +91,10 @@ Commit and push regularly so no work is lost. This is standing authorization: yo
 
 - **Explainability:** the SHAP and coefficient scripts load models through `explain_prediction.load_linear_model()`. If the deployed model isn't linear (an ensemble or SVC), it falls back to `{task}_linear_model.pkl` (the tuned LR on the same features) and says so. Feature names carry `word__` / `char__` prefixes from the `FeatureUnion`.
 
-- **Indian labels are pseudo-labels:** `data/manual_labels.tsv` is currently empty, so every `domain="indian"` row was labelled by the baseline LR. Indian-domain test scores therefore measure agreement with the baseline, not ground truth.
+- **Human labels vs. pseudo-labels:** Indian rows are pseudo-labels from the baseline LR unless a human labelled them, so the Indian-domain *split* scores measure agreement with the baseline. Human ground truth lives in two places with different roles:
+  - `data/gold/indian_gold_test.tsv` is **test only**. It's a stratified sample over bands of the binary model's P(dark), and each row stores `weight` = stratum_size / sampled so weighted metrics estimate the whole scraped pool. `prepare_dataset.py` drops gold texts from the scraped pool and from the final dataset. `train_model.py` scores the selected models and the baseline pseudo-labeller on it (`evaluate_gold`). Never tune or select on it. Regenerating it (`gold --force`) discards the user's labels.
+  - `data/active_learning/batch_*.tsv` and `data/manual_labels.tsv` are **training** labels. `load_human_labels()` collects them, and `apply_manual_overrides()` replaces matching pseudo-labels or appends the rows as `source_type="human"` after benign capping.
+  - In label files, blank `label` = not yet labelled and `unsure` = excluded. Read them with `read_label_file()` (`dtype=str`, `keep_default_na=False`) so blanks and texts like "NA" survive.
 
 - **Web app** (`dark-pattern-webapp/`): `server.py` loads models from `<repo>/models` and the CCPA mapping from `<repo>/configs` (override the root with the `DP_ROOT` env var). The `.pkl` files inside `backend/` and the webapp README's instructions to copy baseline pickles there are outdated. Endpoints: `GET /health`, `POST /predict` (single text), `POST /analyze-url` (headless Playwright loads the page, takes leaf-element text chunks of 3–300 chars, classifies each). The multiclass model and CCPA tags are only added for texts predicted as dark. The frontend hard-codes `API_URL = "http://127.0.0.1:8000"`.
 
