@@ -108,6 +108,8 @@
     font-size: 13px;
   }
   .flagged-item .conf { color: var(--muted); font-size: 11px; margin-top: 4px; }
+  .tag { display: inline-block; background: #2a2e38; color: var(--accent); font-size: 11px; padding: 2px 8px; border-radius: 12px; margin: 6px 6px 0 0; }
+  .tag.ccpa { color: #f5a524; }
   .toggle-mode {
     display: flex;
     gap: 8px;
@@ -155,6 +157,7 @@
   <div id="result">
     <div class="label" id="resultLabel"></div>
     <div class="confidence" id="resultConfidence"></div>
+    <div id="resultTags"></div>
   </div>
 
   <div id="urlResult" style="margin-top:22px; display:none;">
@@ -169,6 +172,18 @@
 <script>
   // Change this if your backend runs somewhere other than localhost:8000
   const API_URL = "http://127.0.0.1:8000";
+
+  function esc(s) {
+    const d = document.createElement("div");
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function tagsHtml(category, ccpa) {
+    if (!category) return "";
+    return `<span class="tag">${esc(category)}</span>` +
+      (ccpa || []).map(c => `<span class="tag ccpa" title="${esc(c.description)}">CCPA: ${esc(c.category)}</span>`).join("");
+  }
 
   function switchMode(mode) {
     document.getElementById("tab-url").classList.toggle("active", mode === "url");
@@ -220,7 +235,7 @@
       data.flagged.forEach(item => {
         const li = document.createElement("li");
         li.className = "flagged-item";
-        li.innerHTML = `"${item.text}"<div class="conf">Confidence: ${(item.confidence * 100).toFixed(0)}%</div>`;
+        li.innerHTML = `"${esc(item.text)}"<div class="conf">Confidence: ${(item.confidence * 100).toFixed(0)}%</div>${tagsHtml(item.category, item.ccpa)}`;
         list.appendChild(li);
       });
 
@@ -288,6 +303,7 @@
         data.is_dark_pattern ? "⚠ Dark pattern detected" : "✓ No dark pattern detected";
       document.getElementById("resultConfidence").textContent =
         `Confidence: ${(data.confidence * 100).toFixed(1)}%`;
+      document.getElementById("resultTags").innerHTML = tagsHtml(data.category, data.ccpa);
 
       resultBox.classList.add("show", data.is_dark_pattern ? "flagged" : "clean");
     } catch (e) {
