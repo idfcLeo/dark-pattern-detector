@@ -16,7 +16,8 @@ There is no test suite, linter, or build step. All scripts use paths relative to
   - Phase 1: leakage-free ensemble training with CV-based selection. Multiclass macro F1 went from 0.76 to 0.84, binary F1 stayed at 0.949. Both winners are SVC.
   - The 300-row gold set and `batch_01.tsv` have been generated, and the models were retrained without gold rows.
   - 2026-10-26: gold set labelled (11/300 dark). Baseline on gold: weighted F1 = 0.064 for both the selected model and the baseline pseudo-labeller. The baseline flags plain discounts ("20% off") as dark, so Indian pseudo-labels are mostly false positives.
-- In progress (the user does this in their own terminal): `label data/active_learning/batch_01.tsv`.
+  - batch_01 labelled (1/100 dark) and retrained: gold weighted F1 0.063 → 0.141 (P 0.120, R 0.171). Both winners are now soft voting (LR+SVC+LGBM).
+- In progress (the user does this in their own terminal): `label data/active_learning/batch_02.tsv` (40/100 rows are discount-like).
 - Next, once labels exist:
   1. Run `python active_learning.py status`.
   2. Run `python train_model.py --prepare` (about 17 min, run it in the background).
