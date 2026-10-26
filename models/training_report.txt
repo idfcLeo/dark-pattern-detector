@@ -1,61 +1,78 @@
-Training Report — 2026-10-17T19:17:09.964924
+Training Report — 2026-10-26T19:26:16.384250
 ============================================================
 
-BINARY MODEL — selected: SVC
-  Selection: 5-fold CV F1 (dark class) on training split (ensembles use top 3: ['SVC', 'LR', 'LGBM'])
+BINARY MODEL — selected: VOTING
+  Selection: 5-fold CV F1 (dark class) on training split (ensembles use top 3: ['LR', 'SVC', 'LGBM'])
 
   model            CV   test F1   macroF1      acc
-  svc          0.9645    0.9491    0.9657   0.9738  <-- selected
-  lr           0.9624    0.9380    0.9585   0.9686
-  stacking     0.9623    0.9495    0.9659   0.9738
-  voting       0.9605    0.9506    0.9669   0.9749
-  lgbm         0.9480    0.9446    0.9628   0.9718
-  rf           0.9333    0.9367    0.9579   0.9686
-  xgb          0.9331    0.9247    0.9498   0.9623
+  voting       0.9569    0.9508    0.9672   0.9754  <-- selected
+  lr           0.9553    0.9487    0.9658   0.9744
+  svc          0.9531    0.9433    0.9621   0.9713
+  stacking     0.9518    0.9381    0.9584   0.9682
+  lgbm         0.9448    0.9366    0.9577   0.9682
+  rf           0.9266    0.9168    0.9453   0.9600
+  xgb          0.9228    0.9189    0.9462   0.9600
 
-  Test classification report (SVC):
+  Test classification report (VOTING):
               precision    recall  f1-score   support
 
-           0       0.98      0.99      0.98       707
-           1       0.96      0.94      0.95       249
+           0       0.98      0.99      0.98       727
+           1       0.97      0.93      0.95       249
 
-    accuracy                           0.97       956
-   macro avg       0.97      0.96      0.97       956
-weighted avg       0.97      0.97      0.97       956
+    accuracy                           0.98       976
+   macro avg       0.97      0.96      0.97       976
+weighted avg       0.98      0.98      0.98       976
 
-  Domain [foreign]: F1=0.9503, macroF1=0.9504, Acc=0.9504, n=464
-  Domain [indian]: F1=0.9286, macroF1=0.9632, Acc=0.9959, n=492
-  Domain [combined]: F1=0.9491, macroF1=0.9657, Acc=0.9738, n=956
+  Domain [foreign]: F1=0.9522, macroF1=0.9527, Acc=0.9527, n=465
+  Domain [indian]: F1=0.9286, macroF1=0.9633, Acc=0.9961, n=511
+  Domain [combined]: F1=0.9508, macroF1=0.9672, Acc=0.9754, n=976
 
-MULTI-CLASS MODEL — selected: SVC
-  Selection: 5-fold CV macro F1 on training split (ensembles use top 3: ['SVC', 'LR', 'RF'])
+MULTI-CLASS MODEL — selected: VOTING
+  Selection: 5-fold CV macro F1 on training split (ensembles use top 3: ['LR', 'SVC', 'LGBM'])
 
   model            CV   test F1   macroF1      acc
-  svc          0.8828    0.9455    0.8385   0.9478  <-- selected
-  lr           0.8774    0.9349    0.8444   0.9357
-  stacking     0.8656    0.9547    0.8517   0.9518
-  voting       0.8481    0.9500    0.8578   0.9518
-  rf           0.8374    0.9342    0.8485   0.9357
-  xgb          0.8294    0.9536    0.7673   0.9598
-  lgbm         0.8043    0.9407    0.8176   0.9438
+  voting       0.8687    0.9579    0.8494   0.9598  <-- selected
+  lr           0.8678    0.9578    0.8692   0.9598
+  svc          0.8600    0.9538    0.8663   0.9558
+  stacking     0.8547    0.9709    0.8716   0.9679
+  lgbm         0.8340    0.9456    0.8403   0.9478
+  xgb          0.8329    0.9579    0.8504   0.9598
+  rf           0.8103    0.9297    0.8492   0.9317
 
-  Test classification report (SVC):
+  Test classification report (VOTING):
               precision    recall  f1-score   support
 
-Misdirection       0.95      0.88      0.91        48
- Obstruction       0.80      0.67      0.73         6
+Misdirection       0.95      0.91      0.93        43
+ Obstruction       0.75      0.75      0.75         4
        Other       1.00      0.33      0.50         3
-    Scarcity       0.99      0.99      0.99        77
-Social Proof       0.97      0.98      0.98        63
-     Urgency       0.88      0.98      0.93        52
+    Scarcity       0.99      0.98      0.98        86
+Social Proof       0.97      0.99      0.98        68
+     Urgency       0.92      1.00      0.96        45
 
-    accuracy                           0.95       249
-   macro avg       0.93      0.80      0.84       249
-weighted avg       0.95      0.95      0.95       249
+    accuracy                           0.96       249
+   macro avg       0.93      0.83      0.85       249
+weighted avg       0.96      0.96      0.96       249
 
-  Domain [foreign]: F1=0.9420, macroF1=0.8353, Acc=0.9444, n=234
-  Domain [indian]: F1=1.0000, macroF1=1.0000, Acc=1.0000, n=15
-  Domain [combined]: F1=0.9455, macroF1=0.8385, Acc=0.9478, n=249
+  Domain [foreign]: F1=0.9554, macroF1=0.8474, Acc=0.9574, n=235
+  Domain [indian]: F1=1.0000, macroF1=1.0000, Acc=1.0000, n=14
+  Domain [combined]: F1=0.9579, macroF1=0.8494, Acc=0.9598, n=249
   Rare categories merged to 'Other': ['Sneaking', 'Forced Action']
 
-GOLD TEST SET: not available yet (python active_learning.py gold, then label it)
+GOLD TEST SET (human-labelled Indian snippets): n=300, dark=11
+  Binary, weighted by inverse sampling probability (estimate for the full scraped pool):
+  system                              P      R     F1    acc   unweighted F1
+  selected                        0.120  0.171  0.141  0.969   0.214
+  baseline (pseudo-labeller)      0.040  0.171  0.064  0.927   0.087
+
+  Multi-class on 11 human-marked dark rows: weighted acc=0.800, macroF1=0.413
+              precision    recall  f1-score   support
+
+Misdirection       0.00      0.00      0.00         0
+ Obstruction       1.00      0.50      0.67         2
+    Scarcity       0.67      1.00      0.80         2
+Social Proof       0.75      0.50      0.60         6
+     Urgency       0.00      0.00      0.00         1
+
+    accuracy                           0.55        11
+   macro avg       0.48      0.40      0.41        11
+weighted avg       0.71      0.55      0.59        11

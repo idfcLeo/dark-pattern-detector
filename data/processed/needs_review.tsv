@@ -5150,6 +5150,8 @@ Shopsy	flipkart	landing	indian	step01_landing_20260805_150836.json	json_element	
 Grievance Redressal	flipkart	landing	indian	step01_landing_20260805_150836.json	json_element	True	129.4499969482422	18.0	508.32501220703125	4133.05029296875	A	0	Not Dark Pattern	0.7696432425036468
 EPR Compliance	flipkart	landing	indian	step01_landing_20260805_150836.json	json_element	True	129.4499969482422	18.0	508.32501220703125	4151.05029296875	A	0	Not Dark Pattern	0.7696432425036468
 Request OTP	flipkart	landing	indian	step01_landing_20260805_150836.json	json_element	True	335.0	48.0	607.5	270.3999938964844	BUTTON	0	Not Dark Pattern	0.7787219321505793
+"Cello, Milton & more
+From ₹99"	flipkart	landing	indian	step01_landing_20260805_223222.json	json_element	True	276.0	231.0	360.0	539.1875	A	0	Not Dark Pattern	0.5092085611316011
 "Milton, Cello & more
 From ₹129"	flipkart	landing	indian	step01_landing_20260805_223222.json	json_element	True	276.0	231.0	644.0	539.1875	A	0	Not Dark Pattern	0.6594188028784571
 "Sports Shoes Flat 85% off
@@ -5194,6 +5196,9 @@ vivo T5 Lite 44W 5G (Wave Blue, 256 GB)
 "Add to Compare
 MOTOROLA g37 power (PANTONE Impenetrable, 128 GB)
 4.23,173 Rating"	flipkart	product	indian	step02_product_20260805_150908.json	json_element	True	944.7999877929688	230.5749969482422	312.0	1936.3375244140625	A	0	Not Dark Pattern	0.696620547472179
+"Add to Compare
+MOTOROLA g37 (PANTONE Nautical Blue, 64 GB)
+4.31,958 Ratings & 10"	flipkart	product	indian	step02_product_20260805_150908.json	json_element	True	944.7999877929688	230.5749969482422	312.0	2221.712646484375	A	0	Not Dark Pattern	0.5518754738949824
 "Add to Compare
 Ai+ Pulse 2 (Blue, 128 GB)
 4.27,308 Ratings & 441 Reviews
@@ -5256,6 +5261,9 @@ vivo T5x 5G (Cyber Green, 128 GB)
 "4. realme P4 Lite 5G (Mosaic G...
 4.31,850 Ratings&149 Reviews
 ₹20,99943% off"	flipkart	product	indian	step02_product_20260805_150908.json	json_element	True	287.5249938964844	75.80000305175781	219.9875030517578	7949.6875	A	0	Not Dark Pattern	0.547616172492478
+"5. vivo T5 Lite 44W 5G (Wave B...
+4.2430 Ratings&45 Reviews
+₹24,99941% off"	flipkart	product	indian	step02_product_20260805_150908.json	json_element	True	287.5249938964844	75.80000305175781	219.9875030517578	8154.08740234375	A	0	Not Dark Pattern	0.518170030922505
 Jeevat Cotton Single Flat 220 TC Jaipuri Prints 1 Bedsh...	flipkart	product	indian	step02_product_20260805_223527.json	json_element	True	210.1999969482422	44.20000076293945	304.0	473.4875183105469	A	0	Not Dark Pattern	0.7940913901700288
 ₹240₹1,79986% off	flipkart	product	indian	step02_product_20260805_223527.json	json_element	True	210.1999969482422	22.399999618530273	304.0	563.7625122070312	A	1	Urgency	0.6610506703407735
 RAMOLI Cotton Double Flat 144 TC Jaipuri Prints 1 Bedsh...	flipkart	product	indian	step02_product_20260805_223527.json	json_element	True	210.1999969482422	44.20000076293945	546.2000122070312	473.4875183105469	A	0	Not Dark Pattern	0.7984145736884194
@@ -5775,6 +5783,11 @@ Cold Pressed Juices	freshtohome	landing	indian	step01_landing_20260911_144853.js
 ₹579.00
 
 ₹379.00 /500g"	freshtohome	landing	indian	step01_landing_20260911_144853.json	json_element	True	192.0	236.125	766.0	2925.300048828125	A	1	Urgency	0.5134824768825915
+"Mahi Mahi / Pulli Motha
+
+₹449.00
+
+₹329.00 /500g"	freshtohome	landing	indian	step01_landing_20260911_144853.json	json_element	True	192.0	236.125	988.0	2925.300048828125	A	1	Urgency	0.6096285349751713
 "Rohu / Rui / ರೋಹು (Size/Grade: 1kg to 1.5kg)
 
 ₹219.00
@@ -6291,6 +6304,11 @@ Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Curry Cut, May
 "Rohu / Rui (Size/Grade 2kg-3kg) - Bengali Cut Headless (400g to 430g Pack)
 
 ₹367"	freshtohome	landing	indian	step01_landing_20260911_144853.json	json_element	True	192.0	236.125	544.0	9312.2998046875	A	0	Not Dark Pattern	0.7509966512629751
+"Rohu / Rui (Size/Grade 2kg-3kg) - Gada Cut
+
+₹299.00
+
+₹213.00 /pack"	freshtohome	landing	indian	step01_landing_20260911_144853.json	json_element	True	192.0	236.125	766.0	9312.2998046875	A	0	Not Dark Pattern	0.5351966945427669
 Rohu / Rui (Size/Grade: 1kg to 1.5kg) - One Fish (size: 1 to 1.2kg) Curry Cut Pa	freshtohome	landing	indian	step01_landing_20260911_144853.json	json_element	True	192.0	236.125	988.0	9312.2998046875	A	0	Not Dark Pattern	0.6997183152203297
 Rohu / Rui (Size/Grade: 1kg to 1.5kg) - One Fish (size: 1 to 1.2kg) Bengali Curr	freshtohome	landing	indian	step01_landing_20260911_144853.json	json_element	True	192.0	236.125	100.0	9578.4248046875	A	0	Not Dark Pattern	0.6857703255024588
 "Indian Prawns (70+ Count/kg)
@@ -7257,6 +7275,9 @@ MuscleBlaze Biozyme Iso-Zero, 2.2 lb Low Carb Ice Cream Chocolate"	HealthKart	la
 "4.7
  
 Ultimate Nutrition ISO Sensation 93, 5 lb Chocolate Fudge"	HealthKart	landing	indian	step01_landing_20260812_205718.json	json_element	True	257.5	74.0	957.5	2103.97509765625	A	0	Not Dark Pattern	0.7180789151478217
+"4.5
+ 
+Ronnie Coleman Iso-Tropic Max, 2 lb German Chocolate Cake"	HealthKart	landing	indian	step01_landing_20260812_205718.json	json_element	True	257.5	74.0	1255.0	2103.97509765625	A	0	Not Dark Pattern	0.7565049010553212
 "4.3
  
 GNC AMP Pure Isolate Powder, 4 lb Chocolate Frosting"	HealthKart	landing	indian	step01_landing_20260812_205718.json	json_element	True	257.5	74.0	1552.5	2103.97509765625	A	0	Not Dark Pattern	0.7359757495139567
@@ -7644,6 +7665,8 @@ Fast & Up	HealthKart	product	indian	step02_product_20260812_205745.json	json_ele
 7"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	2376.300048828125	A	0	Not Dark Pattern	0.7696432425036468
 "Nutrela
 7"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	2415.699951171875	A	0	Not Dark Pattern	0.7696432425036468
+"QNT
+7"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	2455.10009765625	A	0	Not Dark Pattern	0.7696432425036468
 "Rule One
 7"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	2494.5	A	0	Not Dark Pattern	0.6615337731143716
 "Helixlabz
@@ -7692,6 +7715,8 @@ Fast & Up	HealthKart	product	indian	step02_product_20260812_205745.json	json_ele
 1"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	3440.10009765625	A	0	Not Dark Pattern	0.7696432425036468
 "Kevin Levrone
 1"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	3479.5	A	0	Not Dark Pattern	0.7696432425036468
+"MB Fuel One
+1"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	3518.900146484375	A	0	Not Dark Pattern	0.6615337731143716
 "Ryse
 1"	HealthKart	product	indian	step02_product_20260812_205745.json	json_element	True	208.40000915527344	39.400001525878906	60.60000228881836	3558.300048828125	A	0	Not Dark Pattern	0.7696432425036468
 "Wild Buck
@@ -10060,6 +10085,9 @@ Klass Ergonomic 700-1150mm Black Manual Height Adjustable S..	Moglix	cart	indian
 "PROCEED TO PAY
 
 ₹11,645.00"	Moglix	cart	indian	step03_cart_20260810_121133.json	json_element	True	230.0	60.0	650.0	488.3999938964844	BUTTON	1	Misdirection	0.3941932282965409
+"PROCEED TO PAY
+₹11,645.00
+₹11,412.30"	Moglix	checkout	indian	step04_checkout_20260810_121211.json	json_element	True	230.0	60.0	640.0	554.2000122070312	BUTTON	1	Urgency	0.3592339557575598
 "PAY
 
 ₹1,158.35"	Moglix	payment	indian	step05_payment_20260810_121220.json	json_element	True	185.77500915527344	60.0	689.2250366210938	644.6000366210938	BUTTON	0	Not Dark Pattern	0.6595996143390955
@@ -12051,6 +12079,8 @@ SEBAMED ANTI DANDRUFF Shampoo 200ml	Netmeds	cart	indian	step03_cart_20260812_205
 "₹490.05 ₹605.00
 19% OFF"	Netmeds	cart	indian	step03_cart_20260812_205516.json	json_element	True	140.0	40.79999923706055	720.0	1102.800048828125	A	1	Urgency	0.670878359672115
 Contour Plus Blood Glucose Test Strip 50's	Netmeds	cart	indian	step03_cart_20260812_205516.json	json_element	True	140.0	48.0	884.0	1054.800048828125	A	0	Not Dark Pattern	0.6963225704256524
+"₹947.76 ₹1,077.00
+12% OFF"	Netmeds	cart	indian	step03_cart_20260812_205516.json	json_element	True	140.0	40.79999923706055	884.0	1102.800048828125	A	1	Urgency	0.7162132822610432
 Accu-Chek Guide Blood Glucose Test Strips 50's	Netmeds	cart	indian	step03_cart_20260812_205516.json	json_element	True	140.0	48.0	1048.0	1054.800048828125	A	0	Not Dark Pattern	0.7455527709034779
 "₹1,289.14 ₹1,499.00
 14% OFF"	Netmeds	cart	indian	step03_cart_20260812_205516.json	json_element	True	140.0	40.79999923706055	1048.0	1102.800048828125	A	1	Urgency	0.5847609542278798
@@ -16226,6 +16256,8 @@ Curling Iron/Stylers	nykaa	landing	indian	step01_landing_20260805_225654.json	js
 Multi Stylers	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	0	Not Dark Pattern	0.7696432425036468
 Blow Brushes	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	0	Not Dark Pattern	0.7988615329425013
 Pro Straighteners	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	0	Not Dark Pattern	0.7826544710724688
+"Pro Curling
+                      Irons/Stylers"	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	0	Not Dark Pattern	0.7826544710724688
 Pro Multi Stylers	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	0	Not Dark Pattern	0.7826544710724688
 Epilators	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	0	Not Dark Pattern	0.7696432425036468
 Bikini Trimmers	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	0	Not Dark Pattern	0.7696432425036468
@@ -17059,6 +17091,9 @@ MRP ₹467"	PharmEasy	landing	indian	step01_landing_20260810_120001.json	json_el
 MRP ₹387"	PharmEasy	landing	indian	step01_landing_20260810_120001.json	json_element	True	180.0	340.0	1264.0	4304.85009765625	A	0	Not Dark Pattern	0.6537297089436385
 Celevida For Diabetes Management- Nutrition Health Drink Vanilla Flavour 400G |	PharmEasy	landing	indian	step01_landing_20260810_120001.json	json_element	True	180.0	340.0	1468.0	4304.85009765625	A	0	Not Dark Pattern	0.7265204860230372
 Slimbiome Optibiotix Glp-1 Safe Alternative Prebiotic Nutritional Supplement Veg	PharmEasy	landing	indian	step01_landing_20260810_120001.json	json_element	True	180.0	340.0	1672.0	4304.85009765625	A	0	Not Dark Pattern	0.7733536849544593
+"Nicotex 2Mg Mint Plus Sugar Free Tin Of 44 Chewing Gums (41+3 Extra)
+MRP ₹415
+₹3"	PharmEasy	landing	indian	step01_landing_20260810_120001.json	json_element	True	180.0	340.0	1876.0	4304.85009765625	A	0	Not Dark Pattern	0.7052766447199635
 Pharmeasy Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bo	PharmEasy	landing	indian	step01_landing_20260810_120001.json	json_element	True	180.0	340.0	244.0	4772.85009765625	A	0	Not Dark Pattern	0.7698791972487119
 Pharmeasy Calcium Magnesium Vitamin D3 & Zinc - Bones & Dental Health - Bottle 6	PharmEasy	landing	indian	step01_landing_20260810_120001.json	json_element	True	180.0	340.0	652.0	4772.85009765625	A	0	Not Dark Pattern	0.7878735071744785
 "Pharmeasy Orthopaedic Electric Heat Belt Regular
@@ -18451,6 +18486,13 @@ Only f"	Shopsy	product	indian	step02_product_20260901_164330.json	json_element	T
 3.8
 (20,665)
 Or Pay ₹1"	Shopsy	product	indian	step02_product_20260901_164330.json	json_element	True	258.6625061035156	426.875	1017.3125	1174.1500244140625	A	0	Not Dark Pattern	0.6398637441130668
+"TIGERSNAKE Men Solid Casual Multicolor Shirt
+84% off
+999
+₹158
+3.6
+(21,457)
+Or Pa"	Shopsy	product	indian	step02_product_20260901_164330.json	json_element	True	258.6625061035156	426.875	217.3249969482422	1601.0250244140625	A	0	Not Dark Pattern	0.743944288258589
 "KedarKanth Men Self Design Casual Light Blue, White Shirt
 84% off
 999
@@ -20566,6 +20608,11 @@ Discounted Price:
 ₹66.5
 Original Price:
 ₹75"	Tata 1mg	product	indian	step02_product_20260812_205135.json	json_element	True	183.0625	274.0	1014.1124877929688	2634.0	A	1	Misdirection	0.30838317221724454
+"Pyrigesic 650 Tablet
+strip of 15 tablets
+Discounted Price:
+₹19.6
+Original Price:"	Tata 1mg	product	indian	step02_product_20260812_205135.json	json_element	True	183.0625	282.0	280.125	2969.60009765625	A	1	Misdirection	0.3085883780371421
 "ParaCIP 650 Tablet
 strip of 15 tablets
 4.6
@@ -21993,6 +22040,8 @@ We will send you the latest notifications related to your orders and lab reports
 Software"	Techjockey	landing	indian	step01_landing_20260812_205939.json	json_element	True	232.8000030517578	280.0	-476.20001220703125	776.4000244140625	A	0	Not Dark Pattern	0.7696432425036468
 "Accounting
 Software"	Techjockey	landing	indian	step01_landing_20260812_205939.json	json_element	True	232.8000030517578	280.0	-229.40000915527344	776.4000244140625	A	0	Not Dark Pattern	0.7696432425036468
+"Video Editing
+Software"	Techjockey	landing	indian	step01_landing_20260812_205939.json	json_element	True	232.8000030517578	280.0	17.399999618530273	776.4000244140625	A	0	Not Dark Pattern	0.7696432425036468
 "Billing & Invoicing
 Software"	Techjockey	landing	indian	step01_landing_20260812_205939.json	json_element	True	232.8000030517578	280.0	264.20001220703125	776.4000244140625	A	0	Not Dark Pattern	0.7557445576888115
 "Antivirus
@@ -23538,6 +23587,15 @@ Britannia Fruit Bread
 4.3
 (39.0k)"	Zepto	product	indian	step02_product_20260810_115745.json	json_element	True	146.8000030517578	258.3999938964844	776.4000244140625	1526.800048828125	A	0	Not Dark Pattern	0.5564850611803358
 "ADD
+₹65
+₹90
+₹25
+OFF
+Modern Butter Crust Milk Bread
+1 pack (350 g)
+4.4
+(40)"	Zepto	product	indian	step02_product_20260810_115745.json	json_element	True	146.8000030517578	296.3999938964844	931.2000122070312	1526.800048828125	A	1	Urgency	0.4029852321897682
+"ADD
 ₹60
 English Oven Sandwich White Bread
 1 pack (400 g)
@@ -23696,6 +23754,16 @@ OFF
 Hellmann's Cheezy Jalapeno Burst Mayo
 1 pack (85 g)"	Zepto	cart	indian	step03_cart_20260810_115759.json	json_element	True	140.0	289.6000061035156	1454.9000244140625	2902.60009765625	A	0	Not Dark Pattern	0.5216309265915566
 "ADD
+₹102
+₹140
+₹38
+OFF
+Milky Mist Paneer
+1 pack (200 g)
+4.6
+(121.0k)
+Bestseller"	Zepto	cart	indian	step03_cart_20260810_115759.json	json_element	True	140.0	289.6000061035156	1604.9000244140625	2902.60009765625	A	1	Social Proof	0.2918193016365416
+"ADD
 ₹66
 ₹70
 ₹4
@@ -23844,6 +23912,13 @@ OFF
 Milky Mist High Protein Paneer
 1 pack (200 g)"	Zepto	cart	indian	step03_cart_20260810_115759.json	json_element	True	140.0	285.6000061035156	1844.800048828125	1172.75	A	0	Not Dark Pattern	0.5080986010112618
 "ADD
+₹29
+₹72
+₹43
+OFF
+Banana Robusta
+4 pcs"	Zepto	cart	indian	step03_cart_20260810_115759.json	json_element	True	140.0	285.6000061035156	1992.800048828125	1172.75	A	1	Urgency	0.34996906015165347
+"ADD
 ₹270
 Amul Chocolate Hazelnut Spread
 1 pc (300 g)"	Zepto	cart	indian	step03_cart_20260810_115759.json	json_element	True	140.0	285.6000061035156	2140.800048828125	1172.75	A	0	Not Dark Pattern	0.655190679081171
@@ -23870,6 +23945,14 @@ Akshayakalpa Amrutha A2 Pasteurized Organic Fresh Milk | Pouch
 ₹32
 Arokya Standardized Fresh Milk | Pouch
 1 pack (500 ml)"	Zepto	cart	indian	step03_cart_20260810_115759.json	json_element	True	140.0	285.6000061035156	3028.800048828125	1172.75	A	0	Not Dark Pattern	0.6904219398817182
+"ADD
+₹102
+₹140
+₹38
+OFF
+Milky Mist Paneer
+1 pack (200 g)
+Bestseller"	Zepto	cart	indian	step03_cart_20260810_115759.json	json_element	True	140.0	285.6000061035156	3176.800048828125	1172.75	A	1	Social Proof	0.2918193016365416
 "ADD
 ₹69
 ₹149
