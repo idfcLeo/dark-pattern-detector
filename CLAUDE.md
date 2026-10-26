@@ -10,12 +10,13 @@ There is no test suite, linter, or build step. All scripts use paths relative to
 
 ## Current phase (update as it changes)
 
-**Phase 2: human labelling for Indian data.** Paused 2026-10-17, waiting on the user.
+**Phase 2: human labelling for Indian data.**
 
 - Done:
   - Phase 1: leakage-free ensemble training with CV-based selection. Multiclass macro F1 went from 0.76 to 0.84, binary F1 stayed at 0.949. Both winners are SVC.
   - The 300-row gold set and `batch_01.tsv` have been generated, and the models were retrained without gold rows.
-- In progress (the user does this in their own terminal): `label gold`, then `label data/active_learning/batch_01.tsv`.
+  - 2026-10-26: gold set labelled (11/300 dark). Baseline on gold: weighted F1 = 0.064 for both the selected model and the baseline pseudo-labeller. The baseline flags plain discounts ("20% off") as dark, so Indian pseudo-labels are mostly false positives.
+- In progress (the user does this in their own terminal): `label data/active_learning/batch_01.tsv`.
 - Next, once labels exist:
   1. Run `python active_learning.py status`.
   2. Run `python train_model.py --prepare` (about 17 min, run it in the background).
