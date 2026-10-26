@@ -1,140 +1,140 @@
 text	site	step_label	label	Pattern Category
-Price-Low to High	The Souled Store	product		
-Special Price	flipkart	product		
-LOG IN WITH EMAIL	bluestone	landing		
-M.R.P: ₹11,999.00	amazon_in	product		
+Price-Low to High	The Souled Store	product	0	Not Dark Pattern
+Special Price	flipkart	product	0	Not Dark Pattern
+LOG IN WITH EMAIL	bluestone	landing	0	Not Dark Pattern
+M.R.P: ₹11,999.00	amazon_in	product	0	Not Dark Pattern
 "Naruto: Akatsuki Fridge Magnet
 
 ₹ 399.00
 
-Collectibles"	The Souled Store	cart		
+Collectibles"	The Souled Store	cart	0	Not Dark Pattern
 "Pyrigesic 1000 Tablet
 strip of 10 tablets
 Discounted Price:
 ₹39.7
-Original Price"	Tata 1mg	product		
-Dahua 8 Channel 1080P 5-in-1 Digital Video Recorder, DH-XVR4B08-I ...	Moglix	landing		
-Just ensure you order within the time frame mentioned in the delivery information and the product will be delivered to you the Same Day.	FirstCry	cart		
-How much time will it take to get the refund of a cancelled/returned order?	JioMart	cancel_step		
+Original Price"	Tata 1mg	product	0	Not Dark Pattern
+Dahua 8 Channel 1080P 5-in-1 Digital Video Recorder, DH-XVR4B08-I ...	Moglix	landing	0	Not Dark Pattern
+Just ensure you order within the time frame mentioned in the delivery information and the product will be delivered to you the Same Day.	FirstCry	cart	0	Not Dark Pattern
+How much time will it take to get the refund of a cancelled/returned order?	JioMart	cancel_step	0	Not Dark Pattern
 "Sword Fish
 
 ₹459.00
 
-₹349.00 /500g"	freshtohome	landing		
+₹349.00 /500g"	freshtohome	landing	0	Not Dark Pattern
 "ADD
 ₹65
 Britannia Pure Whole Wheat Bread (No Maida)
 1 pack (400 g)
 4.5
-(66.5k)"	Zepto	product		
-Only one product can be selected from Deal 1. Adding Bonfino Crinkle Teething... will remove the Babyhug Sterilizable Steel... from the cart.	FirstCry	cart		
+(66.5k)"	Zepto	product	0	Not Dark Pattern
+Only one product can be selected from Deal 1. Adding Bonfino Crinkle Teething... will remove the Babyhug Sterilizable Steel... from the cart.	FirstCry	cart	0	Not Dark Pattern
 "Lipid Profile, Non Fasting
 Contains 8 tests
 Tata 1mg Labs
 SAFE
 ₹399
 ₹699
-43% off"	Tata 1mg	landing		
-PAY NOW (PREPAID)	DMart Ready	payment		
-Items:	amazon_in	checkout		
-This is a gift	amazon_in	cart		
-Rs. 730Rs. 1483.65(51% OFF)	myntra	product		
-EMI from ₹12,925/m	spinny	product		
-Coupon is applicable only for online purchases(Website & App)	FirstCry	cart		
-Food items for Stage 2 (6-12 Months) Baby	PharmEasy	landing		
-SAVE CHANGES	Bewakoof	cancel_step		
-₹199.00 /pack	freshtohome	landing		
-₹100 - ₹10,100+	myntra	product		
-Add to Cart	amazon_in	cart		
-Flat 10% off on Preset Solitaire Jewellery	bluestone	landing		
+43% off"	Tata 1mg	landing	0	Not Dark Pattern
+PAY NOW (PREPAID)	DMart Ready	payment	0	Not Dark Pattern
+Items:	amazon_in	checkout	0	Not Dark Pattern
+This is a gift	amazon_in	cart	0	Not Dark Pattern
+Rs. 730Rs. 1483.65(51% OFF)	myntra	product	0	Not Dark Pattern
+EMI from ₹12,925/m	spinny	product	0	Not Dark Pattern
+Coupon is applicable only for online purchases(Website & App)	FirstCry	cart	0	Not Dark Pattern
+Food items for Stage 2 (6-12 Months) Baby	PharmEasy	landing	0	Not Dark Pattern
+SAVE CHANGES	Bewakoof	cancel_step	0	Not Dark Pattern
+₹199.00 /pack	freshtohome	landing	0	Not Dark Pattern
+₹100 - ₹10,100+	myntra	product	0	Not Dark Pattern
+Add to Cart	amazon_in	cart	0	Not Dark Pattern
+Flat 10% off on Preset Solitaire Jewellery	bluestone	landing	0	Not Dark Pattern
 "Vitamin B12 (Vit B12)
 Contains 1 test
 Tata 1mg Labs
 SAFE
 ₹680
 ₹1200
-43% off"	Tata 1mg	landing		
-Grab a Deal	Techjockey	product		
-(₹ 0.22 / 1 g)	DMart Ready	product		
+43% off"	Tata 1mg	landing	0	Not Dark Pattern
+Grab a Deal	Techjockey	product	0	Not Dark Pattern
+(₹ 0.22 / 1 g)	DMart Ready	product	0	Not Dark Pattern
 "P 650 Tablet
 strip of 10 tablets
 Discounted Price:
 ₹19.2
 Original Price:
-₹21.42"	Tata 1mg	product		
-Fast & Up	HealthKart	product		
-4 Innerwear at 599	Clovia	landing		
-- Avoid Cod Charges, Save Rs 29	LimeRoad	checkout		
+₹21.42"	Tata 1mg	product	0	Not Dark Pattern
+Fast & Up	HealthKart	product	0	Not Dark Pattern
+4 Innerwear at 599	Clovia	landing	0	Not Dark Pattern
+- Avoid Cod Charges, Save Rs 29	LimeRoad	checkout	1	Misdirection
 "ADD
 ₹95
 Amul Fresh Malai Paneer
 1 pack (200 g)
 4.7
-(382.0k)"	Zepto	cart		
-₹200.00 /pack	freshtohome	product		
-(4 Steal Deals for You)	HealthKart	cart		
+(382.0k)"	Zepto	cart	0	Not Dark Pattern
+₹200.00 /pack	freshtohome	product	0	Not Dark Pattern
+(4 Steal Deals for You)	HealthKart	cart	0	Not Dark Pattern
 "Customer Support
-Help regarding your purchase"	Purplle	settings		
-60% Off or more	amazon_in	product		
-POPULAR BRANDS	ajio	landing		
+Help regarding your purchase"	Purplle	settings	0	Not Dark Pattern
+60% Off or more	amazon_in	product	0	Not Dark Pattern
+POPULAR BRANDS	ajio	landing	0	Not Dark Pattern
 "NEW
 FLAT1000OFF
-UPTO र 1000 OFF"	lifestyle	product		
+UPTO र 1000 OFF"	lifestyle	product	0	Not Dark Pattern
 "ADD
 ₹105
 ₹120
 ₹15
 OFF
-The Health Factory Zero Maida Classic Sourdough | Clean La"	Zepto	cart		
-Jewellery Shop in Thane|	bluestone	landing		
-Buying For Loved one?	FirstCry	cart		
-Do I need to pay any charges for saving my card?	JioMart	cancel_step		
-Your Prime Membership	amazon_in	product		
-Pay Full Amount	Moglix	checkout		
-10 x 16 pack	Blinkit	landing		
-LOG IN	bluestone	landing		
-Up To 40 Hours Of Playtime	noise	product		
+The Health Factory Zero Maida Classic Sourdough | Clean La"	Zepto	cart	0	Not Dark Pattern
+Jewellery Shop in Thane|	bluestone	landing	0	Not Dark Pattern
+Buying For Loved one?	FirstCry	cart	0	Not Dark Pattern
+Do I need to pay any charges for saving my card?	JioMart	cancel_step	0	Not Dark Pattern
+Your Prime Membership	amazon_in	product	0	Not Dark Pattern
+Pay Full Amount	Moglix	checkout	0	Not Dark Pattern
+10 x 16 pack	Blinkit	landing	0	Not Dark Pattern
+LOG IN	bluestone	landing	0	Not Dark Pattern
+Up To 40 Hours Of Playtime	noise	product	0	Not Dark Pattern
 "White Prawns / Indian Naaran / Jhinga / ಸೀಗಡಿ (Super Large)
 
 ₹675.00
 
-₹445.00 /5"	freshtohome	landing		
-Sign Up & Get Upto 1,500 off on Your First Purchase!	myntra	product		
+₹445.00 /5"	freshtohome	landing	0	Not Dark Pattern
+Sign Up & Get Upto 1,500 off on Your First Purchase!	myntra	product	0	Not Dark Pattern
 "LFT (Liver Function Test)
 Contains 11 tests
 Tata 1mg Labs
 SAFE
 ₹399
 ₹710
-44% off"	Tata 1mg	landing		
-Rose Gold RingsStarting at Rs. 10,000/-	bluestone	cart		
-Order Placement	shoppers_stop	cancel_step		
-"Call Function	No"	JioMart	cart		
-JUNE 11, 2026	boult	landing		
-Vaseline Sun Protect SPF 30 Body Lotion, Reduces Tan Lines in 7 Days, UVA + UVB PA+++ 400 ml	Purplle	product		
-"Total Price	₹ 699"	LimeRoad	cart		
+44% off"	Tata 1mg	landing	0	Not Dark Pattern
+Rose Gold RingsStarting at Rs. 10,000/-	bluestone	cart	0	Not Dark Pattern
+Order Placement	shoppers_stop	cancel_step	0	Not Dark Pattern
+"Call Function	No"	JioMart	cart	0	Not Dark Pattern
+JUNE 11, 2026	boult	landing	0	Not Dark Pattern
+Vaseline Sun Protect SPF 30 Body Lotion, Reduces Tan Lines in 7 Days, UVA + UVB PA+++ 400 ml	Purplle	product	0	Not Dark Pattern
+"Total Price	₹ 699"	LimeRoad	cart	0	Not Dark Pattern
 "In Focus Now
-Top Rated"	flipkart	landing		
-8.Coupon code cannot be used for purchase of FirstCry Club Membership.	FirstCry	cart		
-Rs. 350Rs. 899(61% OFF)	myntra	product		
+Top Rated"	flipkart	landing	0	Not Dark Pattern
+8.Coupon code cannot be used for purchase of FirstCry Club Membership.	FirstCry	cart	0	Not Dark Pattern
+Rs. 350Rs. 899(61% OFF)	myntra	product	0	Not Dark Pattern
 "ADD
 ₹64
 ₹65
 ₹1
 OFF
 Modern - Zero Maida Whole Wheat Bread
-1 pack (400 g or 430 g)"	Zepto	product		
-(3799 Items)	FirstCry	product		
-Spinny takes the uncertainty and risk out of buying a used car, offering peace of mind at every step with zero compromises. Our selection process ensures that only the highest quality certified second hand cars in your city. A Spinny car is only certified once it passes a thorough 200-point evaluation that checks the condition of every part of the car. Any used car can get certified. It takes perfection to be Spinny Assured. Experience a simple & fully transparent way of buying used cars with Spinny. Find your perfect match from our wide range of fully inspected & certified used cars at the best prices. All Spinny cars come with hassle-free paperwork, free RC transfer, and used car finance options with low-interest rates starting from only 12.99%. With Spinny, pre-owned is better than new. Get the savings of a pre-owned with the quality of a new car. All this through a transparent, convenient and trustworthy process, to make sure you buy a car you'll love, guaranteed.	spinny	landing		
-Alps Goodness Rosemary Foaming Shampoo | Presoaked in Amla Reetha Shikakai water | Anti hairfall Shampoo | Gentle & Non drying | Rosemary Shampoo | Hair Growth Shampoo | For long thick hair | Sulphate-free | For men & women |150 ml	Purplle	cart		
-Not now	bluestone	landing		
-Everything to Know About GLP-1 Receptor Agonist and Its Role in Weight Management	PharmEasy	landing		
+1 pack (400 g or 430 g)"	Zepto	product	0	Not Dark Pattern
+(3799 Items)	FirstCry	product	0	Not Dark Pattern
+Spinny takes the uncertainty and risk out of buying a used car, offering peace of mind at every step with zero compromises. Our selection process ensures that only the highest quality certified second hand cars in your city. A Spinny car is only certified once it passes a thorough 200-point evaluation that checks the condition of every part of the car. Any used car can get certified. It takes perfection to be Spinny Assured. Experience a simple & fully transparent way of buying used cars with Spinny. Find your perfect match from our wide range of fully inspected & certified used cars at the best prices. All Spinny cars come with hassle-free paperwork, free RC transfer, and used car finance options with low-interest rates starting from only 12.99%. With Spinny, pre-owned is better than new. Get the savings of a pre-owned with the quality of a new car. All this through a transparent, convenient and trustworthy process, to make sure you buy a car you'll love, guaranteed.	spinny	landing	0	Not Dark Pattern
+Alps Goodness Rosemary Foaming Shampoo | Presoaked in Amla Reetha Shikakai water | Anti hairfall Shampoo | Gentle & Non drying | Rosemary Shampoo | Hair Growth Shampoo | For long thick hair | Sulphate-free | For men & women |150 ml	Purplle	cart	0	Not Dark Pattern
+Not now	bluestone	landing	0	Not Dark Pattern
+Everything to Know About GLP-1 Receptor Agonist and Its Role in Weight Management	PharmEasy	landing	0	Not Dark Pattern
 "Coconut Chutney (150g)
 
 ₹90.00
 
-₹68.00 /pack"	freshtohome	landing		
-"GRAND TOTAL	₹742.00"	freshtohome	checkout		
+₹68.00 /pack"	freshtohome	landing	0	Not Dark Pattern
+"GRAND TOTAL	₹742.00"	freshtohome	checkout	0	Not Dark Pattern
 "Puma Mesh Lace Up Women's Sports Shoes
 ₹3599
 
@@ -142,47 +142,47 @@ Everything to Know About GLP-1 Receptor Agonist and Its Role in Weight Managemen
 
 40% Off
 
-8 Offers Available"	shoppers_stop	product		
-10% or more (486)	Moglix	product		
-Add Captions & Timestamps	Techjockey	product		
+8 Offers Available"	shoppers_stop	product	0	Not Dark Pattern
+10% or more (486)	Moglix	product	0	Not Dark Pattern
+Add Captions & Timestamps	Techjockey	product	0	Not Dark Pattern
 "Nutrabay
-15"	HealthKart	product		
+15"	HealthKart	product	0	Not Dark Pattern
 "Neckband
-Min. 50% Off"	flipkart	landing		
-How can I check if the product I am ordering is in stock?	JioMart	cancel_step		
-₹3,999 ₹4,899 (18% off)	pepperfry	product		
-Curated For The Festive Days	shoppers_stop	landing		
-Offers Available (1)	Purplle	cart		
-Trending now	amazon_in	product		
-We may also refuse or cancel any order for legitimate business, operational, legal, or security reasons.	westside	cancel_step		
+Min. 50% Off"	flipkart	landing	0	Not Dark Pattern
+How can I check if the product I am ordering is in stock?	JioMart	cancel_step	0	Not Dark Pattern
+₹3,999 ₹4,899 (18% off)	pepperfry	product	0	Not Dark Pattern
+Curated For The Festive Days	shoppers_stop	landing	0	Not Dark Pattern
+Offers Available (1)	Purplle	cart	0	Not Dark Pattern
+Trending now	amazon_in	product	0	Not Dark Pattern
+We may also refuse or cancel any order for legitimate business, operational, legal, or security reasons.	westside	cancel_step	0	Not Dark Pattern
 "Rohu / Rui / ರೋಹು Egg (Roe)
 
 ₹449.00
 
-₹74.50 /500g"	freshtohome	landing		
-Extra Rs 500 Off | Code : ONT500	HealthKart	product		
-Buy More, Save More	amazon_in	product		
-(Total price: 352)	freshtohome	cart		
-4.13 Lakh	spinny	product		
-59369(84% OFF)	myntra	cart		
-Subtotal · 2 items	westside	cart		
-Get Extra 20% off On Your First App Order	nykaa	landing		
+₹74.50 /500g"	freshtohome	landing	0	Not Dark Pattern
+Extra Rs 500 Off | Code : ONT500	HealthKart	product	0	Not Dark Pattern
+Buy More, Save More	amazon_in	product	0	Not Dark Pattern
+(Total price: 352)	freshtohome	cart	0	Not Dark Pattern
+4.13 Lakh	spinny	product	0	Not Dark Pattern
+59369(84% OFF)	myntra	cart	0	Not Dark Pattern
+Subtotal · 2 items	westside	cart	0	Not Dark Pattern
+Get Extra 20% off On Your First App Order	nykaa	landing	0	Not Dark Pattern
 "Lababdar Instant Gravy Mix (200g Pack)
 
 ₹175.00
 
-₹109.00 /pack"	freshtohome	landing		
-M.R.P: ₹68,999.00	amazon_in	cart		
-SUPER SAVER DEALS	FirstCry	product		
-The iPhone 16 is the best phone in this price range.	flipkart	product		
-To apply this coupon, To apply this gift certificate, LOGIN NOW	FirstCry	cart		
-COD charges applied due to the higher cost involved in delivering COD orders on some pincodes. To avoid paying this charge, kindly make an online payment.	FirstCry	cart		
-Find affordable medicine substitutes, save up to 50% on health products, up to 80% off on lab tests and free doctor consultations.	Tata 1mg	product		
-Celevida For Diabetes Management- Nutrition Health Drink Vanilla Flavour 400G | No Added Sugar	PharmEasy	landing		
-M.R.P: ₹49,999.00	amazon_in	cart		
-HealthKart aims at being your partner in your fitness journey rather than just a source for your nutritional requirements. The range of products carried on HealthKart ensures that you get exactly what you need to reach specific fitness goals.	HealthKart	landing		
-10 ml	Blinkit	landing		
-+ 10 more	bluestone	product		
+₹109.00 /pack"	freshtohome	landing	0	Not Dark Pattern
+M.R.P: ₹68,999.00	amazon_in	cart	0	Not Dark Pattern
+SUPER SAVER DEALS	FirstCry	product	0	Not Dark Pattern
+The iPhone 16 is the best phone in this price range.	flipkart	product	0	Not Dark Pattern
+To apply this coupon, To apply this gift certificate, LOGIN NOW	FirstCry	cart	0	Not Dark Pattern
+COD charges applied due to the higher cost involved in delivering COD orders on some pincodes. To avoid paying this charge, kindly make an online payment.	FirstCry	cart	0	Not Dark Pattern
+Find affordable medicine substitutes, save up to 50% on health products, up to 80% off on lab tests and free doctor consultations.	Tata 1mg	product	0	Not Dark Pattern
+Celevida For Diabetes Management- Nutrition Health Drink Vanilla Flavour 400G | No Added Sugar	PharmEasy	landing	0	Not Dark Pattern
+M.R.P: ₹49,999.00	amazon_in	cart	0	Not Dark Pattern
+HealthKart aims at being your partner in your fitness journey rather than just a source for your nutritional requirements. The range of products carried on HealthKart ensures that you get exactly what you need to reach specific fitness goals.	HealthKart	landing	0	Not Dark Pattern
+10 ml	Blinkit	landing	0	Not Dark Pattern
++ 10 more	bluestone	product	0	Not Dark Pattern
 "ADD
 ₹76
 ₹90
@@ -191,4 +191,4 @@ OFF
 Theobroma Protein Bread Zero Maida
 1 pack (250 g)
 4.5
-(174)"	Zepto	product		
+(174)"	Zepto	product	0	Not Dark Pattern
