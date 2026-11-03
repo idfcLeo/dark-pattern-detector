@@ -20,6 +20,8 @@ There is no test suite, linter, or build step. All scripts use paths relative to
   - batch_02 labelled (3/100 dark) and retrained: gold weighted F1 0.133 (P 0.160, R 0.114), flat vs batch_01. Winners: LR (binary), SVC (multiclass). The model catches 4/11 gold dark rows.
 - Pending the user's decision: a dark-mining `select` mode to get more dark examples, since uncertainty batches yield only 1–3 dark rows per 100.
 - 2026-11-03: labelling parked; the user wants a working end-to-end app first, then accuracy work. Web app verified end to end (predict, analyze-url on Flipkart/Amazon). Myntra and Nykaa block headless browsers. CCPA mapping now uses the official 2023 guideline names.
+  - Pseudo-dark Indian rows are no longer trained on (`KEEP_PSEUDO_DARK=False`; 64 moved to review), and the binary threshold is CV-tuned on F2 (`models/binary_threshold.json`, read by the backend). Gold weighted F1 is 0.175 at 0.50 (P 0.227, R 0.142); the tuned 0.40 gives 0.158, so in-distribution CV thresholds don't transfer to Indian text.
+- Next options: Indian-only training (needs about 150+ human dark rows via dark-mining batches, plus site-grouped CV), or add Indian dark examples to `data/manual_labels.tsv`.
 - Next, once labels exist:
   1. Run `python active_learning.py status`.
   2. Run `python train_model.py --prepare` (about 17 min, run it in the background).
