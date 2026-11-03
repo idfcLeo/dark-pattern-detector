@@ -1,14 +1,11 @@
 mathur_category	ccpa_category	ccpa_description
-Scarcity	False Activity Messages	Misrepresenting the demand for or availability of a good or service
-Social Proof	False Activity Messages	Misrepresenting the demand for or availability of a good or service
-Urgency	Creating a False Sense of Urgency	Falsely creating a sense of urgency to pressure consumers to act
-Misdirection	Trick Wording	Using confusing language to steer consumers toward a particular choice
-Obstruction	Hard to Cancel	Making it difficult for consumers to cancel a service or subscription
-Sneaking	Hidden Information	Concealing material information from consumers
-Sneaking	Hidden Costs	Adding unexpected charges at the point of sale
-Forced Action	Forced Enrollment	Requiring consumers to sign up for unrelated services
-Forced Action	Unauthorized Charges	Charging consumers without clear consent
-Misdirection	Asymmetric Choice	Presenting choices in a way that steers consumers toward the option preferred by the business
-Obstruction	Endless Loop	Creating a circular process that prevents consumers from completing an action
-Urgency	Countdown Timer	Using fake or misleading countdown timers to create false urgency
-Social Proof	Testimonials of Uncertain Origin	Displaying reviews or endorsements that may not be authentic
+Urgency	False Urgency	Falsely stating or implying urgency or scarcity to mislead a user into an immediate purchase or action
+Scarcity	False Urgency	Falsely stating or implying urgency or scarcity to mislead a user into an immediate purchase or action
+Social Proof	False Urgency	Showing false popularity of a product or service to manipulate the user's decision
+Misdirection	Confirm Shaming	Using a phrase, video, audio or other means to create fear, shame, ridicule or guilt to nudge the user into an action
+Misdirection	Interface Interference	Highlighting certain information and obscuring other relevant information to misdirect the user from the action they intended
+Misdirection	Trick Question	Deliberately using confusing or vague language to misguide or divert the user from taking the desired action
+Obstruction	Subscription Trap	Making cancellation of a paid subscription impossible or complex, or hiding the cancellation option
+Sneaking	Basket Sneaking	Including additional items, such as products, services or donations, at checkout without the user's consent
+Sneaking	Drip Pricing	Not revealing elements of the price upfront, or revealing them surreptitiously within the user experience
+Forced Action	Forced Action	Forcing the user into an action that requires buying additional goods, subscribing to an unrelated service or sharing personal information
