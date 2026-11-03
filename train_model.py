@@ -93,6 +93,11 @@ SLOW_MODELS = {"rf", "lgbm", "xgb"}  # get a third of the trials (one XGB fit is
 # than a false alarm. The web backend reads the saved threshold.
 THRESHOLD_BETA = 2.0
 THRESHOLD_PATH = MODELS_DIR / "binary_threshold.json"
+# Deploy the CV-tuned threshold, or plain 0.50? The tuned value comes from
+# mostly-foreign CV data and has scored worse on the Indian gold set (0.40 and
+# 0.29 both lost to 0.50), so 0.50 ships. The tuned value is still computed,
+# saved as "tuned_threshold" and scored on gold, so this can be revisited.
+USE_TUNED_THRESHOLD = False
 
 
 # -----------------------------------------------------------------------------
@@ -600,8 +605,12 @@ def main():
     print(f"{'=' * 60}")
     binary = train_task(df, "label", train_idx, test_idx, "Binary", "binary", args.trials)
     binary["threshold"] = tune_threshold(binary["oof_proba"], binary["y_train_enc"])
+    tuned = binary["threshold"]["threshold"]
+    deployed = tuned if USE_TUNED_THRESHOLD else 0.5
+    # "threshold" is what the web backend reads; the tuned value is kept for reference.
     with open(THRESHOLD_PATH, "w") as f:
-        json.dump(binary["threshold"], f, indent=2)
+        json.dump({**binary["threshold"], "threshold": deployed, "tuned_threshold": tuned}, f, indent=2)
+    print(f"  Deployed threshold: {deployed:.2f} (USE_TUNED_THRESHOLD={USE_TUNED_THRESHOLD})")
 
     # =========================================================================
     # MULTI-CLASS MODEL
@@ -641,8 +650,9 @@ def main():
     report_lines = [f"Training Report — {datetime.now().isoformat()}", "=" * 60]
     report_lines += report_section("BINARY MODEL", binary)
     th = binary["threshold"]
-    report_lines.append(f"  Decision threshold: {th['threshold']:.2f} (max CV F{th['beta']:g}: "
-                        f"{th['cv_fbeta_at_0.5']:.4f} at 0.50 -> {th['cv_fbeta_at_threshold']:.4f})")
+    report_lines.append(f"  Tuned threshold: {th['threshold']:.2f} (max CV F{th['beta']:g}: "
+                        f"{th['cv_fbeta_at_0.5']:.4f} at 0.50 -> {th['cv_fbeta_at_threshold']:.4f}); "
+                        f"deployed: {th['threshold'] if USE_TUNED_THRESHOLD else 0.5:.2f}")
     report_lines += report_section("MULTI-CLASS MODEL", multiclass)
     report_lines.append(f"  Rare categories merged to 'Other': {rare_categories}")
     report_lines += gold_report_section(gold)
