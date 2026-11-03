@@ -24274,3 +24274,81 @@ Placed at 10th Aug 2026, 11:58 am	Zepto	settings	indian	step06_settings_20260810
 General Inquiry	Zepto	cancel_step	indian	step07_cancel_step_20260810_115933.txt	txt_body							0	Not Dark Pattern	0.7573280945253791
 "You will need to contact our customer support through ""Chat With Us"" option or email to delete your account."	Zepto	cancel_step	indian	step07_cancel_step_20260810_115933.txt	txt_body							0	Not Dark Pattern	0.7262576799113415
 Did this resolve your issue?	Zepto	cancel_step	indian	step07_cancel_step_20260810_115933.txt	txt_body							1	Social Proof	0.37572996043273377
+Rohin's Amazon.in	amazon_in	product	indian	step02_product_20260805_150641.json	json_element	True	125.80000305175781	28.0	159.8000030517578	-351.6000061035156	A	1	Social Proof	0.7016675248716308
+Limited time deal	amazon_in	product	indian	step02_product_20260805_150641.json	json_element	True	111.4749984741211	17.600000381469727	518.0	111.0	A	1	Urgency	0.7755143181922496
+In stock	amazon_in	cart	indian	step03_cart_20260805_150703.txt	txt_body							1	Scarcity	0.9288872273710908
+4.7M People like this	Bewakoof	product	indian	step02_product_20260812_204743.json	json_element	True	292.0	21.200000762939453	648.0	4139.7001953125	A	1	Social Proof	0.6866847062580843
+Newly In	boult	landing	indian	step01_landing_20260911_151944.txt	txt_body							1	Social Proof	0.7016675248716308
+1.8k People ordered this in the last 24 hours	boult	cart	indian	step03_cart_20260911_152109.txt	txt_body							1	Social Proof	0.8843382818597778
+Only Pictures	boult	cart	indian	step03_cart_20260911_152109.txt	txt_body							1	Scarcity	0.9393096864357928
+Parle Fab Jam-In 3 Flavours Biscuits : 320 g	DMart Ready	product	indian	step02_product_20260901_164720.json	json_element	True	233.0	40.025001525878906	76.80000305175781	3321.800048828125	A	1	Social Proof	0.7016675248716308
+Intelliskills 2 In 1 Play Mat Jungle & Roadmap...	FirstCry	cart	indian	step03_cart_20260810_114045.txt	txt_body							1	Social Proof	0.7016675248716308
+NO, THANKS YES, PLEASE	FirstCry	cart	indian	step03_cart_20260810_114045.txt	txt_body							1	Misdirection	0.8371967126899584
+Only few left	flipkart	product	indian	step02_product_20260805_150908.txt	txt_body							1	Scarcity	0.8824296753685155
+Only 1 left	flipkart	product	indian	step02_product_20260805_150908.txt	txt_body							1	Scarcity	0.9868011951876455
+Only 3 left	flipkart	product	indian	step02_product_20260805_150908.txt	txt_body							1	Scarcity	0.9868011951876455
+Only 2 left	flipkart	product	indian	step02_product_20260805_150908.txt	txt_body							1	Scarcity	0.9868011951876455
+FSSAI Lic. No. 11221999000168	freshtohome	cart	indian	step03_cart_20260911_145418.txt	txt_body							1	Misdirection	0.8465993088082049
+HKPAY IN 3	HealthKart	checkout	indian	step04_checkout_20260812_205833.json	json_element	True	300.0	56.0	34.79999923706055	278.3999938964844	BUTTON	1	Social Proof	0.7016675248716308
+No Hidden	JioMart	cart	indian	step03_cart_20260810_114447.txt	txt_body							1	Misdirection	0.8465993088082049
+"Waterproof	No"	JioMart	cart	indian	step03_cart_20260810_114447.txt	txt_body							1	Misdirection	0.8465993088082049
+"Blood Oxygen Monitoring (SpO2)	No"	JioMart	cart	indian	step03_cart_20260810_114447.txt	txt_body							1	Misdirection	0.8465993088082049
+"Activity Tracker	No"	JioMart	cart	indian	step03_cart_20260810_114447.txt	txt_body							1	Misdirection	0.8465993088082049
+"Calorie Tracker	No"	JioMart	cart	indian	step03_cart_20260810_114447.txt	txt_body							1	Misdirection	0.8465993088082049
+"Music Player	No"	JioMart	cart	indian	step03_cart_20260810_114447.txt	txt_body							1	Misdirection	0.8465993088082049
+No thanks	Lenskart	landing	indian	step01_landing_20260810_120301.json	json_element	True	130.0	32.79999923706055	949.0	153.90000915527344	BUTTON	1	Misdirection	0.9536624342639155
+9958410404 | 9958410404@guest.in	licious	payment	indian	step05_payment_20260911_144829.txt	txt_body							1	Social Proof	0.7016675248716308
+9958410404@guest.in	licious	cancel_step	indian	step07_cancel_step_20260911_144836.txt	txt_body							1	Social Proof	0.7016675248716308
+In Trend	lifestyle	landing	indian	step01_landing_20260911_153735.txt	txt_body							1	Social Proof	0.7016675248716308
+Under Fourteen Only	LimeRoad	landing	indian	step01_landing_20260812_204451.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Scarcity	0.9393096864357928
+"Helpcentre
+helpin.maxfashion.in"	max_fashion	landing	indian	step01_landing_20260911_154033.json	json_element	True	220.27500915527344	60.0	258.9624938964844	5132.11279296875	A	1	Social Proof	0.7016675248716308
+helpin.maxfashion.in	max_fashion	product	indian	step02_product_20260911_154106.txt	txt_body							1	Social Proof	0.7016675248716308
+₹10,50057% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+₹10,00041% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+₹10,20052% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+₹10,90031% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+₹10,90024% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+₹10,0499% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+₹10,50042% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+₹10,46779% OFF	Moglix	landing	indian	step01_landing_20260810_121046.txt	txt_body							1	Urgency	0.6709823634658826
+Show in stock only (34)	Moglix	product	indian	step02_product_20260810_121125.txt	txt_body							1	Scarcity	0.8334694370405095
+No-cost EMI	myntra	product	indian	step02_product_20260805_221441.txt	txt_body							1	Misdirection	0.8465993088082049
+"(13)
+
+Buds Vector
+
+₹4,499
+
+₹1,499
+
+66% OFF
+
+Hi-Res Audio40H Playtime
+
+Offer Pric"	noise	landing	indian	step01_landing_20260911_151502.json	json_element	True	260.0	404.5625	1020.0	1210.5374755859375	A	1	Urgency	0.7594048824174319
+1100+ People ordered this in the last 15 days	noise	cart	indian	step03_cart_20260911_151756.txt	txt_body							1	Social Proof	0.8379012024856985
+Bond No.9	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Misdirection	0.8465993088082049
+Drape In Vogue	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Social Proof	0.7016675248716308
+Godrej No.1	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Misdirection	0.8465993088082049
+ONLY	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Scarcity	0.9393096864357928
+TRYBUY.IN	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Social Proof	0.7016675248716308
+Only At Nykaa	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Scarcity	0.6910655909564191
+Leave-in Conditioner	nykaa	landing	indian	step01_landing_20260805_225654.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Social Proof	0.7016675248716308
+50g Mask in Jar	PharmEasy	product	indian	step02_product_20260810_120038.txt	txt_body							1	Social Proof	0.7016675248716308
+14g Lip Balm in Jar	PharmEasy	product	indian	step02_product_20260810_120038.txt	txt_body							1	Social Proof	0.7016675248716308
+Alps Goodness Rosemary Foaming Shampoo | Presoaked in Amla Reetha Shikakai water	Purplle	cart	indian	step03_cart_20260812_203140.json	json_element	True	154.22500610351562	40.0	3980.699951171875	781.7999877929688	A	1	Social Proof	0.7016675248716308
+Having trouble logging in?	shoppers_stop	landing	indian	step01_landing_20260911_153416.txt	txt_body							1	Social Proof	0.7016675248716308
+₹4949.10₹5499.00| 10% Off	shoppers_stop	cart	indian	step03_cart_20260911_153541.txt	txt_body							1	Urgency	0.7658806651464554
+Only 4 left	Shopsy	cart	indian	step03_cart_20260901_164346.txt	txt_body							1	Scarcity	0.9868011951876455
+© 2020-2026 Shopsy.in	Shopsy	cart	indian	step03_cart_20260901_164346.txt	txt_body							1	Social Proof	0.7016675248716308
+"Yourstory
+Earning trust with no shortcuts, no price negotiations"	spinny	landing	indian	step01_landing_20260901_170111.json	json_element	True	300.0	330.0	660.4000244140625	4481.60009765625	A	1	Misdirection	0.8135356073334405
+Pre Owned Tata Cars in Delhi NCR	spinny	product	indian	step02_product_20260901_170525.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Social Proof	0.7016675248716308
+Old Honda Cars in Delhi NCR	spinny	product	indian	step02_product_20260901_170525.json	json_element	False	0.0	0.0	0.0	0.0	A	1	Social Proof	0.7016675248716308
+Earning trust with no shortcuts, no price negotiations	spinny	landing	indian	step01_landing_20260901_170111.txt	txt_body							1	Misdirection	0.8135356073334405
+Ends in 2:59	The Souled Store	payment	indian	step05_payment_20260812_210748.txt	txt_body							1	Urgency	0.7859535118744664
+Additional up to ₹10,000 off. Use code EXTRA10K | Limited-time deal—Shop now!	urbanladder	landing	indian	step01_landing_20260805_225805.txt	txt_body							1	Urgency	0.7397167895202018
+Britannia Pure Whole Wheat Bread (No Maida)	Zepto	product	indian	step02_product_20260810_115745.txt	txt_body							1	Misdirection	0.8465993088082049
+Seller License No.	Zepto	cart	indian	step03_cart_20260810_115759.txt	txt_body							1	Misdirection	0.8465993088082049
+fssai lic no : 11224999000872	Zepto	cart	indian	step03_cart_20260810_115759.txt	txt_body							1	Misdirection	0.8465993088082049

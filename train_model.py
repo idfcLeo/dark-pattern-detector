@@ -39,6 +39,7 @@ from sklearn.metrics import (
     classification_report,
     confusion_matrix,
     f1_score,
+    fbeta_score,
     accuracy_score,
     precision_score,
     recall_score,
@@ -86,6 +87,12 @@ TFIDF_MAX_FEATURES = 5000       # word 1-2 grams
 CHAR_TFIDF_MAX_FEATURES = 20000  # char 2-5 grams (catches "hurry!!", "5 left", typos)
 ENSEMBLE_TOP_K = 3              # how many best base models go into the ensembles
 SLOW_MODELS = {"rf", "lgbm", "xgb"}  # get a third of the trials (one XGB fit is ~10s)
+# Binary decision threshold, picked to maximise F-beta on out-of-fold CV
+# probabilities (never on test or gold). beta=2 weighs recall twice as much as
+# precision: for a consumer-protection tool a missed dark pattern costs more
+# than a false alarm. The web backend reads the saved threshold.
+THRESHOLD_BETA = 2.0
+THRESHOLD_PATH = MODELS_DIR / "binary_threshold.json"
 
 
 # -----------------------------------------------------------------------------
@@ -352,8 +359,10 @@ def train_task(task_df: pd.DataFrame, label_col: str, train_idx, test_idx,
     meta = LogisticRegression(max_iter=3000, class_weight="balanced", random_state=RANDOM_STATE)
     stack_features = np.hstack([tuned[m]["oof"] for m in top])
     meta_cv = StratifiedKFold(n_splits=N_FOLDS, shuffle=True, random_state=RANDOM_STATE)
-    stack_pred = cross_val_predict(meta, stack_features, y_train_enc, cv=meta_cv)
-    stack_cv = score(y_train_enc, stack_pred, n_classes)
+    stack_proba = cross_val_predict(meta, stack_features, y_train_enc, cv=meta_cv, method="predict_proba")
+    stack_cv = score(y_train_enc, stack_proba.argmax(axis=1), n_classes)
+    oof = {mt: tuned[mt]["oof"] for mt in tuned}
+    oof["voting"], oof["stacking"] = vote_proba, stack_proba
 
     print(f"    VOTING   CV score: {vote_cv:.4f}")
     print(f"    STACKING CV score: {stack_cv:.4f}")
@@ -410,7 +419,28 @@ def train_task(task_df: pd.DataFrame, label_col: str, train_idx, test_idx,
 
     return {"best": best, "metric_name": metric_name, "results": results,
             "domains": domain_results, "ensemble_members": top,
-            "model": candidates[best], "vectorizer": vectorizer}
+            "model": candidates[best], "vectorizer": vectorizer,
+            "oof_proba": oof[best], "y_train_enc": y_train_enc}
+
+
+def tune_threshold(oof_proba: np.ndarray, y_enc: np.ndarray) -> dict:
+    """Pick the dark-class threshold maximising F-beta on out-of-fold CV probabilities."""
+    p_dark = oof_proba[:, 1]
+    grid = np.round(np.arange(0.05, 0.951, 0.01), 2)
+    fbeta = [fbeta_score(y_enc, (p_dark >= t).astype(int), beta=THRESHOLD_BETA, zero_division=0)
+             for t in grid]
+    best = int(np.argmax(fbeta))
+    at_half = fbeta_score(y_enc, (p_dark >= 0.5).astype(int), beta=THRESHOLD_BETA, zero_division=0)
+    result = {"threshold": float(grid[best]), "beta": THRESHOLD_BETA,
+              "cv_fbeta_at_threshold": float(fbeta[best]), "cv_fbeta_at_0.5": float(at_half)}
+    print(f"\n  Threshold (max CV F{THRESHOLD_BETA:g}): {result['threshold']:.2f} "
+          f"(CV F{THRESHOLD_BETA:g} {at_half:.4f} at 0.50 -> {fbeta[best]:.4f})")
+    return result
+
+
+def predict_dark(model, X, threshold: float) -> np.ndarray:
+    """Binary prediction at a custom threshold on P(dark)."""
+    return (model.predict_proba(X)[:, 1] >= threshold).astype(int)
 
 
 # -----------------------------------------------------------------------------
@@ -450,14 +480,19 @@ def evaluate_gold(binary: dict, multiclass: dict, rare_categories: list) -> dict
     print(f"\n  Gold set: {len(gold)} labelled ({y.sum()} dark). "
           "Weighted = estimate for the whole scraped Indian pool.")
 
-    systems = {"selected": (binary["model"], binary["vectorizer"])}
+    # (name, model, vectorizer, threshold); None = the model's own predict()
+    t = binary["threshold"]["threshold"]
+    systems = [("selected @0.50", binary["model"], binary["vectorizer"], 0.5),
+               (f"selected @{t:.2f} (CV-tuned)", binary["model"], binary["vectorizer"], t)]
     if prepare_dataset.BASELINE_MODEL_PATH.exists():
-        systems["baseline (pseudo-labeller)"] = (joblib.load(prepare_dataset.BASELINE_MODEL_PATH),
-                                                 joblib.load(prepare_dataset.BASELINE_VECTORIZER_PATH))
+        systems.append(("baseline (pseudo-labeller)", joblib.load(prepare_dataset.BASELINE_MODEL_PATH),
+                        joblib.load(prepare_dataset.BASELINE_VECTORIZER_PATH), None))
 
     results = {"n_labelled": int(len(gold)), "n_dark": int(y.sum()), "binary": {}}
-    for name, (model, vec) in systems.items():
-        pred = np.asarray(model.predict(vec.transform(gold["text"]))).astype(int)
+    for name, model, vec, threshold in systems:
+        X = vec.transform(gold["text"])
+        pred = (np.asarray(model.predict(X)).astype(int) if threshold is None
+                else predict_dark(model, X, threshold))
         results["binary"][name] = {
             "weighted": weighted_scores(y, pred, w, "binary"),
             "unweighted": weighted_scores(y, pred, None, "binary"),
@@ -491,11 +526,11 @@ def gold_report_section(gold: dict) -> list:
         return ["\nGOLD TEST SET: not available yet (python active_learning.py gold, then label it)"]
     lines = [f"\nGOLD TEST SET (human-labelled Indian snippets): n={gold['n_labelled']}, dark={gold['n_dark']}",
              "  Binary, weighted by inverse sampling probability (estimate for the full scraped pool):",
-             f"  {'system':30s} {'P':>6s} {'R':>6s} {'F1':>6s} {'acc':>6s}   unweighted F1"]
+             f"  {'system':30s} {'P':>6s} {'R':>6s} {'F1':>6s} {'acc':>6s}   unweighted R / F1"]
     for name, m in gold["binary"].items():
         wt, uw = m["weighted"], m["unweighted"]
         lines.append(f"  {name:30s} {wt['precision']:6.3f} {wt['recall']:6.3f} {wt['f1']:6.3f} "
-                     f"{wt['accuracy']:6.3f}   {uw['f1']:.3f}")
+                     f"{wt['accuracy']:6.3f}   {uw['recall']:.3f} / {uw['f1']:.3f}")
     if "multiclass" in gold:
         mc = gold["multiclass"]
         lines.append(f"\n  Multi-class on {mc['n']} human-marked dark rows: weighted acc="
@@ -564,6 +599,9 @@ def main():
     print("BINARY MODEL (dark pattern vs. not)")
     print(f"{'=' * 60}")
     binary = train_task(df, "label", train_idx, test_idx, "Binary", "binary", args.trials)
+    binary["threshold"] = tune_threshold(binary["oof_proba"], binary["y_train_enc"])
+    with open(THRESHOLD_PATH, "w") as f:
+        json.dump(binary["threshold"], f, indent=2)
 
     # =========================================================================
     # MULTI-CLASS MODEL
@@ -602,6 +640,9 @@ def main():
     # =========================================================================
     report_lines = [f"Training Report — {datetime.now().isoformat()}", "=" * 60]
     report_lines += report_section("BINARY MODEL", binary)
+    th = binary["threshold"]
+    report_lines.append(f"  Decision threshold: {th['threshold']:.2f} (max CV F{th['beta']:g}: "
+                        f"{th['cv_fbeta_at_0.5']:.4f} at 0.50 -> {th['cv_fbeta_at_threshold']:.4f})")
     report_lines += report_section("MULTI-CLASS MODEL", multiclass)
     report_lines.append(f"  Rare categories merged to 'Other': {rare_categories}")
     report_lines += gold_report_section(gold)
@@ -624,6 +665,7 @@ def main():
                            for n, m in task["results"].items()},
             "domains": task["domains"],
         }
+    comparison["binary"]["threshold"] = binary["threshold"]
     comparison["gold"] = {k: v for k, v in gold.items() if k != "multiclass"}
     if "multiclass" in gold:
         comparison["gold"]["multiclass"] = {k: v for k, v in gold["multiclass"].items() if k != "report"}

@@ -14,6 +14,7 @@ from typing import List, Optional
 import joblib
 import os
 import re
+import json
 import csv
 import string
 from pathlib import Path
@@ -44,12 +45,13 @@ vectorizer = None
 mc_model = None
 mc_vectorizer = None
 ccpa_map = {}  # mathur_category -> [{category, description}, ...]
+threshold = 0.5  # P(dark) at or above this is flagged
 
 
 @app.on_event("startup")
 def load_model():
     """Load models once when the server starts, not on every request."""
-    global model, vectorizer, mc_model, mc_vectorizer, ccpa_map
+    global model, vectorizer, mc_model, mc_vectorizer, ccpa_map, threshold
     try:
         model = joblib.load(MODELS_DIR / "binary_model.pkl")
         vectorizer = joblib.load(MODELS_DIR / "binary_vectorizer.pkl")
@@ -57,6 +59,12 @@ def load_model():
     except Exception as e:
         print(f"WARNING: could not load binary model from {MODELS_DIR}: {e}")
         return
+    # Decision threshold tuned by train_model.py on CV (default 0.5 if absent)
+    threshold_file = MODELS_DIR / "binary_threshold.json"
+    if threshold_file.exists():
+        with open(threshold_file) as f:
+            threshold = float(json.load(f)["threshold"])
+    print(f"Dark-pattern threshold: P(dark) >= {threshold:.2f}")
     try:
         mc_model = joblib.load(MODELS_DIR / "multiclass_model.pkl")
         mc_vectorizer = joblib.load(MODELS_DIR / "multiclass_vectorizer.pkl")
@@ -123,10 +131,9 @@ def predict(input: TextInput):
     if not text:
         raise HTTPException(status_code=400, detail="Text cannot be empty.")
 
-    vec = vectorizer.transform([text])
-    pred = int(model.predict(vec)[0])
-    proba = model.predict_proba(vec)[0]
-    confidence = float(max(proba))
+    p_dark = float(model.predict_proba(vectorizer.transform([text]))[0][1])
+    pred = int(p_dark >= threshold)
+    confidence = p_dark if pred else 1 - p_dark
 
     category, ccpa = categorize([text])[0] if pred == 1 else (None, [])
     return PredictionResult(
@@ -240,11 +247,9 @@ def analyze_url(input: URLInput):
     if not chunks:
         raise HTTPException(status_code=400, detail="Could not extract any readable text from that page.")
 
-    vecs = vectorizer.transform(chunks)
-    preds = model.predict(vecs)
-    probas = model.predict_proba(vecs)
+    probas = model.predict_proba(vectorizer.transform(chunks))
 
-    idxs = [i for i in range(len(chunks)) if preds[i] == 1]
+    idxs = [i for i in range(len(chunks)) if probas[i][1] >= threshold]
     cats = categorize([chunks[i] for i in idxs]) if idxs else []
     flagged = [
         FlaggedChunk(
