@@ -47,6 +47,7 @@ STATS_OUTPUT = OUTPUT_DIR / "pipeline_stats.txt"
 MIN_SNIPPET_LENGTH = 4          # chars — drop anything shorter
 BINARY_CONFIDENCE_THRESHOLD = 0.80
 MULTICLASS_CONFIDENCE_THRESHOLD = 0.65  # lower bar: fewer categories, noisier
+KEEP_PSEUDO_DARK = False  # train on the baseline's "dark" calls for Indian text? (gold: mostly wrong)
 
 # Class balance: max ratio of scraped "Not Dark Pattern" to original "Not Dark Pattern"
 MAX_BENIGN_RATIO = 2.0  # at most 2x the original count
@@ -592,6 +593,15 @@ def main():
 
     # Stage 2: Pseudo-label
     accepted_df, review_df = pseudo_label(scraped_df)
+
+    # The gold set showed the baseline's confident "dark" calls on Indian text
+    # are mostly wrong (plain discounts), while its "benign" calls are reliable.
+    # So only pseudo-benign rows are trained on; pseudo-dark rows go to review.
+    if not KEEP_PSEUDO_DARK:
+        pseudo_dark = accepted_df["label"] == 1
+        review_df = pd.concat([review_df, accepted_df[pseudo_dark]], ignore_index=True)
+        accepted_df = accepted_df[~pseudo_dark].reset_index(drop=True)
+        print(f"  Moved {pseudo_dark.sum()} pseudo-labelled dark rows to review (KEEP_PSEUDO_DARK=False)")
 
     # Save needs-review list
     review_df.to_csv(NEEDS_REVIEW_OUTPUT, sep="\t", index=False)
