@@ -20,7 +20,7 @@ This script builds the human-labelled data that fixes it:
           never shown, to keep labels unbiased.
   status  Labelling progress per file.
 
-Workflow:
+Workflow:   
   python active_learning.py gold            # once
   python active_learning.py label gold
   python active_learning.py select          # then label it, retrain, repeat:
@@ -168,11 +168,15 @@ def cmd_select(args):
 
     model, vectorizer = load_binary()
     p_dark = dark_proba(model, vectorizer, pool["text"])
+    pool["p_dark"] = p_dark
     pool["uncertainty"] = 1 - np.abs(2 * p_dark - 1)  # 1 at P=0.5, 0 when certain
 
-    # Most uncertain first, then greedily skip near-duplicates and cap rows per
-    # site so one site's repeated template can't fill the batch.
-    candidates = pool.sort_values("uncertainty", ascending=False).head(args.n * 10).reset_index(drop=True)
+    # Rank the pool first. "uncertain": P(dark) nearest 0.5. "dark": highest P(dark),
+    # so the batch is mostly rows the model already thinks are dark (dark-mining).
+    rank_col = "p_dark" if args.strategy == "dark" else "uncertainty"
+    # Then greedily skip near-duplicates and cap rows per site so one site's
+    # repeated template can't fill the batch.
+    candidates = pool.sort_values(rank_col, ascending=False).head(args.n * 10).reset_index(drop=True)
     X = vectorizer.transform(candidates["text"])
     per_site_cap = max(3, args.n // 10)
     picked, site_counts = [], {}
@@ -194,8 +198,9 @@ def cmd_select(args):
     ACTIVE_LEARNING_DIR.mkdir(parents=True, exist_ok=True)
     out = ACTIVE_LEARNING_DIR / f"batch_{len(batch_paths()) + 1:02d}.tsv"
     batch[LABEL_COLUMNS].to_csv(out, sep="\t", index=False)
-    print(f"Pool: {len(pool)} unlabelled snippets. Selected {len(batch)} from {len(site_counts)} sites "
-          f"(mean uncertainty {batch['uncertainty'].mean():.3f} vs pool {pool['uncertainty'].mean():.3f})")
+    print(f"Strategy: {args.strategy}. Pool: {len(pool)} unlabelled snippets. Selected {len(batch)} from {len(site_counts)} sites "
+          f"(mean P(dark) {batch['p_dark'].mean():.3f} vs pool {pool['p_dark'].mean():.3f}; "
+          f"mean uncertainty {batch['uncertainty'].mean():.3f} vs pool {pool['uncertainty'].mean():.3f})")
     print(f"Wrote {out}\nNext: python active_learning.py label {out.as_posix()}")
 
 
@@ -294,6 +299,8 @@ def main():
     p.add_argument("--n", type=int, default=100, help="batch size (default 100)")
     p.add_argument("--max-similarity", type=float, default=0.8,
                    help="skip candidates with cosine similarity above this to an already-picked one")
+    p.add_argument("--strategy", choices=["uncertain", "dark"], default="uncertain",
+                   help="uncertain: P(dark) nearest 0.5 (default); dark: highest P(dark), to find dark rows")
     p.add_argument("--allow-pending", action="store_true", help="select even if a batch is unfinished")
     p.set_defaults(func=cmd_select)
 
