@@ -19,6 +19,7 @@ There is no test suite, linter, or build step. All scripts use paths relative to
   - batch_01 labelled (1/100 dark) and retrained: gold weighted F1 0.063 → 0.141 (P 0.120, R 0.171). Both winners are now soft voting (LR+SVC+LGBM).
   - batch_02 labelled (3/100 dark) and retrained: gold weighted F1 0.133 (P 0.160, R 0.114), flat vs batch_01. Winners: LR (binary), SVC (multiclass). The model catches 4/11 gold dark rows.
 - Pending the user's decision: a dark-mining `select` mode to get more dark examples, since uncertainty batches yield only 1–3 dark rows per 100.
+- 2026-11-03: labelling parked; the user wants a working end-to-end app first, then accuracy work. Web app verified end to end (predict, analyze-url on Flipkart/Amazon). Myntra and Nykaa block headless browsers. CCPA mapping now uses the official 2023 guideline names.
 - Next, once labels exist:
   1. Run `python active_learning.py status`.
   2. Run `python train_model.py --prepare` (about 17 min, run it in the background).
@@ -119,6 +120,6 @@ Commit and push regularly so no work is lost. This is standing authorization: yo
   - `data/active_learning/batch_*.tsv` and `data/manual_labels.tsv` are **training** labels. `load_human_labels()` collects them, and `apply_manual_overrides()` replaces matching pseudo-labels or appends the rows as `source_type="human"` after benign capping.
   - In label files, blank `label` = not yet labelled and `unsure` = excluded. Read them with `read_label_file()` (`dtype=str`, `keep_default_na=False`) so blanks and texts like "NA" survive.
 
-- **Web app** (`dark-pattern-webapp/`): `server.py` loads models from `<repo>/models` and the CCPA mapping from `<repo>/configs` (override the root with the `DP_ROOT` env var). The `.pkl` files inside `backend/` and the webapp README's instructions to copy baseline pickles there are outdated. Endpoints: `GET /health`, `POST /predict` (single text), `POST /analyze-url` (headless Playwright loads the page, takes leaf-element text chunks of 3–300 chars, classifies each). The multiclass model and CCPA tags are only added for texts predicted as dark. The frontend hard-codes `API_URL = "http://127.0.0.1:8000"`.
+- **Web app** (`dark-pattern-webapp/`): `server.py` loads models from `<repo>/models` and the CCPA mapping from `<repo>/configs` (override the root with the `DP_ROOT` env var). The `.pkl` files inside `backend/` and the webapp README's instructions to copy baseline pickles there are outdated. Endpoints: `GET /health`, `POST /predict` (single text), `POST /analyze-url` (headless Playwright loads and scrolls the page, then classifies body `innerText` lines plus button/link texts, filtered by a copy of `prepare_dataset.is_junk` so inputs match how training text was extracted; keep the two in sync). The multiclass model and CCPA tags are only added for texts predicted as dark. The frontend hard-codes `API_URL = "http://127.0.0.1:8000"`.
 
 - `ec-darkpattern/` is the vendored upstream dataset/research repo (its own Poetry projects and a TS scraper). Treat it as read-only input except for `readdata.py` and the baseline pickles.
