@@ -4,7 +4,7 @@ Pillowcases & Shams	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	origin
 Write a review	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 To start your return, simply click on the following button and add your return details. Once the form is filled, you will receive an email with shipping instructions for how to ship the item(s) to our warehouse.	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
  newsletter signup (privacy policy) 	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
-In demand	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	original							
+In demand	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 We cannot guarantee door to door delivery for every customer. Buyers in remote areas such as farms, islands, mining camps, small towns, or out-of-towners, etc may need to collect from their nearest freight depot.	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 Hurry! Only 2 left in stock	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	original							
 In Stock only 3 left	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	original							
@@ -1707,7 +1707,7 @@ Joe M from , Bought a Cartoon Caterpillar Rigged 3D Model Recently	1	Social Proo
 Annie in Cheras, Malaysia just bought: An Abundance of Flowers - Van-Go Paint-By-Number Kit	1	Social Proof	foreign	ec_darkpattern	unknown	1.0	original							
 Read More 	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 Ketolent subscriptions have no long term contracts. Pause, cancel, or change at any time. Want to swap Vanilla for Chocolate, or set up to renew every 3 weeks? No problem! Send us an email to help@ketolent.com and we'll make the change for you.	1	Obstruction	foreign	ec_darkpattern	unknown	1.0	original							
-Selling Fast	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	original							
+Selling Fast	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 NO THANKS, I'D RATHER PAY FULL PRICE	1	Misdirection	foreign	ec_darkpattern	unknown	1.0	original							
  Stone Cold Steve Austin 	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 92 customers bought this in the last 48 hours	1	Social Proof	foreign	ec_darkpattern	unknown	1.0	original							
@@ -5278,3 +5278,108 @@ Reliance Retail Limited, 3rd Floor, Court House, Lokmanya Tilak Marg, Dhobi Tala
 You need to have a registered upi id.	0	Not Dark Pattern	indian	Purplle	payment	1.0	human							
 Do I need to register before shopping on JioMart?	0	Not Dark Pattern	indian	JioMart	cancel_step	1.0	human							
 Ratnas Merry Go Round Cot No. 11 Mobile Non...	0	Not Dark Pattern	indian	FirstCry	checkout	1.0	human							
+00:40 MINS LEFT, HURRY!	1	Urgency	indian	PharmEasy	landing	1.0	human							False Urgency
+Limited time deal	1	Urgency	indian	amazon_in	product	1.0	human							False Urgency
+1.8k People ordered this in the last 24 hours	0	Not Dark Pattern	indian	boult	cart	1.0	human							
+1100+ People ordered this in the last 15 days	0	Not Dark Pattern	indian	noise	cart	1.0	human							
+NO, I WANT TO SAVE WITH	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+No thanks	0	Not Dark Pattern	indian	Lenskart	landing	1.0	human							
+Only few left	1	Scarcity	indian	flipkart	product	1.0	human							False Urgency
+In stock	0	Not Dark Pattern	indian	amazon_in	cart	1.0	human							
+Customers Bought	0	Not Dark Pattern	indian	Bewakoof	landing	1.0	human							
+BUY 1 GET 1 FREE SALE ENDS IN 03 : 14 : 19	1	Urgency	indian	LimeRoad	cart	1.0	human							False Urgency
+Limited	1	Scarcity	indian	myntra	product	1.0	human							False Urgency
+Frequently Bought	0	Not Dark Pattern	indian	Netmeds	cart	1.0	human							
+4.7M People like this	1	Social Proof	indian	Bewakoof	product	1.0	human							False Urgency
+1.Prices are subject to change without prior notice. (Special discount prices are valid for a limited time only)	0	Not Dark Pattern	indian	noise	cart	1.0	human							
+9K+ bought from this brand in past month	1	Social Proof	indian	amazon_in	product	1.0	human							False Urgency
+1. Limited period offer	1	Urgency	indian	FirstCry	cart	1.0	human							False Urgency
+Last 90 days	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+Ends in 2:59	1	Urgency	indian	The Souled Store	payment	1.0	human							False Urgency
+Last 30 days	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+This is the worst product i have bought in my life	1	Social Proof	indian	Shopsy	product	1.0	human							False Urgency
+1K+ bought in past month	1	Social Proof	indian	amazon_in	product	1.0	human							False Urgency
+Show in stock only (34)	0	Not Dark Pattern	indian	Moglix	product	1.0	human							
+In 7 days	0	Not Dark Pattern	indian	pantaloons	checkout	1.0	human							
+"Only few left
+4.85
+1
+2
+3
+Acuvue Moist Daily Disposable 10Hrs
+90 lens/box
+
+Delive"	1	Scarcity	indian	Lenskart	product	1.0	human							False Urgency
+SaleSale 4 days 3 hrs	0	Not Dark Pattern	indian	Tata 1mg	cart	1.0	human							
+Less Than 0.99 GHz	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+10 days ago	0	Not Dark Pattern	indian	flipkart	product	1.0	human							
+3 days ago	0	Not Dark Pattern	indian	flipkart	product	1.0	human							
+Metro areas receive orders in 5 to 7 days. Tier-2 cities average 7 to 10 days. Remote locations may take up to 14 days. Track your order in real time through the app.	0	Not Dark Pattern	indian	myntra	product	1.0	human							
+FinSync Technolabs Private Limited	0	Not Dark Pattern	indian	Techjockey	landing	1.0	human							
+NO, THANKS YES, PLEASE	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+Additional up to ₹10,000 off. Use code EXTRA10K | Limited-time deal—Shop now!	0	Not Dark Pattern	indian	urbanladder	landing	1.0	human							
+I think best purchased ever by me.	0	Not Dark Pattern	indian	flipkart	product	1.0	human							
+US Imported / Pay INR 3933 Only & Rest In 2 Interest Free EMIs	0	Not Dark Pattern	indian	HealthKart	landing	1.0	human							
+Geddit Convenience Private Limited	0	Not Dark Pattern	indian	Zepto	cart	1.0	human							
+Ships in 3 days	0	Not Dark Pattern	indian	pepperfry	product	1.0	human							
+Wheelhouse Consultancy Private Limited	0	Not Dark Pattern	indian	Techjockey	landing	1.0	human							
+Copyright © 2021, Acevector Limited. All Rights Reserved	0	Not Dark Pattern	indian	snapdeal	product	1.0	human							
+5 days	0	Not Dark Pattern	indian	JioMart	cart	1.0	human							
+Get It in 2 Days	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+Stock Availability	0	Not Dark Pattern	indian	HealthKart	product	1.0	human							
+I don't want to use Blinkit anymore	0	Not Dark Pattern	indian	Blinkit	cancel_step	1.0	human							
+Limited 1.4 Petrol AT	1	Scarcity	indian	spinny	product	1.0	human							False Urgency
+You have 1 item in your cart.	0	Not Dark Pattern	indian	Zepto	cart	1.0	human							
+100% Purchase Protection	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+Products (sale or full price) purchased online during EOSS can be returned only at a Westside store (except those mentioned in Clause 4) within 15 days of delivery, subject to this policy.	0	Not Dark Pattern	indian	westside	cancel_step	1.0	human							
+Last Minute Add-ons	0	Not Dark Pattern	indian	Purplle	cart	1.0	human							
+Want free shipping?	0	Not Dark Pattern	indian	Tata 1mg	cart	1.0	human							
+Resend SMS in 00:22	0	Not Dark Pattern	indian	shoppers_stop	landing	1.0	human							
+© 2021 RNA Intellectual Property Limited.	0	Not Dark Pattern	indian	lifestyle	checkout	1.0	human							
+NO, I DON'T WANT TO DELETE MY ACCOUNT	0	Not Dark Pattern	indian	The Souled Store	cancel_step	1.0	human							
+You may miss hourly deals and flash sale !	0	Not Dark Pattern	indian	HealthKart	cancel_step	1.0	human							
+8:00 AM to 8:00 PM, 365 days	0	Not Dark Pattern	indian	JioMart	landing	1.0	human							
+YOU SAVED ₹549.90 ON THIS ORDER!	0	Not Dark Pattern	indian	shoppers_stop	cart	1.0	human							
+Are you sure you want to pay  2898 more on this order?	1	Obstruction	indian	FirstCry	cart	1.0	human							Subscription Trap
+"(Download App to save ₹29)	+ ₹ 29"	0	Not Dark Pattern	indian	LimeRoad	cart	1.0	human							
+Resend in 00:14	0	Not Dark Pattern	indian	Moglix	landing	1.0	human							
+© Copyright Pepperfry Limited	0	Not Dark Pattern	indian	myntra	landing	1.0	human							
+Ships within a few days!	0	Not Dark Pattern	indian	Bewakoof	cart	1.0	human							
+Express Shipping in 1 day	0	Not Dark Pattern	indian	pepperfry	product	1.0	human							
+Stock Market	0	Not Dark Pattern	indian	Techjockey	landing	1.0	human							
+Resend in 00:11	0	Not Dark Pattern	indian	HealthKart	landing	1.0	human							
+Congratulations on your new Goboult purchase! Registering it takes about two minutes and activates your official warranty, 1 year for most products, or 3 months for Wired products. This guide...	0	Not Dark Pattern	indian	boult	landing	1.0	human							
+Member Savings on this order are ₹ 100	0	Not Dark Pattern	indian	The Souled Store	cart	1.0	human							
+Last Day	0	Not Dark Pattern	indian	FirstCry	product	1.0	human							
+Is there a link to share the purchased Gift Card to the recipient?	0	Not Dark Pattern	indian	JioMart	cancel_step	1.0	human							
+Last minute buys	0	Not Dark Pattern	indian	Tata 1mg	cart	1.0	human							
+56734Moms in your area have chosen online payments in last few days for:	1	Social Proof	indian	FirstCry	cart	1.0	human							False Urgency
+Used ₹ 0.00 (Balance Left: ₹ 0.00)	0	Not Dark Pattern	indian	The Souled Store	checkout	1.0	human							
+Clovia's Last Minute Deals- 2/5	0	Not Dark Pattern	indian	Clovia	checkout	1.0	human							
+₹171.00 Saved on this order	0	Not Dark Pattern	indian	PharmEasy	checkout	1.0	human							
+3 months membership for only	0	Not Dark Pattern	indian	Tata 1mg	cart	1.0	human							
+Don't Forget to Tokenize your card!	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+PURPLE PANDA FASHIONS LIMITED	0	Not Dark Pattern	indian	Clovia	landing	1.0	human							
+In 60 minutes	0	Not Dark Pattern	indian	Tata 1mg	checkout	1.0	human							
+Your available Gift Cards balance will no longer be available for you to spend. You can check your balance on the Gift Cards Balance and Ledger page. You will not be able to redeem any additional Amazon Gift Cards. Any Gift Cards you have sent to other customers can still be redeemed on their accounts. Any third-party Gift Cards purchased from Amazon will still be valid at those third-party websites. If you have purchased Gift Cards on behalf of a Corporate incentive program, you must unenrol from that Corporate Gift Card program with the Corporate account manager.	0	Not Dark Pattern	indian	amazon_in	cancel_step	1.0	human							
+You can permanently delete your account by reaching out from the contact us section on JioMart. Note: For a better experience, we recommend you NOT to delete your account if you have a. JM wallet/Gift Card balance - Make the most of the balances by shopping at JioMart b. Placed any order in the last 30 days - You will not be able to access the purchase history/returns or cancel the order if your account is deleted	0	Not Dark Pattern	indian	JioMart	cancel_step	1.0	human							
+You are saving ₹1965 on this order	0	Not Dark Pattern	indian	Bewakoof	cart	1.0	human							
+For Selling	0	Not Dark Pattern	indian	Techjockey	settings	1.0	human							
+*6th February,2019 (00:00 Houres) to 28th February 2019 (29:59 Hours).	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+ONLY	0	Not Dark Pattern	indian	nykaa	landing	1.0	human							
+You may miss personalised offers !	0	Not Dark Pattern	indian	HealthKart	cancel_step	1.0	human							
+Return in 15 Days	0	Not Dark Pattern	indian	Purplle	cart	1.0	human							
+Sorry! Currently not available in your pincode	0	Not Dark Pattern	indian	Shopsy	cart	1.0	human							
+If it's not fresh, we won't sell it	0	Not Dark Pattern	indian	licious	landing	1.0	human							
+for you! It's Free,	0	Not Dark Pattern	indian	bluestone	cart	1.0	human							
+You will save ₹1,487 on this order	0	Not Dark Pattern	indian	Shopsy	cart	1.0	human							
+Are you sure you don't want to reconsider?	1	Obstruction	indian	FabIndia	cancel_step	1.0	human							Subscription Trap
+Would you like to receive notifications on WhatsApp?	0	Not Dark Pattern	indian	bluestone	payment	1.0	human							
+Earn 174 Noise Cash on this purchase	0	Not Dark Pattern	indian	noise	cart	1.0	human							
+available with 24% savings!	0	Not Dark Pattern	indian	Tata 1mg	product	1.0	human							
+2 Items in your Cart	0	Not Dark Pattern	indian	PharmEasy	cart	1.0	human							
+Easy payment options: HealthKart also gives you the option of making your payments through EMIs. You can choose to pay for your purchases in 3,6,9,12, 18 or 24 installments. This EMI option is available to you without any added processing fees.	0	Not Dark Pattern	indian	HealthKart	landing	1.0	human							
+© Zepto Marketplace Private Limited	0	Not Dark Pattern	indian	Zepto	cart	1.0	human							
+376.11 CASH REFUND IN THIS PRODUCT	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+People who've become customers after their first test drive	0	Not Dark Pattern	indian	spinny	landing	1.0	human							
+Most fabric sofas clean up in under 10 minutes with a vacuum and a damp cloth. Want extra protection? Choose stain-guard treated options. A Rs 30,000 fabric sofa set costs roughly Rs 2,500 per month on a 12-month no-cost EMI.	0	Not Dark Pattern	indian	myntra	product	1.0	human							
