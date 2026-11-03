@@ -13,7 +13,9 @@ from pydantic import BaseModel
 from typing import List, Optional
 import joblib
 import os
+import re
 import csv
+import string
 from pathlib import Path
 
 app = FastAPI(title="Dark Pattern Detector API")
@@ -142,42 +144,63 @@ def predict(input: TextInput):
 # banners, labels), and classify each one separately.
 # ---------------------------------------------------------------------------
 
-def scrape_page_chunks(url: str, max_chunks: int = 300) -> List[str]:
-    """Return a deduplicated list of short visible text chunks from a page."""
+def is_junk(text: str) -> bool:
+    """Same filter prepare_dataset.py applies to training snippets (copied, not
+    imported, so the backend stays independent of the training repo)."""
+    text = text.strip()
+    if len(text) < 4 or len(text) > 300:
+        return True
+    if re.match(r'^[\d\s.,₹$%/\-:;]+$', text):          # pure numbers / prices
+        return True
+    if all(c in string.punctuation + ' \t' for c in text):
+        return True
+    if re.match(r'^[\d.\s]*[★☆⭐]+[\d.\s]*$', text):     # star ratings
+        return True
+    return len(set(text)) <= 1
+
+
+def scrape_page_chunks(url: str, max_chunks: int = 1500) -> List[str]:
+    """
+    Return deduplicated text snippets from a page, extracted the same way the
+    training data was (scraper.py + prepare_dataset.py): body innerText split
+    into lines, plus button/link texts. Matching the training extraction
+    matters: "Only <b>3</b> left" is one line here but three leaf elements.
+    """
     try:
         from playwright.sync_api import sync_playwright
     except ImportError:
         raise HTTPException(status_code=500, detail="Playwright not installed. Run: pip install playwright && playwright install chromium")
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        # Some sites (e.g. Myntra, Nykaa) reset HTTP/2 connections from headless
+        # Chromium; falling back to HTTP/1.1 gets most of them to load.
+        browser = p.chromium.launch(headless=True, args=[
+            "--disable-http2", "--disable-blink-features=AutomationControlled"])
         page = browser.new_page(user_agent=(
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
             "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-        ))
+        ), viewport={"width": 1366, "height": 900})
         try:
-            page.goto(url, timeout=20000, wait_until="domcontentloaded")
+            page.goto(url, timeout=30000, wait_until="domcontentloaded")
             page.wait_for_timeout(1500)  # let JS-rendered content settle
+            for _ in range(4):           # scroll to trigger lazy-loaded sections
+                page.mouse.wheel(0, 2500)
+                page.wait_for_timeout(500)
         except Exception as e:
             browser.close()
             raise HTTPException(status_code=400, detail=f"Could not load page: {e}")
 
-        # Collect text from "leaf" elements only (no child elements) so we get
-        # small microcopy pieces instead of one giant blob of the whole page.
-        chunks = page.evaluate("""
-            () => {
-                const els = document.querySelectorAll('body *');
-                const out = new Set();
-                els.forEach(el => {
-                    if (el.children.length === 0) {
-                        const t = (el.innerText || '').trim().replace(/\\s+/g, ' ');
-                        if (t.length >= 3 && t.length <= 300) out.add(t);
-                    }
-                });
-                return Array.from(out);
-            }
-        """)
+        lines = page.inner_text("body").split("\n")
+        lines += page.eval_on_selector_all(
+            "button, a, input[type=submit]",
+            "els => els.map(e => (e.innerText || e.value || '').trim().slice(0, 80))")
         browser.close()
 
+    seen, chunks = set(), []
+    for line in lines:
+        t = re.sub(r"\s+", " ", line).strip()
+        if t not in seen and not is_junk(t):
+            seen.add(t)
+            chunks.append(t)
     return chunks[:max_chunks]
 
 
