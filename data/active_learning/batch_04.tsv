@@ -1,0 +1,104 @@
+text	site	step_label	label	Pattern Category
+Only 4 left	Shopsy	cart	1	Scarcity
+2K+ bought in past month	amazon_in	product	1	Social Proof
+1. Limited period offer.	FirstCry	cart	1	Urgency
+Offer T&C	FirstCry	cart	0	Not Dark Pattern
+Offer Discount	shoppers_stop	cart	0	Not Dark Pattern
+OFFER Mahabachat Sale	LimeRoad	product	0	Not Dark Pattern
+HKPAY IN 3	HealthKart	checkout	0	Not Dark Pattern
+Cancel Order	Bewakoof	product	0	Not Dark Pattern
+At Just ₹350	shoppers_stop	cart	0	Not Dark Pattern
+Are you sure you dont want to reconsider?	myntra	cancel_step	1	Obstruction
+Just okay	flipkart	product	0	Not Dark Pattern
+Offer & Discounts	JioMart	settings	0	Not Dark Pattern
+Viewed	bluestone	cart	0	Not Dark Pattern
+Offer Price ₹949	noise	landing	0	Not Dark Pattern
+Special offer	flipkart	landing	0	Not Dark Pattern
+In Demand (2)	Moglix	product	0	Not Dark Pattern
+Just Onboarded	shoppers_stop	landing	0	Not Dark Pattern
+DON'T MISS	FirstCry	product	0	Not Dark Pattern
+Just Cavalli	nykaa	landing	0	Not Dark Pattern
+No, Cancel	Clovia	checkout	1	Obstruction
+NO ORDERS AVAILABLE	snapdeal	settings	0	Not Dark Pattern
+Save for later	Clovia	checkout	0	Not Dark Pattern
+Recently Viewed	bluestone	product	0	Not Dark Pattern
+1 coupon applied • 1 offer available	Shopsy	cart	0	Not Dark Pattern
+1 item added	Tata 1mg	cart	0	Not Dark Pattern
+5 Offers Available	shoppers_stop	product	0	Not Dark Pattern
+9958410404 | 9958410404@guest.in	licious	payment	0	Not Dark Pattern
+Split Ends	nykaa	landing	0	Not Dark Pattern
+Are you sure you want to remove it?	FirstCry	cart	1	Obstruction
+Intelliskills 2 In 1 Play Mat Jungle & Roadmap...	FirstCry	cart	0	Not Dark Pattern
+Just Herbs	nykaa	landing	0	Not Dark Pattern
+Just Jack	nykaa	landing	0	Not Dark Pattern
+Extra 10% for Lucky 200	nykaa	landing	0	Not Dark Pattern
+Order limit	JioMart	checkout	0	Not Dark Pattern
+We are unable to serve COD for this order	Purplle	payment	0	Not Dark Pattern
+Tap now to enrol for Landmark Rewards and get 8 points with this purchase and redeem for discounts in next eligible purchase(s)	lifestyle	cart	0	Not Dark Pattern
+Sorry We have only 10 quantities available	FirstCry	cart	1	Scarcity
+MOST VIEWED	Purplle	landing	1	Social Proof
+Newly In	boult	landing	0	Not Dark Pattern
+3:29 mins	Zepto	payment	1	Urgency
+Having trouble logging in?	shoppers_stop	landing	0	Not Dark Pattern
+50g Mask in Jar	PharmEasy	product	0	Not Dark Pattern
+"Cart
+1
+1 item"	boult	cart	0	Not Dark Pattern
+Before you check out	PharmEasy	cart	0	Not Dark Pattern
+NO, DON'T CHANGE	FirstCry	cart	0	Not Dark Pattern
+People	pantaloons	landing	0	Not Dark Pattern
+Cancellation by Customer: Orders may be cancelled by the customer at any time before shipment. Once an order has been shipped, cancellation shall not be permitted, and the order shall be governed by this Policy. Upon successful cancellation of an order, a confirmation will be sent to the email address and/or mobile number registered with the order. Refunds for successfully cancelled orders shall be processed in accordance with the Refund Policy.	westside	cancel_step	0	Not Dark Pattern
+1 Item	FabIndia	cart	0	Not Dark Pattern
+Item Discount	Moglix	cart	0	Not Dark Pattern
+No items saved for later	amazon_in	cart	0	Not Dark Pattern
+AT P	Tata 1mg	product	0	Not Dark Pattern
+Order cancelation shall be allowed only until items are dispatched	licious	cart	0	Not Dark Pattern
+1. Login/Register 9958410404	Clovia	payment	1	Forced Action
+We reserve the right to remove or modify any product, content, or material on the Website at any time and shall not be liable for any cancellation or non-processing of an order undertaken in accordance with these Terms.	westside	cancel_step	0	Not Dark Pattern
+FREE delivery in 10 minutes on orders over ₹149	amazon_in	product	0	Not Dark Pattern
+BiE - Beauty In Everything	nykaa	landing	0	Not Dark Pattern
+Remove This Item	freshtohome	cart	0	Not Dark Pattern
+80 99 19% off	Purplle	cart	0	Not Dark Pattern
+Unavailable for this payment	amazon_in	checkout	0	Not Dark Pattern
+Drape In Vogue	nykaa	landing	0	Not Dark Pattern
+& Save   2898	FirstCry	cart	0	Not Dark Pattern
+Can I request a personalized demo before purchase?	Techjockey	landing	0	Not Dark Pattern
+US Imported / Pay INR 6000 Only & Rest In 2 Interest Free EMIs	HealthKart	landing	0	Not Dark Pattern
+Already Viewed	FirstCry	product	0	Not Dark Pattern
+Everything For	amazon_in	product	0	Not Dark Pattern
+Receive our Top Offer Details Via Email	FirstCry	cancel_step	0	Not Dark Pattern
+Your Subscribe & Save Items	amazon_in	product	0	Not Dark Pattern
+Discount -- High to Low	HealthKart	product	0	Not Dark Pattern
+Recently Added	nykaa	landing	0	Not Dark Pattern
+For FATHER	bluestone	product	0	Not Dark Pattern
+Save this card for faster payments	HealthKart	checkout	0	Not Dark Pattern
+Quantity: 1	LimeRoad	checkout	0	Not Dark Pattern
+13 to 15.9 MP	amazon_in	product	0	Not Dark Pattern
+made just	bluestone	cart	0	Not Dark Pattern
+Today	flipkart	product	0	Not Dark Pattern
+13 to 18.9 h	amazon_in	product	0	Not Dark Pattern
+Bank Offer	flipkart	product	1	Urgency
+Sign up for free to save up to 18% with GST invoice and bulk discounts and purchase on credit.	amazon_in	settings	1	Forced Action
+29 % OFF	Techjockey	product	0	Not Dark Pattern
+6 minutes	Zepto	checkout	0	Not Dark Pattern
+Shopping for a sofa set online saves time, money, and effort. You can compare hundreds of designs side by side without leaving your home. No pushy salespeople. No weekend traffic. Just you, your phone or laptop, and a cup of chai.	myntra	product	0	Not Dark Pattern
+Popular for Dining Chairs	myntra	product	0	Not Dark Pattern
+Smog: What Is It, Causes and Ways To Protect Yourself From It	PharmEasy	landing	0	Not Dark Pattern
+Orders are eligible for cancellation or refund only before they are packed for delivery	JioMart	checkout	0	Not Dark Pattern
+© 2026 RNA Intellectual Property Limited.	lifestyle	landing	0	Not Dark Pattern
+Add Item	Bewakoof	cart	0	Not Dark Pattern
+What Our Customers have to Say	PharmEasy	landing	1	Social Proof
+No items	amazon_in	cart	0	Not Dark Pattern
+Learn about the products that you are purchasing in detail.	HealthKart	landing	0	Not Dark Pattern
+Find out the five fun ways of wearing something that all men have in their wardrobe, 'Full Sleeve Tshirt'.	myntra	product	0	Not Dark Pattern
+Delivering in 5 mins	Zepto	cart	0	Not Dark Pattern
+You can reschedule your delivery to a later time only until items are dispatched	licious	cart	0	Not Dark Pattern
+"Live Mint
+No sales pitch, just ‘God Promise’: Spinny’s quiet campaign with Sachi"	spinny	landing	0	Not Dark Pattern
+Subscribe for Offers	Techjockey	landing	1	Forced Action
+Car insurance	spinny	landing	0	Not Dark Pattern
+Chemist at Play	nykaa	landing	0	Not Dark Pattern
+Economic Times	spinny	landing	0	Not Dark Pattern
+150 200 25% off	Purplle	cart	0	Not Dark Pattern
+Between 13 - 14 August	Tata 1mg	checkout	0	Not Dark Pattern
+Are there any limits to purchase a Gift Card?	JioMart	cancel_step	1	Misdirection
