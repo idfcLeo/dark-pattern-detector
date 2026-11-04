@@ -16,6 +16,7 @@ Metrics are also reported separately by domain (foreign vs. Indian).
 """
 
 import argparse
+import sys
 import warnings
 import numpy as np
 import pandas as pd
@@ -98,6 +99,9 @@ THRESHOLD_PATH = MODELS_DIR / "binary_threshold.json"
 # 0.29 both lost to 0.50), so 0.50 ships. The tuned value is still computed,
 # saved as "tuned_threshold" and scored on gold, so this can be revisited.
 USE_TUNED_THRESHOLD = False
+# Gold-set confidence intervals: stratified bootstrap resamples (rows drawn with
+# replacement within each wave+stratum, keeping their sampling weights).
+GOLD_BOOTSTRAP_REPS = 2000
 
 
 # -----------------------------------------------------------------------------
@@ -463,11 +467,70 @@ def weighted_scores(y_true, y_pred, weights, average) -> dict:
     }
 
 
+def gold_weights(gold: pd.DataFrame) -> np.ndarray:
+    """
+    Inverse-sampling weights, recomputed from the rows that are actually labelled.
+
+    Each wave of the gold set (`active_learning.py gold`, then `gold --extend`)
+    is its own stratified random sample, so inside one (wave, stratum) a labelled
+    row stands for stratum_size / n_labelled_there rows of the scraped pool.
+    Waves are then averaged in proportion to their labelled sizes. Recomputing,
+    instead of trusting the stored `weight`, keeps the estimate right when rows
+    are marked unsure or a new wave is only partly labelled. For a fully labelled
+    single wave it equals the stored weight.
+    """
+    g = gold.assign(_wave=gold["wave"].replace("", "1") if "wave" in gold else "1")
+    n_in_stratum = g.groupby(["_wave", "stratum"])["text"].transform("size")
+    n_in_wave = g.groupby("_wave")["text"].transform("size")
+    return (g["stratum_size"].astype(float) / n_in_stratum * n_in_wave / len(g)).values
+
+
+def gold_groups(gold: pd.DataFrame) -> np.ndarray:
+    wave = gold["wave"].replace("", "1") if "wave" in gold else pd.Series("1", index=gold.index)
+    return (wave + "/" + gold["stratum"]).values
+
+
+def weighted_prf(y, pred, w) -> tuple:
+    """Weighted precision, recall, F1 for the dark class (fast, for the bootstrap)."""
+    tp = w[(y == 1) & (pred == 1)].sum()
+    fp = w[(y == 0) & (pred == 1)].sum()
+    fn = w[(y == 1) & (pred == 0)].sum()
+    p = tp / (tp + fp) if tp + fp else 0.0
+    r = tp / (tp + fn) if tp + fn else 0.0
+    return p, r, (2 * p * r / (p + r) if p + r else 0.0)
+
+
+def bootstrap_gold(y, preds: dict, w, groups, reps: int = GOLD_BOOTSTRAP_REPS) -> dict:
+    """
+    Stratified bootstrap: redraw the gold set many times (with replacement,
+    inside each wave+stratum) and recompute the metrics. The spread of those
+    scores shows how much a result could move from sampling luck alone.
+    All systems share each resample, so their differences are paired.
+    Returns {system: array of shape (reps, 3) with P, R, F1}.
+    """
+    rng = np.random.default_rng(RANDOM_STATE)
+    members = [np.where(groups == g)[0] for g in np.unique(groups)]
+    out = {name: np.empty((reps, 3)) for name in preds}
+    for i in range(reps):
+        idx = np.concatenate([rng.choice(m, size=len(m), replace=True) for m in members])
+        for name, pred in preds.items():
+            out[name][i] = weighted_prf(y[idx], pred[idx], w[idx])
+    return out
+
+
+def ci95(values) -> list:
+    return [float(v) for v in np.percentile(values, [2.5, 97.5])]
+
+
 def evaluate_gold(binary: dict, multiclass: dict, rare_categories: list) -> dict:
     """
     Score the selected models — and the baseline that produced the Indian
     pseudo-labels — on the human-labelled gold set. Gold rows are never used
     for training or selection.
+
+    Reports weighted P/R/F1 (estimates for the whole scraped pool) with 95%
+    bootstrap confidence intervals, plain counts of dark rows caught and false
+    alarms, and a paired comparison of the selected model against the baseline.
     """
     if not prepare_dataset.GOLD_TEST_PATH.exists():
         print(f"\n  No gold set ({prepare_dataset.GOLD_TEST_PATH}); "
@@ -475,15 +538,18 @@ def evaluate_gold(binary: dict, multiclass: dict, rare_categories: list) -> dict
         return {}
 
     gold = prepare_dataset.read_label_file(prepare_dataset.GOLD_TEST_PATH)
-    gold = gold[gold["label"].isin(["0", "1"])].copy()
+    gold = gold[gold["label"].isin(["0", "1"])].reset_index(drop=True)
     if len(gold) == 0:
         print("\n  Gold set has no labels yet: python active_learning.py label gold")
         return {}
 
     y = gold["label"].astype(int).values
-    w = gold["weight"].astype(float).values
-    print(f"\n  Gold set: {len(gold)} labelled ({y.sum()} dark). "
+    w = gold_weights(gold)
+    groups = gold_groups(gold)
+    n_waves = len({g.split("/")[0] for g in groups})
+    print(f"\n  Gold set: {len(gold)} labelled ({y.sum()} dark, {n_waves} wave(s)). "
           "Weighted = estimate for the whole scraped Indian pool.")
+    print(f"  95% CIs from {GOLD_BOOTSTRAP_REPS} stratified bootstrap resamples.")
 
     # (name, model, vectorizer, threshold); None = the model's own predict()
     t = binary["threshold"]["threshold"]
@@ -493,27 +559,52 @@ def evaluate_gold(binary: dict, multiclass: dict, rare_categories: list) -> dict
         systems.append(("baseline (pseudo-labeller)", joblib.load(prepare_dataset.BASELINE_MODEL_PATH),
                         joblib.load(prepare_dataset.BASELINE_VECTORIZER_PATH), None))
 
-    results = {"n_labelled": int(len(gold)), "n_dark": int(y.sum()), "binary": {}}
+    preds = {}
     for name, model, vec, threshold in systems:
         X = vec.transform(gold["text"])
-        pred = (np.asarray(model.predict(X)).astype(int) if threshold is None
-                else predict_dark(model, X, threshold))
+        preds[name] = (np.asarray(model.predict(X)).astype(int) if threshold is None
+                       else predict_dark(model, X, threshold))
+    boot = bootstrap_gold(y, preds, w, groups)
+
+    results = {"n_labelled": int(len(gold)), "n_dark": int(y.sum()), "n_waves": n_waves,
+               "bootstrap_reps": GOLD_BOOTSTRAP_REPS, "binary": {}}
+    for name, pred in preds.items():
+        counts = {"dark_caught": int(((y == 1) & (pred == 1)).sum()),
+                  "dark_missed": int(((y == 1) & (pred == 0)).sum()),
+                  "false_alarms": int(((y == 0) & (pred == 1)).sum())}
         results["binary"][name] = {
             "weighted": weighted_scores(y, pred, w, "binary"),
             "unweighted": weighted_scores(y, pred, None, "binary"),
+            "ci95": {k: ci95(boot[name][:, i]) for i, k in enumerate(["precision", "recall", "f1"])},
+            "counts": counts,
         }
-        m = results["binary"][name]["weighted"]
+        m, ci = results["binary"][name]["weighted"], results["binary"][name]["ci95"]
         print(f"    BINARY {name:28s} weighted P={m['precision']:.3f} R={m['recall']:.3f} "
-              f"F1={m['f1']:.3f} acc={m['accuracy']:.3f}")
+              f"F1={m['f1']:.3f} [95% CI {ci['f1'][0]:.3f}-{ci['f1'][1]:.3f}] acc={m['accuracy']:.3f}  "
+              f"caught {counts['dark_caught']}/{int(y.sum())} dark, {counts['false_alarms']} false alarms")
+
+    # Paired comparison: is the selected model really better than the baseline?
+    base = "baseline (pseudo-labeller)"
+    if base in boot:
+        diff = boot["selected @0.50"][:, 2] - boot[base][:, 2]
+        results["selected_vs_baseline_f1"] = {
+            "diff": results["binary"]["selected @0.50"]["weighted"]["f1"]
+                    - results["binary"][base]["weighted"]["f1"],
+            "ci95": ci95(diff), "share_of_resamples_better": float((diff > 0).mean())}
+        c = results["selected_vs_baseline_f1"]
+        print(f"    selected @0.50 vs baseline: weighted F1 {c['diff']:+.3f} "
+              f"[95% CI {c['ci95'][0]:+.3f} to {c['ci95'][1]:+.3f}], "
+              f"better in {c['share_of_resamples_better']:.0%} of resamples")
 
     # Category accuracy on gold rows a human marked dark (same rare-merge as training)
+    gold["_w"] = w
     dark = gold[gold["label"] == "1"].copy()
     classes = set(multiclass["model"].classes_)
     dark["Pattern Category"] = dark["Pattern Category"].where(
         ~dark["Pattern Category"].isin(rare_categories) | ("Other" not in classes), "Other")
     if len(dark):
         pred = multiclass["model"].predict(multiclass["vectorizer"].transform(dark["text"]))
-        wd = dark["weight"].astype(float).values
+        wd = dark["_w"].values
         results["multiclass"] = {
             "n": int(len(dark)),
             "weighted_accuracy": float(accuracy_score(dark["Pattern Category"], pred, sample_weight=wd)),
@@ -529,13 +620,22 @@ def evaluate_gold(binary: dict, multiclass: dict, rare_categories: list) -> dict
 def gold_report_section(gold: dict) -> list:
     if not gold:
         return ["\nGOLD TEST SET: not available yet (python active_learning.py gold, then label it)"]
-    lines = [f"\nGOLD TEST SET (human-labelled Indian snippets): n={gold['n_labelled']}, dark={gold['n_dark']}",
-             "  Binary, weighted by inverse sampling probability (estimate for the full scraped pool):",
-             f"  {'system':30s} {'P':>6s} {'R':>6s} {'F1':>6s} {'acc':>6s}   unweighted R / F1"]
+    lines = [f"\nGOLD TEST SET (human-labelled Indian snippets): n={gold['n_labelled']}, "
+             f"dark={gold['n_dark']}, waves={gold.get('n_waves', 1)}",
+             "  Binary, weighted by inverse sampling probability (estimate for the full scraped pool).",
+             f"  F1 CI = 95% stratified bootstrap ({gold.get('bootstrap_reps', '?')} resamples).",
+             f"  {'system':30s} {'P':>6s} {'R':>6s} {'F1':>6s} {'F1 95% CI':>13s} {'acc':>6s}"
+             "   unweighted R / F1   caught / missed / false alarms"]
     for name, m in gold["binary"].items():
-        wt, uw = m["weighted"], m["unweighted"]
+        wt, uw, ci, c = m["weighted"], m["unweighted"], m["ci95"]["f1"], m["counts"]
         lines.append(f"  {name:30s} {wt['precision']:6.3f} {wt['recall']:6.3f} {wt['f1']:6.3f} "
-                     f"{wt['accuracy']:6.3f}   {uw['recall']:.3f} / {uw['f1']:.3f}")
+                     f"  {ci[0]:.3f}-{ci[1]:.3f} {wt['accuracy']:6.3f}   {uw['recall']:.3f} / {uw['f1']:.3f}"
+                     f"       {c['dark_caught']} / {c['dark_missed']} / {c['false_alarms']}")
+    if "selected_vs_baseline_f1" in gold:
+        c = gold["selected_vs_baseline_f1"]
+        lines.append(f"  selected @0.50 minus baseline, weighted F1: {c['diff']:+.3f} "
+                     f"[95% CI {c['ci95'][0]:+.3f} to {c['ci95'][1]:+.3f}], "
+                     f"better in {c['share_of_resamples_better']:.0%} of resamples")
     if "multiclass" in gold:
         mc = gold["multiclass"]
         lines.append(f"\n  Multi-class on {mc['n']} human-marked dark rows: weighted acc="
@@ -564,6 +664,31 @@ def report_section(title: str, task: dict) -> list:
 # Main Training Pipeline
 # -----------------------------------------------------------------------------
 
+def gold_only():
+    """
+    Re-score the saved models on the gold set without retraining, e.g. after
+    labelling more gold rows. Refuses if any gold text is still in the training
+    dataset: the saved models may have trained on it (new gold rows only leave
+    the training data on the next `train_model.py --prepare`).
+    """
+    df = load_dataset()
+    leaked = prepare_dataset.load_gold_texts() & set(df["text"])
+    if leaked:
+        sys.exit(f"\n{len(leaked)} gold texts are still in {COMBINED_DATASET}, so the saved models "
+                 "may have trained on them. Run python train_model.py --prepare first.")
+    th = json.loads(THRESHOLD_PATH.read_text()) if THRESHOLD_PATH.exists() else {}
+    binary = {"model": joblib.load(MODELS_DIR / "binary_model.pkl"),
+              "vectorizer": joblib.load(MODELS_DIR / "binary_vectorizer.pkl"),
+              "threshold": {"threshold": th.get("tuned_threshold", th.get("threshold", 0.5))}}
+    multiclass = {"model": joblib.load(MODELS_DIR / "multiclass_model.pkl"),
+                  "vectorizer": joblib.load(MODELS_DIR / "multiclass_vectorizer.pkl")}
+    labels = df["label"].astype(int)
+    rare = [cat for cat, n in df.loc[labels == 1, "Pattern Category"].value_counts().items()
+            if n < RARE_CATEGORY_MIN_SAMPLES]
+    print(f"\n{'=' * 60}\nGOLD TEST SET (saved models, no retraining)\n{'=' * 60}")
+    evaluate_gold(binary, multiclass, rare)
+
+
 def main():
     parser = argparse.ArgumentParser(description="Dark Pattern Model Training")
     parser.add_argument("--prepare", action="store_true",
@@ -571,7 +696,13 @@ def main():
                              "training to update dataset from data/raw")
     parser.add_argument("--trials", type=int, default=N_OPTUNA_TRIALS,
                         help=f"Optuna trials per model type (default {N_OPTUNA_TRIALS})")
+    parser.add_argument("--gold-only", action="store_true",
+                        help="score the saved models on the gold set and exit (no training, seconds)")
     args = parser.parse_args()
+
+    if args.gold_only:
+        gold_only()
+        return
 
     print("=" * 60)
     print("DARK PATTERN MODEL TRAINING")
