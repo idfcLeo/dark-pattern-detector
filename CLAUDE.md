@@ -22,9 +22,14 @@ There is no test suite, linter, or build step. All scripts use paths relative to
   - batch_03 retrain: gold weighted F1 0.175 → 0.163 (P 0.227 → 0.286, R 0.142 → 0.114). With only 11 gold dark rows this is within noise. Winners: SVC (binary), stacking (multiclass). The CV-tuned threshold 0.29 gives 0.126 on gold, below the 0.50 result, so `train_model.py` now deploys 0.50 (`USE_TUNED_THRESHOLD=False`; the tuned value is still saved as `tuned_threshold` and scored on gold).
   - batch_04 (dark-mined, 15/100 dark; 400 human labels, 36 dark) retrain: gold weighted F1 0.163 → 0.226 (P 0.286 → 0.554, R 0.114 → 0.142), the best so far. Winners: LR (binary), stacking (multiclass). The tuned threshold 0.26 gives 0.172 on gold.
   - batch_05 (dark-mined, mean P(dark) only 0.467, still 12/100 dark; 500 human labels, 48 dark) retrain: gold weighted F1 0.226 → 0.194 (P 0.554 → 0.667, R 0.142 → 0.114). Winners: LR (binary, CV F1 0.917), SVC (multiclass, CV macro F1 0.871). Unweighted, the model catches 4/11 gold dark rows with 2 false alarms. The gold set is now too small to tell retrains apart: one likely_benign row ("Trusted by 20+ million customers", weight 259) dominates weighted recall, and recall only flips between 0.114 and 0.142.
+- 2026-11-05: reliability work (the user chose "trustworthy results" and "web app robustness").
+  - The gold report now shows 95% stratified-bootstrap CIs, counts of dark rows caught/missed/false alarms, and a paired selected-vs-baseline F1 test. Current: F1 0.194 [0.033–0.666]; +0.130 vs baseline, better in 97% of resamples. `train_model.py --gold-only` re-scores saved models in seconds and refuses if gold texts are still in the training data.
+  - Gold wave 2 added (`gold --extend 200`, 500 rows total; 200 awaiting the user's labels). It uses its own strata over the current model's P(dark) (high ≥0.30 taken whole = 44, mid 60, low 30, very_low 66). Weights are recomputed per (wave, stratum) from labelled rows in `train_model.gold_weights()`, so don't use the stored `weight` column directly.
+  - Web app hardened: public http(s) URLs only (SSRF guard), browser always closed, distinct timeout/unreachable/bot-blocked messages, max 2 concurrent scans (429), text ≤ 5000 and URL ≤ 2048 chars, bad threshold/CCPA files only warn, richer `/health`. Myntra times out (504) rather than returning a block page.
 - 2026-11-03: labelling parked; the user wants a working end-to-end app first, then accuracy work. Web app verified end to end (predict, analyze-url on Flipkart/Amazon). Myntra and Nykaa block headless browsers. CCPA mapping now uses the official 2023 guideline names.
   - Pseudo-dark Indian rows are no longer trained on (`KEEP_PSEUDO_DARK=False`; 64 moved to review), and the binary threshold is CV-tuned on F2 (`models/binary_threshold.json`, read by the backend). Gold weighted F1 is 0.175 at 0.50 (P 0.227, R 0.142); the tuned 0.40 gives 0.158, so in-distribution CV thresholds don't transfer to Indian text.
 - Next options: Indian-only training (needs about 150+ human dark rows via dark-mining batches, plus site-grouped CV), or add Indian dark examples to `data/manual_labels.tsv`.
+- Next: the user labels gold wave 2 (`python active_learning.py label gold`), then retrain with `--prepare` and report the gold result with CIs on 500 rows.
 - Next, once labels exist:
   1. Run `python active_learning.py status`.
   2. Run `python train_model.py --prepare` (about 17 min, run it in the background).
@@ -50,9 +55,11 @@ python prepare_dataset.py
 # Train binary + multiclass models (runs prepare_dataset first if --prepare or the dataset is missing).
 # Full run ≈ 15–20 min on CPU; --trials 0 skips Optuna (defaults) for a ~5 min smoke test.
 python train_model.py [--prepare] [--trials N]
+python train_model.py --gold-only    # re-score saved models on the gold set (seconds, no training)
 
 # Human labelling (interactive — the user runs `label` themselves; never fill labels in for them)
 python active_learning.py gold                 # one-time stratified held-out gold test set
+python active_learning.py gold --extend 200    # add a new stratified wave to a labelled gold set
 python active_learning.py label gold           # or: label data/active_learning/batch_NN.tsv
 python active_learning.py select [--n 100]     # next active-learning batch from needs_review.tsv
 python active_learning.py status
@@ -125,6 +132,6 @@ Commit and push regularly so no work is lost. This is standing authorization: yo
   - `data/active_learning/batch_*.tsv` and `data/manual_labels.tsv` are **training** labels. `load_human_labels()` collects them, and `apply_manual_overrides()` replaces matching pseudo-labels or appends the rows as `source_type="human"` after benign capping.
   - In label files, blank `label` = not yet labelled and `unsure` = excluded. Read them with `read_label_file()` (`dtype=str`, `keep_default_na=False`) so blanks and texts like "NA" survive.
 
-- **Web app** (`dark-pattern-webapp/`): `server.py` loads models from `<repo>/models` and the CCPA mapping from `<repo>/configs` (override the root with the `DP_ROOT` env var). The `.pkl` files inside `backend/` and the webapp README's instructions to copy baseline pickles there are outdated. Endpoints: `GET /health`, `POST /predict` (single text), `POST /analyze-url` (headless Playwright loads and scrolls the page, then classifies body `innerText` lines plus button/link texts, filtered by a copy of `prepare_dataset.is_junk` so inputs match how training text was extracted; keep the two in sync). The multiclass model and CCPA tags are only added for texts predicted as dark. The frontend hard-codes `API_URL = "http://127.0.0.1:8000"`.
+- **Web app** (`dark-pattern-webapp/`): `server.py` loads models from `<repo>/models` and the CCPA mapping from `<repo>/configs` (override the root with the `DP_ROOT` env var). The `.pkl` files inside `backend/` and the webapp README's instructions to copy baseline pickles there are outdated. Endpoints: `GET /health` (also reports live models and threshold), `POST /predict` (single text, ≤ 5000 chars), `POST /analyze-url` (headless Playwright loads and scrolls the page, then classifies body `innerText` lines plus button/link texts, filtered by a copy of `prepare_dataset.is_junk` so inputs match how training text was extracted; keep the two in sync). The multiclass model and CCPA tags are only added for texts predicted as dark. The frontend hard-codes `API_URL = "http://127.0.0.1:8000"`.
 
 - `ec-darkpattern/` is the vendored upstream dataset/research repo (its own Poetry projects and a TS scraper). Treat it as read-only input except for `readdata.py` and the baseline pickles.
