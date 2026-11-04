@@ -69,7 +69,21 @@ GOLD_STRATA = [
     ("likely_benign", 0.00, 0.15, 0.30),
 ]
 
+# Strata for each later gold wave (`gold --extend N`), over the CURRENT model's
+# P(dark): (name, low, high, share of N). The current model rates very few rows
+# above 0.5, so the bands are lower than GOLD_STRATA and dark-leaning bands get
+# more than their natural share to collect more dark test rows. A stratum
+# smaller than its share is taken whole; None = whatever is left of N.
+# The weights stored per row undo this oversampling in the metrics.
+GOLD_EXTEND_STRATA = [
+    ("high", 0.30, 1.01, 0.40),
+    ("mid", 0.15, 0.30, 0.30),
+    ("low", 0.05, 0.15, 0.15),
+    ("very_low", 0.00, 0.05, None),
+]
+
 LABEL_COLUMNS = ["text", "site", "step_label", "label", "Pattern Category"]
+GOLD_COLUMNS = LABEL_COLUMNS + ["stratum", "stratum_size", "weight", "wave"]
 
 
 # -----------------------------------------------------------------------------
@@ -105,7 +119,68 @@ def resolve_path(name: str) -> Path:
 # gold
 # -----------------------------------------------------------------------------
 
+def extend_gold(n: int):
+    """
+    Add a new wave of n rows to an already-labelled gold set.
+
+    The wave is a fresh stratified sample (GOLD_EXTEND_STRATA over the current
+    model's P(dark)) from scraped snippets that are in neither the gold set nor
+    any training label file, so it stays a clean held-out test. Its own strata
+    and weights are stored with wave=N; train_model.gold_weights() combines the
+    waves into one estimate for the scraped pool.
+    """
+    if not GOLD_TEST_PATH.exists():
+        sys.exit("No gold set yet. Run: python active_learning.py gold")
+    gold = read_label_file(GOLD_TEST_PATH)
+    if (gold["label"] == "").any():
+        sys.exit(f"{(gold['label'] == '').sum()} gold rows are still unlabelled. "
+                 "Finish them first: python active_learning.py label gold")
+    if "wave" not in gold.columns:
+        gold["wave"] = "1"
+    gold["wave"] = gold["wave"].replace("", "1")
+    wave = gold["wave"].astype(int).max() + 1
+
+    # Exclude gold rows and every row in a training label file (labelled, unsure
+    # or blank): a test row must never also be a training row.
+    exclude = set(gold["text"]) | set(load_human_labels()["text"])
+    for p in batch_paths():
+        exclude |= set(read_label_file(p)["text"])
+    pool = scraped_pool()
+    pool = pool[~pool["text"].isin(exclude)].reset_index(drop=True)
+    model, vectorizer = load_binary()
+    pool["p_dark"] = dark_proba(model, vectorizer, pool["text"])
+    print(f"Wave {wave}: {len(pool)} eligible snippets (not in gold or any label file)")
+
+    parts, used = [], 0
+    for name, low, high, share in GOLD_EXTEND_STRATA:
+        stratum = pool[(pool["p_dark"] >= low) & (pool["p_dark"] < high)]
+        want = n - used if share is None else int(round(n * share))
+        take = min(len(stratum), max(want, 0))
+        print(f"  {name:9s} P(dark) in [{low:.2f}, {high:.2f}): {len(stratum):6d} eligible -> {take} sampled")
+        if take == 0:
+            continue
+        sample = stratum.sample(n=take, random_state=RANDOM_STATE + wave).copy()
+        sample["stratum"] = name
+        sample["stratum_size"] = len(stratum)
+        sample["weight"] = len(stratum) / take
+        parts.append(sample)
+        used += take
+
+    new = pd.concat(parts).sample(frac=1, random_state=RANDOM_STATE + wave)  # shuffle strata together
+    new["label"] = ""
+    new["Pattern Category"] = ""
+    new["wave"] = str(wave)
+    out = pd.concat([gold[GOLD_COLUMNS], new[GOLD_COLUMNS].astype(str)], ignore_index=True)
+    out.to_csv(GOLD_TEST_PATH, sep="\t", index=False)
+    print(f"\nAppended {len(new)} wave-{wave} rows to {GOLD_TEST_PATH} ({len(out)} rows in total).")
+    print("Next: python active_learning.py label gold          (only the new rows are asked)")
+    print("Then: python train_model.py --prepare               (removes them from the training data)")
+
+
 def cmd_gold(args):
+    if args.extend:
+        extend_gold(args.extend)
+        return
     if GOLD_TEST_PATH.exists():
         existing = read_label_file(GOLD_TEST_PATH)
         if (existing["label"] != "").any() and not args.force:
@@ -133,7 +208,8 @@ def cmd_gold(args):
     gold = pd.concat(parts).sample(frac=1, random_state=RANDOM_STATE)  # shuffle: labeller can't infer stratum
     gold["label"] = ""
     gold["Pattern Category"] = ""
-    gold = gold[LABEL_COLUMNS + ["stratum", "stratum_size", "weight"]]
+    gold["wave"] = "1"
+    gold = gold[GOLD_COLUMNS]
 
     GOLD_TEST_PATH.parent.mkdir(parents=True, exist_ok=True)
     gold.to_csv(GOLD_TEST_PATH, sep="\t", index=False)
@@ -293,6 +369,8 @@ def main():
     p = sub.add_parser("gold", help="create the stratified held-out gold test set")
     p.add_argument("--n", type=int, default=300, help="gold set size (default 300)")
     p.add_argument("--force", action="store_true", help="replace a gold set that already has labels")
+    p.add_argument("--extend", type=int, metavar="N",
+                   help="append a new stratified wave of N rows to a labelled gold set (keeps existing labels)")
     p.set_defaults(func=cmd_gold)
 
     p = sub.add_parser("select", help="pick the next active-learning batch")

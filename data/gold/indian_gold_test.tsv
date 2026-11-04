@@ -1,24 +1,24 @@
-text	site	step_label	label	Pattern Category	stratum	stratum_size	weight
-Register now and get 2000 Nykaa reward points instantly!	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7
-Indalo	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Rs. 649Rs. 1599(59% OFF)	myntra	product	0	Not Dark Pattern	borderline	2043	22.7
-You saved ₹1,965	Bewakoof	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Diamond RingsStarting at Rs. 7,400/-	bluestone	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-suits and blazers	LimeRoad	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Jewellery Shop in Delhi|	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7
-₹341₹1,29973% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Watch Out For this	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+text	site	step_label	label	Pattern Category	stratum	stratum_size	weight	wave
+Register now and get 2000 Nykaa reward points instantly!	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Indalo	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Rs. 649Rs. 1599(59% OFF)	myntra	product	0	Not Dark Pattern	borderline	2043	22.7	1
+You saved ₹1,965	Bewakoof	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Diamond RingsStarting at Rs. 7,400/-	bluestone	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+suits and blazers	LimeRoad	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Jewellery Shop in Delhi|	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+₹341₹1,29973% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Watch Out For this	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "ADD
 ₹29
 ₹72
 ₹43
 OFF
 Banana Robusta
-4 pcs"	Zepto	cart	0	Not Dark Pattern	borderline	2043	22.7
-Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Fillets (480g to 500g Pa	freshtohome	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹57442% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-View benefits and payment settings	amazon_in	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Save extra with No Cost EMI	amazon_in	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+4 pcs"	Zepto	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+Bhetki / ভেটকী / Barramundi / Asian Seabass / Kalanji - Fillets (480g to 500g Pa	freshtohome	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹57442% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+View benefits and payment settings	amazon_in	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Save extra with No Cost EMI	amazon_in	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "ADD
 ₹65
 ₹90
@@ -27,106 +27,106 @@ OFF
 Modern Butter Crust Milk Bread
 1 pack (350 g)
 4.4
-(40)"	Zepto	product	0	Not Dark Pattern	borderline	2043	22.7
-Girl Clothing	flipkart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Packet of 1 test kit	Tata 1mg	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-3-seater	myntra	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹12,499 ₹17,999 (31% off)	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7
-₹26,999 (19% off)	amazon_in	product	0	Not Dark Pattern	borderline	2043	22.7
-·       Orders placed using the Go Green Discount: Can only be returned in-store within 30 days and will be refunded through a Credit Note valid for 6 months.	westside	cancel_step	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Only Few Left!	myntra	product	1	Scarcity	likely_dark	1348	11.233333333333333
-nailinit	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Keychains	snapdeal	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹2,89967% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Price: Not Available	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Home Utility and Essentials	Shopsy	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Food and Beverages	PharmEasy	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
+(40)"	Zepto	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Girl Clothing	flipkart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Packet of 1 test kit	Tata 1mg	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+3-seater	myntra	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹12,499 ₹17,999 (31% off)	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7	1
+₹26,999 (19% off)	amazon_in	product	0	Not Dark Pattern	borderline	2043	22.7	1
+·       Orders placed using the Go Green Discount: Can only be returned in-store within 30 days and will be refunded through a Credit Note valid for 6 months.	westside	cancel_step	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Only Few Left!	myntra	product	1	Scarcity	likely_dark	1348	11.233333333333333	1
+nailinit	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Keychains	snapdeal	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹2,89967% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Price: Not Available	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Home Utility and Essentials	Shopsy	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Food and Beverages	PharmEasy	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
 "Pyrigesic 650 Tablet
 strip of 15 tablets
 Discounted Price:
 ₹19.6
-Original Price:"	Tata 1mg	product	0	Not Dark Pattern	borderline	2043	22.7
-Samsung Galaxy S26 Ultra 5G (Black, 12GB RAM, 256GB Storage) with Built-in Privacy Display, AI Phone, Photo Assist, Creative Studio, 200MP Camera, 5000mAh Battery and Snapdragon 8 Elite Gen 5	amazon_in	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-20% off on Making Charges	bluestone	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Parle Marie Biscuits : 800 g	DMart Ready	product	0	Not Dark Pattern	borderline	2043	22.7
-₹ 699 ₹899 22% off	LimeRoad	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+Original Price:"	Tata 1mg	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Samsung Galaxy S26 Ultra 5G (Black, 12GB RAM, 256GB Storage) with Built-in Privacy Display, AI Phone, Photo Assist, Creative Studio, 200MP Camera, 5000mAh Battery and Snapdragon 8 Elite Gen 5	amazon_in	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+20% off on Making Charges	bluestone	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Parle Marie Biscuits : 800 g	DMart Ready	product	0	Not Dark Pattern	borderline	2043	22.7	1
+₹ 699 ₹899 22% off	LimeRoad	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "PROCEED TO PAY
 ₹11,645.00
-₹11,412.30"	Moglix	checkout	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Text me with news and offers	TheLabelLife	checkout	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Unlock Max 25% OFF on cart ₹1000+	PharmEasy	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-329599(45% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-/in/en/cart	max_fashion	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹2733% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹4,49918% OFF	Moglix	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-app only offers at your fingertips	snapdeal	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-511 79936% OFF	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Combiflam Tablet	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Paracip 500mg Tablet 10'S	Netmeds	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-6% off	Tata 1mg	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹3,99969% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Marketing preferences	TheLabelLife	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-7200 mAh Li-ion Battery	flipkart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-10 Crores+	Bewakoof	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Health & Wellness	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Lucrative offers on our platform allow you to make payment online and via various payment wallets at a discounted price. Alternatively, you can also choose to pay cash on delivery as we deliver the products at your doorstep. We cater to all your pharmaceutical needs and also make ordering medicines online a hassle-free experience for you. We connect you only with registered retail pharmacies & certified diagnostic labs. We ensure that healthcare is affordable to all and make the process of ordering online simple.	PharmEasy	landing	0	Not Dark Pattern	borderline	2043	22.7
-Or Pay ₹133 +	Shopsy	product	0	Not Dark Pattern	borderline	2043	22.7
-LHS Sectionals	myntra	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-320 YOU SAVE ₹44	Purplle	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Footwear (13741)	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-TecoKart 8 Pcs Suction Phone Case with 24 Small Suction Cups | Multipurpose Silicone Sticky Grip Holder| Hands-Free Suction Sticker Phone Accessory for Selfies, Video & Mounting	amazon_in	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Order Chicken online in Mumbai	licious	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-102198(48% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-ITEM ARCHIVAL	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7
-20% Off	shoppers_stop	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Licorice	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Delivering In	urbanladder	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Shop online for a wide range of electronic items that can come in handy for you in different day-to-day scenarios. You can easily find products like mobile phones and laptops from various companies in a matter of minutes when you are shopping online. This way, you can easily check and compare the features and attributes of the products and place your order for the ones that suit your requirements the most. You can also get wired and wireless headphones that can help you enjoy an immersive audio-visual experience while consuming multimedia.	Shopsy	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-0 items	boult	landing	0	Not Dark Pattern	borderline	2043	22.7
-Save UPI ID for faster payments	FabIndia	payment	0	Not Dark Pattern	borderline	2043	22.7
-₹4,20027% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹239 ₹265 10% off	Purplle	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-DonaBella	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹340₹2,99988% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Exclusively at Lenskart	Lenskart	landing	0	Not Dark Pattern	borderline	2043	22.7
-10% Off Upto 750	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Upto 15 Kgs	FirstCry	product	0	Not Dark Pattern	borderline	2043	22.7
-clothing	myntra	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Trending Now	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7
-EMI starting from ₹409/month	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7
-Gift Card/EGV	shoppers_stop	cancel_step	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹323₹1,19973% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-help@maxfashion.in	max_fashion	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Price ( 2 items)	Shopsy	checkout	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-GAYA	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-How can I purchase a JioMart Gift Card?	JioMart	cancel_step	0	Not Dark Pattern	borderline	2043	22.7
-Didn’t receive a code?	shoppers_stop	landing	0	Not Dark Pattern	borderline	2043	22.7
-10% off	Tata 1mg	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Mobile: +91-9958410404	FirstCry	checkout	0	Not Dark Pattern	borderline	2043	22.7
-₹8,66953% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Sale price: ₹160.00/500g	freshtohome	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹55020% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Add membership	Tata 1mg	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹25,499 (22% off)	amazon_in	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹2,69944% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Rs. 377Rs. 1499(75% OFF)	myntra	product	0	Not Dark Pattern	borderline	2043	22.7
-& save extra money on this order	Moglix	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹1,09977% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+₹11,412.30"	Moglix	checkout	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Text me with news and offers	TheLabelLife	checkout	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Unlock Max 25% OFF on cart ₹1000+	PharmEasy	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+329599(45% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+/in/en/cart	max_fashion	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹2733% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹4,49918% OFF	Moglix	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+app only offers at your fingertips	snapdeal	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+511 79936% OFF	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Combiflam Tablet	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Paracip 500mg Tablet 10'S	Netmeds	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+6% off	Tata 1mg	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹3,99969% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Marketing preferences	TheLabelLife	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+7200 mAh Li-ion Battery	flipkart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+10 Crores+	Bewakoof	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Health & Wellness	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Lucrative offers on our platform allow you to make payment online and via various payment wallets at a discounted price. Alternatively, you can also choose to pay cash on delivery as we deliver the products at your doorstep. We cater to all your pharmaceutical needs and also make ordering medicines online a hassle-free experience for you. We connect you only with registered retail pharmacies & certified diagnostic labs. We ensure that healthcare is affordable to all and make the process of ordering online simple.	PharmEasy	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Or Pay ₹133 +	Shopsy	product	0	Not Dark Pattern	borderline	2043	22.7	1
+LHS Sectionals	myntra	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+320 YOU SAVE ₹44	Purplle	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Footwear (13741)	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+TecoKart 8 Pcs Suction Phone Case with 24 Small Suction Cups | Multipurpose Silicone Sticky Grip Holder| Hands-Free Suction Sticker Phone Accessory for Selfies, Video & Mounting	amazon_in	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Order Chicken online in Mumbai	licious	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+102198(48% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+ITEM ARCHIVAL	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+20% Off	shoppers_stop	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Licorice	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Delivering In	urbanladder	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Shop online for a wide range of electronic items that can come in handy for you in different day-to-day scenarios. You can easily find products like mobile phones and laptops from various companies in a matter of minutes when you are shopping online. This way, you can easily check and compare the features and attributes of the products and place your order for the ones that suit your requirements the most. You can also get wired and wireless headphones that can help you enjoy an immersive audio-visual experience while consuming multimedia.	Shopsy	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+0 items	boult	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Save UPI ID for faster payments	FabIndia	payment	0	Not Dark Pattern	borderline	2043	22.7	1
+₹4,20027% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹239 ₹265 10% off	Purplle	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+DonaBella	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹340₹2,99988% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Exclusively at Lenskart	Lenskart	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+10% Off Upto 750	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Upto 15 Kgs	FirstCry	product	0	Not Dark Pattern	borderline	2043	22.7	1
+clothing	myntra	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Trending Now	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+EMI starting from ₹409/month	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Gift Card/EGV	shoppers_stop	cancel_step	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹323₹1,19973% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+help@maxfashion.in	max_fashion	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Price ( 2 items)	Shopsy	checkout	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+GAYA	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+How can I purchase a JioMart Gift Card?	JioMart	cancel_step	0	Not Dark Pattern	borderline	2043	22.7	1
+Didn’t receive a code?	shoppers_stop	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+10% off	Tata 1mg	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Mobile: +91-9958410404	FirstCry	checkout	0	Not Dark Pattern	borderline	2043	22.7	1
+₹8,66953% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Sale price: ₹160.00/500g	freshtohome	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹55020% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Add membership	Tata 1mg	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹25,499 (22% off)	amazon_in	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹2,69944% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Rs. 377Rs. 1499(75% OFF)	myntra	product	0	Not Dark Pattern	borderline	2043	22.7	1
+& save extra money on this order	Moglix	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹1,09977% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "QNT
-7"	HealthKart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹850 ₹1,699 50% off	FabIndia	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹252₹99974% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+7"	HealthKart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹850 ₹1,699 50% off	FabIndia	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹252₹99974% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "Rohu / Rui (Size/Grade 2kg-3kg) - Gada Cut
 
 ₹299.00
 
-₹213.00 /pack"	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7
-Peanut Butter : Make your toasts tasty with peanut butter price from Nouriza, Muscleblaze, Alpino etc.	HealthKart	landing	0	Not Dark Pattern	borderline	2043	22.7
-Is there a review process before the product goes live?	Techjockey	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-No Order History	licious	payment	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+₹213.00 /pack"	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Peanut Butter : Make your toasts tasty with peanut butter price from Nouriza, Muscleblaze, Alpino etc.	HealthKart	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Is there a review process before the product goes live?	Techjockey	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+No Order History	licious	payment	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "Video Editing
-Software"	Techjockey	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-1M People like this	Bewakoof	product	1	Social Proof	likely_dark	1348	11.233333333333333
+Software"	Techjockey	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+1M People like this	Bewakoof	product	1	Social Proof	likely_dark	1348	11.233333333333333	1
 "ADD
 ₹102
 ₹140
@@ -134,223 +134,223 @@ Software"	Techjockey	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444
 OFF
 Milky Mist Paneer
 1 pack (200 g)
-Bestseller"	Zepto	cart	1	Social Proof	likely_dark	1348	11.233333333333333
-4 months ago	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7
-Aronac	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Swiss Beauty	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-M.R.P: ₹30,999.00	amazon_in	cart	0	Not Dark Pattern	borderline	2043	22.7
-₹21,99027% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+Bestseller"	Zepto	cart	1	Social Proof	likely_dark	1348	11.233333333333333	1
+4 months ago	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Aronac	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Swiss Beauty	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+M.R.P: ₹30,999.00	amazon_in	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+₹21,99027% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "Nicotex 2Mg Mint Plus Sugar Free Tin Of 44 Chewing Gums (41+3 Extra)
 MRP ₹415
-₹3"	PharmEasy	landing	0	Not Dark Pattern	borderline	2043	22.7
-₹3,29971% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-At BlueStone, we're dedicated to enhancing your jewellery shopping experience with unmatched convenience through a highly developed team that ensures every question about your products gets answered. We also have a Lifetime Exchange and Buyback Policy ensuring you can shop with the peace of mind that your investment lasts a lifetime. If you're bored of hoarding outdated gold jewellery, our Big Gold Upgrade enables you to get an instant 1% benefit over the current market gold rate on all purities, while exploring BlueStone's exquisite curated collections. To benchmark your jewellery shopping experience a step further, we offer free shipping on all online orders. And in case things don't work out as planned, you can rely on a hassle-free 30 Day Free Returns Policy so you can shop without a care in the world.	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7
-Aasana from Pepperfry	myntra	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-No-cost EMI eligibility:	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Electronics & Gadgets	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Facial Peels	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Best Selling on Flipkart	flipkart	landing	1	Social Proof	likely_dark	1348	11.233333333333333
+₹3"	PharmEasy	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+₹3,29971% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+At BlueStone, we're dedicated to enhancing your jewellery shopping experience with unmatched convenience through a highly developed team that ensures every question about your products gets answered. We also have a Lifetime Exchange and Buyback Policy ensuring you can shop with the peace of mind that your investment lasts a lifetime. If you're bored of hoarding outdated gold jewellery, our Big Gold Upgrade enables you to get an instant 1% benefit over the current market gold rate on all purities, while exploring BlueStone's exquisite curated collections. To benchmark your jewellery shopping experience a step further, we offer free shipping on all online orders. And in case things don't work out as planned, you can rely on a hassle-free 30 Day Free Returns Policy so you can shop without a care in the world.	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Aasana from Pepperfry	myntra	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+No-cost EMI eligibility:	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Electronics & Gadgets	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Facial Peels	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Best Selling on Flipkart	flipkart	landing	1	Social Proof	likely_dark	1348	11.233333333333333	1
 "Cello, Milton & more
-From ₹99"	flipkart	landing	0	Not Dark Pattern	borderline	2043	22.7
-The item Babyhug Alcohol Based Hand Sanitizer - 500 ml has been moved to Shortlist.	FirstCry	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Canon Pixma MG2570S Black All-in-One Colour Inkjet Printer with USB Connectivity ...	Moglix	landing	0	Not Dark Pattern	borderline	2043	22.7
-·       SAMOH products purchased during EOSS are non-returnable.	westside	cancel_step	0	Not Dark Pattern	borderline	2043	22.7
-24% OFF	Blinkit	settings	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Amazon Pay on Merchants	amazon_in	product	0	Not Dark Pattern	borderline	2043	22.7
-For You	flipkart	landing	0	Not Dark Pattern	borderline	2043	22.7
-Popular Searches	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7
-₹21,2499% OFF	Moglix	landing	0	Not Dark Pattern	borderline	2043	22.7
-Titan	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Here are some key things to keep in mind before you decide to buy furniture online.	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Sell on Zepto	Zepto	cart	0	Not Dark Pattern	borderline	2043	22.7
-United States(+1)	westside	checkout	0	Not Dark Pattern	borderline	2043	22.7
-Buy & Earn Club Cash upto :  16	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Sunfeast Dark Fantasy Bourbon Biscuits : 99 g	DMart Ready	product	0	Not Dark Pattern	borderline	2043	22.7
-However, if you delete your account if you have JM wallet/Gift Card balances or have placed any order in the 30 days, your balance amount will be forfeited and you might not be able to cancel/return the order.	JioMart	cancel_step	1	Obstruction	likely_dark	1348	11.233333333333333
-Other Period Essentials	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7
-Which of these promotions would you like to receive from us?	HealthKart	cancel_step	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Body Type	spinny	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-GST Number	bluestone	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-3 Innerwear at 599	Clovia	landing	0	Not Dark Pattern	borderline	2043	22.7
-Enrol now	lifestyle	cart	0	Not Dark Pattern	borderline	2043	22.7
-Paracetamol is used for pain relief and fever. It is used to relieve pain in conditions like headache, muscle pain, or dental pain.	Tata 1mg	product	0	Not Dark Pattern	borderline	2043	22.7
-30% Off	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+From ₹99"	flipkart	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+The item Babyhug Alcohol Based Hand Sanitizer - 500 ml has been moved to Shortlist.	FirstCry	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Canon Pixma MG2570S Black All-in-One Colour Inkjet Printer with USB Connectivity ...	Moglix	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+·       SAMOH products purchased during EOSS are non-returnable.	westside	cancel_step	0	Not Dark Pattern	borderline	2043	22.7	1
+24% OFF	Blinkit	settings	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Amazon Pay on Merchants	amazon_in	product	0	Not Dark Pattern	borderline	2043	22.7	1
+For You	flipkart	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Popular Searches	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+₹21,2499% OFF	Moglix	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Titan	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Here are some key things to keep in mind before you decide to buy furniture online.	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Sell on Zepto	Zepto	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+United States(+1)	westside	checkout	0	Not Dark Pattern	borderline	2043	22.7	1
+Buy & Earn Club Cash upto :  16	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Sunfeast Dark Fantasy Bourbon Biscuits : 99 g	DMart Ready	product	0	Not Dark Pattern	borderline	2043	22.7	1
+However, if you delete your account if you have JM wallet/Gift Card balances or have placed any order in the 30 days, your balance amount will be forfeited and you might not be able to cancel/return the order.	JioMart	cancel_step	1	Obstruction	likely_dark	1348	11.233333333333333	1
+Other Period Essentials	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Which of these promotions would you like to receive from us?	HealthKart	cancel_step	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Body Type	spinny	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+GST Number	bluestone	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+3 Innerwear at 599	Clovia	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Enrol now	lifestyle	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+Paracetamol is used for pain relief and fever. It is used to relieve pain in conditions like headache, muscle pain, or dental pain.	Tata 1mg	product	0	Not Dark Pattern	borderline	2043	22.7	1
+30% Off	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "Mahi Mahi / Pulli Motha
 
 ₹449.00
 
-₹329.00 /500g"	freshtohome	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Whether you need a compact loveseat for a small flat or a sprawling L-shape sectional for family gatherings, you will find it here.	myntra	product	0	Not Dark Pattern	borderline	2043	22.7
-Maha Bachat Ka Double Offer	LimeRoad	cart	0	Not Dark Pattern	borderline	2043	22.7
-CALPOL 650 + Tablet 15's	Netmeds	product	0	Not Dark Pattern	borderline	2043	22.7
-BASIICS by La Intimo	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Sports T-Shirts	pantaloons	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-KEEP IN TOUCH	licious	landing	0	Not Dark Pattern	borderline	2043	22.7
-10% Off on select cards	amazon_in	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-1 item in your cart	Moglix	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-121 149 19% off	Purplle	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-MIEZ	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-20% off!	noise	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+₹329.00 /500g"	freshtohome	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Whether you need a compact loveseat for a small flat or a sprawling L-shape sectional for family gatherings, you will find it here.	myntra	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Maha Bachat Ka Double Offer	LimeRoad	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+CALPOL 650 + Tablet 15's	Netmeds	product	0	Not Dark Pattern	borderline	2043	22.7	1
+BASIICS by La Intimo	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Sports T-Shirts	pantaloons	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+KEEP IN TOUCH	licious	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+10% Off on select cards	amazon_in	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+1 item in your cart	Moglix	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+121 149 19% off	Purplle	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+MIEZ	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+20% off!	noise	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "Pro Curling
-                      Irons/Stylers"	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-"HANDLING FEE	₹4.00"	freshtohome	cart	0	Not Dark Pattern	borderline	2043	22.7
-Herbal Essences	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Express Delivery	shoppers_stop	checkout	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Maharaja (11)	Moglix	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-65912   749 12% OFF	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹549.00 /pack	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7
-Halo 2 Limited Editi...	noise	landing	1	Scarcity	likely_dark	1348	11.233333333333333
-Olaplex	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Sell to me Tenet Hook 4mp4	boult	landing	0	Not Dark Pattern	borderline	2043	22.7
-Thursday, 13 Aug	Netmeds	checkout	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-61% OFF	Bewakoof	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-3 Aug 2026 | Delhi NCR	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-FREE delivery Fri, 7 Aug available at checkout	amazon_in	cart	0	Not Dark Pattern	borderline	2043	22.7
-YOUR PERSONAL INFORMATION	bluestone	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Bluetooth Speaker	LimeRoad	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
+                      Irons/Stylers"	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+"HANDLING FEE	₹4.00"	freshtohome	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+Herbal Essences	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Express Delivery	shoppers_stop	checkout	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Maharaja (11)	Moglix	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+65912   749 12% OFF	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹549.00 /pack	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Halo 2 Limited Editi...	noise	landing	1	Scarcity	likely_dark	1348	11.233333333333333	1
+Olaplex	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Sell to me Tenet Hook 4mp4	boult	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Thursday, 13 Aug	Netmeds	checkout	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+61% OFF	Bewakoof	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+3 Aug 2026 | Delhi NCR	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+FREE delivery Fri, 7 Aug available at checkout	amazon_in	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+YOUR PERSONAL INFORMATION	bluestone	settings	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Bluetooth Speaker	LimeRoad	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
 "5. vivo T5 Lite 44W 5G (Wave B...
 4.2430 Ratings&45 Reviews
-₹24,99941% off"	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7
-80299(73% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹1,29970% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-We are sad to see you go! Before proceeding to delete, please note that you will lose access to the following:	The Souled Store	cancel_step	1	Obstruction	borderline	2043	22.7
-Sofa Cover	Shopsy	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Customers Who Bought Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Di... Also Bought	amazon_in	cart	1	Social Proof	likely_dark	1348	11.233333333333333
-buds x2anc upto 32db | 140h playtime | instacharge5.0 (105)₹1,599₹4,49964% OFF	noise	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Tynor	Moglix	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Quad mic ENC45 hours playtime	noise	landing	0	Not Dark Pattern	borderline	2043	22.7
-Upto ₹7,450 Off on Exchange	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Continue Shopping	freshtohome	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-We will sell only the meat that we would eat ourselves.	licious	landing	0	Not Dark Pattern	borderline	2043	22.7
-strip of 10 tablet er	Tata 1mg	product	0	Not Dark Pattern	borderline	2043	22.7
-Flipkart Internet Private Limited,	flipkart	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-MAASHA	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Bausch & Lomb Yearly Disposable Wear Conventional	Lenskart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Luxury Cars in Delhi NCR	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Warranty Registration	boult	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Face Moisturizers and Day Creams	shoppers_stop	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹304.00 /pack	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7
-₹5001% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Upto ₹19,900 Off on Exchange	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+₹24,99941% off"	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7	1
+80299(73% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹1,29970% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+We are sad to see you go! Before proceeding to delete, please note that you will lose access to the following:	The Souled Store	cancel_step	1	Obstruction	borderline	2043	22.7	1
+Sofa Cover	Shopsy	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Customers Who Bought Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Di... Also Bought	amazon_in	cart	1	Social Proof	likely_dark	1348	11.233333333333333	1
+buds x2anc upto 32db | 140h playtime | instacharge5.0 (105)₹1,599₹4,49964% OFF	noise	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Tynor	Moglix	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Quad mic ENC45 hours playtime	noise	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Upto ₹7,450 Off on Exchange	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Continue Shopping	freshtohome	cart	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+We will sell only the meat that we would eat ourselves.	licious	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+strip of 10 tablet er	Tata 1mg	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Flipkart Internet Private Limited,	flipkart	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+MAASHA	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Bausch & Lomb Yearly Disposable Wear Conventional	Lenskart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Luxury Cars in Delhi NCR	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Warranty Registration	boult	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Face Moisturizers and Day Creams	shoppers_stop	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹304.00 /pack	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+₹5001% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Upto ₹19,900 Off on Exchange	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "₹947.76 ₹1,077.00
-12% OFF"	Netmeds	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Qualifies for free COD	Purplle	cart	0	Not Dark Pattern	borderline	2043	22.7
-Charging and display quality is very poor.slow charging	flipkart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹7,999 ₹11,999 (33% off)	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7
-Tea & Coffeeware	snapdeal	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-"Become a Purple Member and ENJOY UNLIMITED FREE HOME DELIVERY, exclusive deals and more! JOIN NOW	Earliest available delivery slot in most areas is Friday, 11th September."	freshtohome	landing	1	Urgency	likely_dark	1348	11.233333333333333
-Digestive Care	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Skagen	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
+12% OFF"	Netmeds	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Qualifies for free COD	Purplle	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+Charging and display quality is very poor.slow charging	flipkart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹7,999 ₹11,999 (33% off)	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Tea & Coffeeware	snapdeal	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+"Become a Purple Member and ENJOY UNLIMITED FREE HOME DELIVERY, exclusive deals and more! JOIN NOW	Earliest available delivery slot in most areas is Friday, 11th September."	freshtohome	landing	1	Urgency	likely_dark	1348	11.233333333333333	1
+Digestive Care	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Skagen	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
 "MB Fuel One
-1"	HealthKart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-5000 mAh Li-ion Battery	flipkart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Login or Register	Purplle	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Sintex Loft 100L Water Tank, IWS 10-01	Moglix	landing	0	Not Dark Pattern	borderline	2043	22.7
-Data last updated on 05/08/2026	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-5 August 2026	Techjockey	landing	0	Not Dark Pattern	borderline	2043	22.7
-Customers today prefer to buy rings online due to wide choice of exclusive ring designs and competitive online ring prices.	bluestone	product	1	Social Proof	borderline	2043	22.7
-+ Add	boult	cart	0	Not Dark Pattern	borderline	2043	22.7
-Shararat	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-BEAUTY BONANZA Get Your Amazing Deals!	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7
-EMI from ₹15,701/m	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Multi Purpose (10)	Moglix	product	0	Not Dark Pattern	borderline	2043	22.7
-0 - 6 Months	FirstCry	product	0	Not Dark Pattern	borderline	2043	22.7
-Trusted by 20+ million customers around the world.	Techjockey	landing	1	Social Proof	likely_benign	23350	259.44444444444446
-EMI from ₹13,538/m	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-60 Capsule(s) in Jar	PharmEasy	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Benefits	Purplle	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Shipping Charge : 0.00	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹9,78165% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Decor Antique	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Up to 2.9 MP	amazon_in	product	0	Not Dark Pattern	borderline	2043	22.7
-Get notified about deals?	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-We reserve the right to reject or cancel any return request that does not comply with this Policy. Our decision regarding the eligibility of a return shall be final, subject to applicable law and you further agree not to hold us liable for any refusal or cancellation.	westside	cancel_step	0	Not Dark Pattern	borderline	2043	22.7
-Adolid Plus	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Freehand	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Jewellery Shop in Navi Mumbai	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7
-No thanksYes, notify me	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Liechtenstein(+423)	westside	checkout	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Save for Later	PharmEasy	settings	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-84% off	Shopsy	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-The buying experience was really good, and we are planning to buy another car from here in 2-3 months. Great experience!!	spinny	product	0	Not Dark Pattern	borderline	2043	22.7
-Uppeel	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-(Save ₹611)	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Preemptive Cybersecurity Explained: How It Works and Why It Matte..	Techjockey	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Towels Bath Robes	ajio	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-(95 Reviews)	Moglix	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-EMI from ₹11,103/m	spinny	product	0	Not Dark Pattern	borderline	2043	22.7
-₹4,09043% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹7,49850% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Express Shipping in 2 days	pepperfry	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Useful Links	Blinkit	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
+1"	HealthKart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+5000 mAh Li-ion Battery	flipkart	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Login or Register	Purplle	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Sintex Loft 100L Water Tank, IWS 10-01	Moglix	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Data last updated on 05/08/2026	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+5 August 2026	Techjockey	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Customers today prefer to buy rings online due to wide choice of exclusive ring designs and competitive online ring prices.	bluestone	product	1	Social Proof	borderline	2043	22.7	1
++ Add	boult	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+Shararat	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+BEAUTY BONANZA Get Your Amazing Deals!	nykaa	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+EMI from ₹15,701/m	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Multi Purpose (10)	Moglix	product	0	Not Dark Pattern	borderline	2043	22.7	1
+0 - 6 Months	FirstCry	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Trusted by 20+ million customers around the world.	Techjockey	landing	1	Social Proof	likely_benign	23350	259.44444444444446	1
+EMI from ₹13,538/m	spinny	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+60 Capsule(s) in Jar	PharmEasy	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Benefits	Purplle	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Shipping Charge : 0.00	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹9,78165% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Decor Antique	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Up to 2.9 MP	amazon_in	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Get notified about deals?	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+We reserve the right to reject or cancel any return request that does not comply with this Policy. Our decision regarding the eligibility of a return shall be final, subject to applicable law and you further agree not to hold us liable for any refusal or cancellation.	westside	cancel_step	0	Not Dark Pattern	borderline	2043	22.7	1
+Adolid Plus	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Freehand	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Jewellery Shop in Navi Mumbai	bluestone	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+No thanksYes, notify me	myntra	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Liechtenstein(+423)	westside	checkout	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Save for Later	PharmEasy	settings	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+84% off	Shopsy	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+The buying experience was really good, and we are planning to buy another car from here in 2-3 months. Great experience!!	spinny	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Uppeel	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+(Save ₹611)	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Preemptive Cybersecurity Explained: How It Works and Why It Matte..	Techjockey	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Towels Bath Robes	ajio	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+(95 Reviews)	Moglix	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+EMI from ₹11,103/m	spinny	product	0	Not Dark Pattern	borderline	2043	22.7	1
+₹4,09043% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹7,49850% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Express Shipping in 2 days	pepperfry	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Useful Links	Blinkit	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
 "4.5
  
-Ronnie Coleman Iso-Tropic Max, 2 lb German Chocolate Cake"	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Ching's|	DMart Ready	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-By placing this order, you agree to Clovia's T&C.	Clovia	checkout	0	Not Dark Pattern	borderline	2043	22.7
-Tag this location for later	FirstCry	cart	0	Not Dark Pattern	borderline	2043	22.7
-Flat 50% OFF* on First Fashion Purchase	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Gift	shoppers_stop	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Dolo 650 Tablet 15's	Netmeds	product	0	Not Dark Pattern	borderline	2043	22.7
-SELL ON PEPPERFRY	myntra	landing	0	Not Dark Pattern	borderline	2043	22.7
-Aniryl	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Arshmol	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-(Save ₹8,753)	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Item or quantity modification is not allowed post placing an order. Verify item details before you proceed	licious	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹44877% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Mob: 9958410404	Purplle	checkout	0	Not Dark Pattern	borderline	2043	22.7
-(Save ₹84,391)	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Please add item(s) to proceed	PharmEasy	product	0	Not Dark Pattern	borderline	2043	22.7
-192350(45% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-5692999(81% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Your Order 1 Item	snapdeal	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Order updates & exclusive offers from Pepperfry	myntra	landing	0	Not Dark Pattern	borderline	2043	22.7
-698.00 629 70% OFF	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Tap now to enrol for Landmark Rewards and get 2 points with this purchase and redeem for discounts in next eligible purchase(s)	max_fashion	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-SAVE	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Eastside Golf	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹90059% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹9,99018% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹642.00 /pack	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7
-Amaara Home	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Default Purchase Settings	amazon_in	settings	0	Not Dark Pattern	borderline	2043	22.7
-Boy (2+ years)	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-"Search ""flexible eyeglasses"""	Lenskart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹3,97534% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Didn't receive the OTP	DMart Ready	cancel_step	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-15w Fast Wireless...Built-in stand	noise	landing	0	Not Dark Pattern	borderline	2043	22.7
+Ronnie Coleman Iso-Tropic Max, 2 lb German Chocolate Cake"	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Ching's|	DMart Ready	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+By placing this order, you agree to Clovia's T&C.	Clovia	checkout	0	Not Dark Pattern	borderline	2043	22.7	1
+Tag this location for later	FirstCry	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+Flat 50% OFF* on First Fashion Purchase	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Gift	shoppers_stop	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Dolo 650 Tablet 15's	Netmeds	product	0	Not Dark Pattern	borderline	2043	22.7	1
+SELL ON PEPPERFRY	myntra	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Aniryl	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Arshmol	Tata 1mg	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+(Save ₹8,753)	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Item or quantity modification is not allowed post placing an order. Verify item details before you proceed	licious	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹44877% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Mob: 9958410404	Purplle	checkout	0	Not Dark Pattern	borderline	2043	22.7	1
+(Save ₹84,391)	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Please add item(s) to proceed	PharmEasy	product	0	Not Dark Pattern	borderline	2043	22.7	1
+192350(45% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+5692999(81% OFF)	myntra	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Your Order 1 Item	snapdeal	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Order updates & exclusive offers from Pepperfry	myntra	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+698.00 629 70% OFF	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Tap now to enrol for Landmark Rewards and get 2 points with this purchase and redeem for discounts in next eligible purchase(s)	max_fashion	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+SAVE	FirstCry	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Eastside Golf	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹90059% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹9,99018% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹642.00 /pack	freshtohome	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Amaara Home	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Default Purchase Settings	amazon_in	settings	0	Not Dark Pattern	borderline	2043	22.7	1
+Boy (2+ years)	FirstCry	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+"Search ""flexible eyeglasses"""	Lenskart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹3,97534% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Didn't receive the OTP	DMart Ready	cancel_step	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+15w Fast Wireless...Built-in stand	noise	landing	0	Not Dark Pattern	borderline	2043	22.7	1
 "Add to Compare
 MOTOROLA g37 (PANTONE Nautical Blue, 64 GB)
-4.31,958 Ratings & 10"	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7
-ESSAS club	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹11,500 ₹20,000 (43% off)	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7
-Charging time heavy heating problem👎👎👎👎	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7
-99 145 32% off	Purplle	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-₹76254% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+4.31,958 Ratings & 10"	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7	1
+ESSAS club	nykaa	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹11,500 ₹20,000 (43% off)	pepperfry	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Charging time heavy heating problem👎👎👎👎	flipkart	product	0	Not Dark Pattern	borderline	2043	22.7	1
+99 145 32% off	Purplle	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+₹76254% OFF	Moglix	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "TIGERSNAKE Men Solid Casual Multicolor Shirt
 84% off
 999
 ₹158
 3.6
 (21,457)
-Or Pa"	Shopsy	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Pre Workout	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Subtotal (1 item): ₹1,65,900.00	amazon_in	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-(Save ₹21,598)	myntra	product	0	Not Dark Pattern	borderline	2043	22.7
-Flat Sandals	ajio	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-18 to 25 Kg	FirstCry	product	0	Not Dark Pattern	borderline	2043	22.7
-High waist	Clovia	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-—Shop now!	urbanladder	landing	0	Not Dark Pattern	borderline	2043	22.7
-Everything to Know About GLP-1 Receptor Agonist and Its Role in Weight Managemen	PharmEasy	landing	0	Not Dark Pattern	borderline	2043	22.7
-Thursday 3rd Sep, 12:00pm-03:00pm	DMart Ready	payment	0	Not Dark Pattern	borderline	2043	22.7
-₹24,99936% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-11% Off	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Standard Delivery by Fri, 7th Aug	myntra	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-Checkout now	lifestyle	cart	0	Not Dark Pattern	borderline	2043	22.7
-Sleepwear Shorts	pantaloons	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-FREEDOM100 - Add items worth ₹165 to save upto ₹100	Bewakoof	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-12 August 2026	Techjockey	landing	0	Not Dark Pattern	borderline	2043	22.7
-36% Off	HealthKart	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+Or Pa"	Shopsy	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Pre Workout	HealthKart	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Subtotal (1 item): ₹1,65,900.00	amazon_in	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+(Save ₹21,598)	myntra	product	0	Not Dark Pattern	borderline	2043	22.7	1
+Flat Sandals	ajio	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+18 to 25 Kg	FirstCry	product	0	Not Dark Pattern	borderline	2043	22.7	1
+High waist	Clovia	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+—Shop now!	urbanladder	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Everything to Know About GLP-1 Receptor Agonist and Its Role in Weight Managemen	PharmEasy	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+Thursday 3rd Sep, 12:00pm-03:00pm	DMart Ready	payment	0	Not Dark Pattern	borderline	2043	22.7	1
+₹24,99936% off	flipkart	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+11% Off	myntra	product	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Standard Delivery by Fri, 7th Aug	myntra	product	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+Checkout now	lifestyle	cart	0	Not Dark Pattern	borderline	2043	22.7	1
+Sleepwear Shorts	pantaloons	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+FREEDOM100 - Add items worth ₹165 to save upto ₹100	Bewakoof	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+12 August 2026	Techjockey	landing	0	Not Dark Pattern	borderline	2043	22.7	1
+36% Off	HealthKart	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "ADD
 ₹102
 ₹140
@@ -360,6 +360,262 @@ Milky Mist Paneer
 1 pack (200 g)
 4.6
 (121.0k)
-Bestseller"	Zepto	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
-Kothagudem	freshtohome	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446
-₹139.00 /500g	freshtohome	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333
+Bestseller"	Zepto	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+Kothagudem	freshtohome	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
+₹139.00 /500g	freshtohome	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
+"Smart Watches
+Min. 40% Off"	flipkart	landing			very_low	24138	365.72727272727275	2
+To Pay	HealthKart	cart			mid	283	4.716666666666667	2
+Contact us	lifestyle	landing			very_low	24138	365.72727272727275	2
+Grab Or Gone	flipkart	landing			high	44	1.0	2
+Log In/Register	FirstCry	landing			high	44	1.0	2
+"Louis Philippe Leather Lace Up Men's Formal Shoes
+₹6299
+
+₹6999
+
+10% Off
+
+6 Offer"	shoppers_stop	product			mid	283	4.716666666666667	2
+Pay ₹169.00	JioMart	payment			mid	283	4.716666666666667	2
+You have added 2 Club membership plans to the cart. Kindly remove one of them to proceed.	FirstCry	cart			high	44	1.0	2
+With our test drive booking form, you can conveniently schedule a test drive at home or visit our hub to try out multiple cars. Once you book your preferred option, your relationship manager will call you to confirm the details before arriving at your location. You can book home test drive from Spinny website or App.	spinny	landing			low	1501	50.03333333333333	2
+Zokasa Rio Pro 50W 2400rpm 1 Star Black Anti-Dust Pedestal Fan, Sweep: 400 mm ...	Moglix	landing			low	1501	50.03333333333333	2
+Spinny Hub, Trillium Avenue, Gurgaon	spinny	product			very_low	24138	365.72727272727275	2
+"Schwarzkopf
+                    Professional"	nykaa	landing			low	1501	50.03333333333333	2
+Fab N Funky	FirstCry	product			very_low	24138	365.72727272727275	2
+Return within 30days of receiving your order	myntra	settings			mid	283	4.716666666666667	2
+Buy online and if you don’t like the fit, you can easily come over to your nearest Shoppers Stop store for a fully free alteration.	shoppers_stop	landing			high	44	1.0	2
+Extra Bank Offer of Rs. 15k	myntra	product			mid	283	4.716666666666667	2
+Would you like to receive Push Notifications?	Lenskart	landing			high	44	1.0	2
+DCB Bank Ltd	amazon_in	checkout			mid	283	4.716666666666667	2
+This product already offers the best price. Sitewide coupon cannot be applied on this item.	FirstCry	cart			mid	283	4.716666666666667	2
+Protect your furniture, keep it away from direct sunlight to prevent fading, and maintain a stable temperature and humidity level in your home. Also, periodically check for wear, like loose screws or joints, especially on frequently used pieces. With these simple steps, you can keep your furniture looking fresh and ensure its durability for years to come.	myntra	landing			mid	283	4.716666666666667	2
+You Save ₹100 on Combo	HealthKart	landing			very_low	24138	365.72727272727275	2
+You are subscribed to SMS promotions.	freshtohome	settings			low	1501	50.03333333333333	2
+₹6,65953% OFF	Moglix	landing			very_low	24138	365.72727272727275	2
+We Have the Most Exclusive Offers and Coupons	Moglix	landing			high	44	1.0	2
+Save up to	max_fashion	cart			high	44	1.0	2
+ONE THING	nykaa	landing			high	44	1.0	2
+Office Supplies	Moglix	landing			very_low	24138	365.72727272727275	2
+Toy Balloon Kids	FirstCry	product			very_low	24138	365.72727272727275	2
+Why Are We The Most Preferred Online Pharmacy?	PharmEasy	landing			low	1501	50.03333333333333	2
+"Add to Compare
+OnePlus N6 5G (Midnight Green, 128 GB)
+4.288 Ratings & 8 Reviews"	flipkart	product			very_low	24138	365.72727272727275	2
+You have not selected any products to compare.	Lenskart	landing			mid	283	4.716666666666667	2
+AVVA	nykaa	landing			very_low	24138	365.72727272727275	2
+Login with email id	Techjockey	settings			low	1501	50.03333333333333	2
+Out of stock	licious	product			mid	283	4.716666666666667	2
+Offering a seamless user interface for your shopping ventures, Shopsy is an e-commerce platform in India. With the advent of online shopping, availing of your required products from your comfort zone has become a hassle-free endeavour. Whether you shop online for clothing, footwear, or accessories, you can find a wide array of options at your fingertips while shopping online from Shopsy. This way, you also have the scope to explore a plethora of choices for you with just a few swipes and clicks. So, your shopping experience can not only become significantly streamlined but also be time-saving and convenient.	Shopsy	landing			mid	283	4.716666666666667	2
+From ₹99	flipkart	landing			high	44	1.0	2
+"Masks
+                    & Peels"	nykaa	landing			very_low	24138	365.72727272727275	2
+"₹2,199
+₹4,999
+56% off"	HealthKart	product			very_low	24138	365.72727272727275	2
+ORDER HISTORY	bluestone	settings			mid	283	4.716666666666667	2
+Shipping Charge :	FirstCry	cart			mid	283	4.716666666666667	2
+Premium Kumarakom Karimeen / Pearlspot (Super Large)	freshtohome	landing			very_low	24138	365.72727272727275	2
+"Built-in GPS	No"	JioMart	cart			mid	283	4.716666666666667	2
+Punjab National Bank - Retail Banking	amazon_in	checkout			low	1501	50.03333333333333	2
+Supermilk Gritzo Growth for Girl 10 to 12 years, 400 g Double Chocolate	HealthKart	landing			mid	283	4.716666666666667	2
+There are four levels to achieve in the program, as the Insider Points accumulate. They are - Insider, Select, Elite or Icon. Apart from offering discounts on Myntra and partner platform coupons, each tier comes with its own special perks.	myntra	landing			low	1501	50.03333333333333	2
+Makeup Color Family	Purplle	product			very_low	24138	365.72727272727275	2
+Aplus	Moglix	landing			very_low	24138	365.72727272727275	2
+Make it a gift order @	noise	cart			low	1501	50.03333333333333	2
+You are currently subscribed to 'General Subscription'.	freshtohome	settings			high	44	1.0	2
+EMI from ₹4,532/m	spinny	product			very_low	24138	365.72727272727275	2
+Select a time slot	DMart Ready	payment			high	44	1.0	2
+For BROTHER	bluestone	product			mid	283	4.716666666666667	2
+Unlock Now	lifestyle	cart			high	44	1.0	2
+You Save ₹229 on Combo	HealthKart	landing			low	1501	50.03333333333333	2
+Vilhelm Parfumerie	nykaa	landing			very_low	24138	365.72727272727275	2
+44% off	Tata 1mg	landing			low	1501	50.03333333333333	2
+About	max_fashion	product			mid	283	4.716666666666667	2
+Subscribe now	Netmeds	product			mid	283	4.716666666666667	2
+"Egg Incubators
+Explore Now"	Moglix	landing			low	1501	50.03333333333333	2
+Do you want to remove free gifts from your cart?	FirstCry	cart			high	44	1.0	2
+"Instant Geysers
+Explore Now"	Moglix	landing			mid	283	4.716666666666667	2
+Unlock this special deal by adding more products to your cart.	FirstCry	cart			mid	283	4.716666666666667	2
+I Cannot Say Goodbye to You: An unforgettable romance novel by one of India’s most popular writers - Rithvik Singh	amazon_in	cart			high	44	1.0	2
+© 2026 Retail World Limited.	max_fashion	product			high	44	1.0	2
+2.5 - 3Y	FirstCry	product			very_low	24138	365.72727272727275	2
+83% off	Shopsy	product			very_low	24138	365.72727272727275	2
+"LIGHT KNITS
+
+Snug favourites perfect for all occasions.
+
+SHOP NOW"	TheLabelLife	landing			very_low	24138	365.72727272727275	2
+Anti Allergy Medicines	PharmEasy	landing			very_low	24138	365.72727272727275	2
+Receiver’s Full Name*	FirstCry	cart			very_low	24138	365.72727272727275	2
+In the wide realm of e-commerce, it is our mission to have happy and satisfied customers. Hence, to fulfill its aim, Moglix provides amazing offers and coupons. Therefore, some of the major offers are:	Moglix	landing			mid	283	4.716666666666667	2
+Jobfish	freshtohome	landing			very_low	24138	365.72727272727275	2
+Derma Care	Tata 1mg	landing			very_low	24138	365.72727272727275	2
+Extra Bank Offer of Rs. 10k	myntra	product			mid	283	4.716666666666667	2
+Saved Details	westside	settings			very_low	24138	365.72727272727275	2
+Salawas Arts 92x44x77cm Brown Sheesham Wood Honey Finish Study Table ...	Moglix	product			very_low	24138	365.72727272727275	2
+Pro Nature	nykaa	landing			very_low	24138	365.72727272727275	2
+Sell With Us	FirstCry	product			mid	283	4.716666666666667	2
+Sold Out	boult	product			mid	283	4.716666666666667	2
+300+ bought in past month	amazon_in	product			high	44	1.0	2
+500+ bought in past month	amazon_in	product			high	44	1.0	2
+Utsa Light Beige Floral Printed Cotton Tunic	westside	product			very_low	24138	365.72727272727275	2
+Register	FirstCry	landing			high	44	1.0	2
+ADD TO BAG	Clovia	checkout			mid	283	4.716666666666667	2
+Placed at 10th Aug 2026, 11:58 am	Zepto	settings			low	1501	50.03333333333333	2
+How do you want to pay?	JioMart	payment			high	44	1.0	2
+32 dB ANC	boult	landing			very_low	24138	365.72727272727275	2
+Compatibility	noise	cart			very_low	24138	365.72727272727275	2
+How do I register?	JioMart	cancel_step			mid	283	4.716666666666667	2
+How do I register as a seller on Techjockey?	Techjockey	landing			mid	283	4.716666666666667	2
+Freshwater Milk Fish / Kayal Poomeen	freshtohome	landing			very_low	24138	365.72727272727275	2
+● Living Room Furniture	myntra	landing			very_low	24138	365.72727272727275	2
+If you want to see your saved cards	FabIndia	settings			high	44	1.0	2
+MANQ	nykaa	landing			very_low	24138	365.72727272727275	2
+Get up to 1000 TWID Stars Cashback on every spend. Hurry!	The Souled Store	checkout			high	44	1.0	2
+Pay Now	Blinkit	checkout			mid	283	4.716666666666667	2
+Get 3% back with Amazon Pay ICICI...	amazon_in	product			very_low	24138	365.72727272727275	2
+Best offer for you	Bewakoof	cart			mid	283	4.716666666666667	2
+Get It Today	amazon_in	product			high	44	1.0	2
+"4.3
+ 
+Fuel One Whey Max, 2.2 lb Rich Chocolate"	HealthKart	landing			low	1501	50.03333333333333	2
+Get it for ₹3,324 at checkout	noise	cart			mid	283	4.716666666666667	2
+Do you have a gift card or promotional code? We'll ask you to enter your claim code when it's time to pay.	amazon_in	cart			high	44	1.0	2
+HP Victus 15-fa2316TX Intel Core i5 14th Gen Gaming Laptop (24GB, 512GB SSD, Win	myntra	product			low	1501	50.03333333333333	2
+By Spacewood	pepperfry	product			very_low	24138	365.72727272727275	2
+WACKO MARIA	nykaa	landing			very_low	24138	365.72727272727275	2
+Only Pictures	boult	cart			mid	283	4.716666666666667	2
+Customers who shopped for Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Di... also shopped for:	amazon_in	cart			mid	283	4.716666666666667	2
+1.5 - 1.99 GHz	amazon_in	product			high	44	1.0	2
+Gold Mine	bluestone	cart			very_low	24138	365.72727272727275	2
+CLOCK SPEED	flipkart	product			very_low	24138	365.72727272727275	2
+Only 3 left	flipkart	product			high	44	1.0	2
+1 year	noise	cart			low	1501	50.03333333333333	2
+Some items are out of stock	DMart Ready	product			mid	283	4.716666666666667	2
+POPULAR	bluestone	product			mid	283	4.716666666666667	2
+Nejo	FirstCry	product			very_low	24138	365.72727272727275	2
+Likely to be sold out	FirstCry	cart			high	44	1.0	2
+PharmEasy is the best application for ordering medicines and lab tests. I have been using it for the last 5 years. The customer support is also good.	PharmEasy	landing			low	1501	50.03333333333333	2
+99 130 24% off	Purplle	cart			high	44	1.0	2
+Other	Bewakoof	checkout			high	44	1.0	2
+N PLUS PROFESSIONAL	nykaa	landing			mid	283	4.716666666666667	2
+Tights	Clovia	landing			very_low	24138	365.72727272727275	2
+"5.0
+ 
+Supermilk Gritzo Growth for Girl 10 to 12 years, 400 g Double Chocolate"	HealthKart	landing			mid	283	4.716666666666667	2
+I do not want to provide a reason	amazon_in	cancel_step			high	44	1.0	2
+Shopping for furniture should be hassle-free, so we offer on-time delivery, easy returns, and reliable customer support to ensure your smooth and satisfying experience. Whether you're furnishing your entire home or simply upgrading a few pieces, you can buy furniture online from us at competitive furniture prices. Discover how easy and enjoyable it is to shop for furniture online with Pepperfry today!	myntra	landing			high	44	1.0	2
+By purchasing the membership, you agree to the Terms and Conditions of its use.	The Souled Store	cart			high	44	1.0	2
+Nexon	spinny	product			very_low	24138	365.72727272727275	2
+Mom & Baby Kits	nykaa	landing			very_low	24138	365.72727272727275	2
+QUICK BUY! Get up to 25% off on medicines*	Tata 1mg	landing			low	1501	50.03333333333333	2
+Price, Low to High	noise	product			low	1501	50.03333333333333	2
+"Free Buds N1
+
+(524)
+
+Halo 2 Limited Editi...
+
+₹6,999
+
+₹4,499
+
+35% OFF
+
+Rotating"	noise	landing			mid	283	4.716666666666667	2
+14 to 18 Kg	FirstCry	product			mid	283	4.716666666666667	2
+ONE on ONE	Purplle	landing			high	44	1.0	2
+Cordless Power Tools	Moglix	landing			very_low	24138	365.72727272727275	2
+SUBSCRIBE	Bewakoof	product			low	1501	50.03333333333333	2
+Back to top	amazon_in	product			very_low	24138	365.72727272727275	2
+Select other bank	The Souled Store	checkout			high	44	1.0	2
+The Myntra shopping app came into existence in the year 2015 to further encourage customers’ shopping sprees. Download the app on your Android or IOS device this very minute to experience fashion like never before	myntra	landing			mid	283	4.716666666666667	2
+Free Shipping	amazon_in	product			mid	283	4.716666666666667	2
+Brand Logo Polo Collar T-shirt	myntra	product			very_low	24138	365.72727272727275	2
+Pants	pantaloons	landing			very_low	24138	365.72727272727275	2
+Moglix App - With Moglix App customers get exclusive deals, faster checkouts, and personalized recommendations! Now enjoy only-in-app benefits, effective product browsing, and stay connected anytime, anywhere. For tracking of orders done in real-time with the best shopping experience, Download the Moglix app, available on both the Play Store and App Store.	Moglix	landing			high	44	1.0	2
+"Selling Fast
+
+(221)
+
+REP - 24x7 Fitness T...
+
+₹9,999
+
+Sleep | Recovery & Effort"	noise	landing			low	1501	50.03333333333333	2
+Angeline	nykaa	landing			very_low	24138	365.72727272727275	2
+Offers / Coupons	Netmeds	landing			low	1501	50.03333333333333	2
+Davanagere	Zepto	cart			very_low	24138	365.72727272727275	2
+"Qlonz Store Men Solid Casual Light Green Shirt
+77% off
+1,499
+₹333
+4
+(22)
+Or Pay"	Shopsy	product			very_low	24138	365.72727272727275	2
+Pay by your preferred bank.	lifestyle	payment			high	44	1.0	2
+Vijaya Bank	The Souled Store	checkout			mid	283	4.716666666666667	2
+We have an absolutely wide variety of t-shirts for men on Myntra and here are a few of our favourites to start you off in the right direction.	myntra	product			low	1501	50.03333333333333	2
+Kera Fine	nykaa	landing			very_low	24138	365.72727272727275	2
+Lehan	nykaa	landing			low	1501	50.03333333333333	2
+Login Now	Moglix	landing			high	44	1.0	2
+Add More To Save More	shoppers_stop	cart			high	44	1.0	2
+lovelyyy shirt,, it is very soft and comfortable and washable,, looking like a hero in this shirt,, justtt awesomeee....	Shopsy	product			high	44	1.0	2
+Free advice to boost your software efficiency—start today!	Techjockey	landing			mid	283	4.716666666666667	2
+Saraswat Bank	amazon_in	checkout			mid	283	4.716666666666667	2
+OFFERS	Bewakoof	product			mid	283	4.716666666666667	2
+A Rs 50,000 sofa set on 12-month no-cost EMI costs Rs 4,167 per month with zero extra interest.	myntra	product			low	1501	50.03333333333333	2
+Deodorant	myntra	cart			very_low	24138	365.72727272727275	2
+Best selling brand on...	boult	landing			mid	283	4.716666666666667	2
+"School Management
+Software"	Techjockey	landing			very_low	24138	365.72727272727275	2
+See more details if you want to unsubscribe	FabIndia	settings			high	44	1.0	2
+ADD NOW	The Souled Store	cart			mid	283	4.716666666666667	2
+Tomorrow 07:00 AM - 10:00 AM	DMart Ready	product			high	44	1.0	2
+Ans: Post-workout is ideal, but you can take it at any time during the day to meet your protein needs.	HealthKart	product			mid	283	4.716666666666667	2
+Speakers	ajio	landing			very_low	24138	365.72727272727275	2
+Klass Ergonomic 1200x600mm Dual Motor 3 Stage Motorized Height Adjustable Desk with White Stand & Wooden Table Top, KL SN 08 3S / W / WDTT 600 ...	Moglix	product			low	1501	50.03333333333333	2
+Rad Living	nykaa	landing			very_low	24138	365.72727272727275	2
+Freshtohome Foods Private Limited No. 1, 2nd Floor, Carlton Towers, Old Airport Road, Bangalore - 560008	freshtohome	landing			low	1501	50.03333333333333	2
+Avail the assistance of a Personal Shopper with prior appointment so you can shop at home online or in person.	shoppers_stop	landing			mid	283	4.716666666666667	2
+Pharmeasy Orthopaedic Electric Heat Belt - Extra Large	PharmEasy	cart			very_low	24138	365.72727272727275	2
+"₹14,699
+₹18,999
+22% off"	HealthKart	product			very_low	24138	365.72727272727275	2
+ABOUT	flipkart	landing			mid	283	4.716666666666667	2
+1 Ratings & Above	HealthKart	product			very_low	24138	365.72727272727275	2
+Spinny is the most trusted way of buying and selling used cars. Choose from over 10K fully inspected second-hand car models. Select online and book a test drive at your home or at a Spinny Car Hub near you. Get a no-questions-asked* 5-day money back guarantee and a free one-year comprehensive service warranty with Assured Resale Value on every Spinny car.	spinny	landing			high	44	1.0	2
+GST Software	Techjockey	settings			very_low	24138	365.72727272727275	2
+You may also like:	myntra	cart			mid	283	4.716666666666667	2
+Protein Chef Crunchy Coated Peanuts (Indian Masala)	Blinkit	landing			very_low	24138	365.72727272727275	2
+Did this resolve your issue?	Zepto	cancel_step			mid	283	4.716666666666667	2
+A good night’s sleep begins with the right mattress. At Pepperfry, we offer a variety of mattresses designed to provide the perfect balance of comfort and support. Whether you prefer memory foam, spring, or hybrid mattresses, we have options to suit every sleeping style. Choosing the right mattress is essential for your well-being, and we’ve made it easier to find a mattress that meets your needs. Our mattresses come in various sizes, including single, double, queen, and king, so that you can find the perfect fit for your bed. With our carefully curated selection, you can ensure that your sleep environment is as comfortable as possible.	myntra	landing			mid	283	4.716666666666667	2
+2.2k	myntra	product			very_low	24138	365.72727272727275	2
+Gorgio Professional	nykaa	landing			mid	283	4.716666666666667	2
+Coldcrush	Tata 1mg	product			very_low	24138	365.72727272727275	2
+5K+ bought in past month	amazon_in	product			high	44	1.0	2
+99 (₹333.00/count)	amazon_in	cart			high	44	1.0	2
+Get it by Thursday, Aug 13	FirstCry	product			mid	283	4.716666666666667	2
+Offers for you!	lifestyle	cart			mid	283	4.716666666666667	2
+Fri, 18 Sep	pantaloons	checkout			low	1501	50.03333333333333	2
+"Free
+Shipping"	JioMart	cart			mid	283	4.716666666666667	2
+Plein Sport	nykaa	landing			very_low	24138	365.72727272727275	2
+FREE SHIPPING*	Clovia	payment			mid	283	4.716666666666667	2
+Yakult	Zepto	cart			very_low	24138	365.72727272727275	2
+4 - 6 Years	FirstCry	product			low	1501	50.03333333333333	2
+Use this payment method	amazon_in	checkout			very_low	24138	365.72727272727275	2
+"Add to Compare
+Nokia 105 Classic Single Sim Keypad Phone, Without Charger
+423,25"	flipkart	product			mid	283	4.716666666666667	2
+Register now to get updates on promotions and	snapdeal	product			mid	283	4.716666666666667	2
+HDFC BANK	FirstCry	cart			low	1501	50.03333333333333	2
+Gone are the days when you had to make a trip to the local butcher or fish market. With FreshToHome's online meat delivery service, you can order meat online from the comfort of your home. Whether you're a busy professional, a homemaker, or anyone in between, our user-friendly website and app make ordering meat a breeze.	freshtohome	landing			mid	283	4.716666666666667	2
+₹24,99913% off	flipkart	product			very_low	24138	365.72727272727275	2
+Femol	Tata 1mg	product			very_low	24138	365.72727272727275	2
+Would you like us to update your pincode?	FirstCry	cart			high	44	1.0	2
