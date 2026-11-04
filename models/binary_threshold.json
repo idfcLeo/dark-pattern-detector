@@ -1,7 +1,7 @@
 {
   "threshold": 0.5,
   "beta": 2.0,
-  "cv_fbeta_at_threshold": 0.9277721261444557,
-  "cv_fbeta_at_0.5": 0.914570775306589,
+  "cv_fbeta_at_threshold": 0.922164119066774,
+  "cv_fbeta_at_0.5": 0.9038262668045501,
   "tuned_threshold": 0.26
 }

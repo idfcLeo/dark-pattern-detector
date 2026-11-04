@@ -192,7 +192,7 @@ Only 1.75 yards left in stock!	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	ori
  Brilliant! Chose what I wanted, and came a week later. Very happy with my purchase 	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 71 people have purchased this item	1	Social Proof	foreign	ec_darkpattern	unknown	1.0	original							
 Only 8 left	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	original							
-Subscribe & Save	1	Misdirection	foreign	ec_darkpattern	unknown	1.0	original							
+Subscribe & Save	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 We use cookies to improve our services, make personal offers, and enhance your experience. If you do not accept optional cookies below, your experience may be affected. If you want to know more, please, read the Cookie Policy	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 Long Dress Style Beach Cover Up With Lace Detail Jessica in Metairie, United States	1	Social Proof	foreign	ec_darkpattern	unknown	1.0	original							
 Someone in Kilwinning, United Kingdom just bought Cuban Link Chain Bracelet	1	Social Proof	foreign	ec_darkpattern	unknown	1.0	original							
@@ -404,7 +404,7 @@ Lack Of Color	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original
 10 Left	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	original							
  REPLACE-WITH-DYANMIC-HOST-ID	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 TVs	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
-Only 2 left	1	Scarcity	foreign	ec_darkpattern	unknown	1.0	original							
+Only 2 left	1	Urgency	foreign	ec_darkpattern	unknown	1.0	original							
 Temporary Tattoos	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
 3Days01:49:51 Left	1	Urgency	foreign	ec_darkpattern	unknown	1.0	original							
 Log in / Create an account	0	Not Dark Pattern	foreign	ec_darkpattern	unknown	1.0	original							
@@ -5485,3 +5485,116 @@ Economic Times	0	Not Dark Pattern	indian	spinny	landing	1.0	human
 150 200 25% off	0	Not Dark Pattern	indian	Purplle	cart	1.0	human							
 Between 13 - 14 August	0	Not Dark Pattern	indian	Tata 1mg	checkout	1.0	human							
 Are there any limits to purchase a Gift Card?	1	Misdirection	indian	JioMart	cancel_step	1.0	human							Confirm Shaming
+3K+ bought in past month	1	Social Proof	indian	amazon_in	product	1.0	human							False Urgency
+Offer Zone	0	Not Dark Pattern	indian	flipkart	product	1.0	human							
+Offer Price ₹3,324	0	Not Dark Pattern	indian	noise	cart	1.0	human							
+Save For Later	0	Not Dark Pattern	indian	Clovia	landing	1.0	human							
+Recently viewed	0	Not Dark Pattern	indian	bluestone	landing	1.0	human							
+"Split
+                    Ends"	0	Not Dark Pattern	indian	nykaa	landing	1.0	human							
+CANCEL	0	Not Dark Pattern	indian	boult	landing	1.0	human							
+9958410404@guest.in	0	Not Dark Pattern	indian	licious	cancel_step	1.0	human							
+6 Offers Available	0	Not Dark Pattern	indian	shoppers_stop	product	1.0	human							
+1 item	0	Not Dark Pattern	indian	Blinkit	cart	1.0	human							
+"Torches
+Special offer"	0	Not Dark Pattern	indian	flipkart	landing	1.0	human							
+"Bedsheets
+Special offer"	0	Not Dark Pattern	indian	flipkart	landing	1.0	human							
+Save	0	Not Dark Pattern	indian	bluestone	settings	1.0	human							
+|   Offer valid till : 13-Aug-2026	1	Urgency	indian	FirstCry	settings	1.0	human							False Urgency
+Do you want to remove Club Membership from the cart?	1	Obstruction	indian	FirstCry	cart	1.0	human							Subscription Trap
+YES, REMOVE CLUB, I'LL PAY MORE	1	Sneaking	indian	FirstCry	cart	1.0	human							Basket Sneaking
+This is at best deal so fer and is likely to be gone soon.	1	Urgency	indian	FirstCry	cart	1.0	human							False Urgency
+Today's Deals	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+Are you Sure?	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+Order in12H:18Mfor	1	Urgency	indian	FirstCry	checkout	1.0	human							False Urgency
+"4.85
+1
+2
+3
+4
+5
+Acuvue Moist Daily Disposable with BC 8.5 10Hrs
+30 lens/box
+
+Deli"	0	Not Dark Pattern	indian	Lenskart	product	1.0	human							
+The price applicable on the respective channel at the time of purchase will be final.	0	Not Dark Pattern	indian	licious	landing	1.0	human							
+At Techjockey India, you can discover, compare, and purchase solutions designed for startups, SMEs, and enterprises, all in one place. Our software marketplace brings together verified vendors, authentic user reviews, and intuitive comparison tools. Over 2 million+ happy customers trust Techjockey for all their software needs. We aim to make your software buying journey simple, transparent, and hassle-free.	0	Not Dark Pattern	indian	Techjockey	landing	1.0	human							
+Save addresses for faster checkout	0	Not Dark Pattern	indian	Purplle	settings	1.0	human							
+Low prices: Our prices are comparatively lower than many others in the competition as we focus on providing high-worth products at affordable costs for the customers.	0	Not Dark Pattern	indian	Moglix	landing	1.0	human							
+Flat 40% OFF* & Free Shipping on your first purchase.	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+In 171 carts	0	Not Dark Pattern	indian	LimeRoad	cart	1.0	human							
+Delivering in 6 mins	0	Not Dark Pattern	indian	Zepto	checkout	1.0	human							
+Flash	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+Add discount	0	Not Dark Pattern	indian	TheLabelLife	checkout	1.0	human							
+Only At Nykaa	0	Not Dark Pattern	indian	nykaa	landing	1.0	human							
+Careers At Croma	0	Not Dark Pattern	indian	myntra	product	1.0	human							
+United States	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+Your order is eligible for FREE Delivery. Select this option at checkout.	0	Not Dark Pattern	indian	amazon_in	cancel_step	1.0	human							
+Best Selling	0	Not Dark Pattern	indian	pantaloons	product	1.0	human							
+Most Recent	0	Not Dark Pattern	indian	boult	cart	1.0	human							
+No sales pitch, just ‘God Promise’: Spinny’s quiet campaign with Sachin Tendulkar	0	Not Dark Pattern	indian	spinny	landing	1.0	human							
+It’s tough to remember to refill every month, especially in the case of chronic diseases. PharmEasy’s subscription service not only ensures that you are reminded of your refills but also makes sure that you are never out on your medical essentials. You will get a reminder every month and your order will be delivered at your convenience!	0	Not Dark Pattern	indian	PharmEasy	landing	1.0	human							
+High Waist Tummy Tucker in Nude Colour	0	Not Dark Pattern	indian	Clovia	checkout	1.0	human							
+CUSTOMER_TREAT (-₹29.95)	0	Not Dark Pattern	indian	westside	checkout	1.0	human							
+Pay online & save extra ₹232.70 OFF on this order.	0	Not Dark Pattern	indian	Moglix	cart	1.0	human							
+Quantity is 1	0	Not Dark Pattern	indian	amazon_in	cart	1.0	human							
+Earn rewards for each purchase: Each time you make a purchase on HealthKart, you get points based on the product that you buy. Once the 7 day return period is completed, these points are added to your HK Cash that you can redeem against any purchases that you make in the future.	0	Not Dark Pattern	indian	HealthKart	landing	1.0	human							
+Popular for Sofas	0	Not Dark Pattern	indian	myntra	product	1.0	human							
+Bond No.9	0	Not Dark Pattern	indian	nykaa	landing	1.0	human							
+"CART
+TOTAL ITEMS IN CART: 1
+1"	0	Not Dark Pattern	indian	TheLabelLife	cart	1.0	human							
+Delivery in 8 minutes	0	Not Dark Pattern	indian	Blinkit	settings	1.0	human							
+Your Order	0	Not Dark Pattern	indian	boult	settings	1.0	human							
+13 Lives	0	Not Dark Pattern	indian	HealthKart	product	1.0	human							
+146 200 27% off	0	Not Dark Pattern	indian	Purplle	cart	1.0	human							
+Infant Activity Time	0	Not Dark Pattern	indian	FirstCry	product	1.0	human							
+29% off	0	Not Dark Pattern	indian	Tata 1mg	landing	1.0	human							
+Loafers (29)	0	Not Dark Pattern	indian	FirstCry	product	1.0	human							
+13% OFF	0	Not Dark Pattern	indian	Blinkit	landing	1.0	human							
+30+ Options, Starting at 13,230	0	Not Dark Pattern	indian	myntra	product	1.0	human							
+Offer Price ₹7,199	0	Not Dark Pattern	indian	noise	landing	1.0	human							
+Extra 200 Off on your order	0	Not Dark Pattern	indian	FirstCry	cart	1.0	human							
+Frequently Bought Together	1	Social Proof	indian	lifestyle	cart	1.0	human							False Urgency
+Ideal for compact flats and studio apartments. A standard two-seater measures 140 to 160 cm wide, fitting neatly against most walls. At Rs 18,000, your monthly EMI over 12 months is just Rs 1,500.	0	Not Dark Pattern	indian	myntra	product	1.0	human							
+No addresses added	0	Not Dark Pattern	indian	TheLabelLife	settings	1.0	human							
+Newly added	0	Not Dark Pattern	indian	spinny	landing	1.0	human							
+HP Victus 15-fa2197TX Intel Core i5 13th Gen Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 inch 144 Hz Full HD Display, NVIDIA GeForce RTX 3050, Performance Blue, 2.29 KG)	0	Not Dark Pattern	indian	myntra	product	1.0	human							
+Got a question, a product issue, or something that just needs sorting out? We've put together this guide to help you raise a query the right way, so it gets...	0	Not Dark Pattern	indian	boult	landing	1.0	human							
+Pay online & save 2% instantly!	1	Misdirection	indian	Moglix	cart	1.0	human							Confirm Shaming
+No thanksSign me up!	1	Forced Action	indian	Lenskart	landing	1.0	human							Forced Action
+When it comes to furniture, we offer an extensive selection that suits every room in your home. From living room furniture like sofas and coffee tables to bedroom furniture like beds, wardrobes, and nightstands, we have everything to make your space more comfortable and inviting.	0	Not Dark Pattern	indian	myntra	landing	1.0	human							
+10% Instant Discount	0	Not Dark Pattern	indian	myntra	cart	1.0	human							
+Beauty People	0	Not Dark Pattern	indian	nykaa	landing	1.0	human							
+Supermilk Gritzo Athlete for 13+ Years, 400 g Cafe Mocha (Black Panther)	0	Not Dark Pattern	indian	HealthKart	landing	1.0	human							
+No coupons available	0	Not Dark Pattern	indian	JioMart	checkout	1.0	human							
+"Compare
+                      0"	0	Not Dark Pattern	indian	noise	landing	1.0	human							
+For HER	0	Not Dark Pattern	indian	bluestone	product	1.0	human							
+Pay Later	0	Not Dark Pattern	indian	myntra	payment	1.0	human							
+Offer Price ₹4,499	0	Not Dark Pattern	indian	noise	landing	1.0	human							
+Don’t randomly chug protein. Track your calories and protein requirements for better results. The best time is 30 to 60 minutes after your workout, when your muscles are most responsive to nutrients.	0	Not Dark Pattern	indian	HealthKart	product	1.0	human							
+Offers via Email	0	Not Dark Pattern	indian	bluestone	settings	1.0	human							
+Offer Price ₹8,999	0	Not Dark Pattern	indian	noise	landing	1.0	human							
+You won't just love our cars, you'll love the way you buy them.	0	Not Dark Pattern	indian	spinny	landing	1.0	human							
+MuscleBlaze Biozyme Performance Whey: This top-quality whey protein features an advanced absorption formula to enhance muscle recovery. It offers 50% higher protein absorption and 60% higher BCAA absorption than other whey formulas. It’s also quite affordable for daily users with whey protein 1kg at around 3,199 INR.	0	Not Dark Pattern	indian	HealthKart	product	1.0	human							
+Configuration: Without Protect+	0	Not Dark Pattern	indian	amazon_in	cart	1.0	human							
+1.3 Lakhs + People are enjoying benefits of Plus	1	Social Proof	indian	PharmEasy	cart	1.0	human							False Urgency
+Popular for Arm Chairs	0	Not Dark Pattern	indian	myntra	product	1.0	human							
+8 MINS	0	Not Dark Pattern	indian	Blinkit	settings	1.0	human							
+Price: High to Low	0	Not Dark Pattern	indian	amazon_in	product	1.0	human							
+No Hidden	0	Not Dark Pattern	indian	JioMart	cart	1.0	human							
+One Time Password sent to 9958410404	0	Not Dark Pattern	indian	Moglix	landing	1.0	human							
+Shoppers Stop is one of India’s largest departmental stores and finest retailers for more than 30 years. It offers one of the country’s widest ranges in the latest apparel, beauty, home decor, fragrances, accessories and luxury watches at the best prices. Today shoppersstop.com is an easy way to shop for all your fashion and lifestyle needs online from the comfort of your home. Log in to bag the best deals, get exclusive offers and enjoy your ‘Shop Anytime Anywhere’ time with free shipping, cash on delivery and the great customer service that Shoppers Stop is known for.	1	Forced Action	indian	shoppers_stop	landing	1.0	human							Forced Action
+Becoming India’s no. 1 fashion destination is not an easy feat. Sincere efforts, digital enhancements and a team of dedicated personnel with an equally loyal customer base have made Myntra the online platform that it is today. The original B2B venture for personalized gifts was conceived in 2007 but transitioned into a full-fledged ecommerce giant within a span of just a few years. By 2012, Myntra had introduced 350 Indian and international brands to its platform, and this has only grown in number each passing year. Today Myntra sits on top of the online fashion game with an astounding social media following, a loyalty program dedicated to its customers, and tempting, hard-to-say-no-to deals.	0	Not Dark Pattern	indian	myntra	landing	1.0	human							
+So, why think twice about starting your online buying ventures on Shopsy then? Download the app today in order to shop online from the comfort of your home or wherever you are. The app is compatible with a number of your devices, making certain that you can access the vast assortment of products with ease. So, glance through the items at your disposal and enjoy getting spoilt for choices. When you are using this app, you also have multiple payment methods available for you, which can come in handy in making safer monetary transactions.	0	Not Dark Pattern	indian	Shopsy	landing	1.0	human							
+FULL CART	0	Not Dark Pattern	indian	DMart Ready	cart	1.0	human							
+315 450 30% off	0	Not Dark Pattern	indian	Purplle	cart	1.0	human							
+TRYBUY.IN	0	Not Dark Pattern	indian	nykaa	landing	1.0	human							
+Offers & Discounts	0	Not Dark Pattern	indian	max_fashion	cart	1.0	human							
+"Showing results for ""oreo"""	0	Not Dark Pattern	indian	Blinkit	product	1.0	human							
+Currently Unavailable	0	Not Dark Pattern	indian	Zepto	checkout	1.0	human							
+Purchasing	0	Not Dark Pattern	indian	Techjockey	settings	1.0	human							
+I'll add delivery details later	0	Not Dark Pattern	indian	bluestone	payment	1.0	human							
+Cluster Rings come with unique designs consisting of smaller diamonds and combination of diamond and coloured stone. A diamond cluster ring is a physical symbol of your lifetime commitment to your spouse. After all, we all know that a diamond is forever! Cluster ring means that you give each other the future, no matter what it holds. The majority of people today wish to buy ring designs online, customised to their specifications. At BlueStone we have the widest range of rings; ideally suited for daily wear, office wear or for any special occasions. One of the best pieces in the Cluster Ring collection is “THE VENUS RING”	0	Not Dark Pattern	indian	bluestone	product	1.0	human							

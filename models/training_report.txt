@@ -1,80 +1,81 @@
-Training Report — 2026-11-04T12:52:58.673143
+Training Report — 2026-11-04T23:27:29.111736
 ============================================================
 
 BINARY MODEL — selected: LR
   Selection: 5-fold CV F1 (dark class) on training split (ensembles use top 3: ['LR', 'SVC', 'LGBM'])
 
   model            CV   test F1   macroF1      acc
-  lr           0.9229    0.8980    0.9329   0.9511  <-- selected
-  voting       0.9211    0.9253    0.9511   0.9648
-  svc          0.9193    0.9051    0.9374   0.9540
-  stacking     0.9181    0.9112    0.9410   0.9560
-  lgbm         0.9115    0.9283    0.9533   0.9667
-  rf           0.9023    0.8898    0.9284   0.9491
-  xgb          0.8968    0.9130    0.9434   0.9599
+  lr           0.9166    0.9057    0.9388   0.9568  <-- selected
+  voting       0.9163    0.9228    0.9499   0.9645
+  stacking     0.9157    0.9102    0.9409   0.9568
+  svc          0.9128    0.9000    0.9350   0.9539
+  lgbm         0.9107    0.9228    0.9499   0.9645
+  xgb          0.8995    0.8875    0.9273   0.9491
+  rf           0.8928    0.8908    0.9296   0.9511
 
   Test classification report (LR):
               precision    recall  f1-score   support
 
-           0       0.97      0.96      0.97       780
-           1       0.89      0.91      0.90       242
+           0       0.97      0.98      0.97       798
+           1       0.93      0.89      0.91       244
 
-    accuracy                           0.95      1022
-   macro avg       0.93      0.94      0.93      1022
-weighted avg       0.95      0.95      0.95      1022
+    accuracy                           0.96      1042
+   macro avg       0.95      0.93      0.94      1042
+weighted avg       0.96      0.96      0.96      1042
 
-  Domain [foreign]: F1=0.9451, macroF1=0.9461, Acc=0.9461, n=464
-  Domain [indian]: F1=0.2857, macroF1=0.6313, Acc=0.9552, n=558
-  Domain [combined]: F1=0.8980, macroF1=0.9329, Acc=0.9511, n=1022
-  Tuned threshold: 0.26 (max CV F2: 0.9146 at 0.50 -> 0.9278); deployed: 0.50
+  Domain [foreign]: F1=0.9464, macroF1=0.9481, Acc=0.9482, n=463
+  Domain [indian]: F1=0.2759, macroF1=0.6286, Acc=0.9637, n=579
+  Domain [combined]: F1=0.9057, macroF1=0.9388, Acc=0.9568, n=1042
+  Tuned threshold: 0.26 (max CV F2: 0.9038 at 0.50 -> 0.9222); deployed: 0.50
 
-MULTI-CLASS MODEL — selected: STACKING
-  Selection: 5-fold CV macro F1 on training split (ensembles use top 3: ['LR', 'XGB', 'SVC'])
+MULTI-CLASS MODEL — selected: SVC
+  Selection: 5-fold CV macro F1 on training split (ensembles use top 3: ['SVC', 'LR', 'LGBM'])
 
   model            CV   test F1   macroF1      acc
-  stacking     0.8362    0.9419    0.8592   0.9339  <-- selected
-  lr           0.8120    0.9478    0.9010   0.9463
-  xgb          0.7996    0.9202    0.8227   0.9215
-  svc          0.7892    0.9443    0.8048   0.9504
-  voting       0.7889    0.9449    0.8744   0.9463
-  rf           0.7834    0.9328    0.8750   0.9339
-  lgbm         0.7722    0.9300    0.8450   0.9298
+  svc          0.8713    0.9575    0.8146   0.9672  <-- selected
+  lr           0.8682    0.9537    0.8115   0.9631
+  stacking     0.8677    0.9554    0.8559   0.9590
+  voting       0.8631    0.9537    0.8116   0.9631
+  lgbm         0.8330    0.9492    0.7698   0.9590
+  rf           0.8181    0.9254    0.7753   0.9344
+  xgb          0.8148    0.9252    0.7505   0.9344
 
-  Test classification report (STACKING):
+  Test classification report (SVC):
               precision    recall  f1-score   support
 
-Misdirection       1.00      0.69      0.82        39
- Obstruction       1.00      1.00      1.00         3
-       Other       0.27      0.80      0.40         5
-    Scarcity       0.98      0.99      0.98        82
-Social Proof       0.98      0.98      0.98        61
-     Urgency       0.96      0.98      0.97        52
+Misdirection       0.89      0.95      0.92        42
+ Obstruction       1.00      1.00      1.00         5
+       Other       0.00      0.00      0.00         5
+    Scarcity       1.00      0.99      0.99        81
+Social Proof       0.97      1.00      0.98        64
+     Urgency       0.98      1.00      0.99        47
 
-    accuracy                           0.93       242
-   macro avg       0.86      0.91      0.86       242
-weighted avg       0.96      0.93      0.94       242
+    accuracy                           0.97       244
+   macro avg       0.81      0.82      0.81       244
+weighted avg       0.95      0.97      0.96       244
 
-  Domain [foreign]: F1=0.9489, macroF1=0.8640, Acc=0.9402, n=234
-  Domain [indian]: F1=0.7381, macroF1=0.7143, Acc=0.7500, n=8
-  Domain [combined]: F1=0.9419, macroF1=0.8592, Acc=0.9339, n=242
+  Domain [foreign]: F1=0.9725, macroF1=0.8211, Acc=0.9786, n=234
+  Domain [indian]: F1=0.6571, macroF1=0.5714, Acc=0.7000, n=10
+  Domain [combined]: F1=0.9575, macroF1=0.8146, Acc=0.9672, n=244
   Rare categories merged to 'Other': ['Sneaking', 'Forced Action']
 
 GOLD TEST SET (human-labelled Indian snippets): n=300, dark=11
   Binary, weighted by inverse sampling probability (estimate for the full scraped pool):
   system                              P      R     F1    acc   unweighted R / F1
-  selected @0.50                  0.554  0.142  0.226  0.986   0.455 / 0.526
-  selected @0.26 (CV-tuned)       0.217  0.142  0.172  0.980   0.455 / 0.333
+  selected @0.50                  0.667  0.114  0.194  0.986   0.364 / 0.471
+  selected @0.26 (CV-tuned)       0.208  0.142  0.169  0.979   0.455 / 0.323
   baseline (pseudo-labeller)      0.040  0.171  0.064  0.927   0.545 / 0.087
 
-  Multi-class on 11 human-marked dark rows: weighted acc=0.143, macroF1=0.390
+  Multi-class on 11 human-marked dark rows: weighted acc=0.800, macroF1=0.389
               precision    recall  f1-score   support
 
- Obstruction       1.00      1.00      1.00         2
+Misdirection       0.00      0.00      0.00         0
+ Obstruction       1.00      0.50      0.67         2
        Other       0.00      0.00      0.00         0
-    Scarcity       1.00      0.50      0.67         2
-Social Proof       1.00      0.17      0.29         6
+    Scarcity       1.00      1.00      1.00         2
+Social Proof       1.00      0.50      0.67         6
      Urgency       0.00      0.00      0.00         1
 
-    accuracy                           0.36        11
-   macro avg       0.60      0.33      0.39        11
-weighted avg       0.91      0.36      0.46        11
+    accuracy                           0.55        11
+   macro avg       0.50      0.33      0.39        11
+weighted avg       0.91      0.55      0.67        11

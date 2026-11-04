@@ -1,0 +1,116 @@
+text	site	step_label	label	Pattern Category
+Only 2 left	flipkart	product	1	Urgency
+3K+ bought in past month	amazon_in	product	1	Social Proof
+Offer Zone	flipkart	product	0	Not Dark Pattern
+Offer Price ₹3,324	noise	cart	0	Not Dark Pattern
+Save For Later	Clovia	landing	0	Not Dark Pattern
+Recently viewed	bluestone	landing	0	Not Dark Pattern
+"Split
+                    Ends"	nykaa	landing	0	Not Dark Pattern
+CANCEL	boult	landing	0	Not Dark Pattern
+9958410404@guest.in	licious	cancel_step	0	Not Dark Pattern
+6 Offers Available	shoppers_stop	product	0	Not Dark Pattern
+1 item	Blinkit	cart	0	Not Dark Pattern
+"Torches
+Special offer"	flipkart	landing	0	Not Dark Pattern
+"Bedsheets
+Special offer"	flipkart	landing	0	Not Dark Pattern
+Save	bluestone	settings	0	Not Dark Pattern
+|   Offer valid till : 13-Aug-2026	FirstCry	settings	1	Urgency
+Do you want to remove Club Membership from the cart?	FirstCry	cart	1	Obstruction
+YES, REMOVE CLUB, I'LL PAY MORE	FirstCry	cart	1	Sneaking
+This is at best deal so fer and is likely to be gone soon.	FirstCry	cart	1	Urgency
+Today's Deals	amazon_in	product	0	Not Dark Pattern
+Are you Sure?	FirstCry	cart	0	Not Dark Pattern
+Order in12H:18Mfor	FirstCry	checkout	1	Urgency
+"4.85
+1
+2
+3
+4
+5
+Acuvue Moist Daily Disposable with BC 8.5 10Hrs
+30 lens/box
+
+Deli"	Lenskart	product	0	Not Dark Pattern
+The price applicable on the respective channel at the time of purchase will be final.	licious	landing	0	Not Dark Pattern
+Subscribe & Save	amazon_in	product	0	Not Dark Pattern
+At Techjockey India, you can discover, compare, and purchase solutions designed for startups, SMEs, and enterprises, all in one place. Our software marketplace brings together verified vendors, authentic user reviews, and intuitive comparison tools. Over 2 million+ happy customers trust Techjockey for all their software needs. We aim to make your software buying journey simple, transparent, and hassle-free.	Techjockey	landing	0	Not Dark Pattern
+Save addresses for faster checkout	Purplle	settings	0	Not Dark Pattern
+Low prices: Our prices are comparatively lower than many others in the competition as we focus on providing high-worth products at affordable costs for the customers.	Moglix	landing	0	Not Dark Pattern
+Flat 40% OFF* & Free Shipping on your first purchase.	FirstCry	cart	0	Not Dark Pattern
+In 171 carts	LimeRoad	cart	0	Not Dark Pattern
+Delivering in 6 mins	Zepto	checkout	0	Not Dark Pattern
+Flash	amazon_in	product	0	Not Dark Pattern
+Add discount	TheLabelLife	checkout	0	Not Dark Pattern
+Only At Nykaa	nykaa	landing	0	Not Dark Pattern
+Careers At Croma	myntra	product	0	Not Dark Pattern
+United States	amazon_in	product	0	Not Dark Pattern
+Your order is eligible for FREE Delivery. Select this option at checkout.	amazon_in	cancel_step	0	Not Dark Pattern
+Best Selling	pantaloons	product	0	Not Dark Pattern
+Most Recent	boult	cart	0	Not Dark Pattern
+No sales pitch, just ‘God Promise’: Spinny’s quiet campaign with Sachin Tendulkar	spinny	landing	0	Not Dark Pattern
+It’s tough to remember to refill every month, especially in the case of chronic diseases. PharmEasy’s subscription service not only ensures that you are reminded of your refills but also makes sure that you are never out on your medical essentials. You will get a reminder every month and your order will be delivered at your convenience!	PharmEasy	landing	0	Not Dark Pattern
+High Waist Tummy Tucker in Nude Colour	Clovia	checkout	0	Not Dark Pattern
+CUSTOMER_TREAT (-₹29.95)	westside	checkout	0	Not Dark Pattern
+Pay online & save extra ₹232.70 OFF on this order.	Moglix	cart	0	Not Dark Pattern
+Quantity is 1	amazon_in	cart	0	Not Dark Pattern
+Earn rewards for each purchase: Each time you make a purchase on HealthKart, you get points based on the product that you buy. Once the 7 day return period is completed, these points are added to your HK Cash that you can redeem against any purchases that you make in the future.	HealthKart	landing	0	Not Dark Pattern
+Popular for Sofas	myntra	product	0	Not Dark Pattern
+Bond No.9	nykaa	landing	0	Not Dark Pattern
+"CART
+TOTAL ITEMS IN CART: 1
+1"	TheLabelLife	cart	0	Not Dark Pattern
+Delivery in 8 minutes	Blinkit	settings	0	Not Dark Pattern
+Your Order	boult	settings	0	Not Dark Pattern
+13 Lives	HealthKart	product	0	Not Dark Pattern
+146 200 27% off	Purplle	cart	0	Not Dark Pattern
+Infant Activity Time	FirstCry	product	0	Not Dark Pattern
+29% off	Tata 1mg	landing	0	Not Dark Pattern
+Loafers (29)	FirstCry	product	0	Not Dark Pattern
+13% OFF	Blinkit	landing	0	Not Dark Pattern
+30+ Options, Starting at 13,230	myntra	product	0	Not Dark Pattern
+Offer Price ₹7,199	noise	landing	0	Not Dark Pattern
+Extra 200 Off on your order	FirstCry	cart	0	Not Dark Pattern
+Frequently Bought Together	lifestyle	cart	1	Social Proof
+Ideal for compact flats and studio apartments. A standard two-seater measures 140 to 160 cm wide, fitting neatly against most walls. At Rs 18,000, your monthly EMI over 12 months is just Rs 1,500.	myntra	product	0	Not Dark Pattern
+No addresses added	TheLabelLife	settings	0	Not Dark Pattern
+Newly added	spinny	landing	0	Not Dark Pattern
+HP Victus 15-fa2197TX Intel Core i5 13th Gen Gaming Laptop (16GB, 512GB SSD, Windows 11 Home, 6GB Graphics, 15.6 inch 144 Hz Full HD Display, NVIDIA GeForce RTX 3050, Performance Blue, 2.29 KG)	myntra	product	0	Not Dark Pattern
+Got a question, a product issue, or something that just needs sorting out? We've put together this guide to help you raise a query the right way, so it gets...	boult	landing	0	Not Dark Pattern
+Pay online & save 2% instantly!	Moglix	cart	1	Misdirection
+No thanksSign me up!	Lenskart	landing	1	Forced Action
+When it comes to furniture, we offer an extensive selection that suits every room in your home. From living room furniture like sofas and coffee tables to bedroom furniture like beds, wardrobes, and nightstands, we have everything to make your space more comfortable and inviting.	myntra	landing	0	Not Dark Pattern
+10% Instant Discount	myntra	cart	0	Not Dark Pattern
+Beauty People	nykaa	landing	0	Not Dark Pattern
+Supermilk Gritzo Athlete for 13+ Years, 400 g Cafe Mocha (Black Panther)	HealthKart	landing	0	Not Dark Pattern
+No coupons available	JioMart	checkout	0	Not Dark Pattern
+"Compare
+                      0"	noise	landing	0	Not Dark Pattern
+For HER	bluestone	product	0	Not Dark Pattern
+Pay Later	myntra	payment	0	Not Dark Pattern
+Offer Price ₹4,499	noise	landing	0	Not Dark Pattern
+Don’t randomly chug protein. Track your calories and protein requirements for better results. The best time is 30 to 60 minutes after your workout, when your muscles are most responsive to nutrients.	HealthKart	product	0	Not Dark Pattern
+Offers via Email	bluestone	settings	0	Not Dark Pattern
+Offer Price ₹8,999	noise	landing	0	Not Dark Pattern
+You won't just love our cars, you'll love the way you buy them.	spinny	landing	0	Not Dark Pattern
+MuscleBlaze Biozyme Performance Whey: This top-quality whey protein features an advanced absorption formula to enhance muscle recovery. It offers 50% higher protein absorption and 60% higher BCAA absorption than other whey formulas. It’s also quite affordable for daily users with whey protein 1kg at around 3,199 INR.	HealthKart	product	0	Not Dark Pattern
+Configuration: Without Protect+	amazon_in	cart	0	Not Dark Pattern
+1.3 Lakhs + People are enjoying benefits of Plus	PharmEasy	cart	1	Social Proof
+Popular for Arm Chairs	myntra	product	0	Not Dark Pattern
+8 MINS	Blinkit	settings	0	Not Dark Pattern
+Price: High to Low	amazon_in	product	0	Not Dark Pattern
+No Hidden	JioMart	cart	0	Not Dark Pattern
+One Time Password sent to 9958410404	Moglix	landing	0	Not Dark Pattern
+Shoppers Stop is one of India’s largest departmental stores and finest retailers for more than 30 years. It offers one of the country’s widest ranges in the latest apparel, beauty, home decor, fragrances, accessories and luxury watches at the best prices. Today shoppersstop.com is an easy way to shop for all your fashion and lifestyle needs online from the comfort of your home. Log in to bag the best deals, get exclusive offers and enjoy your ‘Shop Anytime Anywhere’ time with free shipping, cash on delivery and the great customer service that Shoppers Stop is known for.	shoppers_stop	landing	1	Forced Action
+Becoming India’s no. 1 fashion destination is not an easy feat. Sincere efforts, digital enhancements and a team of dedicated personnel with an equally loyal customer base have made Myntra the online platform that it is today. The original B2B venture for personalized gifts was conceived in 2007 but transitioned into a full-fledged ecommerce giant within a span of just a few years. By 2012, Myntra had introduced 350 Indian and international brands to its platform, and this has only grown in number each passing year. Today Myntra sits on top of the online fashion game with an astounding social media following, a loyalty program dedicated to its customers, and tempting, hard-to-say-no-to deals.	myntra	landing	0	Not Dark Pattern
+So, why think twice about starting your online buying ventures on Shopsy then? Download the app today in order to shop online from the comfort of your home or wherever you are. The app is compatible with a number of your devices, making certain that you can access the vast assortment of products with ease. So, glance through the items at your disposal and enjoy getting spoilt for choices. When you are using this app, you also have multiple payment methods available for you, which can come in handy in making safer monetary transactions.	Shopsy	landing	0	Not Dark Pattern
+FULL CART	DMart Ready	cart	0	Not Dark Pattern
+315 450 30% off	Purplle	cart	0	Not Dark Pattern
+TRYBUY.IN	nykaa	landing	0	Not Dark Pattern
+Offers & Discounts	max_fashion	cart	0	Not Dark Pattern
+"Showing results for ""oreo"""	Blinkit	product	0	Not Dark Pattern
+Currently Unavailable	Zepto	checkout	0	Not Dark Pattern
+Purchasing	Techjockey	settings	0	Not Dark Pattern
+I'll add delivery details later	bluestone	payment	0	Not Dark Pattern
+Cluster Rings come with unique designs consisting of smaller diamonds and combination of diamond and coloured stone. A diamond cluster ring is a physical symbol of your lifetime commitment to your spouse. After all, we all know that a diamond is forever! Cluster ring means that you give each other the future, no matter what it holds. The majority of people today wish to buy ring designs online, customised to their specifications. At BlueStone we have the widest range of rings; ideally suited for daily wear, office wear or for any special occasions. One of the best pieces in the Cluster Ring collection is “THE VENUS RING”	bluestone	product	0	Not Dark Pattern
