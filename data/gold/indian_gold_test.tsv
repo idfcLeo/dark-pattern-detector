@@ -364,11 +364,11 @@ Bestseller"	Zepto	cart	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 Kothagudem	freshtohome	landing	0	Not Dark Pattern	likely_benign	23350	259.44444444444446	1
 ₹139.00 /500g	freshtohome	landing	0	Not Dark Pattern	likely_dark	1348	11.233333333333333	1
 "Smart Watches
-Min. 40% Off"	flipkart	landing			very_low	24138	365.72727272727275	2
-To Pay	HealthKart	cart			mid	283	4.716666666666667	2
-Contact us	lifestyle	landing			very_low	24138	365.72727272727275	2
-Grab Or Gone	flipkart	landing			high	44	1.0	2
-Log In/Register	FirstCry	landing			high	44	1.0	2
+Min. 40% Off"	flipkart	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+To Pay	HealthKart	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Contact us	lifestyle	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Grab Or Gone	flipkart	landing	0	Not Dark Pattern	high	44	1.0	2
+Log In/Register	FirstCry	landing	1	Forced Action	high	44	1.0	2
 "Louis Philippe Leather Lace Up Men's Formal Shoes
 ₹6299
 
@@ -376,145 +376,145 @@ Log In/Register	FirstCry	landing			high	44	1.0	2
 
 10% Off
 
-6 Offer"	shoppers_stop	product			mid	283	4.716666666666667	2
-Pay ₹169.00	JioMart	payment			mid	283	4.716666666666667	2
-You have added 2 Club membership plans to the cart. Kindly remove one of them to proceed.	FirstCry	cart			high	44	1.0	2
-With our test drive booking form, you can conveniently schedule a test drive at home or visit our hub to try out multiple cars. Once you book your preferred option, your relationship manager will call you to confirm the details before arriving at your location. You can book home test drive from Spinny website or App.	spinny	landing			low	1501	50.03333333333333	2
-Zokasa Rio Pro 50W 2400rpm 1 Star Black Anti-Dust Pedestal Fan, Sweep: 400 mm ...	Moglix	landing			low	1501	50.03333333333333	2
-Spinny Hub, Trillium Avenue, Gurgaon	spinny	product			very_low	24138	365.72727272727275	2
+6 Offer"	shoppers_stop	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Pay ₹169.00	JioMart	payment	0	Not Dark Pattern	mid	283	4.716666666666667	2
+You have added 2 Club membership plans to the cart. Kindly remove one of them to proceed.	FirstCry	cart	0	Not Dark Pattern	high	44	1.0	2
+With our test drive booking form, you can conveniently schedule a test drive at home or visit our hub to try out multiple cars. Once you book your preferred option, your relationship manager will call you to confirm the details before arriving at your location. You can book home test drive from Spinny website or App.	spinny	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Zokasa Rio Pro 50W 2400rpm 1 Star Black Anti-Dust Pedestal Fan, Sweep: 400 mm ...	Moglix	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Spinny Hub, Trillium Avenue, Gurgaon	spinny	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
 "Schwarzkopf
-                    Professional"	nykaa	landing			low	1501	50.03333333333333	2
-Fab N Funky	FirstCry	product			very_low	24138	365.72727272727275	2
-Return within 30days of receiving your order	myntra	settings			mid	283	4.716666666666667	2
-Buy online and if you don’t like the fit, you can easily come over to your nearest Shoppers Stop store for a fully free alteration.	shoppers_stop	landing			high	44	1.0	2
-Extra Bank Offer of Rs. 15k	myntra	product			mid	283	4.716666666666667	2
-Would you like to receive Push Notifications?	Lenskart	landing			high	44	1.0	2
-DCB Bank Ltd	amazon_in	checkout			mid	283	4.716666666666667	2
-This product already offers the best price. Sitewide coupon cannot be applied on this item.	FirstCry	cart			mid	283	4.716666666666667	2
-Protect your furniture, keep it away from direct sunlight to prevent fading, and maintain a stable temperature and humidity level in your home. Also, periodically check for wear, like loose screws or joints, especially on frequently used pieces. With these simple steps, you can keep your furniture looking fresh and ensure its durability for years to come.	myntra	landing			mid	283	4.716666666666667	2
-You Save ₹100 on Combo	HealthKart	landing			very_low	24138	365.72727272727275	2
-You are subscribed to SMS promotions.	freshtohome	settings			low	1501	50.03333333333333	2
-₹6,65953% OFF	Moglix	landing			very_low	24138	365.72727272727275	2
-We Have the Most Exclusive Offers and Coupons	Moglix	landing			high	44	1.0	2
-Save up to	max_fashion	cart			high	44	1.0	2
-ONE THING	nykaa	landing			high	44	1.0	2
-Office Supplies	Moglix	landing			very_low	24138	365.72727272727275	2
-Toy Balloon Kids	FirstCry	product			very_low	24138	365.72727272727275	2
-Why Are We The Most Preferred Online Pharmacy?	PharmEasy	landing			low	1501	50.03333333333333	2
+                    Professional"	nykaa	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Fab N Funky	FirstCry	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Return within 30days of receiving your order	myntra	settings	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Buy online and if you don’t like the fit, you can easily come over to your nearest Shoppers Stop store for a fully free alteration.	shoppers_stop	landing	0	Not Dark Pattern	high	44	1.0	2
+Extra Bank Offer of Rs. 15k	myntra	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Would you like to receive Push Notifications?	Lenskart	landing	0	Not Dark Pattern	high	44	1.0	2
+DCB Bank Ltd	amazon_in	checkout	0	Not Dark Pattern	mid	283	4.716666666666667	2
+This product already offers the best price. Sitewide coupon cannot be applied on this item.	FirstCry	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Protect your furniture, keep it away from direct sunlight to prevent fading, and maintain a stable temperature and humidity level in your home. Also, periodically check for wear, like loose screws or joints, especially on frequently used pieces. With these simple steps, you can keep your furniture looking fresh and ensure its durability for years to come.	myntra	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+You Save ₹100 on Combo	HealthKart	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+You are subscribed to SMS promotions.	freshtohome	settings	0	Not Dark Pattern	low	1501	50.03333333333333	2
+₹6,65953% OFF	Moglix	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+We Have the Most Exclusive Offers and Coupons	Moglix	landing	0	Not Dark Pattern	high	44	1.0	2
+Save up to	max_fashion	cart	0	Not Dark Pattern	high	44	1.0	2
+ONE THING	nykaa	landing	0	Not Dark Pattern	high	44	1.0	2
+Office Supplies	Moglix	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Toy Balloon Kids	FirstCry	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Why Are We The Most Preferred Online Pharmacy?	PharmEasy	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
 "Add to Compare
 OnePlus N6 5G (Midnight Green, 128 GB)
-4.288 Ratings & 8 Reviews"	flipkart	product			very_low	24138	365.72727272727275	2
-You have not selected any products to compare.	Lenskart	landing			mid	283	4.716666666666667	2
-AVVA	nykaa	landing			very_low	24138	365.72727272727275	2
-Login with email id	Techjockey	settings			low	1501	50.03333333333333	2
-Out of stock	licious	product			mid	283	4.716666666666667	2
-Offering a seamless user interface for your shopping ventures, Shopsy is an e-commerce platform in India. With the advent of online shopping, availing of your required products from your comfort zone has become a hassle-free endeavour. Whether you shop online for clothing, footwear, or accessories, you can find a wide array of options at your fingertips while shopping online from Shopsy. This way, you also have the scope to explore a plethora of choices for you with just a few swipes and clicks. So, your shopping experience can not only become significantly streamlined but also be time-saving and convenient.	Shopsy	landing			mid	283	4.716666666666667	2
-From ₹99	flipkart	landing			high	44	1.0	2
+4.288 Ratings & 8 Reviews"	flipkart	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+You have not selected any products to compare.	Lenskart	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+AVVA	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Login with email id	Techjockey	settings	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Out of stock	licious	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Offering a seamless user interface for your shopping ventures, Shopsy is an e-commerce platform in India. With the advent of online shopping, availing of your required products from your comfort zone has become a hassle-free endeavour. Whether you shop online for clothing, footwear, or accessories, you can find a wide array of options at your fingertips while shopping online from Shopsy. This way, you also have the scope to explore a plethora of choices for you with just a few swipes and clicks. So, your shopping experience can not only become significantly streamlined but also be time-saving and convenient.	Shopsy	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+From ₹99	flipkart	landing	0	Not Dark Pattern	high	44	1.0	2
 "Masks
-                    & Peels"	nykaa	landing			very_low	24138	365.72727272727275	2
+                    & Peels"	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
 "₹2,199
 ₹4,999
-56% off"	HealthKart	product			very_low	24138	365.72727272727275	2
-ORDER HISTORY	bluestone	settings			mid	283	4.716666666666667	2
-Shipping Charge :	FirstCry	cart			mid	283	4.716666666666667	2
-Premium Kumarakom Karimeen / Pearlspot (Super Large)	freshtohome	landing			very_low	24138	365.72727272727275	2
-"Built-in GPS	No"	JioMart	cart			mid	283	4.716666666666667	2
-Punjab National Bank - Retail Banking	amazon_in	checkout			low	1501	50.03333333333333	2
-Supermilk Gritzo Growth for Girl 10 to 12 years, 400 g Double Chocolate	HealthKart	landing			mid	283	4.716666666666667	2
-There are four levels to achieve in the program, as the Insider Points accumulate. They are - Insider, Select, Elite or Icon. Apart from offering discounts on Myntra and partner platform coupons, each tier comes with its own special perks.	myntra	landing			low	1501	50.03333333333333	2
-Makeup Color Family	Purplle	product			very_low	24138	365.72727272727275	2
-Aplus	Moglix	landing			very_low	24138	365.72727272727275	2
-Make it a gift order @	noise	cart			low	1501	50.03333333333333	2
-You are currently subscribed to 'General Subscription'.	freshtohome	settings			high	44	1.0	2
-EMI from ₹4,532/m	spinny	product			very_low	24138	365.72727272727275	2
-Select a time slot	DMart Ready	payment			high	44	1.0	2
-For BROTHER	bluestone	product			mid	283	4.716666666666667	2
-Unlock Now	lifestyle	cart			high	44	1.0	2
-You Save ₹229 on Combo	HealthKart	landing			low	1501	50.03333333333333	2
-Vilhelm Parfumerie	nykaa	landing			very_low	24138	365.72727272727275	2
-44% off	Tata 1mg	landing			low	1501	50.03333333333333	2
-About	max_fashion	product			mid	283	4.716666666666667	2
-Subscribe now	Netmeds	product			mid	283	4.716666666666667	2
+56% off"	HealthKart	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+ORDER HISTORY	bluestone	settings	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Shipping Charge :	FirstCry	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Premium Kumarakom Karimeen / Pearlspot (Super Large)	freshtohome	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+"Built-in GPS	No"	JioMart	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Punjab National Bank - Retail Banking	amazon_in	checkout	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Supermilk Gritzo Growth for Girl 10 to 12 years, 400 g Double Chocolate	HealthKart	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+There are four levels to achieve in the program, as the Insider Points accumulate. They are - Insider, Select, Elite or Icon. Apart from offering discounts on Myntra and partner platform coupons, each tier comes with its own special perks.	myntra	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Makeup Color Family	Purplle	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Aplus	Moglix	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Make it a gift order @	noise	cart	0	Not Dark Pattern	low	1501	50.03333333333333	2
+You are currently subscribed to 'General Subscription'.	freshtohome	settings	0	Not Dark Pattern	high	44	1.0	2
+EMI from ₹4,532/m	spinny	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Select a time slot	DMart Ready	payment	0	Not Dark Pattern	high	44	1.0	2
+For BROTHER	bluestone	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Unlock Now	lifestyle	cart	0	Not Dark Pattern	high	44	1.0	2
+You Save ₹229 on Combo	HealthKart	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Vilhelm Parfumerie	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+44% off	Tata 1mg	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+About	max_fashion	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Subscribe now	Netmeds	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
 "Egg Incubators
-Explore Now"	Moglix	landing			low	1501	50.03333333333333	2
-Do you want to remove free gifts from your cart?	FirstCry	cart			high	44	1.0	2
+Explore Now"	Moglix	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Do you want to remove free gifts from your cart?	FirstCry	cart	0	Not Dark Pattern	high	44	1.0	2
 "Instant Geysers
-Explore Now"	Moglix	landing			mid	283	4.716666666666667	2
-Unlock this special deal by adding more products to your cart.	FirstCry	cart			mid	283	4.716666666666667	2
-I Cannot Say Goodbye to You: An unforgettable romance novel by one of India’s most popular writers - Rithvik Singh	amazon_in	cart			high	44	1.0	2
-© 2026 Retail World Limited.	max_fashion	product			high	44	1.0	2
-2.5 - 3Y	FirstCry	product			very_low	24138	365.72727272727275	2
-83% off	Shopsy	product			very_low	24138	365.72727272727275	2
+Explore Now"	Moglix	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Unlock this special deal by adding more products to your cart.	FirstCry	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+I Cannot Say Goodbye to You: An unforgettable romance novel by one of India’s most popular writers - Rithvik Singh	amazon_in	cart	0	Not Dark Pattern	high	44	1.0	2
+© 2026 Retail World Limited.	max_fashion	product	0	Not Dark Pattern	high	44	1.0	2
+2.5 - 3Y	FirstCry	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+83% off	Shopsy	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
 "LIGHT KNITS
 
 Snug favourites perfect for all occasions.
 
-SHOP NOW"	TheLabelLife	landing			very_low	24138	365.72727272727275	2
-Anti Allergy Medicines	PharmEasy	landing			very_low	24138	365.72727272727275	2
-Receiver’s Full Name*	FirstCry	cart			very_low	24138	365.72727272727275	2
-In the wide realm of e-commerce, it is our mission to have happy and satisfied customers. Hence, to fulfill its aim, Moglix provides amazing offers and coupons. Therefore, some of the major offers are:	Moglix	landing			mid	283	4.716666666666667	2
-Jobfish	freshtohome	landing			very_low	24138	365.72727272727275	2
-Derma Care	Tata 1mg	landing			very_low	24138	365.72727272727275	2
-Extra Bank Offer of Rs. 10k	myntra	product			mid	283	4.716666666666667	2
-Saved Details	westside	settings			very_low	24138	365.72727272727275	2
-Salawas Arts 92x44x77cm Brown Sheesham Wood Honey Finish Study Table ...	Moglix	product			very_low	24138	365.72727272727275	2
-Pro Nature	nykaa	landing			very_low	24138	365.72727272727275	2
-Sell With Us	FirstCry	product			mid	283	4.716666666666667	2
-Sold Out	boult	product			mid	283	4.716666666666667	2
-300+ bought in past month	amazon_in	product			high	44	1.0	2
-500+ bought in past month	amazon_in	product			high	44	1.0	2
-Utsa Light Beige Floral Printed Cotton Tunic	westside	product			very_low	24138	365.72727272727275	2
-Register	FirstCry	landing			high	44	1.0	2
-ADD TO BAG	Clovia	checkout			mid	283	4.716666666666667	2
-Placed at 10th Aug 2026, 11:58 am	Zepto	settings			low	1501	50.03333333333333	2
-How do you want to pay?	JioMart	payment			high	44	1.0	2
-32 dB ANC	boult	landing			very_low	24138	365.72727272727275	2
-Compatibility	noise	cart			very_low	24138	365.72727272727275	2
-How do I register?	JioMart	cancel_step			mid	283	4.716666666666667	2
-How do I register as a seller on Techjockey?	Techjockey	landing			mid	283	4.716666666666667	2
-Freshwater Milk Fish / Kayal Poomeen	freshtohome	landing			very_low	24138	365.72727272727275	2
-● Living Room Furniture	myntra	landing			very_low	24138	365.72727272727275	2
-If you want to see your saved cards	FabIndia	settings			high	44	1.0	2
-MANQ	nykaa	landing			very_low	24138	365.72727272727275	2
-Get up to 1000 TWID Stars Cashback on every spend. Hurry!	The Souled Store	checkout			high	44	1.0	2
-Pay Now	Blinkit	checkout			mid	283	4.716666666666667	2
-Get 3% back with Amazon Pay ICICI...	amazon_in	product			very_low	24138	365.72727272727275	2
-Best offer for you	Bewakoof	cart			mid	283	4.716666666666667	2
-Get It Today	amazon_in	product			high	44	1.0	2
+SHOP NOW"	TheLabelLife	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Anti Allergy Medicines	PharmEasy	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Receiver’s Full Name*	FirstCry	cart	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+In the wide realm of e-commerce, it is our mission to have happy and satisfied customers. Hence, to fulfill its aim, Moglix provides amazing offers and coupons. Therefore, some of the major offers are:	Moglix	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Jobfish	freshtohome	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Derma Care	Tata 1mg	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Extra Bank Offer of Rs. 10k	myntra	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Saved Details	westside	settings	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Salawas Arts 92x44x77cm Brown Sheesham Wood Honey Finish Study Table ...	Moglix	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Pro Nature	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Sell With Us	FirstCry	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Sold Out	boult	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+300+ bought in past month	amazon_in	product	1	Social Proof	high	44	1.0	2
+500+ bought in past month	amazon_in	product	1	Social Proof	high	44	1.0	2
+Utsa Light Beige Floral Printed Cotton Tunic	westside	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Register	FirstCry	landing	1	Forced Action	high	44	1.0	2
+ADD TO BAG	Clovia	checkout	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Placed at 10th Aug 2026, 11:58 am	Zepto	settings	0	Not Dark Pattern	low	1501	50.03333333333333	2
+How do you want to pay?	JioMart	payment	0	Not Dark Pattern	high	44	1.0	2
+32 dB ANC	boult	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Compatibility	noise	cart	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+How do I register?	JioMart	cancel_step	0	Not Dark Pattern	mid	283	4.716666666666667	2
+How do I register as a seller on Techjockey?	Techjockey	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Freshwater Milk Fish / Kayal Poomeen	freshtohome	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+● Living Room Furniture	myntra	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+If you want to see your saved cards	FabIndia	settings	0	Not Dark Pattern	high	44	1.0	2
+MANQ	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Get up to 1000 TWID Stars Cashback on every spend. Hurry!	The Souled Store	checkout	0	Not Dark Pattern	high	44	1.0	2
+Pay Now	Blinkit	checkout	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Get 3% back with Amazon Pay ICICI...	amazon_in	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Best offer for you	Bewakoof	cart	1	Misdirection	mid	283	4.716666666666667	2
+Get It Today	amazon_in	product	0	Not Dark Pattern	high	44	1.0	2
 "4.3
  
-Fuel One Whey Max, 2.2 lb Rich Chocolate"	HealthKart	landing			low	1501	50.03333333333333	2
-Get it for ₹3,324 at checkout	noise	cart			mid	283	4.716666666666667	2
-Do you have a gift card or promotional code? We'll ask you to enter your claim code when it's time to pay.	amazon_in	cart			high	44	1.0	2
-HP Victus 15-fa2316TX Intel Core i5 14th Gen Gaming Laptop (24GB, 512GB SSD, Win	myntra	product			low	1501	50.03333333333333	2
-By Spacewood	pepperfry	product			very_low	24138	365.72727272727275	2
-WACKO MARIA	nykaa	landing			very_low	24138	365.72727272727275	2
-Only Pictures	boult	cart			mid	283	4.716666666666667	2
-Customers who shopped for Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Di... also shopped for:	amazon_in	cart			mid	283	4.716666666666667	2
-1.5 - 1.99 GHz	amazon_in	product			high	44	1.0	2
-Gold Mine	bluestone	cart			very_low	24138	365.72727272727275	2
-CLOCK SPEED	flipkart	product			very_low	24138	365.72727272727275	2
-Only 3 left	flipkart	product			high	44	1.0	2
-1 year	noise	cart			low	1501	50.03333333333333	2
-Some items are out of stock	DMart Ready	product			mid	283	4.716666666666667	2
-POPULAR	bluestone	product			mid	283	4.716666666666667	2
-Nejo	FirstCry	product			very_low	24138	365.72727272727275	2
-Likely to be sold out	FirstCry	cart			high	44	1.0	2
-PharmEasy is the best application for ordering medicines and lab tests. I have been using it for the last 5 years. The customer support is also good.	PharmEasy	landing			low	1501	50.03333333333333	2
-99 130 24% off	Purplle	cart			high	44	1.0	2
-Other	Bewakoof	checkout			high	44	1.0	2
-N PLUS PROFESSIONAL	nykaa	landing			mid	283	4.716666666666667	2
-Tights	Clovia	landing			very_low	24138	365.72727272727275	2
+Fuel One Whey Max, 2.2 lb Rich Chocolate"	HealthKart	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Get it for ₹3,324 at checkout	noise	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Do you have a gift card or promotional code? We'll ask you to enter your claim code when it's time to pay.	amazon_in	cart	0	Not Dark Pattern	high	44	1.0	2
+HP Victus 15-fa2316TX Intel Core i5 14th Gen Gaming Laptop (24GB, 512GB SSD, Win	myntra	product	0	Not Dark Pattern	low	1501	50.03333333333333	2
+By Spacewood	pepperfry	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+WACKO MARIA	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Only Pictures	boult	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Customers who shopped for Apple iPhone 17 Pro Max 512 GB: 17.42 cm (6.9″) Di... also shopped for:	amazon_in	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+1.5 - 1.99 GHz	amazon_in	product	0	Not Dark Pattern	high	44	1.0	2
+Gold Mine	bluestone	cart	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+CLOCK SPEED	flipkart	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Only 3 left	flipkart	product	1	Scarcity	high	44	1.0	2
+1 year	noise	cart	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Some items are out of stock	DMart Ready	product	1	Scarcity	mid	283	4.716666666666667	2
+POPULAR	bluestone	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Nejo	FirstCry	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Likely to be sold out	FirstCry	cart	1	Scarcity	high	44	1.0	2
+PharmEasy is the best application for ordering medicines and lab tests. I have been using it for the last 5 years. The customer support is also good.	PharmEasy	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+99 130 24% off	Purplle	cart	0	Not Dark Pattern	high	44	1.0	2
+Other	Bewakoof	checkout	0	Not Dark Pattern	high	44	1.0	2
+N PLUS PROFESSIONAL	nykaa	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Tights	Clovia	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
 "5.0
  
-Supermilk Gritzo Growth for Girl 10 to 12 years, 400 g Double Chocolate"	HealthKart	landing			mid	283	4.716666666666667	2
-I do not want to provide a reason	amazon_in	cancel_step			high	44	1.0	2
-Shopping for furniture should be hassle-free, so we offer on-time delivery, easy returns, and reliable customer support to ensure your smooth and satisfying experience. Whether you're furnishing your entire home or simply upgrading a few pieces, you can buy furniture online from us at competitive furniture prices. Discover how easy and enjoyable it is to shop for furniture online with Pepperfry today!	myntra	landing			high	44	1.0	2
-By purchasing the membership, you agree to the Terms and Conditions of its use.	The Souled Store	cart			high	44	1.0	2
-Nexon	spinny	product			very_low	24138	365.72727272727275	2
-Mom & Baby Kits	nykaa	landing			very_low	24138	365.72727272727275	2
-QUICK BUY! Get up to 25% off on medicines*	Tata 1mg	landing			low	1501	50.03333333333333	2
-Price, Low to High	noise	product			low	1501	50.03333333333333	2
+Supermilk Gritzo Growth for Girl 10 to 12 years, 400 g Double Chocolate"	HealthKart	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+I do not want to provide a reason	amazon_in	cancel_step	1	Obstruction	high	44	1.0	2
+Shopping for furniture should be hassle-free, so we offer on-time delivery, easy returns, and reliable customer support to ensure your smooth and satisfying experience. Whether you're furnishing your entire home or simply upgrading a few pieces, you can buy furniture online from us at competitive furniture prices. Discover how easy and enjoyable it is to shop for furniture online with Pepperfry today!	myntra	landing	0	Not Dark Pattern	high	44	1.0	2
+By purchasing the membership, you agree to the Terms and Conditions of its use.	The Souled Store	cart	1	Forced Action	high	44	1.0	2
+Nexon	spinny	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Mom & Baby Kits	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+QUICK BUY! Get up to 25% off on medicines*	Tata 1mg	landing	1	Urgency	low	1501	50.03333333333333	2
+Price, Low to High	noise	product	0	Not Dark Pattern	low	1501	50.03333333333333	2
 "Free Buds N1
 
 (524)
@@ -527,18 +527,18 @@ Halo 2 Limited Editi...
 
 35% OFF
 
-Rotating"	noise	landing			mid	283	4.716666666666667	2
-14 to 18 Kg	FirstCry	product			mid	283	4.716666666666667	2
-ONE on ONE	Purplle	landing			high	44	1.0	2
-Cordless Power Tools	Moglix	landing			very_low	24138	365.72727272727275	2
-SUBSCRIBE	Bewakoof	product			low	1501	50.03333333333333	2
-Back to top	amazon_in	product			very_low	24138	365.72727272727275	2
-Select other bank	The Souled Store	checkout			high	44	1.0	2
-The Myntra shopping app came into existence in the year 2015 to further encourage customers’ shopping sprees. Download the app on your Android or IOS device this very minute to experience fashion like never before	myntra	landing			mid	283	4.716666666666667	2
-Free Shipping	amazon_in	product			mid	283	4.716666666666667	2
-Brand Logo Polo Collar T-shirt	myntra	product			very_low	24138	365.72727272727275	2
-Pants	pantaloons	landing			very_low	24138	365.72727272727275	2
-Moglix App - With Moglix App customers get exclusive deals, faster checkouts, and personalized recommendations! Now enjoy only-in-app benefits, effective product browsing, and stay connected anytime, anywhere. For tracking of orders done in real-time with the best shopping experience, Download the Moglix app, available on both the Play Store and App Store.	Moglix	landing			high	44	1.0	2
+Rotating"	noise	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+14 to 18 Kg	FirstCry	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+ONE on ONE	Purplle	landing	0	Not Dark Pattern	high	44	1.0	2
+Cordless Power Tools	Moglix	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+SUBSCRIBE	Bewakoof	product	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Back to top	amazon_in	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Select other bank	The Souled Store	checkout	0	Not Dark Pattern	high	44	1.0	2
+The Myntra shopping app came into existence in the year 2015 to further encourage customers’ shopping sprees. Download the app on your Android or IOS device this very minute to experience fashion like never before	myntra	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Free Shipping	amazon_in	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Brand Logo Polo Collar T-shirt	myntra	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Pants	pantaloons	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Moglix App - With Moglix App customers get exclusive deals, faster checkouts, and personalized recommendations! Now enjoy only-in-app benefits, effective product browsing, and stay connected anytime, anywhere. For tracking of orders done in real-time with the best shopping experience, Download the Moglix app, available on both the Play Store and App Store.	Moglix	landing	0	Not Dark Pattern	high	44	1.0	2
 "Selling Fast
 
 (221)
@@ -547,75 +547,75 @@ REP - 24x7 Fitness T...
 
 ₹9,999
 
-Sleep | Recovery & Effort"	noise	landing			low	1501	50.03333333333333	2
-Angeline	nykaa	landing			very_low	24138	365.72727272727275	2
-Offers / Coupons	Netmeds	landing			low	1501	50.03333333333333	2
-Davanagere	Zepto	cart			very_low	24138	365.72727272727275	2
+Sleep | Recovery & Effort"	noise	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Angeline	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Offers / Coupons	Netmeds	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Davanagere	Zepto	cart	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
 "Qlonz Store Men Solid Casual Light Green Shirt
 77% off
 1,499
 ₹333
 4
 (22)
-Or Pay"	Shopsy	product			very_low	24138	365.72727272727275	2
-Pay by your preferred bank.	lifestyle	payment			high	44	1.0	2
-Vijaya Bank	The Souled Store	checkout			mid	283	4.716666666666667	2
-We have an absolutely wide variety of t-shirts for men on Myntra and here are a few of our favourites to start you off in the right direction.	myntra	product			low	1501	50.03333333333333	2
-Kera Fine	nykaa	landing			very_low	24138	365.72727272727275	2
-Lehan	nykaa	landing			low	1501	50.03333333333333	2
-Login Now	Moglix	landing			high	44	1.0	2
-Add More To Save More	shoppers_stop	cart			high	44	1.0	2
-lovelyyy shirt,, it is very soft and comfortable and washable,, looking like a hero in this shirt,, justtt awesomeee....	Shopsy	product			high	44	1.0	2
-Free advice to boost your software efficiency—start today!	Techjockey	landing			mid	283	4.716666666666667	2
-Saraswat Bank	amazon_in	checkout			mid	283	4.716666666666667	2
-OFFERS	Bewakoof	product			mid	283	4.716666666666667	2
-A Rs 50,000 sofa set on 12-month no-cost EMI costs Rs 4,167 per month with zero extra interest.	myntra	product			low	1501	50.03333333333333	2
-Deodorant	myntra	cart			very_low	24138	365.72727272727275	2
-Best selling brand on...	boult	landing			mid	283	4.716666666666667	2
+Or Pay"	Shopsy	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Pay by your preferred bank.	lifestyle	payment	0	Not Dark Pattern	high	44	1.0	2
+Vijaya Bank	The Souled Store	checkout	0	Not Dark Pattern	mid	283	4.716666666666667	2
+We have an absolutely wide variety of t-shirts for men on Myntra and here are a few of our favourites to start you off in the right direction.	myntra	product	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Kera Fine	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Lehan	nykaa	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Login Now	Moglix	landing	0	Not Dark Pattern	high	44	1.0	2
+Add More To Save More	shoppers_stop	cart	0	Not Dark Pattern	high	44	1.0	2
+lovelyyy shirt,, it is very soft and comfortable and washable,, looking like a hero in this shirt,, justtt awesomeee....	Shopsy	product	1	Social Proof	high	44	1.0	2
+Free advice to boost your software efficiency—start today!	Techjockey	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Saraswat Bank	amazon_in	checkout	0	Not Dark Pattern	mid	283	4.716666666666667	2
+OFFERS	Bewakoof	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+A Rs 50,000 sofa set on 12-month no-cost EMI costs Rs 4,167 per month with zero extra interest.	myntra	product	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Deodorant	myntra	cart	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Best selling brand on...	boult	landing	1	Social Proof	mid	283	4.716666666666667	2
 "School Management
-Software"	Techjockey	landing			very_low	24138	365.72727272727275	2
-See more details if you want to unsubscribe	FabIndia	settings			high	44	1.0	2
-ADD NOW	The Souled Store	cart			mid	283	4.716666666666667	2
-Tomorrow 07:00 AM - 10:00 AM	DMart Ready	product			high	44	1.0	2
-Ans: Post-workout is ideal, but you can take it at any time during the day to meet your protein needs.	HealthKart	product			mid	283	4.716666666666667	2
-Speakers	ajio	landing			very_low	24138	365.72727272727275	2
-Klass Ergonomic 1200x600mm Dual Motor 3 Stage Motorized Height Adjustable Desk with White Stand & Wooden Table Top, KL SN 08 3S / W / WDTT 600 ...	Moglix	product			low	1501	50.03333333333333	2
-Rad Living	nykaa	landing			very_low	24138	365.72727272727275	2
-Freshtohome Foods Private Limited No. 1, 2nd Floor, Carlton Towers, Old Airport Road, Bangalore - 560008	freshtohome	landing			low	1501	50.03333333333333	2
-Avail the assistance of a Personal Shopper with prior appointment so you can shop at home online or in person.	shoppers_stop	landing			mid	283	4.716666666666667	2
-Pharmeasy Orthopaedic Electric Heat Belt - Extra Large	PharmEasy	cart			very_low	24138	365.72727272727275	2
+Software"	Techjockey	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+See more details if you want to unsubscribe	FabIndia	settings	0	Not Dark Pattern	high	44	1.0	2
+ADD NOW	The Souled Store	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Tomorrow 07:00 AM - 10:00 AM	DMart Ready	product	0	Not Dark Pattern	high	44	1.0	2
+Ans: Post-workout is ideal, but you can take it at any time during the day to meet your protein needs.	HealthKart	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Speakers	ajio	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Klass Ergonomic 1200x600mm Dual Motor 3 Stage Motorized Height Adjustable Desk with White Stand & Wooden Table Top, KL SN 08 3S / W / WDTT 600 ...	Moglix	product	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Rad Living	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Freshtohome Foods Private Limited No. 1, 2nd Floor, Carlton Towers, Old Airport Road, Bangalore - 560008	freshtohome	landing	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Avail the assistance of a Personal Shopper with prior appointment so you can shop at home online or in person.	shoppers_stop	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Pharmeasy Orthopaedic Electric Heat Belt - Extra Large	PharmEasy	cart	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
 "₹14,699
 ₹18,999
-22% off"	HealthKart	product			very_low	24138	365.72727272727275	2
-ABOUT	flipkart	landing			mid	283	4.716666666666667	2
-1 Ratings & Above	HealthKart	product			very_low	24138	365.72727272727275	2
-Spinny is the most trusted way of buying and selling used cars. Choose from over 10K fully inspected second-hand car models. Select online and book a test drive at your home or at a Spinny Car Hub near you. Get a no-questions-asked* 5-day money back guarantee and a free one-year comprehensive service warranty with Assured Resale Value on every Spinny car.	spinny	landing			high	44	1.0	2
-GST Software	Techjockey	settings			very_low	24138	365.72727272727275	2
-You may also like:	myntra	cart			mid	283	4.716666666666667	2
-Protein Chef Crunchy Coated Peanuts (Indian Masala)	Blinkit	landing			very_low	24138	365.72727272727275	2
-Did this resolve your issue?	Zepto	cancel_step			mid	283	4.716666666666667	2
-A good night’s sleep begins with the right mattress. At Pepperfry, we offer a variety of mattresses designed to provide the perfect balance of comfort and support. Whether you prefer memory foam, spring, or hybrid mattresses, we have options to suit every sleeping style. Choosing the right mattress is essential for your well-being, and we’ve made it easier to find a mattress that meets your needs. Our mattresses come in various sizes, including single, double, queen, and king, so that you can find the perfect fit for your bed. With our carefully curated selection, you can ensure that your sleep environment is as comfortable as possible.	myntra	landing			mid	283	4.716666666666667	2
-2.2k	myntra	product			very_low	24138	365.72727272727275	2
-Gorgio Professional	nykaa	landing			mid	283	4.716666666666667	2
-Coldcrush	Tata 1mg	product			very_low	24138	365.72727272727275	2
-5K+ bought in past month	amazon_in	product			high	44	1.0	2
-99 (₹333.00/count)	amazon_in	cart			high	44	1.0	2
-Get it by Thursday, Aug 13	FirstCry	product			mid	283	4.716666666666667	2
-Offers for you!	lifestyle	cart			mid	283	4.716666666666667	2
-Fri, 18 Sep	pantaloons	checkout			low	1501	50.03333333333333	2
+22% off"	HealthKart	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+ABOUT	flipkart	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+1 Ratings & Above	HealthKart	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Spinny is the most trusted way of buying and selling used cars. Choose from over 10K fully inspected second-hand car models. Select online and book a test drive at your home or at a Spinny Car Hub near you. Get a no-questions-asked* 5-day money back guarantee and a free one-year comprehensive service warranty with Assured Resale Value on every Spinny car.	spinny	landing	0	Not Dark Pattern	high	44	1.0	2
+GST Software	Techjockey	settings	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+You may also like:	myntra	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Protein Chef Crunchy Coated Peanuts (Indian Masala)	Blinkit	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Did this resolve your issue?	Zepto	cancel_step	unsure		mid	283	4.716666666666667	2
+A good night’s sleep begins with the right mattress. At Pepperfry, we offer a variety of mattresses designed to provide the perfect balance of comfort and support. Whether you prefer memory foam, spring, or hybrid mattresses, we have options to suit every sleeping style. Choosing the right mattress is essential for your well-being, and we’ve made it easier to find a mattress that meets your needs. Our mattresses come in various sizes, including single, double, queen, and king, so that you can find the perfect fit for your bed. With our carefully curated selection, you can ensure that your sleep environment is as comfortable as possible.	myntra	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+2.2k	myntra	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Gorgio Professional	nykaa	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Coldcrush	Tata 1mg	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+5K+ bought in past month	amazon_in	product	1	Social Proof	high	44	1.0	2
+99 (₹333.00/count)	amazon_in	cart	0	Not Dark Pattern	high	44	1.0	2
+Get it by Thursday, Aug 13	FirstCry	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Offers for you!	lifestyle	cart	1	Misdirection	mid	283	4.716666666666667	2
+Fri, 18 Sep	pantaloons	checkout	0	Not Dark Pattern	low	1501	50.03333333333333	2
 "Free
-Shipping"	JioMart	cart			mid	283	4.716666666666667	2
-Plein Sport	nykaa	landing			very_low	24138	365.72727272727275	2
-FREE SHIPPING*	Clovia	payment			mid	283	4.716666666666667	2
-Yakult	Zepto	cart			very_low	24138	365.72727272727275	2
-4 - 6 Years	FirstCry	product			low	1501	50.03333333333333	2
-Use this payment method	amazon_in	checkout			very_low	24138	365.72727272727275	2
+Shipping"	JioMart	cart	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Plein Sport	nykaa	landing	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+FREE SHIPPING*	Clovia	payment	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Yakult	Zepto	cart	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+4 - 6 Years	FirstCry	product	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Use this payment method	amazon_in	checkout	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
 "Add to Compare
 Nokia 105 Classic Single Sim Keypad Phone, Without Charger
-423,25"	flipkart	product			mid	283	4.716666666666667	2
-Register now to get updates on promotions and	snapdeal	product			mid	283	4.716666666666667	2
-HDFC BANK	FirstCry	cart			low	1501	50.03333333333333	2
-Gone are the days when you had to make a trip to the local butcher or fish market. With FreshToHome's online meat delivery service, you can order meat online from the comfort of your home. Whether you're a busy professional, a homemaker, or anyone in between, our user-friendly website and app make ordering meat a breeze.	freshtohome	landing			mid	283	4.716666666666667	2
-₹24,99913% off	flipkart	product			very_low	24138	365.72727272727275	2
-Femol	Tata 1mg	product			very_low	24138	365.72727272727275	2
-Would you like us to update your pincode?	FirstCry	cart			high	44	1.0	2
+423,25"	flipkart	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+Register now to get updates on promotions and	snapdeal	product	0	Not Dark Pattern	mid	283	4.716666666666667	2
+HDFC BANK	FirstCry	cart	0	Not Dark Pattern	low	1501	50.03333333333333	2
+Gone are the days when you had to make a trip to the local butcher or fish market. With FreshToHome's online meat delivery service, you can order meat online from the comfort of your home. Whether you're a busy professional, a homemaker, or anyone in between, our user-friendly website and app make ordering meat a breeze.	freshtohome	landing	0	Not Dark Pattern	mid	283	4.716666666666667	2
+₹24,99913% off	flipkart	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Femol	Tata 1mg	product	0	Not Dark Pattern	very_low	24138	365.72727272727275	2
+Would you like us to update your pincode?	FirstCry	cart	0	Not Dark Pattern	high	44	1.0	2
