@@ -1,14 +1,14 @@
 Pipeline run summary
 ========================================
 Sites processed: 39
-Raw scraped snippets (post-dedup): 26460
-Accepted (above confidence): 5535
-Needs review (below confidence): 20925
-Final combined rows: 5206
-  - Foreign (original): 2356
+Raw scraped snippets (post-dedup): 26260
+Accepted (above confidence): 5523
+Needs review (below confidence): 20737
+Final combined rows: 5204
+  - Foreign (original): 2354
   - Indian (scraped): 2850
   - Human-labelled Indian rows: 500
-Gold test texts held out: 300
-Label balance: {0: np.int64(3986), 1: np.int64(1220)}
-Category balance: {'Not Dark Pattern': np.int64(3986), 'Scarcity': np.int64(420), 'Social Proof': np.int64(324), 'Urgency': np.int64(223), 'Misdirection': np.int64(198), 'Obstruction': np.int64(33), 'Sneaking': np.int64(13), 'Forced Action': np.int64(9)}
+Gold test texts held out: 500
+Label balance: {0: np.int64(3979), 1: np.int64(1225)}
+Category balance: {'Not Dark Pattern': np.int64(3979), 'Scarcity': np.int64(419), 'Social Proof': np.int64(324), 'Urgency': np.int64(223), 'Misdirection': np.int64(196), 'Obstruction': np.int64(36), 'Sneaking': np.int64(14), 'Forced Action': np.int64(13)}
 Rare categories flagged: ['Sneaking', 'Forced Action']
