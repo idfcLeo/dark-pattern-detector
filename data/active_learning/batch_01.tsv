@@ -1,7 +1,7 @@
 text	site	step_label	label	Pattern Category
 Price-Low to High	The Souled Store	product	0	Not Dark Pattern
 Special Price	flipkart	product	0	Not Dark Pattern
-LOG IN WITH EMAIL	bluestone	landing	0	Not Dark Pattern
+LOG IN WITH EMAIL	bluestone	landing	1	Forced Action
 M.R.P: ₹11,999.00	amazon_in	product	0	Not Dark Pattern
 "Naruto: Akatsuki Fridge Magnet
 
@@ -35,7 +35,7 @@ SAFE
 ₹399
 ₹699
 43% off"	Tata 1mg	landing	0	Not Dark Pattern
-PAY NOW (PREPAID)	DMart Ready	payment	0	Not Dark Pattern
+PAY NOW (PREPAID)	DMart Ready	payment	1	Forced Action
 Items:	amazon_in	checkout	0	Not Dark Pattern
 This is a gift	amazon_in	cart	0	Not Dark Pattern
 Rs. 730Rs. 1483.65(51% OFF)	myntra	product	0	Not Dark Pattern
@@ -64,7 +64,7 @@ Original Price:
 ₹21.42"	Tata 1mg	product	0	Not Dark Pattern
 Fast & Up	HealthKart	product	0	Not Dark Pattern
 4 Innerwear at 599	Clovia	landing	0	Not Dark Pattern
-- Avoid Cod Charges, Save Rs 29	LimeRoad	checkout	1	Misdirection
+- Avoid Cod Charges, Save Rs 29	LimeRoad	checkout	1	Sneaking
 "ADD
 ₹95
 Amul Fresh Malai Paneer
@@ -88,11 +88,11 @@ OFF
 The Health Factory Zero Maida Classic Sourdough | Clean La"	Zepto	cart	0	Not Dark Pattern
 Jewellery Shop in Thane|	bluestone	landing	0	Not Dark Pattern
 Buying For Loved one?	FirstCry	cart	0	Not Dark Pattern
-Do I need to pay any charges for saving my card?	JioMart	cancel_step	0	Not Dark Pattern
+Do I need to pay any charges for saving my card?	JioMart	cancel_step	1	Obstruction
 Your Prime Membership	amazon_in	product	0	Not Dark Pattern
 Pay Full Amount	Moglix	checkout	0	Not Dark Pattern
 10 x 16 pack	Blinkit	landing	0	Not Dark Pattern
-LOG IN	bluestone	landing	0	Not Dark Pattern
+LOG IN	bluestone	landing	1	Forced Action
 Up To 40 Hours Of Playtime	noise	product	0	Not Dark Pattern
 "White Prawns / Indian Naaran / Jhinga / ಸೀಗಡಿ (Super Large)
 
@@ -149,12 +149,12 @@ Add Captions & Timestamps	Techjockey	product	0	Not Dark Pattern
 15"	HealthKart	product	0	Not Dark Pattern
 "Neckband
 Min. 50% Off"	flipkart	landing	0	Not Dark Pattern
-How can I check if the product I am ordering is in stock?	JioMart	cancel_step	0	Not Dark Pattern
+How can I check if the product I am ordering is in stock?	JioMart	cancel_step	1	Obstruction
 ₹3,999 ₹4,899 (18% off)	pepperfry	product	0	Not Dark Pattern
 Curated For The Festive Days	shoppers_stop	landing	0	Not Dark Pattern
 Offers Available (1)	Purplle	cart	0	Not Dark Pattern
-Trending now	amazon_in	product	0	Not Dark Pattern
-We may also refuse or cancel any order for legitimate business, operational, legal, or security reasons.	westside	cancel_step	0	Not Dark Pattern
+Trending now	amazon_in	product	1	Social Proof
+We may also refuse or cancel any order for legitimate business, operational, legal, or security reasons.	westside	cancel_step	1	Obstruction
 "Rohu / Rui / ರೋಹು Egg (Roe)
 
 ₹449.00
@@ -175,7 +175,7 @@ Get Extra 20% off On Your First App Order	nykaa	landing	0	Not Dark Pattern
 M.R.P: ₹68,999.00	amazon_in	cart	0	Not Dark Pattern
 SUPER SAVER DEALS	FirstCry	product	0	Not Dark Pattern
 The iPhone 16 is the best phone in this price range.	flipkart	product	0	Not Dark Pattern
-To apply this coupon, To apply this gift certificate, LOGIN NOW	FirstCry	cart	0	Not Dark Pattern
+To apply this coupon, To apply this gift certificate, LOGIN NOW	FirstCry	cart	1	Forced Action
 COD charges applied due to the higher cost involved in delivering COD orders on some pincodes. To avoid paying this charge, kindly make an online payment.	FirstCry	cart	0	Not Dark Pattern
 Find affordable medicine substitutes, save up to 50% on health products, up to 80% off on lab tests and free doctor consultations.	Tata 1mg	product	0	Not Dark Pattern
 Celevida For Diabetes Management- Nutrition Health Drink Vanilla Flavour 400G | No Added Sugar	PharmEasy	landing	0	Not Dark Pattern
