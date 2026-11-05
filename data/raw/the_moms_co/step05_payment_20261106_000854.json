@@ -1,0 +1,1782 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://themomsco.com/search?q=diaper&options%5Bprefix%5D=last",
+  "timestamp": "20261106_000854",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip To Content",
+      "tag": "A",
+      "x": 0,
+      "y": -500,
+      "width": 105,
+      "height": 39.900001525878906,
+      "visible": true
+    },
+    {
+      "text": "@ Flat 50% Off",
+      "tag": "A",
+      "x": 665.25,
+      "y": -493,
+      "width": 103.1875,
+      "height": 23.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shop All",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Care",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Lotion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Face Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diaper Rash Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Shampoo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Gift Kit",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mom Care",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Under Eye Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Postpartum Belt",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pregnancy Belt",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Wipes",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Day Baby Wipes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Natural Water Wipes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pocket Wipes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop All",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Combos",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Gift Kit",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Skin Care Pack",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diaper Rash Creamx2",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Daily Duo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Bath Ritual",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "tmc\n      \n      \n      \n      \n      \n    \n\n    \n    \n    \n    \n      \n      \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gifting",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bestseller",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop All",
+      "tag": "A",
+      "x": 13.699999809265137,
+      "y": 11.225000381469727,
+      "width": 64.5875015258789,
+      "height": 40.650001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 79.0875015258789,
+      "y": 62.67499923706055,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 79.0875015258789,
+      "y": 106.7750015258789,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 79.0875015258789,
+      "y": 150.875,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 79.0875015258789,
+      "y": 194.97500610351562,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 79.0875015258789,
+      "y": 239.0749969482422,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 79.0875015258789,
+      "y": 283.1750183105469,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 171.375,
+      "y": 62.67499923706055,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 171.375,
+      "y": 106.7750015258789,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 171.375,
+      "y": 150.875,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 265.125,
+      "y": 62.67499923706055,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 265.125,
+      "y": 106.7750015258789,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 265.125,
+      "y": 150.875,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 265.125,
+      "y": 194.97500610351562,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 366.7875061035156,
+      "y": 62.67499923706055,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 366.7875061035156,
+      "y": 106.7750015258789,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 366.7875061035156,
+      "y": 150.875,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 366.7875061035156,
+      "y": 194.97500610351562,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 366.7875061035156,
+      "y": 239.0749969482422,
+      "width": 248.40000915527344,
+      "height": 44.10000228881836,
+      "visible": true
+    },
+    {
+      "text": "Buy 4 @ 999",
+      "tag": "A",
+      "x": 13.699999809265137,
+      "y": 51.875,
+      "width": 88.57500457763672,
+      "height": 40.650001525878906,
+      "visible": true
+    },
+    {
+      "text": "Gifting",
+      "tag": "A",
+      "x": 102.2750015258789,
+      "y": 51.875,
+      "width": 55.150001525878906,
+      "height": 40.650001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 602.125,
+      "y": 10,
+      "width": 75.75,
+      "height": 83.75,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 848.8375244140625,
+      "y": 97.625,
+      "width": 46.20000076293945,
+      "height": 46.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 895.0375366210938,
+      "y": 97.625,
+      "width": 46.20000076293945,
+      "height": 46.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 946.4874877929688,
+      "y": 98.1500015258789,
+      "width": 35.54999923706055,
+      "height": 46.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account",
+      "tag": "BUTTON",
+      "x": 1047.0374755859375,
+      "y": 36.125,
+      "width": 105.11250305175781,
+      "height": 31.5,
+      "visible": true
+    },
+    {
+      "text": "My profile",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Addresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log out",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cart\n1\n1 item",
+      "tag": "A",
+      "x": 1182.1500244140625,
+      "y": 36.125,
+      "width": 77.8499984741211,
+      "height": 31.5,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue shopping",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "shipping",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View cart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Checkout\n    \n  \n  \n  \n    Loading..",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Save",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Example product title",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Example product title",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Example product title",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Example product title",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 52.5,
+      "y": -312.75,
+      "width": 40.23749923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Bestseller",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 797.6000366210938,
+      "y": -192.1999969482422,
+      "width": 46.20000076293945,
+      "height": 46.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 843.7999877929688,
+      "y": -192.1999969482422,
+      "width": 46.20000076293945,
+      "height": 46.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Clear all",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Category",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear all",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Apply",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear all",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 378.8000183105469,
+      "y": 18.6875,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Diaper Rash Cream - 25gm",
+      "tag": "A",
+      "x": 394.5500183105469,
+      "y": 303.3374938964844,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 394.5500183105469,
+      "y": 464.5375061035156,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 668.6000366210938,
+      "y": 18.6875,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Diaper Rash Cream - 2 Packs",
+      "tag": "A",
+      "x": 684.3500366210938,
+      "y": 303.3374938964844,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 684.3500366210938,
+      "y": 464.5375061035156,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 958.4000244140625,
+      "y": 18.6875,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "All Day Baby Wipes - 1 Pack",
+      "tag": "A",
+      "x": 974.1500244140625,
+      "y": 303.3374938964844,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 974.1500244140625,
+      "y": 464.5375061035156,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 378.8000183105469,
+      "y": 539.8875122070312,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "All Day Baby Wipes - 8 Packs",
+      "tag": "A",
+      "x": 394.5500183105469,
+      "y": 824.5375366210938,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 394.5500183105469,
+      "y": 968.3375244140625,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 668.6000366210938,
+      "y": 539.8875122070312,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "All Day Baby Wipes - 2 Packs",
+      "tag": "A",
+      "x": 684.3500366210938,
+      "y": 824.5375366210938,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 684.3500366210938,
+      "y": 968.3375244140625,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 958.4000244140625,
+      "y": 539.8875122070312,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "All Day Baby Wipes - 4 Packs",
+      "tag": "A",
+      "x": 974.1500244140625,
+      "y": 824.5375366210938,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 974.1500244140625,
+      "y": 968.3375244140625,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 378.8000183105469,
+      "y": 1043.6875,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Water Wipes - 8 Packs",
+      "tag": "A",
+      "x": 394.5500183105469,
+      "y": 1328.3375244140625,
+      "width": 236.60000610351562,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 394.5500183105469,
+      "y": 1512.737548828125,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 668.6000366210938,
+      "y": 1043.6875,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Water Wipes - 6 Packs",
+      "tag": "A",
+      "x": 684.3500366210938,
+      "y": 1328.3375244140625,
+      "width": 236.60000610351562,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 684.3500366210938,
+      "y": 1512.737548828125,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 958.4000244140625,
+      "y": 1043.6875,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Water Wipes - 4 Packs",
+      "tag": "A",
+      "x": 974.1500244140625,
+      "y": 1328.3375244140625,
+      "width": 236.60000610351562,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 974.1500244140625,
+      "y": 1512.737548828125,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 378.8000183105469,
+      "y": 1588.0875244140625,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "99% Water Pocket Wipes",
+      "tag": "A",
+      "x": 394.5500183105469,
+      "y": 1872.737548828125,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Choose Options",
+      "tag": "BUTTON",
+      "x": 394.5500183105469,
+      "y": 2029.237548828125,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 668.6000366210938,
+      "y": 1588.0875244140625,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Baby Bath Ritual",
+      "tag": "A",
+      "x": 684.3500366210938,
+      "y": 1872.737548828125,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 684.3500366210938,
+      "y": 2029.237548828125,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 958.4000244140625,
+      "y": 1588.0875244140625,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Water Wipes - 2 Packs",
+      "tag": "A",
+      "x": 974.1500244140625,
+      "y": 1872.737548828125,
+      "width": 236.60000610351562,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 974.1500244140625,
+      "y": 2029.237548828125,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 378.8000183105469,
+      "y": 2104.587646484375,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Water Wipes - 1 Pack",
+      "tag": "A",
+      "x": 394.5500183105469,
+      "y": 2389.237548828125,
+      "width": 236.60000610351562,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 394.5500183105469,
+      "y": 2539.9375,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 668.6000366210938,
+      "y": 2104.587646484375,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Baby Skin Care Pack",
+      "tag": "A",
+      "x": 684.3500366210938,
+      "y": 2389.237548828125,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 684.3500366210938,
+      "y": 2539.9375,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 958.4000244140625,
+      "y": 2104.587646484375,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "3-in-1 Postpartum Belt",
+      "tag": "A",
+      "x": 974.1500244140625,
+      "y": 2389.237548828125,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 974.1500244140625,
+      "y": 2539.9375,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 378.8000183105469,
+      "y": 2615.28759765625,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "All Day Baby Wipes - 6 Packs",
+      "tag": "A",
+      "x": 394.5500183105469,
+      "y": 2899.9375,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 394.5500183105469,
+      "y": 3026.337646484375,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 668.6000366210938,
+      "y": 2615.28759765625,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Baby Gift Kit",
+      "tag": "A",
+      "x": 684.3500366210938,
+      "y": 2899.9375,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 684.3500366210938,
+      "y": 3026.337646484375,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 958.4000244140625,
+      "y": 2615.28759765625,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Baby Daily Duo",
+      "tag": "A",
+      "x": 974.1500244140625,
+      "y": 2899.9375,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 974.1500244140625,
+      "y": 3026.337646484375,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 378.8000183105469,
+      "y": 3101.6875,
+      "width": 268.1000061035156,
+      "height": 268.1000061035156,
+      "visible": true
+    },
+    {
+      "text": "Buy 4@999",
+      "tag": "A",
+      "x": 394.5500183105469,
+      "y": 3386.337646484375,
+      "width": 236.60000610351562,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 394.5500183105469,
+      "y": 3459.4375,
+      "width": 236.60000610351562,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 53.29999923706055,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Baby Gift Kit",
+      "tag": "A",
+      "x": 69.05000305175781,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 69.05000305175781,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 352.0500183105469,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Lotion - 200ml",
+      "tag": "A",
+      "x": 367.8000183105469,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 367.8000183105469,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 650.7999877929688,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Shampoo - 200ml",
+      "tag": "A",
+      "x": 666.5499877929688,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 666.5499877929688,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 949.5499877929688,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Face Cream - 50gm",
+      "tag": "A",
+      "x": 965.2999877929688,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 965.2999877929688,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1248.300048828125,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Wash - 200ml",
+      "tag": "A",
+      "x": 1264.050048828125,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Back Soon",
+      "tag": "BUTTON",
+      "x": 1264.050048828125,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1547.050048828125,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Diaper Rash Cream - 2 Packs",
+      "tag": "A",
+      "x": 1562.800048828125,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 1562.800048828125,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1845.800048828125,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "All Day Baby Wipes - 2 Packs",
+      "tag": "A",
+      "x": 1861.550048828125,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 1861.550048828125,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2144.550048828125,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Natural Baby Water Wipes - 8 Packs",
+      "tag": "A",
+      "x": 2160.300048828125,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 2160.300048828125,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2443.300048828125,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "99% Water Pocket Wipes",
+      "tag": "A",
+      "x": 2459.050048828125,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Choose Options",
+      "tag": "BUTTON",
+      "x": 2459.050048828125,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2742.050048828125,
+      "y": 3666.525146484375,
+      "width": 277.0500183105469,
+      "height": 277.0500183105469,
+      "visible": true
+    },
+    {
+      "text": "Baby Daily Duo",
+      "tag": "A",
+      "x": 2757.800048828125,
+      "y": 3960.125,
+      "width": 245.5500030517578,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Add To Cart",
+      "tag": "BUTTON",
+      "x": 2757.800048828125,
+      "y": 4144.52490234375,
+      "width": 245.5500030517578,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "hello@themomsco.com",
+      "tag": "A",
+      "x": 82.5,
+      "y": 4622.78759765625,
+      "width": 154.6125030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Shipping & Delivery",
+      "tag": "A",
+      "x": 351.25,
+      "y": 4443.3876953125,
+      "width": 131.8625030517578,
+      "height": 31.149999618530273,
+      "visible": true
+    },
+    {
+      "text": "Cancellation Policy",
+      "tag": "A",
+      "x": 351.25,
+      "y": 4474.53759765625,
+      "width": 125.38750457763672,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 650,
+      "y": 4443.3876953125,
+      "width": 62.5,
+      "height": 31.149999618530273,
+      "visible": true
+    },
+    {
+      "text": "Terms of Use",
+      "tag": "A",
+      "x": 650,
+      "y": 4474.53759765625,
+      "width": 85.8375015258789,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 650,
+      "y": 4510.9375,
+      "width": 89.75,
+      "height": 36.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Facebook",
+      "tag": "A",
+      "x": 948.75,
+      "y": 4443.3876953125,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Instagram",
+      "tag": "A",
+      "x": 986.75,
+      "y": 4443.3876953125,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "The Moms Co.",
+      "tag": "A",
+      "x": 551.2125244140625,
+      "y": 4684.1376953125,
+      "width": 97.55000305175781,
+      "height": 23.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Powered by Shopify",
+      "tag": "A",
+      "x": 652.9000244140625,
+      "y": 4684.1376953125,
+      "width": 133,
+      "height": 23.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1238,
+      "y": 768,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Search",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1035.2000732421875,
+      "y": 107.80000305175781,
+      "width": 42,
+      "height": 40.82500076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1035.2000732421875,
+      "y": 107.80000305175781,
+      "width": 42,
+      "height": 40.82500076293945,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "step": 4,
+  "label": "checkout",
+  "url": "https://foxtale.in/search?query=lipbam",
+  "timestamp": "20261105_233056",
+  "suspected_pattern": "hidden_costs?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": -343.5,
+      "width": 125,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Skincare",
+      "tag": "BUTTON",
+      "x": 295.1625061035156,
+      "y": -339,
+      "width": 90.9375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Skincare",
+      "tag": "A",
+      "x": 295.1625061035156,
+      "y": -339,
+      "width": 70.9375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Serums\nNEW",
+      "tag": "BUTTON",
+      "x": 414.1000061035156,
+      "y": -339,
+      "width": 135.25,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Serums",
+      "tag": "A",
+      "x": 414.1000061035156,
+      "y": -339,
+      "width": 62.150001525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Bodycare",
+      "tag": "BUTTON",
+      "x": 577.3500366210938,
+      "y": -344,
+      "width": 169.85000610351562,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Bodycare",
+      "tag": "A",
+      "x": 577.3500366210938,
+      "y": -339,
+      "width": 77.8499984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Gift Sets",
+      "tag": "BUTTON",
+      "x": 775.2000122070312,
+      "y": -339,
+      "width": 86.82500457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Gift Sets",
+      "tag": "A",
+      "x": 775.2000122070312,
+      "y": -339,
+      "width": 66.82500457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "x": 890.0250244140625,
+      "y": -339,
+      "width": 49.29999923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 967.3250122070312,
+      "y": -339,
+      "width": 44.51250076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1142,
+      "y": -339,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1186,
+      "y": -339,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 1216,
+      "y": -337,
+      "width": 24,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sort by",
+      "tag": "BUTTON",
+      "x": 72,
+      "y": -250,
+      "width": 180,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Sort by",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72.80000305175781,
+      "y": -181.1999969482422,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "Brightening Lip Balm | Kit of 2",
+      "tag": "A",
+      "x": 96.80000305175781,
+      "y": 115.20000457763672,
+      "width": 216.40000915527344,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "SELECT SHADE",
+      "tag": "BUTTON",
+      "x": 183.5124969482422,
+      "y": 247,
+      "width": 129.6875,
+      "height": 56,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 362.8000183105469,
+      "y": -181.1999969482422,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "Lip Sleeping Mask with Maracuja Oil",
+      "tag": "A",
+      "x": 386.8000183105469,
+      "y": 115.20000457763672,
+      "width": 216.40000915527344,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 536.2000122070312,
+      "y": 277,
+      "width": 24,
+      "height": 12,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 565.2000122070312,
+      "y": 271,
+      "width": 22,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 652.7999877929688,
+      "y": -181.1999969482422,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "Super Glow Illuminating Moisturizer",
+      "tag": "A",
+      "x": 676.7999877929688,
+      "y": 115.20000457763672,
+      "width": 216.40000915527344,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 824.4500122070312,
+      "y": 263,
+      "width": 68.75,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 942.7999877929688,
+      "y": -181.1999969482422,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "Hydrating Moisturizer with Ceramide",
+      "tag": "A",
+      "x": 966.7999877929688,
+      "y": 115.20000457763672,
+      "width": 216.40000915527344,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 1114.4500732421875,
+      "y": 263,
+      "width": 68.75,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 72.80000305175781,
+      "y": 352.6000061035156,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "SPF 50 Tinted Fluid Sunscreen with Niacinamide",
+      "tag": "A",
+      "x": 96.80000305175781,
+      "y": 649,
+      "width": 216.40000915527344,
+      "height": 72,
+      "visible": true
+    },
+    {
+      "text": "SELECT SHADE",
+      "tag": "BUTTON",
+      "x": 175.1125030517578,
+      "y": 804.7999877929688,
+      "width": 138.08750915527344,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 362.8000183105469,
+      "y": 352.6000061035156,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "Glow At First Sight Gift Set",
+      "tag": "A",
+      "x": 386.8000183105469,
+      "y": 649,
+      "width": 216.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 534.4500122070312,
+      "y": 800.7999877929688,
+      "width": 68.75,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 652.7999877929688,
+      "y": 352.6000061035156,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "Morning Glory with CoverUp Dewy Sunscreen",
+      "tag": "A",
+      "x": 676.7999877929688,
+      "y": 649,
+      "width": 216.40000915527344,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 824.4500122070312,
+      "y": 800.7999877929688,
+      "width": 68.75,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 942.7999877929688,
+      "y": 352.6000061035156,
+      "width": 264.3999938964844,
+      "height": 264.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "Smooth & Go Gift Set",
+      "tag": "A",
+      "x": 966.7999877929688,
+      "y": 649,
+      "width": 216.40000915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 1114.4500732421875,
+      "y": 800.7999877929688,
+      "width": 68.75,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Order & Support",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Information",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track My Order",
+      "tag": "A",
+      "x": 56,
+      "y": 1025.5999755859375,
+      "width": 104.9749984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Shipping & Returns",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 1025.5999755859375,
+      "width": 131.9875030517578,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Ingredients Glossary",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 1057.5999755859375,
+      "width": 142.9499969482422,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 1089.5999755859375,
+      "width": 94.55000305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 1121.5999755859375,
+      "width": 114.8499984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 1153.5999755859375,
+      "width": 34.837501525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Creator Collaborations",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 1025.5999755859375,
+      "width": 160.1999969482422,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Affiliate Program",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 1057.5999755859375,
+      "width": 116.82500457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Get in touch",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 1089.5999755859375,
+      "width": 85.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 1121.5999755859375,
+      "width": 92.1624984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 1153.5999755859375,
+      "width": 55.38750076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 809.5375366210938,
+      "y": 1021.6000366210938,
+      "width": 146,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 975.5375366210938,
+      "y": 1021.6000366210938,
+      "width": 146,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 1108.625,
+      "y": 1157.5999755859375,
+      "width": 109.375,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "Moisturizer for oily skin",
+      "tag": "A",
+      "x": 56,
+      "y": 1313.2000732421875,
+      "width": 177.625,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sunscreen for oily skin",
+      "tag": "A",
+      "x": 246.8249969482422,
+      "y": 1313.2000732421875,
+      "width": 176.16250610351562,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Facewash for oily skin",
+      "tag": "A",
+      "x": 436.1875,
+      "y": 1313.2000732421875,
+      "width": 173.22500610351562,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Moisturizer for dry skin",
+      "tag": "A",
+      "x": 622.6124877929688,
+      "y": 1313.2000732421875,
+      "width": 176.3000030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sunscreen for dry skin",
+      "tag": "A",
+      "x": 812.1124877929688,
+      "y": 1313.2000732421875,
+      "width": 174.83750915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Facewash for dry skin",
+      "tag": "A",
+      "x": 1000.1500244140625,
+      "y": 1313.2000732421875,
+      "width": 171.90000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Chakshu Portal",
+      "tag": "A",
+      "x": 586.6375122070312,
+      "y": 1628,
+      "width": 109.0625,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 586,
+      "y": 1811.2000732421875,
+      "width": 22,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 616,
+      "y": 1813.2000732421875,
+      "width": 18,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 642,
+      "y": 1811.2000732421875,
+      "width": 22,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 672,
+      "y": 1811.2000732421875,
+      "width": 22,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1226,
+      "y": 46,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 914.7999877929688,
+      "y": 200.3000030517578,
+      "width": 60,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "Lip Sleeping Mask with Maracuja Oil",
+      "tag": "A",
+      "x": 985.7999877929688,
+      "y": 195.8000030517578,
+      "width": 189.1999969482422,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1183,
+      "y": 218.3000030517578,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 1232,
+      "y": 218.3000030517578,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 921.6000366210938,
+      "y": 446.8000183105469,
+      "width": 50,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Skin Radiance De-Tan Mask",
+      "tag": "A",
+      "x": 979.6000366210938,
+      "y": 455.20001220703125,
+      "width": 155.0749969482422,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 1155.125,
+      "y": 455.8000183105469,
+      "width": 44.875,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1229.5999755859375,
+      "y": 446.8000183105469,
+      "width": 50,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "10% Vitamin C-Glutathione Advanced Brightening Serum",
+      "tag": "A",
+      "x": 1287.5999755859375,
+      "y": 448.20001220703125,
+      "width": 167.52500915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 1463.125,
+      "y": 455.8000183105469,
+      "width": 44.875,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1537.5999755859375,
+      "y": 446.8000183105469,
+      "width": 50,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Oil Balancing Moisturizer with Niacinamide & Cica",
+      "tag": "A",
+      "x": 1595.5999755859375,
+      "y": 448.20001220703125,
+      "width": 167.52500915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 1771.125,
+      "y": 455.8000183105469,
+      "width": 44.875,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1845.5999755859375,
+      "y": 446.8000183105469,
+      "width": 50,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "8% De-Tan Body Wash",
+      "tag": "A",
+      "x": 1903.5999755859375,
+      "y": 455.20001220703125,
+      "width": 125.42500305175781,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 2079.125,
+      "y": 455.8000183105469,
+      "width": 44.875,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2153.60009765625,
+      "y": 446.8000183105469,
+      "width": 50,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Super Glow De-tan Face Wash",
+      "tag": "A",
+      "x": 2211.60009765625,
+      "y": 448.20001220703125,
+      "width": 167.52500915527344,
+      "height": 28,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 2387.125,
+      "y": 455.8000183105469,
+      "width": 44.875,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Remove",
+      "tag": "BUTTON",
+      "x": 1206.5625,
+      "y": 536,
+      "width": 49.4375,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "Checkout Now",
+      "tag": "BUTTON",
+      "x": 914.7999877929688,
+      "y": 668,
+      "width": 341.20001220703125,
+      "height": 38,
+      "visible": true
+    }
+  ]
+}

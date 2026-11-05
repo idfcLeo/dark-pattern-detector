@@ -1,0 +1,252 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://profile.abfrl.in/info",
+  "timestamp": "20261105_232716",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "MY ACCOUNT",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 177.8000030517578,
+      "width": 89.20000457763672,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "MY ORDERS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 232.8000030517578,
+      "width": 77.0374984741211,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "MY CREDITS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 282.8000183105469,
+      "width": 80.125,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "LOYALTY POINTS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 332.8000183105469,
+      "width": 109.5875015258789,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "ADDRESS BOOK",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 382.8000183105469,
+      "width": 101.76250457763672,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "SAVED CARDS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 432.8000183105469,
+      "width": 91.57500457763672,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "WISHLIST",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 482.8000183105469,
+      "width": 63.26250076293945,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "SHARED PRODUCTS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 532.7999877929688,
+      "width": 128.625,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "SHOP PREFERENCES",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 582.7999877929688,
+      "width": 133.96250915527344,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "MY REVIEWS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 632.7999877929688,
+      "width": 82.8499984741211,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "LOG OUT",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 682.7999877929688,
+      "width": 57.150001525878906,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 387,
+      "y": 78.70000457763672,
+      "width": 32.29999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 50,
+      "y": 906,
+      "width": 176.66250610351562,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "NEED HELP?",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aditya Birla Lifestyle Brands Ltd",
+      "tag": "A",
+      "x": 352.8625183105469,
+      "y": 906,
+      "width": 176.66250610351562,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "ABOUT US",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aditya Birla Lifestyle Brands Ltd",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 655.7374877929688,
+      "y": 906,
+      "width": 176.66250610351562,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions Of Use",
+      "tag": "A",
+      "x": 655.7374877929688,
+      "y": 929,
+      "width": 176.66250610351562,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Shipping Policy",
+      "tag": "A",
+      "x": 655.7374877929688,
+      "y": 952,
+      "width": 176.66250610351562,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Return And Cancellation Policy",
+      "tag": "A",
+      "x": 655.7374877929688,
+      "y": 975,
+      "width": 176.66250610351562,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "POLICIES",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Terms & Conditions of Use",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shipping Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return and Cancellation policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

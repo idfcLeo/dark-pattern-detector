@@ -1,0 +1,7065 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.bunai.com/",
+  "timestamp": "20261106_000219",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "SKIP TO CONTENT",
+      "tag": "A",
+      "x": -1,
+      "y": -1,
+      "width": 160,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 534.7875366210938,
+      "y": 45.67499923706055,
+      "width": 200,
+      "height": 85,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1093.6500244140625,
+      "y": 67.86250305175781,
+      "width": 51.20000076293945,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "Order History",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1186.8499755859375,
+      "y": 70.1624984741211,
+      "width": 36,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "NEW ARRIVALS",
+      "tag": "A",
+      "x": 285.8125,
+      "y": 147.27500915527344,
+      "width": 122.5250015258789,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "KURTA & SUIT SETS",
+      "tag": "A",
+      "x": 418.3374938964844,
+      "y": 147.27500915527344,
+      "width": 150.3000030517578,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "CO-ORDS SETS",
+      "tag": "A",
+      "x": 578.6375122070312,
+      "y": 147.27500915527344,
+      "width": 121.82500457763672,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "DRESSES",
+      "tag": "A",
+      "x": 710.4625244140625,
+      "y": 147.27500915527344,
+      "width": 85.3375015258789,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "MENSWEAR",
+      "tag": "A",
+      "x": 805.7999877929688,
+      "y": 147.27500915527344,
+      "width": 101.1624984741211,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "SALE",
+      "tag": "A",
+      "x": 916.9625244140625,
+      "y": 147.27500915527344,
+      "width": 56.8125,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -36,
+      "y": 45.67499923706055,
+      "width": 22,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "NEW ARRIVALS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "INDIAN WEAR",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Indian Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anarkali Suit Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sarees",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lehenga Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Juttis",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WESTERN WEAR",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Western Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dresses",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Co-ord Sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nightwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MENSWEAR",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Menswear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men's Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men's Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SALE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "NEW ARRIVALS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "KURTA & SUIT SETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CO-ORDS SETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "DRESSES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MENSWEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SALE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log out",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "LOG IN",
+      "tag": "A",
+      "x": -374,
+      "y": 526.9000244140625,
+      "width": 90,
+      "height": 31.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "English",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Afghanistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Åland Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Albania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Algeria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Andorra (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angola (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anguilla (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Antigua & Barbuda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Argentina (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Armenia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aruba (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ascension Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Australia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Austria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Azerbaijan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bahamas (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bahrain (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bangladesh (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Barbados (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Belarus (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Belgium (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Belize (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Benin (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bermuda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bhutan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bolivia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bosnia & Herzegovina (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Botswana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bouvet Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brazil (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "British Indian Ocean Territory (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "British Virgin Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brunei (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bulgaria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Burkina Faso (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Burundi (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cambodia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cameroon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Canada (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cape Verde (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Caribbean Netherlands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cayman Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Central African Republic (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chad (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chile (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "China (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Christmas Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cocos (Keeling) Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Colombia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Comoros (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Congo - Brazzaville (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Congo - Kinshasa (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cook Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Costa Rica (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Côte d’Ivoire (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Croatia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Curaçao (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cyprus (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Czechia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Denmark (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Djibouti (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dominica (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dominican Republic (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ecuador (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Egypt (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "El Salvador (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Equatorial Guinea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eritrea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Estonia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eswatini (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethiopia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Falkland Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Faroe Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fiji (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Finland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "France (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "French Guiana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "French Polynesia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "French Southern Territories (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gabon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gambia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Georgia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Germany (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ghana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gibraltar (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Greece (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Greenland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Grenada (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guadeloupe (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guatemala (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guernsey (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guinea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guinea-Bissau (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guyana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Haiti (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heard & McDonald Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Honduras (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hong Kong SAR (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hungary (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iceland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "India (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indonesia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iraq (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ireland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Isle of Man (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Israel (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Italy (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jamaica (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Japan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jersey (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jordan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kazakhstan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kenya (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kiribati (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kosovo (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kuwait (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kyrgyzstan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Laos (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Latvia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lebanon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lesotho (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liberia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Libya (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liechtenstein (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lithuania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Luxembourg (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Macao SAR (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Madagascar (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Malawi (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Malaysia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maldives (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mali (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Malta (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Martinique (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mauritania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mauritius (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mayotte (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mexico (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moldova (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Monaco (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mongolia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Montenegro (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Montserrat (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Morocco (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mozambique (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Myanmar (Burma) (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Namibia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nauru (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nepal (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Netherlands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Netherlands Antilles (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Caledonia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Zealand (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nicaragua (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Niger (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nigeria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Niue (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Norfolk Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "North Macedonia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Norway (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oman (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pakistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Palestinian Territories (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Panama (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Papua New Guinea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Paraguay (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Peru (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Philippines (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pitcairn Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Poland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Portugal (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Qatar (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Réunion (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Romania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Russia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rwanda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Samoa (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "San Marino (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "São Tomé & Príncipe (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Saudi Arabia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Senegal (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Serbia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Seychelles (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sierra Leone (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Singapore (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sint Maarten (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Slovakia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Slovenia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Solomon Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Somalia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Africa (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Georgia & South Sandwich Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Korea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Sudan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spain (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sri Lanka (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Barthélemy (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Helena (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Kitts & Nevis (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Lucia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Martin (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Pierre & Miquelon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Vincent & Grenadines (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sudan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Suriname (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Svalbard & Jan Mayen (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sweden (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Switzerland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Taiwan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tajikistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tanzania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thailand (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Timor-Leste (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Togo (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tokelau (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tonga (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Trinidad & Tobago (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tristan da Cunha (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tunisia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Türkiye (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Turkmenistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Turks & Caicos Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tuvalu (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "U.S. Outlying Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Uganda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ukraine (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "United Arab Emirates (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "United Kingdom (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "United States (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Uruguay (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Uzbekistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vanuatu (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vatican City (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Venezuela (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vietnam (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wallis & Futuna (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Western Sahara (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Yemen (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zambia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zimbabwe (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -384,
+      "y": 630.6000366210938,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -340,
+      "y": 630.6000366210938,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -296,
+      "y": 630.6000366210938,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -252,
+      "y": 630.6000366210938,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -208,
+      "y": 630.6000366210938,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.27500915527344,
+      "width": 1269.5999755859375,
+      "height": 512.7125244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.27500915527344,
+      "width": 1269.5999755859375,
+      "height": 512.7125244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.27500915527344,
+      "width": 1269.5999755859375,
+      "height": 512.7125244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.27500915527344,
+      "width": 1269.5999755859375,
+      "height": 512.7125244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.27500915527344,
+      "width": 1269.5999755859375,
+      "height": 512.7125244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.27500915527344,
+      "width": 1269.5999755859375,
+      "height": 512.7125244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.27500915527344,
+      "width": 1269.5999755859375,
+      "height": 512.7125244140625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 46.73749923706055,
+      "y": 906.9125366210938,
+      "width": 179.35000610351562,
+      "height": 181.1374969482422,
+      "visible": true
+    },
+    {
+      "text": "NEW ARRIVALS",
+      "tag": "A",
+      "x": 82.17500305175781,
+      "y": 1095.6500244140625,
+      "width": 108.4625015258789,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 246.08750915527344,
+      "y": 906.9125366210938,
+      "width": 179.35000610351562,
+      "height": 181.1374969482422,
+      "visible": true
+    },
+    {
+      "text": "KURTA & SUIT SETS",
+      "tag": "A",
+      "x": 266.76251220703125,
+      "y": 1095.6500244140625,
+      "width": 137.9875030517578,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 445.4375,
+      "y": 906.9125366210938,
+      "width": 179.35000610351562,
+      "height": 181.1374969482422,
+      "visible": true
+    },
+    {
+      "text": "CO-ORDS",
+      "tag": "A",
+      "x": 500.4624938964844,
+      "y": 1095.6500244140625,
+      "width": 69.30000305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 644.7875366210938,
+      "y": 906.9125366210938,
+      "width": 179.35000610351562,
+      "height": 181.1374969482422,
+      "visible": true
+    },
+    {
+      "text": "DRESSES",
+      "tag": "A",
+      "x": 703.2125244140625,
+      "y": 1095.6500244140625,
+      "width": 62.48749923706055,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 844.1375122070312,
+      "y": 906.9125366210938,
+      "width": 179.35000610351562,
+      "height": 181.1374969482422,
+      "visible": true
+    },
+    {
+      "text": "MEN'S WEAR",
+      "tag": "A",
+      "x": 886.8500366210938,
+      "y": 1095.6500244140625,
+      "width": 93.92500305175781,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1043.487548828125,
+      "y": 906.9125366210938,
+      "width": 179.35000610351562,
+      "height": 181.1374969482422,
+      "visible": true
+    },
+    {
+      "text": "SALE",
+      "tag": "A",
+      "x": 1115.9375,
+      "y": 1095.6500244140625,
+      "width": 34.45000076293945,
+      "height": 21.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 1239.7874755859375,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Print Crush Co-ord Set",
+      "tag": "A",
+      "x": 15,
+      "y": 1705.1375732421875,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 1239.7874755859375,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Motif Magic Co-ord Set",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 1705.1375732421875,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 1239.7874755859375,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rust Keen Co-ord Set",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 1705.1375732421875,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 1239.7874755859375,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Garnet Grace Co-ord set",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 1705.1375732421875,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 579.4125366210938,
+      "y": 1777.75,
+      "width": 110.76250457763672,
+      "height": 45.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 1950.0875244140625,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Cotton Suit Set with Organza Dupatta",
+      "tag": "A",
+      "x": 15,
+      "y": 2415.4375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 1950.0875244140625,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Esha Cotton Suit Set",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 2439.4375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 1950.0875244140625,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bhavika Cotton Suit Set",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 2439.4375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 1950.0875244140625,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orange Myra Suit Set",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 2415.4375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 579.4125366210938,
+      "y": 2512.050048828125,
+      "width": 110.76250457763672,
+      "height": 45.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 2711,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Embroidered Cotton Co-ord Set",
+      "tag": "A",
+      "x": 15,
+      "y": 3200.35009765625,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 2711,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Parfait Cotton Kurta Set",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 3176.35009765625,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 2711,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Noorani Embroidered Kurta Set",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 3176.35009765625,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 2711,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cotton Enchant Kurta Set",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 3200.35009765625,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 579.4125366210938,
+      "y": 3272.962646484375,
+      "width": 110.76250457763672,
+      "height": 45.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 3987.300048828125,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "XS\n              \n            \n              \n                S\n              \n ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indigo Peont Cotton Dress",
+      "tag": "A",
+      "x": 15,
+      "y": 4452.64990234375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 3987.300048828125,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mint Embroidered Cotton Dress",
+      "tag": "A",
+      "x": 329.8999938964844,
+      "y": 4476.64990234375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 3987.300048828125,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TENDER GREEN COTTON DRESS",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 4476.64990234375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 3987.300048828125,
+      "width": 294.8999938964844,
+      "height": 439.3999938964844,
+      "visible": true
+    },
+    {
+      "text": "S\n              \n            \n              \n                M\n              \n  ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bunai Sweetheart Cotton Dress",
+      "tag": "A",
+      "x": 959.7000122070312,
+      "y": 4452.64990234375,
+      "width": 294.8999938964844,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 579.4125366210938,
+      "y": 4549.2626953125,
+      "width": 110.76250457763672,
+      "height": 45.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 56.73749923706055,
+      "y": 4793.27490234375,
+      "width": 38,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1174.8499755859375,
+      "y": 4793.27490234375,
+      "width": 38,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2862.78759765625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2681.362548828125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2499.9375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2318.512451171875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1955.6624755859375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1774.237548828125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1592.8125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1411.3875732421875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1229.9625244140625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1048.5374755859375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -867.1124877929688,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -685.6875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -504.26251220703125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 584.2875366210938,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 765.7125244140625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 947.1375122070312,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1128.5625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1309.987548828125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1491.4124755859375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1672.8375244140625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1854.2625732421875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2035.6875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2217.112548828125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2398.53759765625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2579.962646484375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2942.8125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3124.237548828125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3305.66259765625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3487.087646484375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3668.512451171875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3849.9375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4031.362548828125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4212.78759765625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 4394.21240234375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5482.7626953125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5664.1875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 5845.61279296875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6027.03759765625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6208.46240234375,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6389.8876953125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6571.3125,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6752.73779296875,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 6934.16259765625,
+      "y": 5020.66259765625,
+      "width": 112.98750305175781,
+      "height": 14.40000057220459,
+      "visible": true
+    },
+    {
+      "text": "‹",
+      "tag": "BUTTON",
+      "x": -5,
+      "y": 4984.08740234375,
+      "width": 15.975000381469727,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "›",
+      "tag": "BUTTON",
+      "x": 1258.625,
+      "y": 4984.08740234375,
+      "width": 15.975000381469727,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "Urvi Cotton Suit Set",
+      "tag": "A",
+      "x": 15,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Light Pink Sleeveless Cotton Dress",
+      "tag": "A",
+      "x": 214.1999969482422,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Damini Cotton Suit Set",
+      "tag": "A",
+      "x": 413.3999938964844,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "White cotton dobby co-ord set",
+      "tag": "A",
+      "x": 612.6000366210938,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Black Embroidered Cotton Co-ord Set",
+      "tag": "A",
+      "x": 811.7999877929688,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Bhavika Cotton Suit Set",
+      "tag": "A",
+      "x": 1011,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Nandini Georgette Suit Set",
+      "tag": "A",
+      "x": 1210.2000732421875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Toasted Brown Georgette Dress",
+      "tag": "A",
+      "x": 1409.4000244140625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Orange Bandhej Cotton Suit Set",
+      "tag": "A",
+      "x": 1608.5999755859375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Black Fiesta Cotton Dress",
+      "tag": "A",
+      "x": 1807.800048828125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Rosy Georgette Suit Set",
+      "tag": "A",
+      "x": 2007,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Cyprus Green Dress",
+      "tag": "A",
+      "x": 2206.199951171875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Mink Aari Work Kurta Pants",
+      "tag": "A",
+      "x": 2405.400146484375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Divya Georgette Suit Set",
+      "tag": "A",
+      "x": 2604.60009765625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Jet Black Net Dress",
+      "tag": "A",
+      "x": 2803.800048828125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Striped Printed Matching Set",
+      "tag": "A",
+      "x": 3003,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Rose Dawn Sharara Set",
+      "tag": "A",
+      "x": 3202.199951171875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "White Suit with Indigo Dupatta",
+      "tag": "A",
+      "x": 3401.400146484375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Zara Georgette Suit Set",
+      "tag": "A",
+      "x": 3600.60009765625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Jhanvi Cotton Suit Set",
+      "tag": "A",
+      "x": 3799.800048828125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Harini Georgette Suit Set",
+      "tag": "A",
+      "x": 3999,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Orange Bandhej Cotton Suit Set",
+      "tag": "A",
+      "x": 4198.2001953125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Yellow Green Mirror Work Suit Set",
+      "tag": "A",
+      "x": 4397.39990234375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Aqua Mist Draped Saree",
+      "tag": "A",
+      "x": 4596.60009765625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Amelia Cotton Maxi Dress",
+      "tag": "A",
+      "x": 4795.80029296875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Black Floral Chiffon Suit Set",
+      "tag": "A",
+      "x": 4995,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Tropical Tango Cotton Dress",
+      "tag": "A",
+      "x": 5194.2001953125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Tango Draped Saree",
+      "tag": "A",
+      "x": 5393.39990234375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Riva Cotton Suit Set",
+      "tag": "A",
+      "x": 5592.60009765625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Apricot Georgette Suit Set",
+      "tag": "A",
+      "x": 5791.80029296875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Minty Marvel Embroidered Cotton Dress",
+      "tag": "A",
+      "x": 5991,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Rosy Pink Georgette Suit Set",
+      "tag": "A",
+      "x": 6190.2001953125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "White Pink Embroidered Co-ord Set",
+      "tag": "A",
+      "x": 6389.39990234375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Street Style Dropcrotch Jumpsuit",
+      "tag": "A",
+      "x": 6588.60009765625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Hot Blue Organza Draped Saree",
+      "tag": "A",
+      "x": 6787.80029296875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Misty Pink Georgette Suit Set",
+      "tag": "A",
+      "x": 6987,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Multicolor Bandhej Drape Saree",
+      "tag": "A",
+      "x": 7186.2001953125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Red Gotta Suit Set",
+      "tag": "A",
+      "x": 7385.39990234375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Olivia Cotton Maxi Dress",
+      "tag": "A",
+      "x": 7584.60009765625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Blue Floral Suit Set",
+      "tag": "A",
+      "x": 7783.80029296875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Taruni Floral Draped Saree",
+      "tag": "A",
+      "x": 7983,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Maroon Georgette Suit Set",
+      "tag": "A",
+      "x": 8182.2001953125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Terracotta Orange Suit Set",
+      "tag": "A",
+      "x": 8381.400390625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Grey White Handblock Printed Suit Set",
+      "tag": "A",
+      "x": 8580.6005859375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "White Pink Embroidered Co-ord Set",
+      "tag": "A",
+      "x": 8779.7998046875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Mint Green Georgette Suit Set",
+      "tag": "A",
+      "x": 8979,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Purple Gold Handblock Suit Set",
+      "tag": "A",
+      "x": 9178.2001953125,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Hot Lime Gold Handblock Suit Set",
+      "tag": "A",
+      "x": 9377.400390625,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Ochre Georgette Anarkali Set",
+      "tag": "A",
+      "x": 9576.6005859375,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "Sehaj Mukaish Suit Set",
+      "tag": "A",
+      "x": 9775.7998046875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 333.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "VIEW ALL",
+      "tag": "A",
+      "x": 9975.7998046875,
+      "y": 5164.8125,
+      "width": 184.1999969482422,
+      "height": 293.75,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "x": 750.7999877929688,
+      "y": 5637.05029296875,
+      "width": 174,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "co-ord sets for women",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ethnic wear online",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "designer suit sets for women",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Explore cotton men’s kurta pajama sets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indian Ethnic Wear for Women: Styling & Shopping Guide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Your Ultimate Guide to Choosing the Perfect Party Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Festive",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Arrivals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bunai Maroon Georgette Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Yashvi Cotton Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bunai Misty Pink Georgette Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vedika Trio Cotton Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bunai Rosy Pink Georgette Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orange Bandhej Cotton Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zara Georgette Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nitara Cotton Suit Set of 3",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Damini Cotton Suit Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dew Cotton Suit Set of 3",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bunai Cotton Twilight Coord Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chic Embroidery Kurta Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orange White Embroidery Co-ord Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rhea Kurta Co-ord Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Noorani Embroidered Kurta Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bunai Modern Mirage Kurta Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kashish Yellow Kurta Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blush Glow Georgette Kurta Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blue Kurta Set",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bunai Ochre Georgette Anarkali Dress with Dupatta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Dress with Floral Embroidery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mint Embroidered Cotton Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dark Green Dress with Embroidery",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pink Fit & Flare Cotton Dress",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dark Olive Men Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lurex Short Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Light Pink Men Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Light Olive Men Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Black Men Long Kurta",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shipping",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Read more",
+      "tag": "BUTTON",
+      "x": 25,
+      "y": 5911.05029296875,
+      "width": 65.3499984741211,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "New Arrivals",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6094.08740234375,
+      "width": 71.2750015258789,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Men's Wear",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6122.7001953125,
+      "width": 62.75,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Dresses",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6151.3125,
+      "width": 41.36249923706055,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Kurta & Suit Sets",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6179.92529296875,
+      "width": 94.1875,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Sarees",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6208.53759765625,
+      "width": 34.712501525878906,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Nightwear",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6237.14990234375,
+      "width": 56.125,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Bed Linens",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6265.7626953125,
+      "width": 60.9375,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Sale",
+      "tag": "A",
+      "x": 91.4375,
+      "y": 6294.375,
+      "width": 22.899999618530273,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Blog",
+      "tag": "A",
+      "x": 275.88751220703125,
+      "y": 6094.08740234375,
+      "width": 25.86250114440918,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Celebrities in Bunai",
+      "tag": "A",
+      "x": 275.88751220703125,
+      "y": 6122.7001953125,
+      "width": 106.3499984741211,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Women Of Bunai",
+      "tag": "A",
+      "x": 275.88751220703125,
+      "y": 6151.3125,
+      "width": 93.4625015258789,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 275.88751220703125,
+      "y": 6179.92529296875,
+      "width": 43.587501525878906,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Refer & Earn",
+      "tag": "A",
+      "x": 275.88751220703125,
+      "y": 6208.53759765625,
+      "width": 71.625,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Become a Stockist",
+      "tag": "A",
+      "x": 275.88751220703125,
+      "y": 6237.14990234375,
+      "width": 98.9625015258789,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6094.08740234375,
+      "width": 51.35000228881836,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "My Account",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6122.7001953125,
+      "width": 66.11250305175781,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6151.3125,
+      "width": 64.875,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6179.92529296875,
+      "width": 77.92500305175781,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Delivery Information",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6208.53759765625,
+      "width": 113.3499984741211,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Refund, Exchanges and Returns",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6237.14990234375,
+      "width": 164.4499969482422,
+      "height": 37.22500228881836,
+      "visible": true
+    },
+    {
+      "text": "Terms of use",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6284.375,
+      "width": 68.48750305175781,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Faq",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6312.98779296875,
+      "width": 19.950000762939453,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Franchise Enquiry",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6341.60009765625,
+      "width": 97.86250305175781,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Wholesale Enquiry",
+      "tag": "A",
+      "x": 460.3374938964844,
+      "y": 6370.21240234375,
+      "width": 102.2750015258789,
+      "height": 18.61250114440918,
+      "visible": true
+    },
+    {
+      "text": "Contact",
+      "tag": "A",
+      "x": 644.7999877929688,
+      "y": 6095.6875,
+      "width": 41.36249923706055,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "+91 8800174972",
+      "tag": "A",
+      "x": 673.1000366210938,
+      "y": 6147.30029296875,
+      "width": 81.7750015258789,
+      "height": 12.800000190734863,
+      "visible": true
+    },
+    {
+      "text": "+91 7599976000",
+      "tag": "A",
+      "x": 673.1000366210938,
+      "y": 6172.30029296875,
+      "width": 81.7750015258789,
+      "height": 12.800000190734863,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1013.7000122070312,
+      "y": 6094.08740234375,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1057.7000732421875,
+      "y": 6094.08740234375,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1101.7000732421875,
+      "y": 6094.08740234375,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1013.7000122070312,
+      "y": 6138.08740234375,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1057.7000732421875,
+      "y": 6138.08740234375,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "English",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Afghanistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Åland Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Albania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Algeria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Andorra (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Angola (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Anguilla (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Antigua & Barbuda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Argentina (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Armenia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Aruba (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ascension Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Australia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Austria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Azerbaijan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bahamas (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bahrain (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bangladesh (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Barbados (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Belarus (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Belgium (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Belize (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Benin (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bermuda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bhutan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bolivia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bosnia & Herzegovina (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Botswana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bouvet Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brazil (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "British Indian Ocean Territory (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "British Virgin Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Brunei (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bulgaria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Burkina Faso (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Burundi (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cambodia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cameroon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Canada (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cape Verde (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Caribbean Netherlands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cayman Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Central African Republic (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chad (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chile (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "China (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Christmas Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cocos (Keeling) Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Colombia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Comoros (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Congo - Brazzaville (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Congo - Kinshasa (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cook Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Costa Rica (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Côte d’Ivoire (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Croatia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Curaçao (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cyprus (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Czechia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Denmark (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Djibouti (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dominica (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dominican Republic (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ecuador (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Egypt (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "El Salvador (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Equatorial Guinea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eritrea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Estonia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eswatini (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ethiopia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Falkland Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Faroe Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fiji (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Finland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "France (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "French Guiana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "French Polynesia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "French Southern Territories (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gabon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gambia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Georgia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Germany (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ghana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gibraltar (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Greece (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Greenland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Grenada (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guadeloupe (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guatemala (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guernsey (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guinea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guinea-Bissau (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Guyana (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Haiti (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heard & McDonald Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Honduras (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hong Kong SAR (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hungary (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iceland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "India (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Indonesia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Iraq (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ireland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Isle of Man (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Israel (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Italy (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jamaica (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Japan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jersey (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jordan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kazakhstan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kenya (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kiribati (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kosovo (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kuwait (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kyrgyzstan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Laos (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Latvia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lebanon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lesotho (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liberia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Libya (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liechtenstein (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lithuania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Luxembourg (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Macao SAR (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Madagascar (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Malawi (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Malaysia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Maldives (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mali (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Malta (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Martinique (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mauritania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mauritius (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mayotte (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mexico (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moldova (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Monaco (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mongolia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Montenegro (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Montserrat (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Morocco (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mozambique (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Myanmar (Burma) (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Namibia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nauru (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nepal (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Netherlands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Netherlands Antilles (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Caledonia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Zealand (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nicaragua (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Niger (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nigeria (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Niue (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Norfolk Island (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "North Macedonia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Norway (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oman (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pakistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Palestinian Territories (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Panama (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Papua New Guinea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Paraguay (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Peru (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Philippines (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pitcairn Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Poland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Portugal (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Qatar (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Réunion (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Romania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Russia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Rwanda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Samoa (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "San Marino (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "São Tomé & Príncipe (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Saudi Arabia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Senegal (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Serbia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Seychelles (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sierra Leone (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Singapore (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sint Maarten (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Slovakia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Slovenia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Solomon Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Somalia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Africa (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Georgia & South Sandwich Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Korea (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "South Sudan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spain (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sri Lanka (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Barthélemy (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Helena (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Kitts & Nevis (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Lucia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Martin (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Pierre & Miquelon (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "St. Vincent & Grenadines (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sudan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Suriname (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Svalbard & Jan Mayen (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sweden (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Switzerland (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Taiwan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tajikistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tanzania (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Thailand (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Timor-Leste (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Togo (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tokelau (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tonga (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Trinidad & Tobago (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tristan da Cunha (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tunisia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Türkiye (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Turkmenistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Turks & Caicos Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tuvalu (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "U.S. Outlying Islands (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Uganda (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ukraine (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "United Arab Emirates (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "United Kingdom (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "United States (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Uruguay (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Uzbekistan (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vanuatu (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vatican City (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Venezuela (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vietnam (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wallis & Futuna (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Western Sahara (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Yemen (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zambia (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zimbabwe (INR\n                      ₹)",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 15,
+      "y": -60.60000228881836,
+      "width": 20,
+      "height": 23.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1174.4749755859375,
+      "y": -72,
+      "width": 40.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1214.5374755859375,
+      "y": -72,
+      "width": 40.0625,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1717.5999755859375,
+      "y": 22,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1717.5999755859375,
+      "y": 22,
+      "width": 34,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 6564.5,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 15,
+      "y": 595.6000366210938,
+      "width": 44,
+      "height": 44,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://foxtale.in/account",
+  "timestamp": "20261105_233125",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 40,
+      "y": 56.5,
+      "width": 125,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Skincare",
+      "tag": "BUTTON",
+      "x": 295.1625061035156,
+      "y": 61,
+      "width": 90.9375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Skincare",
+      "tag": "A",
+      "x": 295.1625061035156,
+      "y": 61,
+      "width": 70.9375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Serums\nNEW",
+      "tag": "BUTTON",
+      "x": 414.1000061035156,
+      "y": 61,
+      "width": 135.25,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Serums",
+      "tag": "A",
+      "x": 414.1000061035156,
+      "y": 61,
+      "width": 62.150001525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Bodycare",
+      "tag": "BUTTON",
+      "x": 577.3500366210938,
+      "y": 56,
+      "width": 169.85000610351562,
+      "height": 34,
+      "visible": true
+    },
+    {
+      "text": "Bodycare",
+      "tag": "A",
+      "x": 577.3500366210938,
+      "y": 61,
+      "width": 77.8499984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Gift Sets",
+      "tag": "BUTTON",
+      "x": 775.2000122070312,
+      "y": 61,
+      "width": 86.82500457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Gift Sets",
+      "tag": "A",
+      "x": 775.2000122070312,
+      "y": 61,
+      "width": 66.82500457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "x": 890.0250244140625,
+      "y": 61,
+      "width": 49.29999923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 967.3250122070312,
+      "y": 61,
+      "width": 44.51250076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1142,
+      "y": 61,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1186,
+      "y": 61,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 1216,
+      "y": 63,
+      "width": 24,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 56,
+      "y": 122,
+      "width": 24,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Dashboard",
+      "tag": "A",
+      "x": 64.80000305175781,
+      "y": 170.8000030517578,
+      "width": 278.4375,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Order History",
+      "tag": "A",
+      "x": 64.80000305175781,
+      "y": 211.60000610351562,
+      "width": 278.4375,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Addresses",
+      "tag": "A",
+      "x": 64.80000305175781,
+      "y": 252.40000915527344,
+      "width": 278.4375,
+      "height": 40.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 64.80000305175781,
+      "y": 293.20001220703125,
+      "width": 278.4375,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Order & Support",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Information",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track My Order",
+      "tag": "A",
+      "x": 56,
+      "y": 820.4000244140625,
+      "width": 104.9749984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Shipping & Returns",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 820.4000244140625,
+      "width": 131.9875030517578,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Ingredients Glossary",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 852.4000244140625,
+      "width": 142.9499969482422,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 884.4000244140625,
+      "width": 94.55000305175781,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 916.4000244140625,
+      "width": 114.8499984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 307.1750183105469,
+      "y": 948.4000244140625,
+      "width": 34.837501525878906,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Creator Collaborations",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 820.4000244140625,
+      "width": 160.1999969482422,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Affiliate Program",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 852.4000244140625,
+      "width": 116.82500457763672,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Get in touch",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 884.4000244140625,
+      "width": 85.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 916.4000244140625,
+      "width": 92.1624984741211,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Careers",
+      "tag": "A",
+      "x": 558.3500366210938,
+      "y": 948.4000244140625,
+      "width": 55.38750076293945,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 809.5375366210938,
+      "y": 816.4000244140625,
+      "width": 146,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 975.5375366210938,
+      "y": 816.4000244140625,
+      "width": 146,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 1108.625,
+      "y": 952.4000244140625,
+      "width": 109.375,
+      "height": 42,
+      "visible": true
+    },
+    {
+      "text": "Moisturizer for oily skin",
+      "tag": "A",
+      "x": 56,
+      "y": 1108,
+      "width": 177.625,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sunscreen for oily skin",
+      "tag": "A",
+      "x": 246.8249969482422,
+      "y": 1108,
+      "width": 176.16250610351562,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Facewash for oily skin",
+      "tag": "A",
+      "x": 436.1875,
+      "y": 1108,
+      "width": 173.22500610351562,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Moisturizer for dry skin",
+      "tag": "A",
+      "x": 622.6124877929688,
+      "y": 1108,
+      "width": 176.3000030517578,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Sunscreen for dry skin",
+      "tag": "A",
+      "x": 812.1124877929688,
+      "y": 1108,
+      "width": 174.83750915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Facewash for dry skin",
+      "tag": "A",
+      "x": 1000.1500244140625,
+      "y": 1108,
+      "width": 171.90000915527344,
+      "height": 22.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Chakshu Portal",
+      "tag": "A",
+      "x": 586.6375122070312,
+      "y": 1422.800048828125,
+      "width": 109.0625,
+      "height": 16.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 586,
+      "y": 1606,
+      "width": 22,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 616,
+      "y": 1608,
+      "width": 18,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 642,
+      "y": 1606,
+      "width": 22,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 672,
+      "y": 1606,
+      "width": 22,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

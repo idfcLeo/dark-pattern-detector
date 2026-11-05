@@ -1,0 +1,378 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://kapiva.in/my-account/account-settings",
+  "timestamp": "20261105_234229",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1205.800048828125,
+      "y": 0,
+      "width": 43,
+      "height": 70.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 10.5,
+      "width": 150,
+      "height": 49.1875,
+      "visible": true
+    },
+    {
+      "text": "GET APP",
+      "tag": "BUTTON",
+      "x": 973.8500366210938,
+      "y": 20.100000381469727,
+      "width": 93.95000457763672,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "GET APP",
+      "tag": "A",
+      "x": 988.6500244140625,
+      "y": 25.30000114440918,
+      "width": 64.3499984741211,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1083.800048828125,
+      "y": 20.100000381469727,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1077.1375732421875,
+      "y": 113.30000305175781,
+      "width": 43.3125,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1079.7249755859375,
+      "y": 147.6999969482422,
+      "width": 38.150001525878906,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1066.800048828125,
+      "y": 182.10000610351562,
+      "width": 64,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1047.75,
+      "y": 216.5,
+      "width": 102.0999984741211,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1047.2625732421875,
+      "y": 250.90000915527344,
+      "width": 103.07500457763672,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1065.8250732421875,
+      "y": 285.3000183105469,
+      "width": 65.9375,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1051.3875732421875,
+      "y": 320.5,
+      "width": 94.8125,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1129.800048828125,
+      "y": 23.100000381469727,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1169.800048828125,
+      "y": 25.100000381469727,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sugar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gym",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For Her",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Energy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Update Details",
+      "tag": "BUTTON",
+      "x": 170.47500610351562,
+      "y": 516.2000122070312,
+      "width": 185.6875,
+      "height": 50.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20,
+      "y": 658.6000366210938,
+      "width": 217.75,
+      "height": 53.45000076293945,
+      "visible": true
+    },
+    {
+      "text": "1800-274-2575",
+      "tag": "A",
+      "x": 63,
+      "y": 873.7250366210938,
+      "width": 163.8000030517578,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "info@kapiva.in",
+      "tag": "A",
+      "x": 63,
+      "y": 926.2125244140625,
+      "width": 152.8625030517578,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "SHOP ALL",
+      "tag": "A",
+      "x": 326.20001220703125,
+      "y": 657.7999877929688,
+      "width": 105.6500015258789,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "MY ACCOUNT",
+      "tag": "A",
+      "x": 326.20001220703125,
+      "y": 705.7999877929688,
+      "width": 145.10000610351562,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "FAQS",
+      "tag": "A",
+      "x": 326.20001220703125,
+      "y": 753.7999877929688,
+      "width": 56.88750076293945,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "INNOVATION FUND",
+      "tag": "A",
+      "x": 326.20001220703125,
+      "y": 801.7999877929688,
+      "width": 204.125,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "ABOUT US",
+      "tag": "A",
+      "x": 570.3250122070312,
+      "y": 657.7999877929688,
+      "width": 108.88750457763672,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "x": 570.3250122070312,
+      "y": 705.7999877929688,
+      "width": 59.29999923706055,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "MEDIA",
+      "tag": "A",
+      "x": 570.3250122070312,
+      "y": 753.7999877929688,
+      "width": 69.8499984741211,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "CONTACT US",
+      "tag": "A",
+      "x": 570.3250122070312,
+      "y": 801.7999877929688,
+      "width": 135.1999969482422,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 785.5,
+      "y": 694.6000366210938,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 841.5,
+      "y": 694.6000366210938,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 897.5,
+      "y": 694.6000366210938,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 953.5,
+      "y": 694.6000366210938,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 20,
+      "y": 994.2125244140625,
+      "width": 100,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 359.07501220703125,
+      "y": 994.2125244140625,
+      "width": 156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Shipping Policy",
+      "tag": "A",
+      "x": 754.1625366210938,
+      "y": 994.2125244140625,
+      "width": 113.4000015258789,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Cancellation Policy",
+      "tag": "A",
+      "x": 1106.6375732421875,
+      "y": 994.2125244140625,
+      "width": 138.16250610351562,
+      "height": 20.80000114440918,
+      "visible": true
+    }
+  ]
+}

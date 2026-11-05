@@ -1,0 +1,4932 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://www.dotandkey.com/",
+  "timestamp": "20261105_233151",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Click for More Offers",
+      "tag": "BUTTON",
+      "x": -529.2957763671875,
+      "y": -0.5,
+      "width": 1280,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "BEWARE: No one from our team will call you for offers, free gifts or payments.",
+      "tag": "BUTTON",
+      "x": -1280,
+      "y": -0.5,
+      "width": 1280,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Flat 15% OFF Sitewide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Free Gift above Rs.799",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "2 Free Gifts above Rs.1049",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FLAT 25% OFF on Combos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Code:\n                        COMBO25\n\n  \n  \n\n\n                      Code Copied",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Extra 5% off on prepaid orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "✕",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Download App Now",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "0",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 127,
+      "y": 44,
+      "width": 210,
+      "height": 50,
+      "visible": true
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 991,
+      "y": 49,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1061,
+      "y": 53,
+      "width": 33,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Account",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SHOP ALL",
+      "tag": "BUTTON",
+      "x": 59.650001525878906,
+      "y": 130.8000030517578,
+      "width": 142.66250610351562,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SKIN CONCERN",
+      "tag": "BUTTON",
+      "x": 210.3125,
+      "y": 130.8000030517578,
+      "width": 205,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Dullness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dryness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dark Spots",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pigmentation",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Acne",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Damaged Skin Barrier",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Excess Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ageing",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "INGREDIENTS",
+      "tag": "BUTTON",
+      "x": 423.3125,
+      "y": 130.8000030517578,
+      "width": 181.60000610351562,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hyaluronic + Ceramides",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watermelon + AHA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Strawberry + Niacinamide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dragon Fruit",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Niacinamide + CICA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salicylic Acid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pomegranate + Retinol",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mango",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SKIN TYPE",
+      "tag": "BUTTON",
+      "x": 612.9125366210938,
+      "y": 130.8000030517578,
+      "width": 148.60000610351562,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Dry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Combination",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sensitive",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Normal",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BEST SELLERS",
+      "tag": "A",
+      "x": 769.5125122070312,
+      "y": 130.8000030517578,
+      "width": 163.16250610351562,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "NEW ARRIVALS",
+      "tag": "A",
+      "x": 940.6749877929688,
+      "y": 130.8000030517578,
+      "width": 179.3625030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "BLOGS",
+      "tag": "A",
+      "x": 1128.0374755859375,
+      "y": 130.8000030517578,
+      "width": 92.30000305175781,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C Moisturizer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watermelon Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Barrier Repair Moisturizer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tinted Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Meltie Lip Balm",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturizer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Serums",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lip Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Mask",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Toners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Combos",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Acne",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pigmentation",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dryness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dullness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dark Spots",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Damaged Skin Barrier",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Excess Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ageing",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hyaluronic + Ceramides",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Niacinamide + CICA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watermelon + AHA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Strawberry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salicylic Acid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pomegranate + Retinol",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mango",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Combination",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sensitive",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Normal",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Clear",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 291,
+      "width": 280.5,
+      "height": 23.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -999.5,
+      "y": 291,
+      "width": 280.5,
+      "height": 23.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -719,
+      "y": 62,
+      "width": 280.5,
+      "height": 252.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -438.5,
+      "y": 61,
+      "width": 280.5,
+      "height": 253.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -158,
+      "y": 56,
+      "width": 280.5,
+      "height": 258.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 122.5,
+      "y": 59,
+      "width": 280.5,
+      "height": 255.8125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 334.8125,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 393.6125183105469,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Categories\n                            \n                              +\n        ",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturizers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sunscreens",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Serums",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lip Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Masks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Toners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Haircare",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Concern\n                            \n                              +\n      ",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Acne",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pigmentation",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dryness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dullness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dark Spots",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Damaged Skin Barrier",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Excess Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ageing",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ingredient\n                            \n                              +\n        ",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hyaluronic + Ceramides",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watermelon + AHA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Strawberry + Niacinamide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dragon Fruit",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Niacinamide + CICA",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Salicylic Acid",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pomegranate + Retinol",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mango",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Type\n                            \n                              +\n         ",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oily",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Dry",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Combination",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sensitive",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Normal",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All >",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 513.2125244140625,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 572.0125122070312,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 630.8125,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 689.6124877929688,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 748.4125366210938,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 807.2125244140625,
+      "width": 1280,
+      "height": 58.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Affiliate Program",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Faq",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1280,
+      "y": 926.8125,
+      "width": 1280,
+      "height": 904.4375,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 186.8000030517578,
+      "width": 1280,
+      "height": 60,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue shopping",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Products",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturizer",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Serum",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lip Balm",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -2556.800048828125,
+      "y": 246.8000030517578,
+      "width": 1280,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1276.800048828125,
+      "y": 246.8000030517578,
+      "width": 1280,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3.200000047683716,
+      "y": 246.8000030517578,
+      "width": 1280,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1283.2000732421875,
+      "y": 246.8000030517578,
+      "width": 1280,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2563.199951171875,
+      "y": 246.8000030517578,
+      "width": 1280,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 3786.199951171875,
+      "y": 589.7999877929688,
+      "width": 45,
+      "height": 45,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 3843.199951171875,
+      "y": 246.8000030517578,
+      "width": 1280,
+      "height": 400,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 582.5,
+      "y": 658.7999877929688,
+      "width": 15,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 602.5,
+      "y": 658.7999877929688,
+      "width": 15,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 622.5,
+      "y": 658.7999877929688,
+      "width": 15,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 642.5,
+      "y": 658.7999877929688,
+      "width": 15,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 662.5,
+      "y": 658.7999877929688,
+      "width": 15,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 682.5,
+      "y": 658.7999877929688,
+      "width": 15,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Sunscreen",
+      "tag": "BUTTON",
+      "x": 193.8125,
+      "y": 755,
+      "width": 168.02500915527344,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Moisturizer",
+      "tag": "BUTTON",
+      "x": 390.8374938964844,
+      "y": 755,
+      "width": 170.16250610351562,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Serum",
+      "tag": "BUTTON",
+      "x": 590,
+      "y": 755,
+      "width": 127.4000015258789,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Facewash",
+      "tag": "BUTTON",
+      "x": 746.4000244140625,
+      "y": 755,
+      "width": 164.1875,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Lip Balm",
+      "tag": "BUTTON",
+      "x": 939.5875244140625,
+      "y": 755,
+      "width": 146.60000610351562,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 5,
+      "y": 1133.7000732421875,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 845.6000366210938,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C + E Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+      "tag": "A",
+      "x": 60,
+      "y": 1148.5999755859375,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 1255.5,
+      "width": 68.8499984741211,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 136.85000610351562,
+      "y": 1255.5,
+      "width": 68.875,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 1400.800048828125,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 330,
+      "y": 845.6000366210938,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Watermelon Sunscreen SPF 50+ PA++++ With New-Age UV Filters For Oily Skin",
+      "tag": "A",
+      "x": 330,
+      "y": 1148.5999755859375,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 330,
+      "y": 1255.5,
+      "width": 68.8499984741211,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 406.8500061035156,
+      "y": 1255.5,
+      "width": 68.875,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 330,
+      "y": 1400.800048828125,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 600,
+      "y": 845.6000366210938,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Strawberry Dew Tinted Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+      "tag": "A",
+      "x": 600,
+      "y": 1148.5999755859375,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 600,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 648,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 696,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 744,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 792,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 840,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 888,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 936,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 984,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1032,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1080,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1128,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1176,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1224,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1272,
+      "y": 1269.800048828125,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 600,
+      "y": 1400.800048828125,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 870,
+      "y": 845.6000366210938,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Cica + Niacinamide Sunscreen, In-Vivo Tested SPF 50+ PA++++",
+      "tag": "A",
+      "x": 870,
+      "y": 1148.5999755859375,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 870,
+      "y": 1255.5,
+      "width": 68.8499984741211,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 946.8500366210938,
+      "y": 1255.5,
+      "width": 68.875,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 870,
+      "y": 1400.800048828125,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1140,
+      "y": 845.6000366210938,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Barrier Repair Sunscreen, In-Vivo Tested SPF 50+ PA++++",
+      "tag": "A",
+      "x": 1140,
+      "y": 1148.5999755859375,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 1140,
+      "y": 1255.5,
+      "width": 68.8499984741211,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 1216.8499755859375,
+      "y": 1255.5,
+      "width": 68.875,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 1140,
+      "y": 1400.800048828125,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1240,
+      "y": 1133.7000732421875,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C + E Super Bright Gel Moisturizer for Face",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "60ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Barrier Repair Moisturizer (Hyaluronic + Ceramides)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "175g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "100g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cica + Niacinamide Oil-Free Gel Moisturizer For Face",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "60g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "50g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "72HR Gel Moisturizer + Probiotics for Face",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "60ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Retinol Night Repair Cream with Ceramides",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "60ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "10% Vitamin C + E Face Serum with 5% Niacinamide",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "20ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Strawberry Bright 10% Niacinamide Face Serum",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "20ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cica + 10% Niacinamide Face Serum for Oily Skin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "20ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "12% Barrier Boost Serum (Hyaluronic + Ceramides)",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "20ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pomegranate Youth 0.2% Retinol Complex Face Serum",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C + E Gel Face Wash for Glowing Skin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "175ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "100ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Barrier Repair Gentle Hydrating Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "175ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "100ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cica + Salicylic Acid Face Wash for Oily Skin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "175ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "100ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watermelon Gel Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "175ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "100ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Strawberry Bright Niacinamide Gel Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "100ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Meltie Lip Balm In-Vivo Tested SPF 50 PA+++",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Plushie Jelly Lip Balm SPF 50+",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Barrier Repair Hydrating Lip Balm In-Vivo Tested SPF 50+ PA+++",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ceramide + Peptide Lip Balm In-Vivo Tested SPF 50+ PA+++",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C + E Gloss Boss Lip Balm In-Vivo Tested SPF 50+ PA+++",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All",
+      "tag": "A",
+      "x": 515,
+      "y": 1471.800048828125,
+      "width": 250,
+      "height": 51.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "New Arrivals",
+      "tag": "BUTTON",
+      "x": 463.9750061035156,
+      "y": 1597.5999755859375,
+      "width": 185.15000915527344,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Routine",
+      "tag": "BUTTON",
+      "x": 678.125,
+      "y": 1597.5999755859375,
+      "width": 137.8874969482422,
+      "height": 45.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 5,
+      "y": 1976.300048828125,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 60,
+      "y": 1688.2000732421875,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Plushie Jelly Lip Balm SPF 50+",
+      "tag": "A",
+      "x": 60,
+      "y": 1991.2000732421875,
+      "width": 260,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 2092.85009765625,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 108,
+      "y": 2092.85009765625,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 156,
+      "y": 2092.85009765625,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 60,
+      "y": 2243.400146484375,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 330,
+      "y": 1688.2000732421875,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Meltie Lip Balm In-Vivo Tested SPF 50 PA+++",
+      "tag": "A",
+      "x": 330,
+      "y": 1991.2000732421875,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 330,
+      "y": 2102.650146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 378,
+      "y": 2102.650146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 426,
+      "y": 2102.650146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 330,
+      "y": 2243.400146484375,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 600,
+      "y": 1688.2000732421875,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Dragon Fruit Bounce Jelly Moisturizer With Plant PDRN",
+      "tag": "A",
+      "x": 600,
+      "y": 1991.2000732421875,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "60ml",
+      "tag": "BUTTON",
+      "x": 600,
+      "y": 2098.10009765625,
+      "width": 68.8125,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 600,
+      "y": 2243.400146484375,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 870,
+      "y": 1688.2000732421875,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Dragon Fruit Bounce Gel Sunscreen SPF 50+ PA++++, With New-Age UV Filters",
+      "tag": "A",
+      "x": 870,
+      "y": 1991.2000732421875,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "80g",
+      "tag": "BUTTON",
+      "x": 870,
+      "y": 2098.10009765625,
+      "width": 59.625,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "50g",
+      "tag": "BUTTON",
+      "x": 937.625,
+      "y": 2098.10009765625,
+      "width": 59.63750076293945,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 870,
+      "y": 2243.400146484375,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1140,
+      "y": 1688.2000732421875,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Strawberry Dew Tinted Sunscreen SPF 50+ PA++++ With New-Age UV Filters",
+      "tag": "A",
+      "x": 1140,
+      "y": 1991.2000732421875,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1140,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1188,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1236,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1284,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1332,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1380,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1428,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1476,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1524,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1572,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1620,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1668,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1716,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1764,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1812,
+      "y": 2112.400146484375,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 1140,
+      "y": 2243.400146484375,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1410,
+      "y": 1688.2000732421875,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Vitamin C + E 100% Mineral Sunscreen IN-VIVO tested SPF 50+, PA++++",
+      "tag": "A",
+      "x": 1410,
+      "y": 1991.2000732421875,
+      "width": 260,
+      "height": 39.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "50g",
+      "tag": "BUTTON",
+      "x": 1410,
+      "y": 2098.10009765625,
+      "width": 59.63750076293945,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 1410,
+      "y": 2243.400146484375,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1680,
+      "y": 1688.2000732421875,
+      "width": 260,
+      "height": 260,
+      "visible": true
+    },
+    {
+      "text": "Strawberry Dew Micellar Face Wash",
+      "tag": "A",
+      "x": 1680,
+      "y": 1991.2000732421875,
+      "width": 260,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "120ml",
+      "tag": "BUTTON",
+      "x": 1680,
+      "y": 2088.300048828125,
+      "width": 73.11250305175781,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 1680,
+      "y": 2243.400146484375,
+      "width": 260,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1240,
+      "y": 1976.300048828125,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C Daily Glow Booster Combo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "240g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Watermelon Oil Free Skin Combo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "180ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Healthy Hydration Combo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "280g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Super Cica & Salicylic Anti Acne Routine",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "240ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Good to Glow Vitamin C Combo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "150ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hydrating Barrier Repair Duo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "200ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Super Cool Watermelon Duo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "150g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All New Arrivals",
+      "tag": "A",
+      "x": 512.7125244140625,
+      "y": 2314.400146484375,
+      "width": 254.5749969482422,
+      "height": 51.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 717.2125244140625,
+      "y": 2423,
+      "width": 100,
+      "height": 37,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 829.2125244140625,
+      "y": 2423,
+      "width": 100,
+      "height": 37,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 12.720000267028809,
+      "y": 2616.375,
+      "width": 214.5600128173828,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "30ml",
+      "tag": "BUTTON",
+      "x": 68.52000427246094,
+      "y": 2963.594970703125,
+      "width": 38.902496337890625,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "20ml",
+      "tag": "BUTTON",
+      "x": 114.62249755859375,
+      "y": 2963.594970703125,
+      "width": 37.30499267578125,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 21.719999313354492,
+      "y": 3017.324951171875,
+      "width": 196.5600128173828,
+      "height": 30.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 252.72000122070312,
+      "y": 2616.375,
+      "width": 214.5599822998047,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 308.5199890136719,
+      "y": 2963.594970703125,
+      "width": 39.2962646484375,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 355.0162658691406,
+      "y": 2963.594970703125,
+      "width": 37.86748123168945,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 261.7200012207031,
+      "y": 3017.324951171875,
+      "width": 196.5599822998047,
+      "height": 30.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 492.72003173828125,
+      "y": 2616.375,
+      "width": 214.55996704101562,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "60ml",
+      "tag": "BUTTON",
+      "x": 548.52001953125,
+      "y": 2963.594970703125,
+      "width": 39.32998275756836,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 501.72003173828125,
+      "y": 3017.324951171875,
+      "width": 196.55996704101562,
+      "height": 30.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 732.7200317382812,
+      "y": 2616.375,
+      "width": 214.55996704101562,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "175g",
+      "tag": "BUTTON",
+      "x": 788.52001953125,
+      "y": 2963.594970703125,
+      "width": 36.10126876831055,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "100g",
+      "tag": "BUTTON",
+      "x": 831.8212890625,
+      "y": 2963.594970703125,
+      "width": 35.41494369506836,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 741.7200317382812,
+      "y": 3017.324951171875,
+      "width": 196.55996704101562,
+      "height": 30.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 972.7200317382812,
+      "y": 2616.64501953125,
+      "width": 214.55996704101562,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 981.7200317382812,
+      "y": 3017.05517578125,
+      "width": 196.55996704101562,
+      "height": 30.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1212.7200927734375,
+      "y": 2616.375,
+      "width": 214.55996704101562,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 1268.52001953125,
+      "y": 2963.594970703125,
+      "width": 39.29619216918945,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 1315.0162353515625,
+      "y": 2963.594970703125,
+      "width": 37.86758041381836,
+      "height": 19.980077743530273,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 1221.7200927734375,
+      "y": 3017.324951171875,
+      "width": 196.55996704101562,
+      "height": 30.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1452.7200927734375,
+      "y": 2616.64501953125,
+      "width": 214.56005859375,
+      "height": 306,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 1461.7200927734375,
+      "y": 3017.05517578125,
+      "width": 196.56005859375,
+      "height": 30.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "30ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "20ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "60ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "175g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "100g",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "80ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "50ml",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ADD TO CART",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin C",
+      "tag": "A",
+      "x": 20,
+      "y": 3348.199951171875,
+      "width": 300,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Watermelon +\n\nAHA",
+      "tag": "A",
+      "x": 340,
+      "y": 3348.199951171875,
+      "width": 300,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Hyaluronic +\n\nCeramides",
+      "tag": "A",
+      "x": 660,
+      "y": 3348.199951171875,
+      "width": 300,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Strawberry +\n\nNiacinamide",
+      "tag": "A",
+      "x": 980,
+      "y": 3348.199951171875,
+      "width": 300,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Niacinamide +\n\nCICA",
+      "tag": "A",
+      "x": 1300,
+      "y": 3348.199951171875,
+      "width": 300,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "Pomegranate +\n\nRetinol",
+      "tag": "A",
+      "x": 1620,
+      "y": 3348.199951171875,
+      "width": 300,
+      "height": 300,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 90.80000305175781,
+      "y": 4288.71240234375,
+      "width": 80,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "SHOP NOW >>",
+      "tag": "A",
+      "x": 180.8000030517578,
+      "y": 4337.11279296875,
+      "width": 175.1999969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 437.6000061035156,
+      "y": 4288.71240234375,
+      "width": 80,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "SHOP NOW >>",
+      "tag": "A",
+      "x": 527.6000366210938,
+      "y": 4337.11279296875,
+      "width": 175.1999969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 784.4000244140625,
+      "y": 4288.71240234375,
+      "width": 80,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "SHOP NOW >>",
+      "tag": "A",
+      "x": 874.4000244140625,
+      "y": 4337.11279296875,
+      "width": 175.1999969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1131.2000732421875,
+      "y": 4288.71240234375,
+      "width": 80,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "SHOP NOW >>",
+      "tag": "A",
+      "x": 1221.2000732421875,
+      "y": 4337.11279296875,
+      "width": 175.1999969482422,
+      "height": 18,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Know More",
+      "tag": "A",
+      "x": 569.0625,
+      "y": 4601.5126953125,
+      "width": 141.8625030517578,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 4812.11279296875,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 15,
+      "y": 5045.14990234375,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 195,
+      "y": 4812.11279296875,
+      "width": 175,
+      "height": 459.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 375,
+      "y": 4812.11279296875,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 375,
+      "y": 5045.14990234375,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555,
+      "y": 4812.11279296875,
+      "width": 175,
+      "height": 459.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 735,
+      "y": 4812.11279296875,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 735,
+      "y": 5045.14990234375,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 915,
+      "y": 4812.11279296875,
+      "width": 175,
+      "height": 459.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1095,
+      "y": 4812.11279296875,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1095,
+      "y": 5045.14990234375,
+      "width": 175,
+      "height": 226.03750610351562,
+      "visible": true
+    },
+    {
+      "text": "Log in",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CATEGORIES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OFFERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SKIN CONCERN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 52,
+      "y": 5350.58740234375,
+      "width": 80.4000015258789,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Affiliate Program",
+      "tag": "A",
+      "x": 52,
+      "y": 5385.58740234375,
+      "width": 148.9375,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 52,
+      "y": 5420.58740234375,
+      "width": 35.29999923706055,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Blogs",
+      "tag": "A",
+      "x": 52,
+      "y": 5455.58740234375,
+      "width": 47.962501525878906,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 52,
+      "y": 5490.58740234375,
+      "width": 74.2125015258789,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 336.3374938964844,
+      "y": 5350.58740234375,
+      "width": 99.32500457763672,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Grievance Officer",
+      "tag": "A",
+      "x": 336.3374938964844,
+      "y": 5385.58740234375,
+      "width": 155.3874969482422,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Our Policies",
+      "tag": "A",
+      "x": 336.3374938964844,
+      "y": 5420.58740234375,
+      "width": 102.92500305175781,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 336.3374938964844,
+      "y": 5455.58740234375,
+      "width": 173.3874969482422,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms Of Service",
+      "tag": "A",
+      "x": 336.3374938964844,
+      "y": 5490.58740234375,
+      "width": 150.2375030517578,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Nykaa",
+      "tag": "A",
+      "x": 620.6875,
+      "y": 5350.58740234375,
+      "width": 54.98749923706055,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Amazon",
+      "tag": "A",
+      "x": 620.6875,
+      "y": 5385.58740234375,
+      "width": 73.3375015258789,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Flipkart",
+      "tag": "A",
+      "x": 620.6875,
+      "y": 5420.58740234375,
+      "width": 62.4375,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Myntra",
+      "tag": "A",
+      "x": 620.6875,
+      "y": 5455.58740234375,
+      "width": 60.88750076293945,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Purplle",
+      "tag": "A",
+      "x": 620.6875,
+      "y": 5490.58740234375,
+      "width": 59.25,
+      "height": 29.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 1127.425048828125,
+      "y": 5342.1875,
+      "width": 110.5625,
+      "height": 47.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 905.0250244140625,
+      "y": 5460.3876953125,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 978.0250244140625,
+      "y": 5460.3876953125,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1051.0250244140625,
+      "y": 5460.3876953125,
+      "width": 48,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OK",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "×",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OK",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1220,
+      "y": 680,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    }
+  ]
+}

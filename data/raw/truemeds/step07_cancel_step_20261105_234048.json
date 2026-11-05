@@ -1,0 +1,1593 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://www.truemeds.in/myorders",
+  "timestamp": "20261105_234048",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 23.30000114440918,
+      "width": 130,
+      "height": 33.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "110065, New Delhi",
+      "tag": "BUTTON",
+      "x": 174.8000030517578,
+      "y": 20.80000114440918,
+      "width": 202.46250915527344,
+      "height": 38.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Search",
+      "tag": "BUTTON",
+      "x": 821.2374877929688,
+      "y": 20,
+      "width": 107.42500305175781,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Download App",
+      "tag": "BUTTON",
+      "x": 957.4625244140625,
+      "y": 27.399999618530273,
+      "width": 100.5,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Sfsf sfsfsf",
+      "tag": "BUTTON",
+      "x": 1081.9625244140625,
+      "y": 27.399999618530273,
+      "width": 96.32500457763672,
+      "height": 25.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Cart",
+      "tag": "BUTTON",
+      "x": 1234.2874755859375,
+      "y": 31.200000762939453,
+      "width": 29.712499618530273,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Medicines",
+      "tag": "A",
+      "x": 55.150001525878906,
+      "y": 85.80000305175781,
+      "width": 59.04999923706055,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Personal Care",
+      "tag": "A",
+      "x": 169.35000610351562,
+      "y": 85.80000305175781,
+      "width": 79.5250015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Skin Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby and Mom Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Wellness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Oral Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Elderly Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sunscreen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Face Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Skin and Body Soap",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Acne Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Lotions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturising Lotion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturising Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mosquito Repellent",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Moisturising Gel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Body Wash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Shampoo",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Conditioners",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Colour",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Serum",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Mask",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Hair Solutions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Diapers and Wipes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Lotion and Moisturising Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Bath Essentials",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Skin Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby and Infant Food",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Baby Healthcare",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women Multivitamins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ovulation Test Kit and Women Intimate Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sanitary Pads",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nutritional Drinks",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Condoms",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lubricants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massage Gels",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Personal Body Massagers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men Performance Booster",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sexual Health Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Massage Oils",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ayurveda",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tooth Paste",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mouth Ulcer Gel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mouthwash",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Toothache and Gum Pain",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tooth Brush",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gargle Solution",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Orthopaedic Supports",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Adult Diapers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Footwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mobility and Support Accessories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Urinary Support and Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Conditions",
+      "tag": "A",
+      "x": 304.0375061035156,
+      "y": 85.80000305175781,
+      "width": 103.07500457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Bone and Joint Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Digestive Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pain Relief",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Smoking Cessation",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Liver Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Stomach Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cold and Cough",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heart Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Kidney Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Piles, Fissures & Fistula",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Respiratory Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mental Wellness",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Derma Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Pre and Probiotics",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Acidity",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gas",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Constipation",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loose Motion/Diarrhoea",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Digestive Fibres",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Digestive Enzymes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Lubricant Drops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lens Solution",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Safety Eye Wear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Cream",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Vitamins and Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Drops",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Eye Ointment and Gel",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nicotine Patch",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nicotine Gum",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nicotine Lozenges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cough Syrups",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Chest Rubs and Balms",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nasal Spray",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Lozenges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Inhalant Capsules",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cold and Cough Tablets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamins & Supplements",
+      "tag": "A",
+      "x": 462.26251220703125,
+      "y": 85.80000305175781,
+      "width": 139.65000915527344,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Multivitamins, Multiminerals and Antioxidants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Calcium & Minerals",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin A to Z",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Protein Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supplement Powder",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Vitamin B12 and B Complex",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Mineral Supplements",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Immunity Boosters",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Omega and Fish Oil",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Care",
+      "tag": "A",
+      "x": 657.0625,
+      "y": 85.80000305175781,
+      "width": 81.88750457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Diabetic Diet",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sugar Substitutes",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diabetes Ayurvedic Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Syringes and Pens",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Healthcare Devices",
+      "tag": "A",
+      "x": 794.1124877929688,
+      "y": 85.80000305175781,
+      "width": 111.36250305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Blood Glucose Monitors",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Test Strips and Lancets",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BP Monitors",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Nebulizers and Vaporizers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Supports and Braces",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathic Medicine",
+      "tag": "A",
+      "x": 960.625,
+      "y": 85.80000305175781,
+      "width": 134.4250030517578,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Homeopathy for Skin Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy Digestive Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy for Seniors",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy Heart Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy Kidney Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy Sexual Health",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy for Diabetes Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy for Hair Care",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Homeopathy Cold & Cough",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Guide",
+      "tag": "A",
+      "x": 1150.2000732421875,
+      "y": 85.80000305175781,
+      "width": 74.63750457763672,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Health Articles",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Diseases & Health Conditions",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Stories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ayurveda",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Understanding Generic Medicines",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Health Library",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add Medicine",
+      "tag": "BUTTON",
+      "x": 375.25,
+      "y": 564.7999877929688,
+      "width": 253,
+      "height": 44,
+      "visible": true
+    },
+    {
+      "text": "About Us",
+      "tag": "A",
+      "x": 65,
+      "y": 819.7999877929688,
+      "width": 61.0625,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Health Article",
+      "tag": "A",
+      "x": 65,
+      "y": 857.7999877929688,
+      "width": 89.8375015258789,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Health Stories",
+      "tag": "A",
+      "x": 65,
+      "y": 895.7999877929688,
+      "width": 93.73750305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Health Library",
+      "tag": "A",
+      "x": 65,
+      "y": 933.7999877929688,
+      "width": 92.01250457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Diseases & Health Conditions",
+      "tag": "A",
+      "x": 65,
+      "y": 971.7999877929688,
+      "width": 195.9499969482422,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Ayurveda",
+      "tag": "A",
+      "x": 65,
+      "y": 1009.7999877929688,
+      "width": 63.22500228881836,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Understanding Generic Medicines",
+      "tag": "A",
+      "x": 65,
+      "y": 1047.800048828125,
+      "width": 226.8000030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "All Medicines",
+      "tag": "A",
+      "x": 65,
+      "y": 1085.800048828125,
+      "width": 87.3499984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "All Brands",
+      "tag": "A",
+      "x": 65,
+      "y": 1123.800048828125,
+      "width": 65.75,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Need Help",
+      "tag": "A",
+      "x": 65,
+      "y": 1161.800048828125,
+      "width": 70.88750457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 65,
+      "y": 1199.800048828125,
+      "width": 28.75,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Security",
+      "tag": "A",
+      "x": 65,
+      "y": 1237.800048828125,
+      "width": 55.712501525878906,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Savings Calculator",
+      "tag": "A",
+      "x": 65,
+      "y": 1275.800048828125,
+      "width": 123.76250457763672,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Advertise with Us",
+      "tag": "A",
+      "x": 65,
+      "y": 1313.800048828125,
+      "width": 114.42500305175781,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 381.3999938964844,
+      "y": 819.7999877929688,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 437.3999938964844,
+      "y": 819.7999877929688,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 493.3999938964844,
+      "y": 819.7999877929688,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 549.4000244140625,
+      "y": 819.7999877929688,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "Terms & Conditions",
+      "tag": "A",
+      "x": 381.3999938964844,
+      "y": 948.7999877929688,
+      "width": 129.1875,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 381.3999938964844,
+      "y": 986.7999877929688,
+      "width": 91.8125,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Editorial Policy",
+      "tag": "A",
+      "x": 381.3999938964844,
+      "y": 1024.800048828125,
+      "width": 98.4000015258789,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Returns & Cancellations",
+      "tag": "A",
+      "x": 381.3999938964844,
+      "y": 1062.800048828125,
+      "width": 158.3000030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Lowest Price Guarantee T&C",
+      "tag": "A",
+      "x": 381.3999938964844,
+      "y": 1100.800048828125,
+      "width": 190.75,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "Subscribe",
+      "tag": "BUTTON",
+      "x": 862.2000122070312,
+      "y": 902.6000366210938,
+      "width": 127.11250305175781,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "09240250346",
+      "tag": "A",
+      "x": 747.2750244140625,
+      "y": 1127,
+      "width": 98.76250457763672,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "grievance-officer@truemeds.in",
+      "tag": "A",
+      "x": 715.2374877929688,
+      "y": 1217,
+      "width": 209.6125030517578,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1079.7125244140625,
+      "y": 973.7999877929688,
+      "width": 138.9250030517578,
+      "height": 47,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1232.6375732421875,
+      "y": 973.7999877929688,
+      "width": 138.53750610351562,
+      "height": 47,
+      "visible": true
+    },
+    {
+      "text": "support@truemeds.in",
+      "tag": "A",
+      "x": 1079.7125244140625,
+      "y": 1188.800048828125,
+      "width": 147.6125030517578,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "09240250346",
+      "tag": "A",
+      "x": 1272.3250732421875,
+      "y": 1188.800048828125,
+      "width": 98.8499984741211,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "See additional information",
+      "tag": "A",
+      "x": 192.5749969482422,
+      "y": 1408.7000732421875,
+      "width": 176.22500610351562,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 593,
+      "y": 1383.4000244140625,
+      "width": 105,
+      "height": 47.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "Add more user details",
+      "tag": "BUTTON",
+      "x": 875,
+      "y": 134,
+      "width": 159.8874969482422,
+      "height": 17.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "BUTTON",
+      "x": 875,
+      "y": 480.1125183105469,
+      "width": 124.5,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 875,
+      "y": 480.1125183105469,
+      "width": 124.5,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "Logout",
+      "tag": "BUTTON",
+      "x": 875,
+      "y": 514.9125366210938,
+      "width": 41.900001525878906,
+      "height": 16,
+      "visible": true
+    }
+  ]
+}

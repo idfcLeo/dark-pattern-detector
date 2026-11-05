@@ -1,0 +1,1566 @@
+{
+  "step": 5,
+  "label": "payment",
+  "url": "https://veirdo.in/account",
+  "timestamp": "20261105_235319",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 305,
+      "y": -1,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 943,
+      "y": -1,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VEIRDO PREMIUM",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM HOODIES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PUFF PRINT T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HALF SLEEVE PREMIUM SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FULL SLEEVE PREMIUM SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HALF SLEEVE PREMIUM POLO",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FULL SLEEVE PREMIUM POLO",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM BOTTOM",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CENTRE STAGE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "EPIC THREAD COLLECTION",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SUPREME EDITION",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "THE PRINT CLUB",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WINTER WEAR",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM HOODIES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM JACKETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "HOODIES & SWEATSHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM SHACKETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM SWEATSHIRT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE HOODIES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TOP WEAR",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OVERSIZED PRINTED T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OVERSIZED PLAIN T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "REGULAR FIT T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "POLO T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TEEN'S T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FULL SLEEVE T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VEST",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE POLOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE PREMIUM T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE PREMIUM SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BOTTOM WEAR",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CARGOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "JOGGERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SHORTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FORMAL PANTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM COLLECTION",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ALL PRODUCTS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PUFF PRINT T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "EPIC THREAD",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM HALF SLEEVE POLOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM FULL SLEEVE POLOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM FLATKNIT POLOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM HALF SLEEVE SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM FULL SLEEVE SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM CARGOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM JOGGERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM TROUSERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM SHORTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM HOODIES",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM SHACKETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PREMIUM SWEATSHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE POLOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PLUS SIZE SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OVERSIZED PRINTED T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OVERSIZED PLAIN T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "REGULAR FIT T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "POLOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "TEEN'S T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FULL SLEEVE T-SHIRTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "VEST",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CARGOS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "JOGGERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SHORTS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CO-ORD SETS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "WINTER WEAR",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "EPIC FOR WOMEN",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MY ACCOUNT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SUPPORT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MY ORDERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MY ORDERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "RETURN/EXCHANGE",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16.80000114440918,
+      "y": 68.76250457763672,
+      "width": 120,
+      "height": 28.075000762939453,
+      "visible": true
+    },
+    {
+      "text": "SUPREME EDITION",
+      "tag": "A",
+      "x": 172.8000030517578,
+      "y": 42.79999923706055,
+      "width": 78.38750457763672,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "EPIC THREAD",
+      "tag": "A",
+      "x": 263.1875,
+      "y": 42.79999923706055,
+      "width": 56.36249923706055,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 266.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 266.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "THE PRINT CLUB",
+      "tag": "A",
+      "x": 419.1125183105469,
+      "y": 42.79999923706055,
+      "width": 68.95000457763672,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 266.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 266.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "BOTTOM WEAR",
+      "tag": "A",
+      "x": 610.7625122070312,
+      "y": 42.79999923706055,
+      "width": 64.88750457763672,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 266.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 314.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 362.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 64,
+      "y": 410.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 266.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 314.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 362.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 336.8000183105469,
+      "y": 410.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 170.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 218.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 266.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 314.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 609.6000366210938,
+      "y": 362.3125,
+      "width": 260.8000183105469,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "PREMIUM COLLECTION",
+      "tag": "A",
+      "x": 843.75,
+      "y": 42.79999923706055,
+      "width": 98.5,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1097.4500732421875,
+      "y": 70.80000305175781,
+      "width": 48,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1174.25,
+      "y": 72.30000305175781,
+      "width": 21,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1079.2000732421875,
+      "y": 152.40000915527344,
+      "width": 158.40000915527344,
+      "height": 62,
+      "visible": true
+    },
+    {
+      "text": "MY ORDERS",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1079.2000732421875,
+      "y": 214.40000915527344,
+      "width": 158.40000915527344,
+      "height": 62.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1079.2000732421875,
+      "y": 277.20001220703125,
+      "width": 158.40000915527344,
+      "height": 62.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1079.2000732421875,
+      "y": 340,
+      "width": 158.40000915527344,
+      "height": 64.80000305175781,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1079.2000732421875,
+      "y": 404.8000183105469,
+      "width": 158.40000915527344,
+      "height": 53.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "1\nItems running out of cart!",
+      "tag": "BUTTON",
+      "x": 1211.25,
+      "y": 66.80000305175781,
+      "width": 24,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 502,
+      "y": 362.3999938964844,
+      "width": 136,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 642,
+      "y": 362.3999938964844,
+      "width": 136,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": ".popup-feature-image-height{\n    height: auto;\n  }",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "MOVE TO WISHLIST",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Proceed to Buy\n      \n    \n    \n      \n           \n    \n    Loading..",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "logout",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "PROFILE",
+      "tag": "A",
+      "x": 176.8000030517578,
+      "y": 188.40000915527344,
+      "width": 227.40000915527344,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "ORDERS",
+      "tag": "A",
+      "x": 176.8000030517578,
+      "y": 246.1999969482422,
+      "width": 227.40000915527344,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "ADDRESSES",
+      "tag": "A",
+      "x": 176.8000030517578,
+      "y": 304,
+      "width": 227.40000915527344,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 176.8000030517578,
+      "y": 361.8000183105469,
+      "width": 227.40000915527344,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "SUPPORT",
+      "tag": "A",
+      "x": 176.8000030517578,
+      "y": 419.6000061035156,
+      "width": 227.40000915527344,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SAVE CHANGES",
+      "tag": "BUTTON",
+      "x": 453,
+      "y": 574.6000366210938,
+      "width": 667,
+      "height": 46.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "SUBSCRIBE",
+      "tag": "BUTTON",
+      "x": 1077.2249755859375,
+      "y": 741.2000122070312,
+      "width": 114.7750015258789,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "INSTAGRAM",
+      "tag": "A",
+      "x": 80.80000305175781,
+      "y": 890,
+      "width": 279.6000061035156,
+      "height": 57,
+      "visible": true
+    },
+    {
+      "text": "LINKEDIN",
+      "tag": "A",
+      "x": 360.3999938964844,
+      "y": 890,
+      "width": 279.6000061035156,
+      "height": 57,
+      "visible": true
+    },
+    {
+      "text": "TWITTER",
+      "tag": "A",
+      "x": 640,
+      "y": 890,
+      "width": 279.6000061035156,
+      "height": 57,
+      "visible": true
+    },
+    {
+      "text": "WHATSAPP",
+      "tag": "A",
+      "x": 919.6000366210938,
+      "y": 890,
+      "width": 279.6000061035156,
+      "height": 57,
+      "visible": true
+    },
+    {
+      "text": "OVERSIZED T-SHIRTS",
+      "tag": "A",
+      "x": 80,
+      "y": 1068.5999755859375,
+      "width": 121.36250305175781,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "NEW ARRIVALS",
+      "tag": "A",
+      "x": 80,
+      "y": 1092.5999755859375,
+      "width": 86.5,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "BEST SELLERS",
+      "tag": "A",
+      "x": 80,
+      "y": 1116.5999755859375,
+      "width": 80.4749984741211,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "CLASSIC FIT T-SHIRT",
+      "tag": "A",
+      "x": 80,
+      "y": 1140.5999755859375,
+      "width": 119.17500305175781,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "CARGOS",
+      "tag": "A",
+      "x": 80,
+      "y": 1164.5999755859375,
+      "width": 47.400001525878906,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "WINTER-WEAR",
+      "tag": "A",
+      "x": 80,
+      "y": 1188.5999755859375,
+      "width": 85.0875015258789,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "ABOUT-US",
+      "tag": "A",
+      "x": 500,
+      "y": 1068.5999755859375,
+      "width": 59.17499923706055,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "x": 500,
+      "y": 1092.5999755859375,
+      "width": 30.649999618530273,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "tag": "A",
+      "x": 500,
+      "y": 1116.5999755859375,
+      "width": 94.9124984741211,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "TERMS & CONDITIONS",
+      "tag": "A",
+      "x": 500,
+      "y": 1140.5999755859375,
+      "width": 126.75,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "WORK WITH US",
+      "tag": "A",
+      "x": 500,
+      "y": 1164.5999755859375,
+      "width": 87.88750457763672,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "CONTACT US",
+      "tag": "A",
+      "x": 920,
+      "y": 1068.5999755859375,
+      "width": 71.1500015258789,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "FAQs",
+      "tag": "A",
+      "x": 920,
+      "y": 1092.5999755859375,
+      "width": 28.25,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "SHIPPING POLICY",
+      "tag": "A",
+      "x": 920,
+      "y": 1116.5999755859375,
+      "width": 102.75,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "REFUND POLICY",
+      "tag": "A",
+      "x": 920,
+      "y": 1140.5999755859375,
+      "width": 91.76250457763672,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "CHECK",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

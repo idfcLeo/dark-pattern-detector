@@ -1,0 +1,135 @@
+{
+  "step": 7,
+  "label": "cancel_step",
+  "url": "https://shopify.com/81529602272/account/profile",
+  "timestamp": "20261106_000912",
+  "suspected_pattern": "roach_motel?",
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 3.200000047683716,
+      "height": 3.200000047683716,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 56,
+      "y": 16,
+      "width": 80,
+      "height": 80,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1192.4749755859375,
+      "y": 40.23749923706055,
+      "width": 31.524999618530273,
+      "height": 31.524999618530273,
+      "visible": true
+    },
+    {
+      "text": "Orders",
+      "tag": "A",
+      "x": 56,
+      "y": 136.8000030517578,
+      "width": 61.17499923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Profile",
+      "tag": "A",
+      "x": 56,
+      "y": 166.8000030517578,
+      "width": 61.17499923706055,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Edit",
+      "tag": "BUTTON",
+      "x": 982.0375366210938,
+      "y": 136.8000030517578,
+      "width": 43.04999923706055,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Add",
+      "tag": "BUTTON",
+      "x": 980.1625366210938,
+      "y": 265.25,
+      "width": 44.92499923706055,
+      "height": 37.54999923706055,
+      "visible": true
+    },
+    {
+      "text": "Sign out",
+      "tag": "BUTTON",
+      "x": 385.0874938964844,
+      "y": 556.7999877929688,
+      "width": 81.32500457763672,
+      "height": 46.900001525878906,
+      "visible": true
+    },
+    {
+      "text": "Sign out of all devices",
+      "tag": "BUTTON",
+      "x": 486.4125061035156,
+      "y": 570.7999877929688,
+      "width": 135.08750915527344,
+      "height": 18.899999618530273,
+      "visible": true
+    },
+    {
+      "text": "Refund policy",
+      "tag": "BUTTON",
+      "x": 56,
+      "y": 683.7999877929688,
+      "width": 72.05000305175781,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Shipping",
+      "tag": "BUTTON",
+      "x": 142.0500030517578,
+      "y": 683.7999877929688,
+      "width": 46.95000076293945,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Privacy policy",
+      "tag": "BUTTON",
+      "x": 203,
+      "y": 683.7999877929688,
+      "width": 71.5374984741211,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Terms of service",
+      "tag": "BUTTON",
+      "x": 288.5375061035156,
+      "y": 683.7999877929688,
+      "width": 84.375,
+      "height": 16.200000762939453,
+      "visible": true
+    },
+    {
+      "text": "Contact information",
+      "tag": "BUTTON",
+      "x": 386.9125061035156,
+      "y": 683.7999877929688,
+      "width": 106.2249984741211,
+      "height": 16.200000762939453,
+      "visible": true
+    }
+  ]
+}

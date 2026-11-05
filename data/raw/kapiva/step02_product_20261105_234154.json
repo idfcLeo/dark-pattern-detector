@@ -1,0 +1,1269 @@
+{
+  "step": 2,
+  "label": "product",
+  "url": "https://kapiva.in/search?q=juice",
+  "timestamp": "20261105_234154",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 64,
+      "y": 8.600000381469727,
+      "width": 36,
+      "height": 48.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "GET APP",
+      "tag": "BUTTON",
+      "x": 830.0750122070312,
+      "y": 10,
+      "width": 70.5999984741211,
+      "height": 36,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1221,
+      "y": 65.5999984741211,
+      "width": 43,
+      "height": 70.20000457763672,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 16,
+      "y": 76.0999984741211,
+      "width": 150,
+      "height": 49.1875,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 917.2000122070312,
+      "y": 84.70000457763672,
+      "width": 32,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "GET APP",
+      "tag": "BUTTON",
+      "x": 989.0499877929688,
+      "y": 85.70000457763672,
+      "width": 93.95000457763672,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "GET APP",
+      "tag": "A",
+      "x": 1003.8500366210938,
+      "y": 90.9000015258789,
+      "width": 64.3499984741211,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1099,
+      "y": 85.70000457763672,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1092.3375244140625,
+      "y": 178.90000915527344,
+      "width": 43.3125,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1094.925048828125,
+      "y": 213.3000030517578,
+      "width": 38.150001525878906,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1082,
+      "y": 247.6999969482422,
+      "width": 64,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1062.9500732421875,
+      "y": 282.1000061035156,
+      "width": 102.0999984741211,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1062.4625244140625,
+      "y": 316.5,
+      "width": 103.07500457763672,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1081.0250244140625,
+      "y": 350.8999938964844,
+      "width": 65.9375,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1066.5875244140625,
+      "y": 386.1000061035156,
+      "width": 94.8125,
+      "height": 19.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1145,
+      "y": 88.70000457763672,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1185,
+      "y": 90.70000457763672,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sugar",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gym",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "For Her",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Energy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Heart",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Herbs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cart0",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "All Filters",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sort by",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "29% OFF4.2/5 (44105)Liver Care Juice₹9991398Earn50CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "13% OFF4.3/5 (16310)Dia Free Juice - Helps Manage Sugar Levels₹9801124Earn49Coin",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "39% OFF4.3/5 (5349)Cholest Fit Juice₹8491398Earn42CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "33% OFF4.4/5 (3876)Artho Sure Juice₹17992697Earn90CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "10% OFF4.6/5 (1472)BP Xpert Juice₹899999Earn45CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "3% OFF4/5 (42747)Get Slim Juice₹9931029Earn50CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "16% OFF4.3/5 (506)Dia Free 2X Juice₹9491124Earn47CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "17% OFF4.3/5 (20954)Karela Jamun Juice₹310374Earn16CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "17% OFF4.3/5 (17279)Aloe Vera Juice₹466560Earn23CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "15% OFF4.8/5 (26)Aloe + Amla Juice₹799938Earn40CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "15% OFF4.2/5 (15823)Wheat Grass Juice₹799936Earn40CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "16% OFF4.2/5 (10885)Neem Juice 1L₹549654Earn27CoinsDelivered by 7 - 12 Nov",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sort By",
+      "tag": "BUTTON",
+      "x": 80,
+      "y": 337.3999938964844,
+      "width": 240,
+      "height": 33.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Availability",
+      "tag": "BUTTON",
+      "x": 80,
+      "y": 531.7999877929688,
+      "width": 240,
+      "height": 33.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Ingredient",
+      "tag": "BUTTON",
+      "x": 80,
+      "y": 606.2000122070312,
+      "width": 240,
+      "height": 33.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Solution",
+      "tag": "BUTTON",
+      "x": 80,
+      "y": 680.6000366210938,
+      "width": 240,
+      "height": 33.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "Product Type",
+      "tag": "BUTTON",
+      "x": 80,
+      "y": 755,
+      "width": 240,
+      "height": 33.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "29% OFF\n4.2/5 (44105)\nLiver Care Juice\n\n₹999\n1398\n\nEarn\n50\nCoins\n\nDelivered by 7",
+      "tag": "A",
+      "x": 356.8000183105469,
+      "y": 243.8000030517578,
+      "width": 258.3999938964844,
+      "height": 480.9875183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 356.8000183105469,
+      "y": 724.7875366210938,
+      "width": 90.4375,
+      "height": 49.01250076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 447.2375183105469,
+      "y": 724.7875366210938,
+      "width": 167.96250915527344,
+      "height": 49.01250076293945,
+      "visible": true
+    },
+    {
+      "text": "13% OFF\n4.3/5 (16310)\nDia Free Juice - Helps Manage Sugar Levels\n\n₹980\n1124\n\nEar",
+      "tag": "A",
+      "x": 648.7999877929688,
+      "y": 243.8000030517578,
+      "width": 258.3999938964844,
+      "height": 480.9875183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 648.7999877929688,
+      "y": 724.7875366210938,
+      "width": 90.4375,
+      "height": 49.01250076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 739.2374877929688,
+      "y": 724.7875366210938,
+      "width": 167.96250915527344,
+      "height": 49.01250076293945,
+      "visible": true
+    },
+    {
+      "text": "39% OFF\n4.3/5 (5349)\nCholest Fit Juice\n\n₹849\n1398\n\nEarn\n42\nCoins\n\nDelivered by 7",
+      "tag": "A",
+      "x": 940.7999877929688,
+      "y": 243.8000030517578,
+      "width": 258.3999938964844,
+      "height": 480.9875183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 940.7999877929688,
+      "y": 724.7875366210938,
+      "width": 90.4375,
+      "height": 49.01250076293945,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 1031.237548828125,
+      "y": 724.7875366210938,
+      "width": 167.96250915527344,
+      "height": 49.01250076293945,
+      "visible": true
+    },
+    {
+      "text": "33% OFF\n4.4/5 (3876)\nArtho Sure Juice\n\n₹1799\n2697\n\nEarn\n90\nCoins\n\nDelivered by 7",
+      "tag": "A",
+      "x": 356.8000183105469,
+      "y": 807.4000244140625,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 356.8000183105469,
+      "y": 1265.2000732421875,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 447.2375183105469,
+      "y": 1265.2000732421875,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "10% OFF\n4.6/5 (1472)\nBP Xpert Juice\n\n₹899\n999\n\nEarn\n45\nCoins\n\nDelivered by 7 - 1",
+      "tag": "A",
+      "x": 648.7999877929688,
+      "y": 807.4000244140625,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 648.7999877929688,
+      "y": 1265.2000732421875,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 739.2374877929688,
+      "y": 1265.2000732421875,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "3% OFF\n4/5 (42747)\nGet Slim Juice\n\n₹993\n1029\n\nEarn\n50\nCoins\n\nDelivered by 7 - 12",
+      "tag": "A",
+      "x": 940.7999877929688,
+      "y": 807.4000244140625,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 940.7999877929688,
+      "y": 1265.2000732421875,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 1031.237548828125,
+      "y": 1265.2000732421875,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "16% OFF\n4.3/5 (506)\nDia Free 2X Juice\n\n₹949\n1124\n\nEarn\n47\nCoins\n\nDelivered by 7 ",
+      "tag": "A",
+      "x": 356.8000183105469,
+      "y": 1347.5999755859375,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 356.8000183105469,
+      "y": 1805.4000244140625,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 447.2375183105469,
+      "y": 1805.4000244140625,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "17% OFF\n4.3/5 (20954)\nKarela Jamun Juice\n\n₹310\n374\n\nEarn\n16\nCoins\n\nDelivered by ",
+      "tag": "A",
+      "x": 648.7999877929688,
+      "y": 1347.5999755859375,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 648.7999877929688,
+      "y": 1805.4000244140625,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 739.2374877929688,
+      "y": 1805.4000244140625,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "17% OFF\n4.3/5 (17279)\nAloe Vera Juice\n\n₹466\n560\n\nEarn\n23\nCoins\n\nDelivered by 7 -",
+      "tag": "A",
+      "x": 940.7999877929688,
+      "y": 1347.5999755859375,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 940.7999877929688,
+      "y": 1805.4000244140625,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 1031.237548828125,
+      "y": 1805.4000244140625,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "15% OFF\n4.8/5 (26)\nAloe + Amla Juice\n\n₹799\n938\n\nEarn\n40\nCoins\n\nDelivered by 7 - ",
+      "tag": "A",
+      "x": 356.8000183105469,
+      "y": 1887.800048828125,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 356.8000183105469,
+      "y": 2345.60009765625,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 447.2375183105469,
+      "y": 2345.60009765625,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "15% OFF\n4.2/5 (15823)\nWheat Grass Juice\n\n₹799\n936\n\nEarn\n40\nCoins\n\nDelivered by 7",
+      "tag": "A",
+      "x": 648.7999877929688,
+      "y": 1887.800048828125,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 648.7999877929688,
+      "y": 2345.60009765625,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 739.2374877929688,
+      "y": 2345.60009765625,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "16% OFF\n4.2/5 (10885)\nNeem Juice 1L\n\n₹549\n654\n\nEarn\n27\nCoins\n\nDelivered by 7 - 1",
+      "tag": "A",
+      "x": 940.7999877929688,
+      "y": 1887.800048828125,
+      "width": 258.3999938964844,
+      "height": 457.8000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 940.7999877929688,
+      "y": 2345.60009765625,
+      "width": 90.4375,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "BUY NOW",
+      "tag": "BUTTON",
+      "x": 1031.237548828125,
+      "y": 2345.60009765625,
+      "width": 167.96250915527344,
+      "height": 48.79999923706055,
+      "visible": true
+    },
+    {
+      "text": "Previous",
+      "tag": "BUTTON",
+      "x": 491.7375183105469,
+      "y": 2471.199951171875,
+      "width": 89.9375,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "1",
+      "tag": "BUTTON",
+      "x": 597.6749877929688,
+      "y": 2475.199951171875,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "2",
+      "tag": "BUTTON",
+      "x": 625.6749877929688,
+      "y": 2475.199951171875,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "3",
+      "tag": "BUTTON",
+      "x": 653.6749877929688,
+      "y": 2475.199951171875,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "4",
+      "tag": "BUTTON",
+      "x": 681.6749877929688,
+      "y": 2475.199951171875,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Next",
+      "tag": "BUTTON",
+      "x": 721.6749877929688,
+      "y": 2471.199951171875,
+      "width": 66.57500457763672,
+      "height": 32,
+      "visible": true
+    },
+    {
+      "text": "SHOP ALL",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "ABOUT",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "OTHER LINKS",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 20,
+      "y": 2587.199951171875,
+      "width": 217.75,
+      "height": 53.45000076293945,
+      "visible": true
+    },
+    {
+      "text": "1800-274-2575",
+      "tag": "A",
+      "x": 63,
+      "y": 2802.324951171875,
+      "width": 163.8000030517578,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "info@kapiva.in",
+      "tag": "A",
+      "x": 63,
+      "y": 2854.8125,
+      "width": 152.8625030517578,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "SHOP ALL",
+      "tag": "A",
+      "x": 330,
+      "y": 2586.400146484375,
+      "width": 105.6500015258789,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "MY ACCOUNT",
+      "tag": "A",
+      "x": 330,
+      "y": 2634.400146484375,
+      "width": 145.10000610351562,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "FAQS",
+      "tag": "A",
+      "x": 330,
+      "y": 2682.400146484375,
+      "width": 56.88750076293945,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "INNOVATION FUND",
+      "tag": "A",
+      "x": 330,
+      "y": 2730.400146484375,
+      "width": 204.125,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "ABOUT US",
+      "tag": "A",
+      "x": 574.125,
+      "y": 2586.400146484375,
+      "width": 108.88750457763672,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "BLOG",
+      "tag": "A",
+      "x": 574.125,
+      "y": 2634.400146484375,
+      "width": 59.29999923706055,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "MEDIA",
+      "tag": "A",
+      "x": 574.125,
+      "y": 2682.400146484375,
+      "width": 69.8499984741211,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "CONTACT US",
+      "tag": "A",
+      "x": 574.125,
+      "y": 2730.400146484375,
+      "width": 135.1999969482422,
+      "height": 28.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 795,
+      "y": 2623.199951171875,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 851,
+      "y": 2623.199951171875,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 907,
+      "y": 2623.199951171875,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 963,
+      "y": 2623.199951171875,
+      "width": 40,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 20,
+      "y": 2922.8125,
+      "width": 100,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Terms and Conditions",
+      "tag": "A",
+      "x": 364.1499938964844,
+      "y": 2922.8125,
+      "width": 156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Shipping Policy",
+      "tag": "A",
+      "x": 764.2875366210938,
+      "y": 2922.8125,
+      "width": 113.4000015258789,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Cancellation Policy",
+      "tag": "A",
+      "x": 1121.8375244140625,
+      "y": 2922.8125,
+      "width": 138.16250610351562,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1204.4000244140625,
+      "y": 604.7999877929688,
+      "width": 50,
+      "height": 50,
+      "visible": true
+    }
+  ]
+}

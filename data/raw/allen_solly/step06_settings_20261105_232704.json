@@ -1,0 +1,117 @@
+{
+  "step": 6,
+  "label": "settings",
+  "url": "https://profile.abfrl.in/info",
+  "timestamp": "20261105_232704",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "MY ACCOUNT",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 268.20001220703125,
+      "width": 89.20000457763672,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "MY ORDERS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 323.20001220703125,
+      "width": 77.0374984741211,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "MY CREDITS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 373.20001220703125,
+      "width": 80.125,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "LOYALTY POINTS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 423.20001220703125,
+      "width": 109.5875015258789,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "ADDRESS BOOK",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 473.20001220703125,
+      "width": 101.76250457763672,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "SAVED CARDS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 523.2000122070312,
+      "width": 91.57500457763672,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "WISHLIST",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 573.2000122070312,
+      "width": 63.26250076293945,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "SHARED PRODUCTS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 623.2000122070312,
+      "width": 128.625,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "SHOP PREFERENCES",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 673.2000122070312,
+      "width": 133.96250915527344,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "MY REVIEWS",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 723.2000122070312,
+      "width": 82.8499984741211,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "LOG OUT",
+      "tag": "A",
+      "x": 139.0625,
+      "y": 773.2000122070312,
+      "width": 57.150001525878906,
+      "height": 14,
+      "visible": true
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 387,
+      "y": 78.70000457763672,
+      "width": 32.29999923706055,
+      "height": 17.600000381469727,
+      "visible": true
+    }
+  ]
+}

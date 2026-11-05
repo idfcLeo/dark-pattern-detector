@@ -1,0 +1,4833 @@
+{
+  "step": 1,
+  "label": "landing",
+  "url": "https://blissclub.com/",
+  "timestamp": "20261106_001312",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": -1,
+      "y": -1077,
+      "width": 1,
+      "height": 1,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Download Our App\n          \n        \n        \n          \n            Faster chec",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "⚡ Extra Rs.400 off on purchase of 4 Faves ⚡| Use code: BLISS400",
+      "tag": "A",
+      "x": -866.6749877929688,
+      "y": -1070,
+      "width": 448.3500061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ 10% off on your first order ⚡ | Use code: FIRSTBLISS",
+      "tag": "A",
+      "x": 445.8500061035156,
+      "y": -1070,
+      "width": 373.2875061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ Extra Rs.100 off on purchase of 2 faves ⚡| Use code: BLISS100",
+      "tag": "A",
+      "x": 1688.0625,
+      "y": -1070,
+      "width": 438.875,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ Extra Rs.200 off on purchase of 3 Faves ⚡| Use code: BLISS200",
+      "tag": "A",
+      "x": 2958.550048828125,
+      "y": -1070,
+      "width": 447.88751220703125,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ Extra Rs.400 off on purchase of 4 Faves ⚡| Use code: BLISS400",
+      "tag": "A",
+      "x": 4233.3251953125,
+      "y": -1070,
+      "width": 448.3500061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ 10% off on your first order ⚡ | Use code: FIRSTBLISS",
+      "tag": "A",
+      "x": 5545.85009765625,
+      "y": -1070,
+      "width": 373.2875061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Open navigation menu",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 72.5999984741211,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 111.5999984741211,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 150.60000610351562,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 189.60000610351562,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 228.60000610351562,
+      "width": 188.40000915527344,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 285.6000061035156,
+      "width": 188.40000915527344,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 342.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 381.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 420.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 459.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 498.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 537.6000366210938,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 576.6000366210938,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 615.6000366210938,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Shop All",
+      "tag": "A",
+      "x": 144.5500030517578,
+      "y": 24.600000381469727,
+      "width": 53.38750076293945,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 215.9375,
+      "y": 24.600000381469727,
+      "width": 71.75,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "BlissTerry\nNEW",
+      "tag": "A",
+      "x": 305.6875,
+      "y": 24.600000381469727,
+      "width": 61.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 385.625,
+      "y": 24.600000381469727,
+      "width": 88.9124984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "BlissClub",
+      "tag": "A",
+      "x": 552.3375244140625,
+      "y": 17.162500381469727,
+      "width": 160.1125030517578,
+      "height": 26.67500114440918,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1022.7999877929688,
+      "y": 17.5,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist\n                        0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 971.7999877929688,
+      "y": 206.60000610351562,
+      "width": 75.5999984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 971.7999877929688,
+      "y": 237.60000610351562,
+      "width": 135.10000610351562,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 971.7999877929688,
+      "y": 268.6000061035156,
+      "width": 242.85000610351562,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 971.7999877929688,
+      "y": 299.6000061035156,
+      "width": 98.38750457763672,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 971.7999877929688,
+      "y": 330.6000061035156,
+      "width": 27.42500114440918,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 971.7999877929688,
+      "y": 361.6000061035156,
+      "width": 73.5625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "0000\n                  Blisscoins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "APP",
+      "tag": "A",
+      "x": 1094.800048828125,
+      "y": 17.5,
+      "width": 36,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1135.800048828125,
+      "y": 11.5,
+      "width": 38,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "Open cart\n0",
+      "tag": "A",
+      "x": 1178.800048828125,
+      "y": 11.5,
+      "width": 38,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 578.4500122070312,
+      "y": 74,
+      "width": 53.900001525878906,
+      "height": 23.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Men\nNEW",
+      "tag": "A",
+      "x": 656.3500366210938,
+      "y": 74,
+      "width": 30,
+      "height": 23.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop All",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zenims\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissTerry\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spotted on Celebrities\nTrending",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Selling Out Soon\nUp To 70% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop By",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Categories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bottomwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Topwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports Bras",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jackets & Hoodies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bras",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Panties",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SwimWear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Co-ords",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Occasion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fabric",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate and Bulk Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissLabs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account/ Login",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns / Exchanges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return/Exchange/Refund Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loyalty & Gift Cards",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blissqueen Royalty Program",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Card",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Citywear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Activewear\n New",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BareButter Mens\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate and Bulk Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop By",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Categories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Topwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bottomwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Activewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Outerwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissLabs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account/ Login",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns / Exchanges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return/Exchange/Refund Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loyalty & Gift Cards",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blissqueen Royalty Program",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Card",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Log in\n                    #blissqueen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Continue shopping",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop Now",
+      "tag": "A",
+      "x": 36,
+      "y": -386.8625183105469,
+      "width": 230,
+      "height": 63,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1186.800048828125,
+      "y": -910.6000366210938,
+      "width": 54,
+      "height": 54,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -313.5583190917969,
+      "y": -224.64476013183594,
+      "width": 263.6767272949219,
+      "height": 151.7953338623047,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -140.2386474609375,
+      "y": -237.4811248779297,
+      "width": 302.0130615234375,
+      "height": 173.86508178710938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 92.25958251953125,
+      "y": -254.6389923095703,
+      "width": 353.25567626953125,
+      "height": 203.36477661132812,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 419.7210998535156,
+      "y": -278.8490905761719,
+      "width": 425.56005859375,
+      "height": 236.47776794433594,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 819.4918212890625,
+      "y": -254.6666717529297,
+      "width": 353.3382873535156,
+      "height": 196.34519958496094,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1103.1063232421875,
+      "y": -237.4676513671875,
+      "width": 301.9727478027344,
+      "height": 167.80209350585938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1314.7274169921875,
+      "y": -224.6344451904297,
+      "width": 263.64599609375,
+      "height": 151.7776336669922,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1478.8958740234375,
+      "y": -214.7122344970703,
+      "width": 234.01280212402344,
+      "height": 134.71826171875,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1609.66455078125,
+      "y": -206.7787322998047,
+      "width": 210.31924438476562,
+      "height": 121.078125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1716.6136474609375,
+      "y": -200.3175506591797,
+      "width": 191.0226593017578,
+      "height": 109.9693374633789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1805.3626708984375,
+      "y": -194.93101501464844,
+      "width": 174.9357452392578,
+      "height": 100.70822143554688,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1880.3248291015625,
+      "y": -190.38128662109375,
+      "width": 161.34765625,
+      "height": 92.88581085205078,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1944.6959228515625,
+      "y": -186.4956817626953,
+      "width": 149.7431640625,
+      "height": 86.20525360107422,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2000.2197265625,
+      "y": -183.12429809570312,
+      "width": 139.67442321777344,
+      "height": 80.4087905883789,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2048.9501953125,
+      "y": -180.18405151367188,
+      "width": 130.89317321777344,
+      "height": 72.7355728149414,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2091.718994140625,
+      "y": -177.58604431152344,
+      "width": 123.1341781616211,
+      "height": 68.4239730834961,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2129.700927734375,
+      "y": -175.27879333496094,
+      "width": 116.2435531616211,
+      "height": 64.59493255615234,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -1001,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -782.2000122070312,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 279.4875183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -563.4000244140625,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -344.6000061035156,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": -125.80000305175781,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 93,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 311.8000183105469,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 530.6000366210938,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 749.4000244140625,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 279.4875183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 968.2000122070312,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1187,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1405.800048828125,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1624.5999755859375,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.07501220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1843.4000244140625,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2062.199951171875,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2281,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 279.4875183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 2499.800048828125,
+      "y": 51.150001525878906,
+      "width": 203.8000030517578,
+      "height": 280.6499938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 93,
+      "y": 559.7999877929688,
+      "width": 258.45001220703125,
+      "height": 387.6750183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 316.45001220703125,
+      "y": 569.7999877929688,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ultimate Flare Pants - Lite",
+      "tag": "A",
+      "x": 103,
+      "y": 959.875,
+      "width": 177.2624969482422,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.7",
+      "tag": "A",
+      "x": 302.26251220703125,
+      "y": 959.9750366210938,
+      "width": 39.1875,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 719 with coupon",
+      "tag": "A",
+      "x": 103,
+      "y": 1010.4750366210938,
+      "width": 238.4499969482422,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+11",
+      "tag": "A",
+      "x": 213,
+      "y": 1044.9749755859375,
+      "width": 33.82500076293945,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 94.2874984741211,
+      "y": 1123.2750244140625,
+      "width": 255.8625030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 366.45001220703125,
+      "y": 559.7999877929688,
+      "width": 258.45001220703125,
+      "height": 387.6750183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 589.9000244140625,
+      "y": 569.7999877929688,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ultimate Straight Pants - Lite",
+      "tag": "A",
+      "x": 376.45001220703125,
+      "y": 959.875,
+      "width": 199.22500610351562,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.8",
+      "tag": "A",
+      "x": 376.45001220703125,
+      "y": 981.4750366210938,
+      "width": 40.650001525878906,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 899 with coupon",
+      "tag": "A",
+      "x": 376.45001220703125,
+      "y": 1029.4749755859375,
+      "width": 238.4499969482422,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+7",
+      "tag": "A",
+      "x": 486.45001220703125,
+      "y": 1063.9749755859375,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 367.7375183105469,
+      "y": 1123.2750244140625,
+      "width": 255.8625030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 639.9000244140625,
+      "y": 559.7999877929688,
+      "width": 258.45001220703125,
+      "height": 387.6750183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 863.3500366210938,
+      "y": 569.7999877929688,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Work-To-Wine Twill Wide Dart Pants",
+      "tag": "A",
+      "x": 649.9000244140625,
+      "y": 959.875,
+      "width": 205.9375,
+      "height": 35.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "4.7",
+      "tag": "A",
+      "x": 649.9000244140625,
+      "y": 1001.4750366210938,
+      "width": 39.1875,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 1,529 with coupon",
+      "tag": "A",
+      "x": 649.9000244140625,
+      "y": 1049.4749755859375,
+      "width": 238.4499969482422,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+1",
+      "tag": "A",
+      "x": 759.9000244140625,
+      "y": 1083.9749755859375,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 641.1875,
+      "y": 1123.2750244140625,
+      "width": 255.8625030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 913.3500366210938,
+      "y": 559.7999877929688,
+      "width": 258.45001220703125,
+      "height": 387.6750183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1136.800048828125,
+      "y": 569.7999877929688,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cloud Korean Pants",
+      "tag": "A",
+      "x": 923.3500366210938,
+      "y": 959.875,
+      "width": 134.77500915527344,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.5",
+      "tag": "A",
+      "x": 1121.2874755859375,
+      "y": 959.9750366210938,
+      "width": 40.51250076293945,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 1,799 with coupon",
+      "tag": "A",
+      "x": 923.3500366210938,
+      "y": 1010.4750366210938,
+      "width": 238.4499969482422,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 914.6375122070312,
+      "y": 1123.2750244140625,
+      "width": 255.8625030517578,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View All",
+      "tag": "A",
+      "x": 605.2250366210938,
+      "y": 1215.675048828125,
+      "width": 54.337501525878906,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BareButter™ V-Neck Cardigan",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Price Rs. 2,249 with coupon",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissTerry™ Half Zip Jacket",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "5.0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Price Rs. 1,799 with coupon",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissTerry™ Ultra Flare Pants",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "4.2",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Price Rs. 1,349 with coupon",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissTerry™ Panelled Hoodie",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "5.0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Best Price Rs. 2,249 with coupon",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "View all",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 1256.875,
+      "width": 1264.800048828125,
+      "height": 421.8999938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48,
+      "y": 1749.5750732421875,
+      "width": 373.6000061035156,
+      "height": 538.9125366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 386.6000061035156,
+      "y": 1759.5750732421875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BareButter™ Straight Pants",
+      "tag": "A",
+      "x": 58,
+      "y": 2300.887451171875,
+      "width": 190.1875,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 371.125,
+      "y": 2300.987548828125,
+      "width": 40.47500228881836,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 2,249 with coupon",
+      "tag": "A",
+      "x": 58,
+      "y": 2351.487548828125,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+3",
+      "tag": "A",
+      "x": 168,
+      "y": 2385.987548828125,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 49.86249923706055,
+      "y": 2425.28759765625,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 445.6000061035156,
+      "y": 1749.5750732421875,
+      "width": 373.6000061035156,
+      "height": 538.9125366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 784.2000122070312,
+      "y": 1759.5750732421875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BareButter™ Pullover With Zipper",
+      "tag": "A",
+      "x": 455.6000061035156,
+      "y": 2300.887451171875,
+      "width": 230.8249969482422,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 768.7250366210938,
+      "y": 2300.987548828125,
+      "width": 40.47500228881836,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 2,249 with coupon",
+      "tag": "A",
+      "x": 455.6000061035156,
+      "y": 2351.487548828125,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+1",
+      "tag": "A",
+      "x": 565.6000366210938,
+      "y": 2385.987548828125,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 447.4624938964844,
+      "y": 2425.28759765625,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48,
+      "y": 2563.6875,
+      "width": 373.6000061035156,
+      "height": 538.9125366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 386.6000061035156,
+      "y": 2573.6875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "RibSupreme™ Flare Pants",
+      "tag": "A",
+      "x": 58,
+      "y": 3115,
+      "width": 176.3000030517578,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.6",
+      "tag": "A",
+      "x": 371.45001220703125,
+      "y": 3115.10009765625,
+      "width": 40.150001525878906,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 1,439 with coupon",
+      "tag": "A",
+      "x": 58,
+      "y": 3165.60009765625,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+2",
+      "tag": "A",
+      "x": 168,
+      "y": 3200.10009765625,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 49.86249923706055,
+      "y": 3239.4375,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 445.6000061035156,
+      "y": 2563.6875,
+      "width": 373.6000061035156,
+      "height": 538.9125366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 784.2000122070312,
+      "y": 2573.6875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "RibSupreme™ Jacket",
+      "tag": "A",
+      "x": 455.6000061035156,
+      "y": 3115,
+      "width": 146.625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 768.7250366210938,
+      "y": 3115.10009765625,
+      "width": 40.47500228881836,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 1,439 with coupon",
+      "tag": "A",
+      "x": 455.6000061035156,
+      "y": 3165.60009765625,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+1",
+      "tag": "A",
+      "x": 565.6000366210938,
+      "y": 3200.10009765625,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 447.4624938964844,
+      "y": 3239.4375,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 843.2000122070312,
+      "y": 2563.6875,
+      "width": 373.6000061035156,
+      "height": 538.9500122070312,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1181.800048828125,
+      "y": 2573.6875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "RibSupreme™ Tank",
+      "tag": "A",
+      "x": 853.2000122070312,
+      "y": 3115.03759765625,
+      "width": 132.10000610351562,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.7",
+      "tag": "A",
+      "x": 1167.612548828125,
+      "y": 3115.137451171875,
+      "width": 39.1875,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 809 with coupon",
+      "tag": "A",
+      "x": 853.2000122070312,
+      "y": 3165.637451171875,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+2",
+      "tag": "A",
+      "x": 963.2000122070312,
+      "y": 3200.137451171875,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 845.0625,
+      "y": 3239.4375,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48,
+      "y": 3377.837646484375,
+      "width": 373.6000061035156,
+      "height": 538.9125366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 386.6000061035156,
+      "y": 3387.837646484375,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Ultimate Crop Jacket",
+      "tag": "A",
+      "x": 58,
+      "y": 3929.150146484375,
+      "width": 146.97500610351562,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "5.0",
+      "tag": "A",
+      "x": 371.2875061035156,
+      "y": 3929.25,
+      "width": 40.3125,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 1,799 with coupon",
+      "tag": "A",
+      "x": 58,
+      "y": 3979.75,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 49.86249923706055,
+      "y": 4053.587646484375,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 445.6000061035156,
+      "y": 3377.837646484375,
+      "width": 373.6000061035156,
+      "height": 538.9125366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 784.2000122070312,
+      "y": 3387.837646484375,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cloud Box Pleated Korean Pant",
+      "tag": "A",
+      "x": 455.6000061035156,
+      "y": 3929.150146484375,
+      "width": 212.5,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.9",
+      "tag": "A",
+      "x": 768.7250366210938,
+      "y": 3929.25,
+      "width": 40.47500228881836,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 1,799 with coupon",
+      "tag": "A",
+      "x": 455.6000061035156,
+      "y": 3979.75,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+2",
+      "tag": "A",
+      "x": 565.6000366210938,
+      "y": 4014.25,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 447.4624938964844,
+      "y": 4053.587646484375,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 843.2000122070312,
+      "y": 3377.837646484375,
+      "width": 373.6000061035156,
+      "height": 538.9500122070312,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1181.800048828125,
+      "y": 3387.837646484375,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Cloud Tank",
+      "tag": "A",
+      "x": 853.2000122070312,
+      "y": 3929.1875,
+      "width": 76.30000305175781,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.8",
+      "tag": "A",
+      "x": 1166.1500244140625,
+      "y": 3929.28759765625,
+      "width": 40.650001525878906,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 899 with coupon",
+      "tag": "A",
+      "x": 853.2000122070312,
+      "y": 3979.78759765625,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 845.0625,
+      "y": 4053.587646484375,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48,
+      "y": 4191.98779296875,
+      "width": 572.4000244140625,
+      "height": 826.1625366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 585.4000244140625,
+      "y": 4201.98779296875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AirMelt™ Skorts",
+      "tag": "A",
+      "x": 58,
+      "y": 5030.55029296875,
+      "width": 111.5625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "5.0",
+      "tag": "A",
+      "x": 570.0875244140625,
+      "y": 5030.64990234375,
+      "width": 40.3125,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 1,349 with coupon",
+      "tag": "A",
+      "x": 58,
+      "y": 5081.14990234375,
+      "width": 552.4000244140625,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 50.86249923706055,
+      "y": 5154.9501953125,
+      "width": 566.6749877929688,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 644.4000244140625,
+      "y": 4191.98779296875,
+      "width": 572.4000244140625,
+      "height": 826.1625366210938,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1181.800048828125,
+      "y": 4201.98779296875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "AirMelt™ Crop Tee",
+      "tag": "A",
+      "x": 654.4000244140625,
+      "y": 5030.55029296875,
+      "width": 127.5374984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.8",
+      "tag": "A",
+      "x": 1166.1500244140625,
+      "y": 5030.64990234375,
+      "width": 40.650001525878906,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 719 with coupon",
+      "tag": "A",
+      "x": 654.4000244140625,
+      "y": 5081.14990234375,
+      "width": 552.4000244140625,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+2",
+      "tag": "A",
+      "x": 764.4000244140625,
+      "y": 5115.64990234375,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 647.2625122070312,
+      "y": 5154.9501953125,
+      "width": 566.6749877929688,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 48,
+      "y": 5293.35009765625,
+      "width": 373.6000061035156,
+      "height": 538.9500122070312,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 386.6000061035156,
+      "y": 5303.35009765625,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Last Tee - Crop",
+      "tag": "A",
+      "x": 58,
+      "y": 5844.7001953125,
+      "width": 103.3375015258789,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "4.7",
+      "tag": "A",
+      "x": 372.4125061035156,
+      "y": 5844.80029296875,
+      "width": 39.1875,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "Best Price Rs. 539 with coupon",
+      "tag": "A",
+      "x": 58,
+      "y": 5895.30029296875,
+      "width": 353.6000061035156,
+      "height": 20.80000114440918,
+      "visible": true
+    },
+    {
+      "text": "+7",
+      "tag": "A",
+      "x": 168,
+      "y": 5929.80029296875,
+      "width": 29.012500762939453,
+      "height": 20.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 49.86249923706055,
+      "y": 5969.10009765625,
+      "width": 369.8625183105469,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Tap to open",
+      "tag": "BUTTON",
+      "x": 585.3312377929688,
+      "y": 6623.4501953125,
+      "width": 94.13750457763672,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "Tap to close",
+      "tag": "BUTTON",
+      "x": 584.2250366210938,
+      "y": 6623.4501953125,
+      "width": 96.3499984741211,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "9071083484",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6984.4501953125,
+      "width": 80,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "Get Direction",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7026.4501953125,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6959.10009765625,
+      "width": 80,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7001.10009765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6946.66259765625,
+      "width": 109.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6988.66259765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6979.71240234375,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6980.10009765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6980.10009765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6958.66259765625,
+      "width": 108.4375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7000.66259765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6971,
+      "width": 109.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7013,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6979.66259765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6946.66259765625,
+      "width": 108.4375,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6988.66259765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6958.66259765625,
+      "width": 107.8375015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7000.66259765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6958.71240234375,
+      "width": 109.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7000.71240234375,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6946.71240234375,
+      "width": 109.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6988.71240234375,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6958.71240234375,
+      "width": 109.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7000.71240234375,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6958.66259765625,
+      "width": 109.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7000.66259765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 6958.78759765625,
+      "width": 109.0250015258789,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 663.1375122070312,
+      "y": 7000.78759765625,
+      "width": 120.7125015258789,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 1\n Borivali (East) Mumbai",
+      "tag": "BUTTON",
+      "x": 93,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 2\n(LP Savani) Surat Gujarat",
+      "tag": "BUTTON",
+      "x": 293,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 3\nSurat Gujarat",
+      "tag": "BUTTON",
+      "x": 493,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 4\nBorivali Mumbai",
+      "tag": "BUTTON",
+      "x": 693,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 5\nGurugram",
+      "tag": "BUTTON",
+      "x": 893,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 6\nChennai",
+      "tag": "BUTTON",
+      "x": 1093,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 7\nDwarka Delhi",
+      "tag": "BUTTON",
+      "x": 1293,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 8\nAhmedabad Gujarat",
+      "tag": "BUTTON",
+      "x": 1493,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 9\nShivaji Nagar Bengaluru",
+      "tag": "BUTTON",
+      "x": 1693,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 10\nHSR Layout Bengaluru",
+      "tag": "BUTTON",
+      "x": 1893,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 11\nMalad West Mumbai",
+      "tag": "BUTTON",
+      "x": 2093,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 12\nIndiranagar Bengaluru",
+      "tag": "BUTTON",
+      "x": 2293,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 13\n Kurla Mumbai",
+      "tag": "BUTTON",
+      "x": 2493,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 14\nMumbai",
+      "tag": "BUTTON",
+      "x": 2693,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 15\nHyderabad",
+      "tag": "BUTTON",
+      "x": 2893,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Go to item 16\nIndore",
+      "tag": "BUTTON",
+      "x": 3093,
+      "y": 7117.4501953125,
+      "width": 200,
+      "height": 43,
+      "visible": true
+    },
+    {
+      "text": "Previous",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Next",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 7205.4501953125,
+      "width": 1264.800048828125,
+      "height": 451.7124938964844,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 863.2843017578125,
+      "y": 83.29999542236328,
+      "width": 25.19580078125,
+      "height": 29.100006103515625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 387.96002197265625,
+      "y": 1556.4390869140625,
+      "width": 488.8800354003906,
+      "height": 43.067970275878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Open cart\n            \n          \n              0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Place Order\n                \n            \n          \n             \n             ",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 499.8999938964844,
+      "y": 7933.0126953125,
+      "width": 265,
+      "height": 48.91250228881836,
+      "visible": true
+    },
+    {
+      "text": "Our Story",
+      "tag": "A",
+      "x": 48,
+      "y": 8356.962890625,
+      "width": 58.66250228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Stores Near Me",
+      "tag": "A",
+      "x": 48,
+      "y": 8392.962890625,
+      "width": 94.30000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "A",
+      "x": 48,
+      "y": 8428.962890625,
+      "width": 102.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 48,
+      "y": 8464.962890625,
+      "width": 82.67500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Order Tracking",
+      "tag": "A",
+      "x": 245.52500915527344,
+      "y": 8356.962890625,
+      "width": 88.9375,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Return/Exchange",
+      "tag": "A",
+      "x": 245.52500915527344,
+      "y": 8392.962890625,
+      "width": 107.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Returns / Refunds / Exchanges Policy",
+      "tag": "A",
+      "x": 245.52500915527344,
+      "y": 8425.7626953125,
+      "width": 175.52500915527344,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Shipping Policy",
+      "tag": "A",
+      "x": 245.52500915527344,
+      "y": 8481.7626953125,
+      "width": 91.8375015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 245.52500915527344,
+      "y": 8517.7626953125,
+      "width": 51.26250076293945,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 245.52500915527344,
+      "y": 8553.7626953125,
+      "width": 25.600000381469727,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 245.52500915527344,
+      "y": 8589.7626953125,
+      "width": 68.6624984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "hi@myblissclub.in",
+      "tag": "A",
+      "x": 443.0500183105469,
+      "y": 8498.962890625,
+      "width": 108.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 443.0500183105469,
+      "y": 8535.7626953125,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 485.0500183105469,
+      "y": 8535.7626953125,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 527.0499877929688,
+      "y": 8535.7626953125,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 569.0499877929688,
+      "y": 8535.7626953125,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 611.0499877929688,
+      "y": 8535.7626953125,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "Our Story",
+      "tag": "A",
+      "x": 177.4875030517578,
+      "y": 8705.3623046875,
+      "width": 58.66250228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 284.1499938964844,
+      "y": 8705.3623046875,
+      "width": 68.6624984741211,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Refer and Earn",
+      "tag": "A",
+      "x": 400.8125,
+      "y": 8705.3623046875,
+      "width": 88.70000457763672,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "BlissQueen Royalty Program",
+      "tag": "A",
+      "x": 537.5125122070312,
+      "y": 8705.3623046875,
+      "width": 171.41250610351562,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Reviews",
+      "tag": "A",
+      "x": 756.9249877929688,
+      "y": 8705.3623046875,
+      "width": 50.025001525878906,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "A",
+      "x": 854.9500122070312,
+      "y": 8705.3623046875,
+      "width": 102.0374984741211,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Refund policy",
+      "tag": "A",
+      "x": 1004.9874877929688,
+      "y": 8705.3623046875,
+      "width": 82.32500457763672,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Powered by SearchTap",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

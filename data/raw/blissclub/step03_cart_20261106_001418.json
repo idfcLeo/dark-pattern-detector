@@ -1,0 +1,4545 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://blissclub.com/pages/searchtap-search?q=denims",
+  "timestamp": "20261106_001418",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "Skip to content",
+      "tag": "A",
+      "x": -1,
+      "y": -201,
+      "width": 1,
+      "height": 1,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Download Our App\n          \n        \n        \n          \n            Faster chec",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "⚡ Extra Rs.400 off on purchase of 4 Faves ⚡| Use code: BLISS400",
+      "tag": "A",
+      "x": -4744.17529296875,
+      "y": -194,
+      "width": 448.3500061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ 10% off on your first order ⚡ | Use code: FIRSTBLISS",
+      "tag": "A",
+      "x": -3416.650146484375,
+      "y": -194,
+      "width": 373.2875061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ Extra Rs.100 off on purchase of 2 faves ⚡| Use code: BLISS100",
+      "tag": "A",
+      "x": -2159.4375,
+      "y": -194,
+      "width": 438.875,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ Extra Rs.200 off on purchase of 3 Faves ⚡| Use code: BLISS200",
+      "tag": "A",
+      "x": -873.9500122070312,
+      "y": -194,
+      "width": 447.88751220703125,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ Extra Rs.400 off on purchase of 4 Faves ⚡| Use code: BLISS400",
+      "tag": "A",
+      "x": 415.82501220703125,
+      "y": -194,
+      "width": 448.3500061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "⚡ 10% off on your first order ⚡ | Use code: FIRSTBLISS",
+      "tag": "A",
+      "x": 1743.3499755859375,
+      "y": -194,
+      "width": 373.2875061035156,
+      "height": 19,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Open navigation menu",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": -96.4000015258789,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": -57.400001525878906,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": -18.399999618530273,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 20.600000381469727,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 59.60000228881836,
+      "width": 188.40000915527344,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 116.5999984741211,
+      "width": 188.40000915527344,
+      "height": 51,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 173.60000610351562,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 212.60000610351562,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 251.60000610351562,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 290.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 329.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 368.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 407.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 27.274999618530273,
+      "y": 446.6000061035156,
+      "width": 188.40000915527344,
+      "height": 33,
+      "visible": true
+    },
+    {
+      "text": "Shop All",
+      "tag": "A",
+      "x": 144.5500030517578,
+      "y": -144.40000915527344,
+      "width": 53.38750076293945,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 215.9375,
+      "y": -144.40000915527344,
+      "width": 71.75,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "BlissTerry\nNEW",
+      "tag": "A",
+      "x": 305.6875,
+      "y": -144.40000915527344,
+      "width": 61.9375,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 385.625,
+      "y": -144.40000915527344,
+      "width": 88.9124984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "BlissClub",
+      "tag": "A",
+      "x": 558.8500366210938,
+      "y": -152.02500915527344,
+      "width": 162.28750610351562,
+      "height": 27.037500381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1038,
+      "y": -151.5,
+      "width": 24,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": -95.0999984741211,
+      "width": 87.9000015258789,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "Wishlist\n                        0",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": -64.0999984741211,
+      "width": 75.5999984741211,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": -33.10000228881836,
+      "width": 135.10000610351562,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": -2.1000001430511475,
+      "width": 242.85000610351562,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": 28.899999618530273,
+      "width": 98.38750457763672,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": 59.900001525878906,
+      "width": 27.42500114440918,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": 90.9000015258789,
+      "width": 73.5625,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 987,
+      "y": 121.9000015258789,
+      "width": 49.07500076293945,
+      "height": 15.199999809265137,
+      "visible": true
+    },
+    {
+      "text": "0\n                  Blisscoins",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "APP",
+      "tag": "A",
+      "x": 1110,
+      "y": -151.5,
+      "width": 36,
+      "height": 26,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1151,
+      "y": -157.5,
+      "width": 38,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "Open cart\n1",
+      "tag": "A",
+      "x": 1194,
+      "y": -157.5,
+      "width": 38,
+      "height": 38,
+      "visible": true
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 586.0499877929688,
+      "y": -95,
+      "width": 53.900001525878906,
+      "height": 23.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "Men\nNEW",
+      "tag": "A",
+      "x": 663.9500122070312,
+      "y": -95,
+      "width": 30,
+      "height": 23.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop All",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Zenims\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissTerry\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Spotted on Celebrities\nTrending",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Selling Out Soon\nUp To 70% OFF",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bestsellers",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop By",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Categories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bottomwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Topwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sports Bras",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Jackets & Hoodies",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bras",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Panties",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "SwimWear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Co-ords",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Occasion",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Fabric",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate and Bulk Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissLabs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account/ Login",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns / Exchanges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return/Exchange/Refund Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loyalty & Gift Cards",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blissqueen Royalty Program",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Card",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Home",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Citywear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Activewear\n New",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BareButter Mens\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "New Launches",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Corporate and Bulk Orders",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Store Locator",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Shop By",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Categories",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Topwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Bottomwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Activewear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Outerwear",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "BlissLabs",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Support",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Account/ Login",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Track Order",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Returns / Exchanges",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Return/Exchange/Refund Policy",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Loyalty & Gift Cards",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Blissqueen Royalty Program",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Gift Card",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Wishlist",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "About",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "My Profile#blissqueen",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Women",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Men\nNew",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Close",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "The Legendary Pants - Tapered Fit",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "-",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Remove",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "-",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Remove",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Checkout",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Place Order\n                \n            \n          \n             \n             ",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": -1.2000000476837158,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 8.800000190734863,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "The Legendary Pants - Tapered Fit",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 455.3000183105469,
+      "width": 251.125,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 571.9000244140625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": -1.2000000476837158,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 8.800000190734863,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "The Legendary Pants - Straight Fit",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 455.3000183105469,
+      "width": 250.5124969482422,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 571.9000244140625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": -1.2000000476837158,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 8.800000190734863,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Flare Pants - Lite",
+      "tag": "A",
+      "x": 936.25,
+      "y": 455.3000183105469,
+      "width": 189.0749969482422,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 571.9000244140625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 668.1000366210938,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 678.1000366210938,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Straight Pants - Lite",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 1124.5999755859375,
+      "width": 212.5,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 1241.2000732421875,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 668.1000366210938,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 678.1000366210938,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Flare Pants",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 1124.5999755859375,
+      "width": 149.0500030517578,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 1241.2000732421875,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 668.1000366210938,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 678.1000366210938,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Straight Pants",
+      "tag": "A",
+      "x": 936.25,
+      "y": 1124.5999755859375,
+      "width": 172.47500610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 1241.2000732421875,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 1337.4000244140625,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 1347.4000244140625,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Korean Pants",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 1793.9000244140625,
+      "width": 164.27500915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 1910.5,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 1337.4000244140625,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 1347.4000244140625,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AM:PM Cotton Flare Pants",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 1793.9000244140625,
+      "width": 194.83750915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 1910.5,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 1337.4000244140625,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 1347.4000244140625,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AM:PM Cotton Straight Pants",
+      "tag": "A",
+      "x": 936.25,
+      "y": 1793.9000244140625,
+      "width": 218.2624969482422,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 1910.5,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 2006.7000732421875,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 2016.7000732421875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Move All Day Cotton Wide Pants",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 2463.199951171875,
+      "width": 235.65000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 2579.800048828125,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 2006.7000732421875,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 2016.7000732421875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AM:PM Cotton Wide Legged Pants",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 2463.199951171875,
+      "width": 255.0500030517578,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 2579.800048828125,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 2006.7000732421875,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 2016.7000732421875,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Palazzo Pants",
+      "tag": "A",
+      "x": 936.25,
+      "y": 2463.199951171875,
+      "width": 167.71250915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 2579.800048828125,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 2676,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 2686,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AirMelt™ Flare Pants - Lite",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 3132.5,
+      "width": 191.9375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 3249.10009765625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 2676,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 2686,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Werk-It Flare Pants",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 3132.5,
+      "width": 141.0124969482422,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 3249.10009765625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 2676,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 2686,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Flare Pants Tall",
+      "tag": "A",
+      "x": 936.25,
+      "y": 3132.5,
+      "width": 176.65000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 3249.10009765625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 3345.300048828125,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 3355.300048828125,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Flare Pants - Lite Tall",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 3801.800048828125,
+      "width": 216.6750030517578,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 3918.400146484375,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 3345.300048828125,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 3355.300048828125,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Straight Pants - Lite Tall",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 3801.800048828125,
+      "width": 240.10000610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 3918.400146484375,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 3345.300048828125,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 3355.300048828125,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Slit Flare Pants - Lite",
+      "tag": "A",
+      "x": 936.25,
+      "y": 3801.800048828125,
+      "width": 216.47500610351562,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 3918.400146484375,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 4014.60009765625,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 4024.60009765625,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "BareButter™ Straight Pants",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 4471.10009765625,
+      "width": 202.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 4587.7001953125,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 4014.60009765625,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 4024.60009765625,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Cigarette Pants",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 4471.10009765625,
+      "width": 183.0625,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 4587.7001953125,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 4014.60009765625,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 4024.60009765625,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "RibSupreme™ Flare Pants",
+      "tag": "A",
+      "x": 936.25,
+      "y": 4471.10009765625,
+      "width": 188.0500030517578,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 4587.7001953125,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 4683.89990234375,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 4693.89990234375,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Straight Pants Tall",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 5140.39990234375,
+      "width": 200.0749969482422,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 5257,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 4683.89990234375,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 4693.89990234375,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Work-To-Wine Twill Straight Pants",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 5140.39990234375,
+      "width": 250.65000915527344,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 5257,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 4683.89990234375,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 4693.89990234375,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Work-To-Wine Twill Wide Leg Flare Pants",
+      "tag": "A",
+      "x": 936.25,
+      "y": 5140.39990234375,
+      "width": 253.46250915527344,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 5257,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 5353.2001953125,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 5363.2001953125,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Korean Pants Tall",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 5809.7001953125,
+      "width": 191.875,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 5926.30029296875,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 5353.2001953125,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 5363.2001953125,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AM:PM Cotton Flare Pants Tall",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 5809.7001953125,
+      "width": 222.4375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 5926.30029296875,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 5353.2001953125,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 5363.2001953125,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Work-To-Wine Twill Wide Dart Pants",
+      "tag": "A",
+      "x": 936.25,
+      "y": 5809.7001953125,
+      "width": 219.6750030517578,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 5926.30029296875,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 284.8000183105469,
+      "y": 6022.5,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 555.5250244140625,
+      "y": 6032.5,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Werk-It Straight Pants",
+      "tag": "A",
+      "x": 294.8000183105469,
+      "y": 6479,
+      "width": 164.4375,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 294.8000183105469,
+      "y": 6595.60009765625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 605.5250244140625,
+      "y": 6022.5,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 876.25,
+      "y": 6032.5,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "Ultimate Sculpt Wide-Legged Pants",
+      "tag": "A",
+      "x": 615.5250244140625,
+      "y": 6479,
+      "width": 218.8249969482422,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 615.5250244140625,
+      "y": 6595.60009765625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 926.25,
+      "y": 6022.5,
+      "width": 305.7250061035156,
+      "height": 443.3000183105469,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1196.9749755859375,
+      "y": 6032.5,
+      "width": 25,
+      "height": 25,
+      "visible": true
+    },
+    {
+      "text": "AM:PM Cotton Straight Pants Tall",
+      "tag": "A",
+      "x": 936.25,
+      "y": 6479,
+      "width": 245.8625030517578,
+      "height": 16,
+      "visible": true
+    },
+    {
+      "text": "Add to Cart",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 936.25,
+      "y": 6595.60009765625,
+      "width": 285.7250061035156,
+      "height": 43.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 870.88427734375,
+      "y": 83.29999542236328,
+      "width": 25.19580078125,
+      "height": 29.100006103515625,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 395.5600280761719,
+      "y": 1556.4390869140625,
+      "width": 488.8800354003906,
+      "height": 43.067970275878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 630,
+      "y": 646,
+      "width": 20,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Open cart\n1",
+      "tag": "A",
+      "x": 350,
+      "y": 668.9000244140625,
+      "width": 30,
+      "height": 37.20000076293945,
+      "visible": true
+    },
+    {
+      "text": "Place Order",
+      "tag": "BUTTON",
+      "x": 805,
+      "y": 669.7999877929688,
+      "width": 125,
+      "height": 35.38750076293945,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 507.5,
+      "y": 7146.36279296875,
+      "width": 265,
+      "height": 48.91250228881836,
+      "visible": true
+    },
+    {
+      "text": "Our Story",
+      "tag": "A",
+      "x": 48,
+      "y": 7570.3125,
+      "width": 58.66250228881836,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Stores Near Me",
+      "tag": "A",
+      "x": 48,
+      "y": 7606.3125,
+      "width": 94.30000305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "A",
+      "x": 48,
+      "y": 7642.3125,
+      "width": 102.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Privacy Policy",
+      "tag": "A",
+      "x": 48,
+      "y": 7678.3125,
+      "width": 82.67500305175781,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Order Tracking",
+      "tag": "A",
+      "x": 248.08750915527344,
+      "y": 7570.3125,
+      "width": 88.9375,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Return/Exchange",
+      "tag": "A",
+      "x": 248.08750915527344,
+      "y": 7606.3125,
+      "width": 107.0374984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Returns / Refunds / Exchanges Policy",
+      "tag": "A",
+      "x": 248.08750915527344,
+      "y": 7639.11279296875,
+      "width": 178.08750915527344,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "Shipping Policy",
+      "tag": "A",
+      "x": 248.08750915527344,
+      "y": 7695.11279296875,
+      "width": 91.8375015258789,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Sitemap",
+      "tag": "A",
+      "x": 248.08750915527344,
+      "y": 7731.11279296875,
+      "width": 51.26250076293945,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "FAQ",
+      "tag": "A",
+      "x": 248.08750915527344,
+      "y": 7767.11279296875,
+      "width": 25.600000381469727,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 248.08750915527344,
+      "y": 7803.11279296875,
+      "width": 68.6624984741211,
+      "height": 20,
+      "visible": true
+    },
+    {
+      "text": "hi@myblissclub.in",
+      "tag": "A",
+      "x": 448.1750183105469,
+      "y": 7712.3125,
+      "width": 108.6875,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 448.1750183105469,
+      "y": 7749.11279296875,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 490.1750183105469,
+      "y": 7749.11279296875,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 532.1749877929688,
+      "y": 7749.11279296875,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 574.1749877929688,
+      "y": 7749.11279296875,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 616.1749877929688,
+      "y": 7749.11279296875,
+      "width": 27,
+      "height": 27,
+      "visible": true
+    },
+    {
+      "text": "Our Story",
+      "tag": "A",
+      "x": 185.08750915527344,
+      "y": 7918.71240234375,
+      "width": 58.66250228881836,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Contact Us",
+      "tag": "A",
+      "x": 291.75,
+      "y": 7918.71240234375,
+      "width": 68.6624984741211,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Refer and Earn",
+      "tag": "A",
+      "x": 408.4125061035156,
+      "y": 7918.71240234375,
+      "width": 88.70000457763672,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "BlissQueen Royalty Program",
+      "tag": "A",
+      "x": 545.1124877929688,
+      "y": 7918.71240234375,
+      "width": 171.41250610351562,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Reviews",
+      "tag": "A",
+      "x": 764.5250244140625,
+      "y": 7918.71240234375,
+      "width": 50.025001525878906,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Terms of Service",
+      "tag": "A",
+      "x": 862.5499877929688,
+      "y": 7918.71240234375,
+      "width": 102.0374984741211,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Refund policy",
+      "tag": "A",
+      "x": 1012.5875244140625,
+      "y": 7918.71240234375,
+      "width": 82.32500457763672,
+      "height": 21,
+      "visible": true
+    },
+    {
+      "text": "Powered by SearchTap",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Sign In",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "The Legendary Pants - Tapered Fit",
+      "tag": "A",
+      "x": 844,
+      "y": 30.125,
+      "width": 244.77500915527344,
+      "height": 24,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 760,
+      "y": 202.65000915527344,
+      "width": 184.8000030517578,
+      "height": 277.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "The Cloud Polo",
+      "tag": "A",
+      "x": 770,
+      "y": 491.45001220703125,
+      "width": 96.0999984741211,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "5.0",
+      "tag": "A",
+      "x": 894.4874877929688,
+      "y": 490.75,
+      "width": 40.3125,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 770,
+      "y": 525.8500366210938,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+1",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 760.9249877929688,
+      "y": 568.1749877929688,
+      "width": 182.9499969482422,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 956.7999877929688,
+      "y": 202.65000915527344,
+      "width": 184.8000030517578,
+      "height": 266.7250061035156,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "The Cotton Pro Tee - Regular Fit",
+      "tag": "A",
+      "x": 966.7999877929688,
+      "y": 480.9750061035156,
+      "width": 132.1374969482422,
+      "height": 30.399999618530273,
+      "visible": true
+    },
+    {
+      "text": "4.8",
+      "tag": "A",
+      "x": 966.7999877929688,
+      "y": 516.9750366210938,
+      "width": 40.650001525878906,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 966.7999877929688,
+      "y": 551.1749877929688,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 957.7250366210938,
+      "y": 568.1749877929688,
+      "width": 182.9499969482422,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1153.5999755859375,
+      "y": 202.65000915527344,
+      "width": 184.8000030517578,
+      "height": 277.20001220703125,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "The Legendary Jacket",
+      "tag": "A",
+      "x": 1163.5999755859375,
+      "y": 491.45001220703125,
+      "width": 143.1750030517578,
+      "height": 13.600000381469727,
+      "visible": true
+    },
+    {
+      "text": "4.7",
+      "tag": "A",
+      "x": 1163.5999755859375,
+      "y": 510.6499938964844,
+      "width": 39.1875,
+      "height": 15,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1163.5999755859375,
+      "y": 544.8500366210938,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "+1",
+      "tag": "A",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Add to Bag",
+      "tag": "BUTTON",
+      "x": 1154.5250244140625,
+      "y": 568.1749877929688,
+      "width": 182.9499969482422,
+      "height": 39.60000228881836,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 770,
+      "y": 311.2375183105469,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1195,
+      "y": 311.2375183105469,
+      "width": 35,
+      "height": 35,
+      "visible": true
+    },
+    {
+      "text": "Go to Bag",
+      "tag": "A",
+      "x": 760,
+      "y": 640.7750244140625,
+      "width": 236,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Checkout",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "Place Order",
+      "tag": "BUTTON",
+      "x": 1004,
+      "y": 640.7750244140625,
+      "width": 236,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "visible": false
+    }
+  ]
+}

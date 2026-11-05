@@ -1,0 +1,171 @@
+{
+  "step": 3,
+  "label": "cart",
+  "url": "https://kapiva.in/checkout-custom/",
+  "timestamp": "20261105_234208",
+  "suspected_pattern": null,
+  "clickable_elements": [
+    {
+      "text": "",
+      "tag": "A",
+      "x": 38.400001525878906,
+      "y": 19.700000762939453,
+      "width": 30,
+      "height": 30,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "A",
+      "x": 1099.5999755859375,
+      "y": 10.699999809265137,
+      "width": 110,
+      "height": 48,
+      "visible": true
+    },
+    {
+      "text": "Apply",
+      "tag": "BUTTON",
+      "x": 496.9250183105469,
+      "y": 929.2625122070312,
+      "width": 93.2125015258789,
+      "height": 46.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1075.0374755859375,
+      "y": 253.2375030517578,
+      "width": 25,
+      "height": 40.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1168.4375,
+      "y": 253.2375030517578,
+      "width": 25,
+      "height": 40.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1152.4000244140625,
+      "y": 328.8000183105469,
+      "width": 38,
+      "height": 22,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1075.0374755859375,
+      "y": 465.7375183105469,
+      "width": 25,
+      "height": 40.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "",
+      "tag": "BUTTON",
+      "x": 1168.4375,
+      "y": 465.7375183105469,
+      "width": 25,
+      "height": 40.400001525878906,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 853.7750244140625,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1135.7750244140625,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1417.7750244140625,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1699.7750244140625,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 1981.7750244140625,
+      "y": 979.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2263.775146484375,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2545.775146484375,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 2827.775146484375,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 3109.775146484375,
+      "y": 979.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    },
+    {
+      "text": "ADD",
+      "tag": "BUTTON",
+      "x": 3391.775146484375,
+      "y": 973.1749877929688,
+      "width": 95,
+      "height": 40,
+      "visible": true
+    }
+  ]
+}
