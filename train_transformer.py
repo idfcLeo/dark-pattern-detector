@@ -37,7 +37,7 @@ import numpy as np
 import pandas as pd
 import torch
 from sklearn.metrics import accuracy_score, classification_report, f1_score
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import StratifiedKFold, train_test_split
 from sklearn.preprocessing import LabelEncoder
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, get_linear_schedule_with_warmup
 
@@ -146,6 +146,34 @@ def train(model_name, texts, y_enc, n_classes, epochs, device, seed):
     return model, tokenizer, {"best_epoch": best_epoch, "val_score": best_score, "history": history}
 
 
+def cv_oof_proba(model_name, texts, y_enc, n_classes, epochs, device, seed, folds) -> np.ndarray:
+    """
+    Out-of-fold P(class) for every training row: fine-tune `folds` times, each time
+    predicting the fold that was left out. Uses the training split only, so a
+    threshold picked from these probabilities never sees test or gold rows.
+    """
+    oof = np.zeros((len(texts), n_classes))
+    skf = StratifiedKFold(n_splits=folds, shuffle=True, random_state=seed)
+    for k, (tr, va) in enumerate(skf.split(np.zeros(len(y_enc)), y_enc), 1):
+        print(f"\n  CV fold {k}/{folds}")
+        m, tok, _ = train(model_name, [texts[i] for i in tr], y_enc[tr], n_classes, epochs, device, seed)
+        oof[va] = predict_proba(m, tok, [texts[i] for i in va], device)
+        del m
+        if device == "cuda":
+            torch.cuda.empty_cache()
+    return oof
+
+
+def tune_f1_threshold(p_dark, y) -> dict:
+    """Threshold that maximises dark-class F1 on out-of-fold probabilities."""
+    grid = np.round(np.arange(0.05, 0.96, 0.01), 2)
+    f1s = [f1_score(y, (p_dark >= t).astype(int), zero_division=0) for t in grid]
+    best = int(np.argmax(f1s))
+    return {"threshold": float(grid[best]), "cv_f1_at_threshold": float(f1s[best]),
+            "cv_f1_at_0.5": float(f1_score(y, (p_dark >= 0.5).astype(int), zero_division=0)),
+            "n": int(len(y)), "n_dark": int(np.sum(y))}
+
+
 def test_metrics(y_true, pred, n_classes) -> dict:
     return {"f1": float(tm.score(y_true, pred, n_classes)),
             "macro_f1": float(f1_score(y_true, pred, average="macro", zero_division=0)),
@@ -157,7 +185,8 @@ def test_metrics(y_true, pred, n_classes) -> dict:
 # Gold set: Transformer vs. the deployed TF-IDF model vs. the baseline, same rows
 # -----------------------------------------------------------------------------
 
-def gold_binary(model, tokenizer, device) -> dict:
+def gold_binary(model, tokenizer, device, thresholds=None) -> dict:
+    """thresholds: {name: value} picked on CV (never on gold); each is scored as its own system."""
     if not prepare_dataset.GOLD_TEST_PATH.exists():
         print("  No gold set; skipping.")
         return {}
@@ -167,7 +196,11 @@ def gold_binary(model, tokenizer, device) -> dict:
         return {}
     y, w, groups = gold["label"].astype(int).values, tm.gold_weights(gold), tm.gold_groups(gold)
 
-    preds = {"transformer @0.50": (predict_proba(model, tokenizer, gold["text"], device)[:, 1] >= 0.5).astype(int)}
+    p_dark = predict_proba(model, tokenizer, gold["text"], device)[:, 1]
+    preds = {"transformer @0.50": (p_dark >= 0.5).astype(int)}
+    for name, t in (thresholds or {}).items():
+        preds[f"transformer @{t:.2f} ({name})"] = (p_dark >= t).astype(int)
+    ours = list(preds)
     for name, mpath, vpath in [
         ("tfidf deployed @0.50", tm.MODELS_DIR / "binary_model.pkl", tm.MODELS_DIR / "binary_vectorizer.pkl"),
         ("baseline (pseudo-labeller)", prepare_dataset.BASELINE_MODEL_PATH, prepare_dataset.BASELINE_VECTORIZER_PATH),
@@ -189,19 +222,19 @@ def gold_binary(model, tokenizer, device) -> dict:
         ci = tm.ci95(boot[name][:, 2])
         results["systems"][name] = {"weighted": wt, "unweighted": tm.weighted_scores(y, pred, None, "binary"),
                                     "f1_ci95": ci, "counts": c}
-        print(f"    {name:28s} weighted P={wt['precision']:.3f} R={wt['recall']:.3f} F1={wt['f1']:.3f} "
+        print(f"    {name:38s} weighted P={wt['precision']:.3f} R={wt['recall']:.3f} F1={wt['f1']:.3f} "
               f"[{ci[0]:.3f}-{ci[1]:.3f}]  caught {c['dark_caught']}/{int(y.sum())}, "
               f"{c['false_alarms']} false alarms")
 
     # Paired differences: same bootstrap resamples, so luck largely cancels out.
-    for other in [n for n in preds if n != "transformer @0.50"]:
-        diff = boot["transformer @0.50"][:, 2] - boot[other][:, 2]
-        d = (results["systems"]["transformer @0.50"]["weighted"]["f1"]
-             - results["systems"][other]["weighted"]["f1"])
-        results[f"transformer_vs_{other}"] = {"diff": d, "ci95": tm.ci95(diff),
-                                              "share_better": float((diff > 0).mean())}
-        print(f"    transformer minus {other}: F1 {d:+.3f} [{tm.ci95(diff)[0]:+.3f} to "
-              f"{tm.ci95(diff)[1]:+.3f}], better in {(diff > 0).mean():.0%} of resamples")
+    for mine in ours:
+        for other in [n for n in preds if n not in ours]:
+            diff = boot[mine][:, 2] - boot[other][:, 2]
+            d = results["systems"][mine]["weighted"]["f1"] - results["systems"][other]["weighted"]["f1"]
+            results[f"{mine} vs {other}"] = {"diff": d, "ci95": tm.ci95(diff),
+                                            "share_better": float((diff > 0).mean())}
+            print(f"    {mine} minus {other}: F1 {d:+.3f} [{tm.ci95(diff)[0]:+.3f} to "
+                  f"{tm.ci95(diff)[1]:+.3f}], better in {(diff > 0).mean():.0%} of resamples")
     return results
 
 
@@ -238,6 +271,8 @@ def main():
     p.add_argument("--epochs", type=int, default=3)
     p.add_argument("--max-train", type=int, default=0, help="subsample the training split (smoke tests)")
     p.add_argument("--seed", type=int, default=tm.RANDOM_STATE)
+    p.add_argument("--cv-folds", type=int, default=5,
+                   help="binary only: K-fold CV on the training split to tune the threshold (0 = skip)")
     args = p.parse_args()
 
     set_seed(args.seed)
@@ -296,7 +331,26 @@ def main():
             print(f"  Domain [{dom}]: F1={domains[dom]['f1']:.4f} acc={domains[dom]['accuracy']:.4f} "
                   f"n={domains[dom]['n_samples']}")
 
-    gold = (gold_binary(model, tokenizer, device) if args.task == "binary"
+    # Threshold tuning on out-of-fold training probabilities (binary only).
+    # Two candidates: all training rows, and only human-labelled Indian rows,
+    # which are the closest in distribution to the gold set without touching it.
+    thresholds, threshold_info = {}, {}
+    if args.task == "binary" and args.cv_folds > 1:
+        y_tr = encoder.transform(train_df[label_col])
+        oof = cv_oof_proba(args.model, train_df["text"].tolist(), y_tr, n_classes,
+                           args.epochs, device, args.seed, args.cv_folds)[:, 1]
+        human = ((train_df["source_type"] == "human") & (train_df["domain"] == "indian")).values
+        print("\n  Threshold tuning (max dark-class F1 on out-of-fold training predictions):")
+        for name, mask in [("CV all", np.ones(len(y_tr), bool)), ("CV human-Indian", human)]:
+            if y_tr[mask].sum() < 10:
+                print(f"    {name}: only {y_tr[mask].sum()} dark rows; skipped")
+                continue
+            info = tune_f1_threshold(oof[mask], y_tr[mask])
+            thresholds[name], threshold_info[name] = info["threshold"], info
+            print(f"    {name:16s} n={info['n']} ({info['n_dark']} dark): F1 {info['cv_f1_at_0.5']:.3f} at 0.50 "
+                  f"-> {info['cv_f1_at_threshold']:.3f} at {info['threshold']:.2f}")
+
+    gold = (gold_binary(model, tokenizer, device, thresholds) if args.task == "binary"
             else gold_multiclass(model, tokenizer, encoder, rare, device))
 
     out_dir = tm.MODELS_DIR / f"transformer_{args.task}"
@@ -307,7 +361,7 @@ def main():
     metrics = {"model": args.model, "task": args.task, "epochs": args.epochs, "max_length": MAX_LENGTH,
                "learning_rate": LEARNING_RATE, "n_train": int(len(train_df)),
                "minutes": round((time.time() - t0) / 60, 1), **fit_info,
-               "test": test, "domains": domains, "gold": gold}
+               "thresholds": threshold_info, "test": test, "domains": domains, "gold": gold}
     (out_dir / "metrics.json").write_text(json.dumps(metrics, indent=2, default=float))
     print(f"\n  Saved {out_dir}/ (model, tokenizer, metrics.json) in {metrics['minutes']} min")
 
