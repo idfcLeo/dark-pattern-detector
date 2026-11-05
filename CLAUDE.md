@@ -58,6 +58,12 @@ python prepare_dataset.py
 python train_model.py [--prepare] [--trials N]
 python train_model.py --gold-only    # re-score saved models on the gold set (seconds, no training)
 
+# Experimental Transformer fine-tuning (needs torch + transformers>=4.44,<5). Same split as
+# train_model.py; epoch picked on a 10% validation slice of the training split; scores gold
+# against the deployed TF-IDF model and the baseline (paired bootstrap). Saves to
+# models/transformer_<task>/ (git-ignored, HF save_pretrained format). Not used by the web app.
+python train_transformer.py [--task binary|multiclass] [--model distilroberta-base|roberta-base|bert-base-uncased] [--epochs 3]
+
 # Human labelling (interactive — the user runs `label` themselves; never fill labels in for them)
 python active_learning.py gold                 # one-time stratified held-out gold test set
 python active_learning.py gold --extend 200    # add a new stratified wave to a labelled gold set
