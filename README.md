@@ -78,6 +78,24 @@ Invoke-RestMethod -Method Post http://127.0.0.1:8000/predict `
   -Body '{"text":"Only 3 left — buy now!"}'
 ```
 
+## Streamlit app (shareable demo)
+
+`streamlit_app.py` serves the same models as the FastAPI app, with three tabs:
+single text, many snippets (one per line, CSV download), and website URL.
+URL scanning fetches plain HTML without a browser, so it runs on Streamlit
+Community Cloud; JavaScript-heavy or bot-protected sites (e.g. Amazon) return
+little or no text.
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
+
+To deploy: push to GitHub, then on <https://share.streamlit.io> choose
+**Create app**, pick this repo and branch, set the main file to
+`streamlit_app.py`, and in *Advanced settings* choose Python 3.13 (the version
+the models were trained with; `scikit-learn` is pinned to match the pickles).
+
 ## Rebuild the dataset and models
 
 Use Python 3.10+ and install the training dependencies:

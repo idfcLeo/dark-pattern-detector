@@ -1,0 +1,12 @@
+# Dependencies for the Streamlit app (streamlit_app.py) on Streamlit Community Cloud.
+# scikit-learn must match the version that pickled models/*.pkl, or loading can fail.
+streamlit>=1.40
+scikit-learn==1.8.0
+numpy>=2.0
+pandas>=2.2
+joblib
+requests
+beautifulsoup4
+# Needed only if a retrain picks an ensemble containing LightGBM/XGBoost
+lightgbm
+xgboost
